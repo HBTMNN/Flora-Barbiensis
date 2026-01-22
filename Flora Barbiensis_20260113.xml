@@ -7,28 +7,31 @@
                 <author>Scholler, Friedrich Adam (1718 - 1785)
                         https://de.wikipedia.org/wiki/Friedrich_Adam_Scholler</author>
                 <respStmt>
-                    <resp>Transcribed from original manuscript</resp>
-                    <name>?</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Revised and edited</resp>
+                    <resp>Edited by</resp>
                     <name>Sarah Wagner https://orcid.org/0000-0002-8961-7730</name>
                     <name>Juan Garces https://orcid.org/0009-0008-2873-4117</name>
                     <name>Helena Bertelmann https://orcid.org/0009-0002-5274-7424</name>
                     <name>Lena Frenzke https://orcid.org/0000-0002-7619-2585</name>                    
                 </respStmt>
                 <respStmt>
-                    <resp>Converted to XML encoding</resp>
+                    <resp>XML encoding</resp>
                     <name>Juan Garces</name>
                     <name>Lena Frenzke</name>
                     <name>Sarah Wagner</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <p>First published as part of TEI P2, this is the P5 version using a namespace.</p>
+                <p>Data publication was the intend to create a species database.</p>
             </publicationStmt>
             <sourceDesc>
-                <p>No source: this is an original work.</p>
+                <bibl>
+                    <title>Flora Barbiensis in usum Seminarium Fratrum</title>
+                    <editor ref="https://de.wikipedia.org/wiki/Friedrich_Adam_Scholler">Friedrich Adam Scholler</editor>
+                    <pubPlace>Leipzig</pubPlace>
+                    <publisher>Weidmanni heredes et Reichivm</publisher>
+                    <date>1775</date>
+                    <ref>https://www.digitale-sammlungen.de/view/bsb10303218?page=8%2C9</ref>
+                </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -12123,7 +12126,7 @@
                             <head>
                                 <num>250.</num>
                                 <name xml:lang="lat" key="wd:Q3356396"><hi rend="capital">OROBVS</hi>.</name>
-                                <name xml:lang="ger">Erwen; Kichern$</name>
+                                <name xml:lang="ger">Erwen; Kichern</name>
                             </head>
                                 <ab>Stylus linearis. Cal. baſi obtuſus, laciniis ſuperioribus
                                     profundioribus, breuioribus.</ab>
