@@ -1903,7 +1903,7 @@
                                     <ab><seg type="location">
                                         <placeName type="habitat_description" xml:lang="ger">H. im Buſche über der</placeName>
                                         <geogName type="river" key="wd:Q1644">Elbe</geogName>; im 
-                                        <placeName type="locality" ana="ident.">Friedrichsholze</placeName> bey 
+                                        <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey 
                                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</seg></ab>
                                     <ab type="flowering_time">Fl. Auguſto.</ab>
                                     <ab>Ob pedicellum apice capitatum inter floſculos exſurgentem ad
@@ -3965,7 +3965,7 @@
                                         <seg type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. ad viam</placeName> bey 
                                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>
-                                        <placeName type="habitat_description" xml:lang="ger">gegen das Friedrichsholz</placeName>, et alibi.</seg></ab>
+                                        <placeName type="habitat_description" xml:lang="ger">gegen das <placeName type="locality" key="wd:Q32018582">Friedrichsholz</placeName></placeName>, et alibi.</seg></ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                                     <ab>Offic. <hi rend="capital">VERBASCI</hi> Radix. Vires vt in V. Thapſo. Planta
                                         apibus grata. Caulis adſperſus pilis ramoſis. Flores maiores,
@@ -6139,7 +6139,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in nemoribus</placeName> über der 
                                         <geogName type="river" key="wd:Q1644">Elbe</geogName> bey
                                         <placeName type="settlement" key="wd:Q138203224 ">Grünberg</placeName>; im 
-                                        <placeName type="locality" ana="ident.">Friedrichsholze</placeName> bey 
+                                        <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey 
                                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> frequens. </ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
                                     <ab>Offic. <hi rend="capital">LILII CONVALLII</hi> Flores. Recentes flores</ab>
@@ -6175,7 +6175,7 @@
                                     <ab>fol. alternis amplexicaulibus, caule tereti. pedunc. axillaribus multifloris.
                                         <seg type="location">
                                         H. bey <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> im
-                                        <placeName type="locality" ana="ident.">Friedrichsholze</placeName>.</seg></ab>
+                                        <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName>.</seg></ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0271" ana="bifolia">
@@ -6210,7 +6210,7 @@
                                         piſtillo recto.
                                         <name xml:lang="ger">Graslilien; weiſſer Wiederthon</name>.
                                         <seg type="location">
-                                        H. im <placeName type="locality" ana="ident.">Friedrichsholze</placeName> bey 
+                                        H. im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey 
                                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</seg></ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
                                     <ab>Caulis altus ramoſus.</ab>
@@ -7679,7 +7679,7 @@
                                     <ab><seg type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in ſylvaticis montoſis</placeName> gegen
                                         <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>, rarius; im
-                                        <placeName type="locality" ana="ident.">Friedrichsholze</placeName> bey
+                                        <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey
                                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> frequens.</seg></ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                         </div>
@@ -8021,7 +8021,7 @@
                                     <ab><seg type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in montoſis ſyluaticis</placeName> bey
                                         <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>, rarius; im 
-                                        <placeName type="locality" ana="ident.">Friedrichsholze</placeName> bey
+                                        <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey
                                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> copioſe.</seg></ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
                                     <ab>Caulis articuli ſuperiores ſuperna
@@ -11781,7 +11781,7 @@
                                     <ab>pedunculis vnifloris, fol.
                                         quinquepartitis trifidis orbiculatis.
                                         <seg type="location">
-                                        H. im <placeName type="locality" ana="ident.">Friedrichsholze</placeName> bey
+                                        H. im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey
                                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</seg></ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                                     <ab>Flores magni rubri.</ab>
@@ -13347,7 +13347,7 @@
                                     </head>
                                     <ab>floſc. quinis, fol. runcinatis.
                                         <seg type="location">
-                                        H. im <placeName type="locality" ana="ident.">Friedrichsholze</placeName> bey
+                                        H. im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey
                                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>; im
                                         <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName> zu
                                         <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName>
@@ -14424,7 +14424,7 @@
                                     >S. (Virgaurea)</name></head>
                                     <ab><seg type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. varietas altior foliis integerrimis</placeName> im 
-                                        <placeName type="locality" ana="ident.">Friedrichsholze</placeName> bey
+                                        <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey
                                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>; auch gegen
                                         <placeName type="settlement" key="wd:Q32036528">Gommern</placeName> hin.</seg></ab>
                                     <ab type="flowering_time">Fl. Auguſto.</ab>
@@ -14823,7 +14823,7 @@
                                     </head>
                                     <ab>calyc. recuruato-plumoſis, fol. indiuiſis oblongis ſcabris.
                                         <seg type="location">
-                                        H. im <placeName type="locality" ana="ident.">Friedrichsholze</placeName> bey
+                                        H. im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey
                                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</seg></ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                         </div>
