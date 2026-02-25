@@ -1920,7 +1920,7 @@
                                     <ab>Antherae flauae. Panicula oblonga, conferta, ut fere
                                         imbricata conſpiciatur.</ab>
                             </div>
-                            <div type="plant-species" xml:id="s.0071" ana="pratensis" n="Poa pratensis" corresp="https://dr.jacq.org/DR0023532 &amp; 024747">
+                            <div type="plant-species" xml:id="s.0071" ana="pratensis" n="Poa pratensis" corresp="https://dr.jacq.org/DR023532, https://dr.jacq.org/DR024747">
                                     <head>
                                        <num>71.</num>
                                        <name xml:lang="lat" key="wd:Q147783">P. (pratenſis)</name>
@@ -8885,7 +8885,7 @@
                                     <ab>Variat foliolis integris et inciſis. Planta eſt valde acris et
                                         ad veſicas excitandas adhiberi poteſt. Hall.</ab>
                         </div>
-                        <div type="plant-species" xml:id="s.0431" ana="erecta" n="Clematis erecta" corresp="https://dr.jacq.org/DR0024178 &amp; 024179">
+                        <div type="plant-species" xml:id="s.0431" ana="erecta" n="Clematis erecta" corresp="https://dr.jacq.org/DR024178, https://dr.jacq.org/DR024179">
                                     <head>
                                        <num>431.</num>
                                        <name xml:lang="lat" key="wd:Q110469043">C. (erecta)</name>
@@ -11025,7 +11025,7 @@
                                             et alibi, copioſe</placeName>.</seg></ab>
                                         <ab type="flowering_time">Fl. Iunio.</ab>
                                 </div>
-                                <div type="plant-species" xml:id="s.0547" ana="amphibium" n="Sisymbrium amphibium" corresp="https://dr.jacq.org/DR0024538 &amp; 024539">
+                                <div type="plant-species" xml:id="s.0547" ana="amphibium" n="Sisymbrium amphibium" corresp="https://dr.jacq.org/DR024538, https://dr.jacq.org/DR024539">
                                     <head>
                                        <num>547.</num>
                                        <name xml:lang="lat" key="wd:Q21877462">S. (amphibium)</name>
@@ -14911,7 +14911,7 @@
                                         ſuperantium; tum vnica cum folio florali mediocri; tandem
                                         ſpiculae circa quatuor ſubnudae.</ab>
                             </div>
-                            <div type="plant-species" xml:id="s.0752" ana="carex.elongata" n="Carex elongata" corresp="https://dr.jacq.org/DR0024918 &amp; 024919">
+                            <div type="plant-species" xml:id="s.0752" ana="carex.elongata" n="Carex elongata" corresp="https://dr.jacq.org/DR024918, https://dr.jacq.org/DR024919">
                                     <head>
                                        <num>752.</num>
                                         <name xml:lang="lat" key="wd:Q159480">C. (elongata)</name>
@@ -15030,7 +15030,7 @@
                                     <ab type="flowering_time">Fl. Aprili, Maio.</ab>
                                     <ab>In pratis ſiccis vncialis, in aquoſis ſaepe tripedalis euadit polymorpha planta.</ab>
                             </div>
-                            <div type="plant-species" xml:id="s.0760" ana="carex.vesicaria" n="Carex vesicaria" corresp="https://dr.jacq.org/DR0024910 &amp; 024920">
+                            <div type="plant-species" xml:id="s.0760" ana="carex.vesicaria" n="Carex vesicaria" corresp="https://dr.jacq.org/DR024910, https://dr.jacq.org/DR024920">
                                     <head>
                                        <num>760.</num>
                                         <name xml:lang="lat" key="wd:Q157765">C. (veſicaria)</name>
@@ -16194,7 +16194,7 @@
                                         praebeant. Equis minus acceptum. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name> Caules floriferi a
                                         ſterilibus diſtincti, vt E. aruenſis. Hall.</ab>
                             </div>
-                            <div type="plant-species" xml:id="s.0816" ana="equisetum.limosum" n="Equisetum limosum" corresp="https://dr.jacq.org/DR0044639 &amp; 044640">
+                            <div type="plant-species" xml:id="s.0816" ana="equisetum.limosum" n="Equisetum limosum" corresp="https://dr.jacq.org/DR044639, https://dr.jacq.org/DR044640">
                                     <head>
                                        <num>816.</num>
                                        <name xml:lang="lat" key="wd:Q21874191">E. (limoſum)</name>
@@ -22249,7 +22249,7 @@
                 </div>
                 <div type="add">
                     <head>Ad pag. 78. poſt n. 241.</head>
-                    <div type="plant-species" xml:id="s.1009" ana="seseli.saxifragum" n="Seseli saxifragum" corresp="https://dr.jacq.org/DR0024466 &amp; 024468">
+                    <div type="plant-species" xml:id="s.1009" ana="seseli.saxifragum" n="Seseli saxifragum" corresp="https://dr.jacq.org/DR024466, https://dr.jacq.org/DR024468">
                                     <head>
                                        <num>1009.</num>
                                         <name xml:lang="lat" key="wd:Q17466798"><hi rend="capital">SESELI</hi> (ſaxifragum)</name>
