@@ -2415,7 +2415,7 @@
                                         ſpicatum ſecalinum  minus. Vaill. pariſ. 83.
                                         <name xml:lang="ger">Wildes Korn</name>.
                                         <seg type="location">
-                                        <placeName type="habitat_description" xml:lang="ger">H. α. auf dem <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName></placeName>; 
+                                        <placeName type="habitat_description" xml:lang="ger">H. α. auf dem <placeName type="locality?" ana="not_ident.">Schloßhofe</placeName></placeName>; 
                                         <placeName type="habitat_description" xml:lang="lat">ad vias et ſepes frequens</placeName>;
                                         <placeName type="habitat_description" xml:lang="ger">β. in verſuris gegen den Weinberg</placeName>, et alibi, copioſe.</seg></ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
@@ -3366,7 +3366,7 @@
                                         <name xml:lang="ger">Klebkraut mit blauen Blumen</name>.
                                         <seg type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. ad muros</placeName> auf dem 
-                                        <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>; in der 
+                                        <placeName type="locality?" ana="not_ident.">Schloßhofe</placeName>; in der 
                                         <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>, et alibi.</seg></ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
                             </div>
@@ -5146,7 +5146,7 @@
                                         <name xml:lang="ger">Wilder Kerbel mit rauhem Samen</name>.
                                         <seg type="location">
                                         <placeName type="habitat_description" xml:lang="ger">H. an der Mauer des</placeName>
-                                        <placeName type="locality?" ana="not_ident.">Schloßgartens</placeName>, et alibi, paſſim.</seg></ab>
+                                        <placeName type="locality?" ana="not_ident.">Schloßhofes</placeName>, et alibi, paſſim.</seg></ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
                                 </div>
                             </div>
@@ -5319,7 +5319,7 @@
                                     </head>
                                     <ab>fol. ſimpliciter pinnatis.
                                         <seg type="location">
-                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>;
+                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßhofe</placeName>;
                                         <placeName type="habitat_description" xml:lang="ger">auf der groſſen Wieſe</placeName>, et alibi, copioſiſſime.</seg></ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
                                     <ab>Offic. <hi rend="capital">PASTINACAE</hi> Radix, Semina. Vitium pratorum apud nos. Radix
@@ -6727,7 +6727,7 @@
                                     <ab>flor. octandris trigynis axillaribus, fol. lanceolatis, caule procumbente herbaceo.
                                         <name xml:lang="ger">Wegetritt; Wegegras</name>.
                                         <seg type="location">
-                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>;
+                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßhofe</placeName>;
                                         <placeName type="habitat_description" xml:lang="lat">in viis, cultis vbique</placeName>.</seg></ab>
                                     <ab type="flowering_time">Fl. Iunio et ſeqq.</ab>
                                     <ab>Offic. <hi rend="capital">CENTVMNODIAE</hi> Herba. Variat pro ratione ſoli admodum
@@ -8491,7 +8491,7 @@
                                     <ab>fol. quinatis cuneiformibus inciſis ſubtus tomentoſis, caule erecto.
                                         <name xml:lang="ger">Steinfünffingerkraut</name>.
                                         <seg type="location">
-                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>, et alibi, copioſe.</seg></ab>
+                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßhofe</placeName>, et alibi, copioſe.</seg></ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0413" ana="verna" n="Potentilla verna">
@@ -10718,7 +10718,7 @@
                                         runcinatis.
                                         <name xml:lang="ger">Wegeſenf</name>.
                                         <seg type="location">
-                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>,
+                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßhofe</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat">et alibi in ruderatis et ad vias, frequens</placeName>.</seg></ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
                                     <ab>Offic. <hi rend="capital">ERYSIMI</hi> Herba. Interne in infuſo ſumtum validiſſime
@@ -11075,7 +11075,7 @@
                                         decompoſito-pinnatis.
                                         <name xml:lang="ger">Beſenkraut; Sophienkraut</name>.
                                         <seg type="location">
-                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>,
+                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßhofe</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat">et alibi in ruderatis, frequens</placeName>.</seg></ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                                     <ab>Offic. <hi rend="capital">SOPHIAE</hi> Semina. Ad abſtergenda vulnera olim
@@ -11286,7 +11286,7 @@
                                     <ab>caule erecto herbaceo, fol. ſeptemlobatis acutis, pedunculis petiolisque piloſis.
                                         <name xml:lang="ger">Haſenpappeln</name>.
                                         <seg type="location">
-                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>,
+                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßhofe</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat"> et alibi in ruderatis, frequens</placeName>.</seg></ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
                                     <ab>Conuenit quoad vires medicas cum praecedente.</ab>
@@ -13802,7 +13802,7 @@
                                     <ab>corollis reuolutis, fol. pinnatifidis
                                         viſcidis, ſquamis calycinis laxis longitudine perianthii.
                                         <seg type="location">
-                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>;
+                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßhofe</placeName>;
                                         <placeName type="habitat_description" xml:lang="lat"> in arenoſis</placeName> hinter
                                         <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>, et alibi, frequens.</seg></ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
@@ -15239,7 +15239,7 @@
                                     <ab>caule inermi, fol. cordatis trineruatis.
                                         <name xml:lang="ger">Kleine Klette; Bettlerläuſe</name>.
                                         <seg type="location">
-                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>; am
+                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßhofe</placeName>; am
                                         <placeName type="locality?" ana="not_ident.">Stadtgraben</placeName> gegen
                                         <placeName type="locality?" ana="not_ident.">Gethſemane</placeName>;
                                         <placeName type="habitat_description" xml:lang="lat">et alibi in ruderatis humidiuſculis</placeName>.</seg></ab>
@@ -18681,7 +18681,7 @@
                                     <ab>ſtipitatus, pileo campaniformi
                                         albido lacero, lamellis niueis, ſtipite ſubbulboſo ſubulato nudo.
                                         <seg type="location">
-                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>, et alibi.</seg>
+                                        H. auf dem <placeName type="locality?" ana="not_ident.">Schloßhofe</placeName>, et alibi.</seg>
                                         Aeſtate.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0966" ana="agaricus.fimetarius" n="Agaricus fimetarius">
