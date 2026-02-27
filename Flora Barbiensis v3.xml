@@ -2526,8 +2526,8 @@
                                 <ab>floribus vmbellatis. 
                                     <name xml:lang="ger">Ackernägleingras</name>.
                                     <seg type="location">
-                                    <placeName type="habitat_description" xml:lang="lat">H. ad vias</placeName>
-                                    <placeName type="habitat_description" xml:lang="ger">im Schloßgarten</placeName>, et alibi, frequens.</seg></ab>
+                                    <placeName type="habitat_description" xml:lang="lat">H. ad vias</placeName> im
+                                    <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>, et alibi, frequens.</seg></ab>
                                 <ab type="flowering_time">Fl. Aprili, Maio.</ab>
                         </div>
                     </div>
@@ -10271,8 +10271,11 @@
                                         <name type="autor" key="wd:Q55125066"><hi rend="italic">Loeſ.</hi></name> Huc pertinet <hi rend="capital">PELORIA</hi>, tamquam Linariae proles hybrida, vel
                                         potius tantum Linaria degener. Corolla huic regularis,
                                         quinqueſida, quinquecorniculata, pentandra. Naturae prodigium,
-                                        inquit <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name>us. H. ad muros zwiſchen dem Schloßqarten und
-                                        <placeName type="locality?" ana="not_ident.">Paradiſe</placeName>. </ab>
+                                        inquit <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name>us. 
+                                        <seg type="location">
+                                        <placeName type="habitat_description" xml:lang="lat">H. ad muros</placeName> zwiſchen dem
+                                        <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName> und
+                                        <placeName type="locality?" ana="not_ident.">Paradiſe</placeName>.</seg></ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
                                     <ab>Radicibus ſeſe multiplicat; ſed fructus
                                         ſemper abortiunt. Creſcere tamen vidimus in rimis muri
