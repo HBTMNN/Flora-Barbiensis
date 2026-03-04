@@ -1439,8 +1439,8 @@
                                         <name xml:lang="ger">Wieſendungras</name>.
                                         <seg type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in humidis</placeName> gegen die 
-                                        <placeName type="settlement" ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW">Poleymühle</placeName>; 
-                                        auch gegen Badez, et alibi.</seg></ab>
+                                        <placeName type="settlement" ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW">Poleymühle</placeName>; auch gegen 
+                                        <placeName type="settlement" ana="non_ident.">Badez</placeName>, et alibi.</seg></ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
                                     <ab>Puluinaria pauperum ex pappo. Pappus etiam laudatur in vulneribus recentibus et ambuſtis.</ab>
                             </div>
@@ -3928,7 +3928,8 @@
                                         <name xml:lang="lat" key="wd:Q620779">D. (valerandi)</name></head>
                                     <ab><name xml:lang="ger">Rundblättrige Waſſerpimpinelle</name>.
                                         <seg type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">H. ad piſcinam</placeName> bey Badez; 
+                                        <placeName type="habitat_description" xml:lang="lat">H. ad piſcinam</placeName> bey
+                                        <placeName type="settlement" ana="non_ident.">Badez</placeName>; 
                                         <placeName type="habitat_description" xml:lang="lat">in foſſis</placeName> zwischen 
                                         <placeName type="settlement" key="wd:Q688045">Gnadau</placeName> und
                                         <placeName type="settlement" key="wd:Q1270887">Döben</placeName>, frequens.</seg></ab>
@@ -5049,7 +5050,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in dumetis</placeName> im 
                                         <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>, et alibi, frequens.</seg></ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
-                                    <ab>Poſt deſcriptiones ipſius <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name>i Sp. Pl. p. 351. S. N. 12.
+                                    <ab>Poſt deſcriptiones ipſius <name type="reference" key="wd:Q21856070"><hi rend="italic">Linnei</hi></name> Sp. Pl. p. 351. S. N. 12.
                                         p. 207. Reygeri Ged. P. 2. p. 61. aliorumque, dubia
                                         planta vlterius non eſſe poteſt.</ab>
                                 </div>
@@ -10583,7 +10584,7 @@
                                     <ab>ſiliculis orbiculatis, fol. oblongis dentatis glabris. <name xml:lang="ger">Baurenſenf</name>.
                                         <seg type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in campis</placeName> gegen
-                                        <placeName type="settlement" ref="https://www.geonames.org/2927280/felgeleben.html">Felgeleben</placeName>, et alibi, paſſim.</seg></ab>
+                                        <placeName type="settlement" ana="ident.">Felgeleben</placeName>, et alibi, paſſim.</seg></ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                                     <ab>Offic. <hi rend="capital">THLASPEOS</hi> Semina. Odor ingratus, alliaceus. Semina cum
                                         vino trita, adiecto ſaccharo, ſudorem pellunt et in ſcorbuto proſunt. <name type="autor" key="wd:Q313093"><hi rend="italic">Boerh.</hi></name></ab>
@@ -10694,7 +10695,7 @@
                                     <ab>ſiliquis teretibus articulatis laeuibus vnilocularibus. <name xml:lang="ger">Ackerrettig</name>; <name xml:lang="ger">Hederich</name>.
                                         <seg type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in noſtris agris paſſim; in agris</placeName> bey
-                                        <placeName type="settlement" ref="https://www.geonames.org/2927280/felgeleben.html">Felgeleben</placeName> und
+                                        <placeName type="settlement" ana="ident.">Felgeleben</placeName> und
                                         <placeName type="settlement" key="wd:Q798763">Salze</placeName> copioſiſſime.</seg></ab>
                                     <ab type="flowering_time">Fl. Maio et ſeqq.</ab>
                                     <ab>Vitium agrorum hordeaceorum.
@@ -13088,7 +13089,7 @@
                                         <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> frequens.</seg></ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
                                     <ab>Prior tantum varietas Monoclonos apud nos repentur. Non
-                                        confundendus eſt cum C. molli <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name>i. In noſtro folia
+                                        confundendus eſt cum C. molli <name type="reference" key="wd:Q21856070"><hi rend="italic">Linnei</hi></name>. In noſtro folia
                                         omnia ſunt ſeſſilia, plana, margine aliquantulum
                                         reflexo, laciniis longis; ſquamae calycinae lineares
                                         anguſtiores, aequalis longitudinis, laxae, longiores,
@@ -14985,7 +14986,8 @@
                                     <ab>ſpicis pendulis, pedunculis geminatis.
                                         <seg type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in paludoſis</placeName>
-                                        <placeName type="habitat_description" xml:lang="ger">beym Teiche hinter</placeName> Badez.</seg></ab>
+                                        <placeName type="habitat_description" xml:lang="ger">beym Teiche hinter</placeName>
+                                        <placeName type="settlement" ana="non_ident.">Badez</placeName>.</seg></ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0757" ana="carex.caespitosa" n="Carex caespitosa" corresp="https://dr.jacq.org/DR024914">
@@ -15360,7 +15362,8 @@
                                     </head>
                                     <ab>fol. dichotomo-trigeminis, fructibus muticis.
                                         <seg type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">H. in foſſis</placeName> gegen Badez.</seg></ab>
+                                        <placeName type="habitat_description" xml:lang="lat">H. in foſſis</placeName> gegen
+                                        <placeName type="settlement" ana="non_ident.">Badez</placeName>.</seg></ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
                                     <ab>Fructus glabri. Planta minor et tenerior, quam praecedens: folia etiam minora.</ab>
                         </div>
@@ -22405,7 +22408,8 @@
                     <ab>Parnaſſia paluſtris creſcit frequens
                         <seg type="location">
                         <placeName type="habitat_description" xml:lang="lat">in pratis humidis</placeName> zwiſchen
-                        <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName> und Badez.</seg></ab>
+                        <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName> und
+                        <placeName type="settlement" ana="non_ident.">Badez</placeName>.</seg></ab>
                 </div>
                 <fw>V 3 Ad</fw>
                 <pb n="310"/>
