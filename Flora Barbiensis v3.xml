@@ -6935,7 +6935,8 @@
                                        <num>324.</num>
                                        <name xml:lang="lat" key="wd:Q21877180">P. (ſecunda)</name>
                                     </head>
-                                    <ab>H. cum praecedentibus. </ab>
+                                    <ab>
+                                    <seg type="location">H. cum praecedentibus.</seg></ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                         </div>
                     </div>
@@ -9465,7 +9466,11 @@
                                        <name xml:lang="lat" key="wd:Q158548">A. (geneuenſis)</name>
                                     </head>
                                     <ab>foliis tomentoſis lineatis, calycibus
-                                        hirſutis. H. in ſiccis im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>; bey <placeName type="settlement" key="wd:Q688662">Gödniz</placeName>; in <placeName type="locality?" ana="not_ident.">Brands Heide</placeName>.</ab>
+                                        hirſutis.
+                                        <seg type="location">
+                                        H. in ſiccis im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>; bey
+                                        <placeName type="settlement" key="wd:Q688662">Gödniz</placeName>; in
+                                        <placeName type="locality?" ana="not_ident.">Brands Heide</placeName>.</seg></ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
                                     <ab> Var. A. pyramidalis Ger. A. reptantis Hall. Similior A.
                                         alpinae viſa <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name>o Mant. 2. p. 408. Spicae laxiores,
@@ -11176,7 +11181,8 @@
                                     <ab>pedunc. bifloris, calycibus  piloſis
                                         decemangulatis.
                                         <name xml:lang="ger">Ruprechtskraut</name>.
-                                        H. ad muros im <placeName type="locality?" ana="not_ident.">Paradiſe</placeName>, et alibi, frequens. </ab>
+                                        <seg type="location">
+                                        H. ad muros im <placeName type="locality?" ana="not_ident.">Paradiſe</placeName>, et alibi, frequens.</seg></ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                                     <ab>Offic. <hi rend="capital">GERANII ROBERTIANI</hi> Herba. Odor hircum redolet. Cimices
                                         herba recens contuſa pellere dicitur. Succus recens melle ſubactus vlcera ſordida  purgat. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name></ab>
@@ -13681,8 +13687,9 @@
                                         <name xml:lang="lat" key="wd:Q1383606">I. (hirta)</name>
                                     </head>
                                     <ab>fol. ſeſſilibus lanceolatis recuruis ſubſerrato-ſcabris, caule teretiuſculo ſubpiloſo, floribus
-                                        inferioribus altioribus. 
-                                        H. am <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>, et alibi ad ſepes et foſſas, copioſe. </ab>
+                                        inferioribus altioribus.
+                                        <seg type="location">
+                                        H. am <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>, et alibi ad ſepes et foſſas, copioſe.</seg></ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
                                     <ab>Ab I. ſalicina differt foliis latioribus, obtuſioribus, vix
                                         manifeſte ſerratis, caule vbique tereti. Calyx quaſi folioſus.</ab>
@@ -18080,8 +18087,9 @@
                                         <name xml:lang="lat" key="wd:Q21976058">L. (cocciferus)</name></head>
                                         <ab>ſcyphifer ſimplex integerrimus, ſtipite cylindrico, tuberculis coccineis. Lichen
                                             pyxidatus f. cocciferus. Weis Crypt. p. 90. <name xml:lang="ger">Scharlachköpfiger Becher-Lichen; Feuerkraut</name>.
+                                            <seg type="location">
                                             <placeName type="habitat_description" xml:lang="lat">H. in ſepimentis putridis hortorum</placeName> an der
-                                            <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>, et alibi. </ab>
+                                            <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>, et alibi.</seg></ab>
                                         <ab type="flowering_time">Fl. hieme.</ab>
                                         <ab>Offic. <hi rend="capital">MVSCI PYXIDATI</hi> Herba; Herba ignis. Commendatur
                                             infuſum ad tuſſim conuulſiuam. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name></ab>
@@ -18094,8 +18102,9 @@
                                     <ab>ſcyphifer ſimplex crenulatus, tuberculis fuſcis. Lichen pyxidatus b. tuberculatus.
                                         Weis Crypt. p. 85.
                                         <name xml:lang="ger">Einfacher grauköpfiger Becher-Lichen</name>.
+                                        <seg type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. ad muros</placeName> im
-                                        <placeName type="locality?" ana="not_ident.">Paradiſe</placeName>, et alibi. </ab>
+                                        <placeName type="locality?" ana="not_ident.">Paradiſe</placeName>, et alibi.</seg></ab>
                                     <ab type="flowering_time">Fl. hieme.</ab>
                                 </div>
                                 <fw>928.</fw>
