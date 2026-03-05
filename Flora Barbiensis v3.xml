@@ -19702,7 +19702,8 @@
                                     </head>
                                     <ab>flor. verticillatis terminalibus ſeſſilibus, foliis ſummis connato-perfoliatis.
                                         <name xml:lang="ger">Je länger je lieber</name>.
-                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.</ab>
+                                        <seg type="location">
+                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.</seg></ab>
                             </div>
                             <div type="plant-species" xml:id="s.022.cult" ana="lonicera.periclymenum" n="Lonicera periclymenum">
                                     <head>
