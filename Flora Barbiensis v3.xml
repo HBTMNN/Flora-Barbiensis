@@ -4441,8 +4441,9 @@
                                     </head>
                                     <ab>fol. triangularibus ſubdentatis, racemis
                                         confertis ſtrictiſſimis cauli approximatis longiſſimis.
+                                        <seg type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. ad ſepes</placeName> bey 
-                                        <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>, et alibi, paſſim.</ab>
+                                        <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>, et alibi, paſſim.</seg></ab>
                                     <ab type="flowering_time">Fl. Auguſto.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0201" ana="rubrum" n="Chenopodium rubrum" corresp="https://dr.jacq.org/DR024902">
