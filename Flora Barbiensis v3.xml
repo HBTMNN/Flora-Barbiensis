@@ -5868,11 +5868,12 @@
                                     </head>
                                     <ab>ſcapo nudo.
                                         <name xml:lang="ger">Mayblumen</name>.
+                                        <seg type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in nemoribus</placeName> über der 
                                         <geogName type="river" key="wd:Q1644">Elbe</geogName> bey
                                         <placeName type="settlement" key="wd:Q138203224 ">Grünberg</placeName>; im 
                                         <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey 
-                                        <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> frequens. </ab>
+                                        <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> frequens.</seg></ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
                                     <ab>Offic. <hi rend="capital">LILII CONVALLII</hi> Flores. Recentes flores</ab>
                                     <fw>fragran</fw>
