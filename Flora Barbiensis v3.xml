@@ -1992,7 +1992,7 @@
                             <div type="plant-species" xml:id="s.0076" ana="cristata" n="Poa cristata" corresp="https://dr.jacq.org/DR023548">
                                     <head>
                                        <num>76.</num>
-                                        <name xml:lang="lat" key="wd:Q21870121">P. (criſtata)</name>
+                                        <name xml:lang="lat" key="wd:Q138582144">P. (criſtata)</name>
                                     </head>
                                     <ab>panicula ſpicata, calyc. ſubpiloſis
                                         ſubquadrifloris pedunculo longioribus, petalis
@@ -2408,7 +2408,7 @@
                             <div type="plant-species" xml:id="s.0100" ana="murinum" n="Hordeum">
                                     <head>
                                        <num>100.</num>
-                                        <name xml:lang="lat" key="wd:Q518044">H. (murinum)</name>
+                                        <name xml:lang="lat" key="wd:Q161674">H. (murinum)</name>
                                     </head>
                                     <ab>floſculis lateralibus maſculis ariſtatis,
                                         inuolucris intermediis ciliatis. Mäuſegerſte. Varietas β. Gramen
@@ -3167,7 +3167,7 @@
                                         <name xml:lang="lat" key="wd:Q158534">P. (perfoliatum)</name>
                                     </head>
                                     <ab><seg type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">H. in ſtagnis</placeName>bey 
+                                        <placeName type="habitat_description" xml:lang="lat">H. in ſtagnis</placeName> bey 
                                         <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName>.</seg></ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
                         </div>
@@ -4165,7 +4165,7 @@
                             <div type="plant-species" xml:id="s.0189" ana="Groſſularia" n="Ribes uva-crispa">
                                     <head>
                                        <num>189.</num>
-                                        <name xml:lang="lat" key="wd:Q41503">R. (Groſſularia)</name>
+                                        <name xml:lang="lat" key="wd:Q21877236">R. (Groſſularia)</name>
                                     </head>
                                     <ab>ramis aculeatis, petiolorum ciliis piloſis, baccis hirſutis.
                                         <name xml:lang="ger">Stachelbeeren</name>.
@@ -5885,7 +5885,7 @@
                             <div type="plant-species" xml:id="s.0269" ana="Polygonatum" n="Convallaria polygonata">
                                     <head>
                                        <num>269.</num>
-                                        <name xml:lang="lat" key="wd:Q110830088">C. (Polygonatum)</name>
+                                        <name xml:lang="lat" key="wd:Q21872658">C. (Polygonatum)</name>
                                     </head>
                                     <ab>fol. alternis amplexicaulibus, caule ancipiti, pedunc. axillaribus ſubunifloris.
                                         <name xml:lang="ger">Weißwurz; Schminkwurz</name>.
@@ -7553,7 +7553,7 @@
                             <div type="plant-species" xml:id="s.0360" ana="viſcoſum" n="Cerastium fontanum">
                                     <head>
                                        <num>360.</num>
-                                       <name xml:lang="lat" key="wd:Q9311819">C. (viſcoſum)</name>
+                                       <name xml:lang="lat" key="wd:Q2946355">C. (viſcoſum)</name>
                                     </head>
                                     <ab>erectum villoſo-viſcoſum.
                                         <seg type="location">
@@ -7640,7 +7640,7 @@
                         <div type="plant-species" xml:id="s.0365" ana="Flos cuculi" n="Lychnis flos-cuculi" corresp="https://dr.jacq.org/DR023408">
                                     <head>
                                        <num>365.</num>
-                                        <name xml:lang="lat" key="wd:Q19849678">L. (Flos cuculi)</name>
+                                        <name xml:lang="lat" key="wd:Q21038">L. (Flos cuculi)</name>
                                     </head>
                                     <ab><seg type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in pratis humidis</placeName> an der
@@ -8978,10 +8978,10 @@
                         <div type="subcat">
                             <head>* Pulſatillae pedunculo inuolucrato, ſeminibus
                                  caudatis.</head>
-                            <div type="plant-species" xml:id="s.0436" ana="Pulſatilla" n="Pulsatilla vulgaris Anemone pulsatilla" corresp="https://dr.jacq.org/DR024129">
+                            <div type="plant-species" xml:id="s.0436" ana="Pulſatilla" n="Anemone pulsatilla" corresp="https://dr.jacq.org/DR024129">
                                     <head>
                                        <num>436.</num>
-                                        <name xml:lang="lat" key="wd:Q148623">A. (Pulſatilla)</name>
+                                        <name xml:lang="lat" key="wd:Q16335338">A. (Pulſatilla)</name>
                                     </head>
                                     <ab>pedunculo inuolucrato, petalis rectis, fol. bipinnatis.
                                         <name xml:lang="ger">Küchenſchelle</name>.
@@ -10738,7 +10738,7 @@
                             <div type="plant-species" xml:id="s.0530" ana="erysimum.barbarea" n="Erysimum barbarea" corresp="https://dr.jacq.org/DR024311">
                                     <head>
                                        <num>530.</num>
-                                       <name xml:lang="lat" key="wd:Q21874214">E. (Barbares)</name>
+                                       <name xml:lang="lat" key="wd:Q21874214">E. (Barbarea)</name>
                                     </head>
                                     <ab>fol. lyratis, extimo ſubrotundo. 
                                         <name xml:lang="ger">Barbenkraut</name>.
@@ -12499,9 +12499,9 @@
                             </head>
                             <ab>Recept. nudum. Cal. imbricatus ſquamis  laxiuſculis. Pappus
                                 plumoſus.</ab>
-                            <div type="plant-species" xml:id="s.0623" ana="leontodon.taraxacoides" n="Leontodon taraxacoides">
+                            <div type="plant-species" xml:id="s.0623" ana="leontodon.taraxacum" n="Leontodon taraxacum">
                                 <head><num>623.</num>
-                                    <name xml:lang="lat" key="wd:Q6526784">L. (Taraxacum)</name></head>
+                                    <name xml:lang="lat" key="wd:Q21976004">L. (Taraxacum)</name></head>
                                     <ab>calyce ſquamis interne reflexis, fol. runcinatis denticulatis laeuibus.
                                         <name xml:lang="ger">Butterblume; Pfaffenröhrlein</name>.
                                         <seg type="location">
@@ -16327,10 +16327,10 @@
                                     <ab type="flowering_time">Fl. Iulio.</ab>
                                     <ab>Flores ouati, ſubciliati, ſolitarii.</ab>
                             </div>
-                            <div type="plant-species" xml:id="s.0822" ana="polypodium.thelypteris" n="Polypodium thelypteroides" corresp="https://dr.jacq.org/DR044635">
+                            <div type="plant-species" xml:id="s.0822" ana="polypodium.thelypteris" n="Polypodium thelypteris" corresp="https://dr.jacq.org/DR044635">
                                     <head>
                                        <num>822.</num>
-                                        <name xml:lang="lat" key="wd:Q98112978">P. (Thelypteris)</name>
+                                        <name xml:lang="lat" key="wd:Q138586853">P. (Thelypteris)</name>
                                     </head>
                                     <ab>fronde bipinnata; pinnis pinnatifidis
                                         integerrimis, ſubtus vndique polline tectis. Acroſtichum
