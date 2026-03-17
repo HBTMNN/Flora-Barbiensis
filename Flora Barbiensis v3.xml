@@ -11379,7 +11379,7 @@
                                         <placeName type="settlement" key="wd:Q688662">Gödniz</placeName> und
                                         <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
-                                    <ab>Rami diuaricatiſſimi, bifariam angulati angulis obtuſis. Petala
+                                    <ab type="additional_information">Rami diuaricatiſſimi, bifariam angulati angulis obtuſis. Petala
                                         neruis 3 fuſcis, baſi villoſa.</ab>
                             </div>
                             <fw>553.</fw>
@@ -11391,7 +11391,7 @@
                                        <name xml:lang="lat" key="wd:Q157585">G. (pratenſe)</name>
                                     </head>
                                     <ab type="morphology">pedunc. bifloris, fol. ſubpeltatis  multipartitis rugoſis acutis,
-                                        petalis integris.  Ger. batrachiodes, Gratia Dei Germanorum.
+                                        petalis integris. Ger. batrachiodes, Gratia Dei Germanorum.
                                         C. B. P. p. 318.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Wieſenſtorchſchnabel.</ab>
                                     <ab type="location">
@@ -11404,7 +11404,7 @@
                                        <num>554.</num>
                                        <name xml:lang="lat" key="wd:Q160096">G. (robertianum)</name>
                                     </head>
-                                    <ab type="morphology">pedunc. bifloris, calycibus  piloſis
+                                    <ab type="morphology">pedunc. bifloris, calycibus piloſis
                                         decemangulatis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Ruprechtskraut.</ab>
                                     <ab type="location">
@@ -11423,7 +11423,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in hortis et agris vbique</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Petala ſemibifida, calyces ſubmutici, corolla breuiores. Stipulae bifidae.</ab>
+                                    <ab type="additional_information">Petala ſemibifida, calyces ſubmutici, corolla breuiores. Stipulae bifidae.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0556" ana="geranium.columbinum" n="Geranium columbinum">
                                     <head>
@@ -11448,7 +11448,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in agris</placeName> an der
                                         <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Petala integra, obtuſa, incarnata. Calyces mucronati.
+                                    <ab type="additional_information">Petala integra, obtuſa, incarnata. Calyces mucronati.
                                         Planta ſubuiſcoſa.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0558" ana="geranium.sanguineum" n="Geranium sanguineum">
@@ -11462,7 +11462,7 @@
                                         H. im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey
                                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Flores magni rubri.</ab>
+                                    <ab type="additional_information">Flores magni rubri.</ab>
                             </div>
                         </div>
                     </div>
@@ -11527,7 +11527,7 @@
                                         H. auf dem <placeName type="locality?" ana="not_ident.">Schloßhofe</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat"> et alibi in ruderatis, frequens</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Conuenit quoad vires medicas cum praecedente.</ab>
+                                    <ab type="additional_information">Conuenit quoad vires medicas cum praecedente.</ab>
                         </div>
                         <div type="plant-species" xml:id="s.0562" ana="malva.alcea" n="Malva alcea">
                                     <head>
@@ -11540,7 +11540,7 @@
                                         H. hinter <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName> am
                                         <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>, et alibi, paſſim.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Adpellatur etiam Fellriß, quod pannos oculorum diſcutiat. <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> p.
+                                    <ab type="additional_information">Adpellatur etiam Fellriß, quod pannos oculorum diſcutiat. <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> p.
                                         16. Caulis ſcaber pilis faſciculatis expanſis.</ab>
                         </div>
                     </div>
@@ -11610,10 +11610,10 @@
                                     <ab type="vernacular_name" xml:lang="ger">Taubenkropf.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in hortis et agris copioſe</placeName>.</ab>
-                                        <ab type="flowering_time">Fl. aeſtate.</ab>
-                                        <ab type="additional_information">Offic. <hi rend="capital">FUMARIAE</hi> Herba, Semina. Planta amariſſima, corroborans,
-                                            antacida; melancholicis, hypochondriacis, cachecticis, ſcorbuticis,
-                                            ſcabiosis medicina in infuſo, conſerua, extracto. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
+                                    <ab type="flowering_time">Fl. aeſtate.</ab>
+                                    <ab type="additional_information">Offic. <hi rend="capital">FUMARIAE</hi> Herba, Semina. Planta amariſſima, corroborans,
+                                        antacida; melancholicis, hypochondriacis, cachecticis, ſcorbuticis,
+                                        ſcabiosis medicina in infuſo, conſerua, extracto. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
                         </div>
                     </div>
                 </div>
@@ -11635,13 +11635,14 @@
                                        <num>566.</num>
                                         <name xml:lang="lat" key="wd:Q162905">P. (vulgaris)</name>
                                     </head>
-                                    <ab type="morphology">flor. criſtatis racemoſis, caul. herbaceis ſimplicibus procumbentibus, fol. lineari-lanceolatis.</ab>
+                                    <ab type="morphology">flor. criſtatis racemoſis, caul. herbaceis ſimplicibus procumbentibus, 
+                                        fol. lineari-lanceolatis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Kreuzblume.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in paſcuo</placeName> beym
                                         <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
-                                    <ab>Variat corolla violacea, carnea, alba. Vis radicis forſan eadem, ac
+                                    <ab type="additional_information">Variat corolla violacea, carnea, alba. Vis radicis forſan eadem, ac
                                         P. Senegae, licet debilior. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name> Contra phthiſin in puluere, vna
                                         cum Infuſo herbae, Viennae cum effectu data eſt. Candon.</ab>
                         </div>
@@ -11673,7 +11674,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">et alibi in ſyluis trans</placeName>
                                         <geogName type="river" key="wd:Q1644">Albim</geogName>, copioſe.</ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
-                                    <ab>Planta, dum floret in ſteriliſſimis, specioſa. E ramis
+                                    <ab type="additional_information">Planta, dum floret in ſteriliſſimis, specioſa. E ramis
                                         fiunt ſcopae, et e frutice combuſto ſal geniſtae paratur.
                                         Stipites eius paullo altiores ob aureum nitorem baculos
                                         elegantes ad deambulandum ſubminiſtrant.</ab>
@@ -11717,7 +11718,8 @@
                                         <placeName type="settlement" key="wd:Q705030">Prezien</placeName> und
                                         <placeName type="settlement" key="wd:Q32036528">Gommern</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
-                                    <ab>Ouium deliciae. <name type="reference" key="wd:Q13554413"><hi rend="italic">Schreb.</hi></name></ab>
+                                    <ab type="additional_information">Ouium deliciae. 
+                                        <name type="reference" key="wd:Q13554413"><hi rend="italic">Schreb.</hi></name></ab>
                             </div>
                             <div type="plant-species" xml:id="s.0570" ana="genista.germanica" n="Genista germanica">
                                     <head>
@@ -11740,7 +11742,8 @@
                             <ab>Cal. ventricoſus. Legumen ſubrotundum, tectum.</ab>
                             <div type="plant-species" xml:id="s.0571" ana="anthyllis.vulneraria" n="Anthyllis vulneraria">
                                     <head><num>571.</num>
-                                    <name xml:lang="lat" key="wd:Q126256">A. (Vulneraria)</name></head>
+                                    <name xml:lang="lat" key="wd:Q126256">A. (Vulneraria)</name>
+                                    </head>
                                     <ab type="morphology">herbacea, fol. pinnatis inaequalibus, capitulo duplicato.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Gelber Wundklee.</ab>
                                     <ab type="location">
@@ -11749,8 +11752,9 @@
                                         <placeName type="locality" ana="ident.">Mühlinger Berge</placeName> gegen
                                         <placeName type="settlement" key="wd:Q189815">Zens</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
-                                    <ab>Decocta vel contuſa et vulneribus adplicata detergit,
-                                        ſuppurationem inhibet et labia coniungit. <name type="autor" key="wd:Q313093"><hi rend="italic">Boerh.</hi></name></ab>
+                                    <ab type="additional_information">Decocta vel contuſa et vulneribus adplicata detergit,
+                                        ſuppurationem inhibet et labia coniungit. 
+                                        <name type="autor" key="wd:Q313093"><hi rend="italic">Boerh.</hi></name></ab>
                             </div>
                         </div>
                         <div type="genus" xml:id="g.249">
@@ -11767,14 +11771,15 @@
                                        <name xml:lang="lat" key="wd:Q164263">O. (aruenſis)</name>
                                     </head>
                                     <ab type="morphology">flor. racemoſis geminatis, fol. ternatis,
-                                        ſuperioribus ſolitariis, ramis inermibus  ſubuilloſis.
+                                        ſuperioribus ſolitariis, ramis inermibus ſubuilloſis.
                                         Ononis ſpinoſa. Sp. Pl. p. 1006.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Weiberkrieg.</ab>
                                     <ab type="location">
                                         H. auf dem Anger,
                                         <placeName type="habitat_description" xml:lang="lat">et alibi ad vias et verſuras, copioſe</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab type="additional_information">Offic. <hi rend="capital">ONONIDIS</hi> Radix, Herba. Radix diuretica decantata in
+                                    <ab type="additional_information">Offic. <hi rend="capital">ONONIDIS</hi> Radix, Herba. 
+                                        Radix diuretica decantata in
                                         calculo, ictero, et in primis in febre Hungarica. Planta prima
                                         aeſtate inermis, adultior ſpinoſa euadit. Ob radicem
                                         reptantem agricolis inuiſa. Aratrum libere tranſire non ſinit:
@@ -11807,7 +11812,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in ſylua</placeName> bey
                                         <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Aprili, Maio.</ab>
-                                    <ab>Flos exhilarat ſub frondeſcentia coryleta purpureis
+                                    <ab type="additional_information">Flos exhilarat ſub frondeſcentia coryleta purpureis
                                         ſpecioſiſſimisque floribus.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0574" ana="orobus.tuberosus" n="Orobus tuberosus">
@@ -11817,11 +11822,11 @@
                                     </head>
                                         <ab type="morphology">fol. pinnatis lanceolatis, ſtipulis
                                             ſemiſagittatis integerrimis, caule ſimplici.</ab>
-                                    <ab type="location">
+                                        <ab type="location">
                                             H. im <placeName type="locality?" ana="not_ident.">treugen Buſche</placeName> hinter
                                             <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>.</ab>
                                         <ab type="flowering_time">Fl. Maio, Iunio.</ab>
-                                        <ab>Radix ob dulcem ſaporem a Scotis pro cibo ac medicamento
+                                        <ab type="additional_information">Radix ob dulcem ſaporem a Scotis pro cibo ac medicamento
                                             adhibetur, quo famem pariter, ac ſitim et pectoris morbos
                                             depellunt. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name></ab>
                             </div>
@@ -11835,7 +11840,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in ſyluaticis</placeName> bey
                                         <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
-                                    <ab>Radix dulcis.</ab>
+                                    <ab type="additional_information">Radix dulcis.</ab>
                             </div>
                         </div>
                         <div type="genus" xml:id="g.251">
@@ -11853,11 +11858,12 @@
                                     </head>
                                     <ab type="morphology">petiolis teretibus, ſtipulis inferne
                                         rotundatis crenatis, pedunc. multifloris.</ab>
-                                    <ab type="vernacular_name" xml:lang="ger">Schoten;Feld- und Gartenerbſen.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Schoten; Feld- und Gartenerbſen.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in agris inter ſegetes paſſim</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Colitur in agris apud nos frequens, et eius varietates in hortis.</ab>
+                                    <ab type="additional_information">Colitur in agris apud nos frequens, 
+                                        et eius varietates in hortis.</ab>
                             </div>
                         </div>
                         <div type="genus" xml:id="g.252">
@@ -11873,13 +11879,14 @@
                             <fw>DIADELPHIA. DECANDRIA. Lathyrus. 165</fw>
                             <div type="plant-species" xml:id="s.0577" ana="lathyrus.tuberosus" n="Lathyrus tuberosus" corresp="https://dr.jacq.org/DR021779">
                                         <head><num>577.</num>
-                                        <name xml:lang="lat" key="wd:Q162914">L. (tuberoſus)</name></head>
+                                        <name xml:lang="lat" key="wd:Q162914">L. (tuberoſus)</name>
+                                        </head>
                                         <ab type="morphology">pedunc. multifloris, cirris diphyllis; foliolis oualibus, internodiis nudis.</ab>
-                                    <ab type="vernacular_name" xml:lang="ger">Erdnüßlein; Erdfeigen.</ab>
-                                    <ab type="location">
+                                        <ab type="vernacular_name" xml:lang="ger">Erdnüßlein; Erdfeigen.</ab>
+                                        <ab type="location">
                                             <placeName type="habitat_description" xml:lang="lat">H. inter ſegetes copioſe</placeName>.</ab>
                                         <ab type="flowering_time">Fl. Maio, Iunio.</ab>
-                                        <ab>Corolla roſeo colore et odore. Aqua ex floribus deſtillata aquae
+                                        <ab type="additional_information">Corolla roſeo colore et odore. Aqua ex floribus deſtillata aquae
                                             roſarum odori fere accedit. <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> Tubera radicis menſae
                                             inſeruiunt in Germania praeſertim inferiore. A ſuibus poſt
                                             meſſem diligenter exquiruntur. Planta pabularis egregia, in
@@ -11896,8 +11903,9 @@
                                         H. im <placeName type="locality" key="wd:Q138135858">Gnez</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat">et in pratis et dumetis, copioſe</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
-                                    <ab>Praeſtans in pratis pabulum.</ab>
+                                    <ab type="additional_information">Praeſtans in pratis pabulum.</ab>
                             </div>
+                            
                             <div type="plant-species" xml:id="s.0579" ana="lathyrus.sylvestris" n="Lathyrus sylvestris" corresp="https://dr.jacq.org/DR021773">
                                     <head>
                                        <num>579.</num>
@@ -11910,7 +11918,8 @@
                                         <placeName type="habitat_description" xml:lang="ger">am <placeName type="locality?" ana="not_ident.">ſteilen Elbufer</placeName> oberhalb</placeName>
                                         <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
-                                    <ab>Foliola linearia, nec caule latiora. Stipulae ſubulatae anguſtiſſimae.</ab>
+                                    <ab type="additional_information">Foliola linearia, nec caule latiora. 
+                                        Stipulae ſubulatae anguſtiſſimae.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0580" ana="lathyrus.latifolius" n="Lathyrus latifolius">
                                     <head>
@@ -11927,7 +11936,7 @@
                                         <placeName type="settlement" key="wd:Q1746255">Kleinroſenburg</placeName>; auch diſſeits der 
                                         <placeName type="locality?" ana="not_ident.">Saalfähre</placeName>; frequens.</ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
-                                    <ab>Folia elliptica, caule multoties latiora. Stipulae etiam
+                                    <ab type="additional_information">Folia elliptica, caule multoties latiora. Stipulae etiam
                                         caule latiores et fere haſtatae.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0581" ana="paluſtris" n="Lathyrus palustris">
@@ -11972,7 +11981,8 @@
                                        <num>583.</num>
                                        <name xml:lang="lat" key="wd:Q147159">V. (Cracca)</name>
                                     </head>
-                                    <ab type="morphology">pedunc. multifloris, flor. imbricatis, foliolis lanceolatis pubeſcentibus, ſtip. integris.</ab>
+                                    <ab type="morphology">pedunc. multifloris, flor. imbricatis, foliolis lanceolatis pubeſcentibus, 
+                                        ſtip. integris.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Vogelwicken.</ab>
                                     <ab type="location">
                                         H. in der <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>,
@@ -11991,21 +12001,21 @@
                                         erectis, fol. retuſis, ſtipulis notatis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Gemeine Feldwicken.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">H. inter ſegetes frequens; in primis tamen varietas foliis
+                                        <placeName type="habitat_description" xml:lang="lat">H. inter ſegetes frequens;
+                                        in primis tamen varietas foliis
                                         anguſtioribus ſublinearibus, flore ſolitario</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Seritur pro pabulo equorum pecorumque: etiam farina
-                                        pani pauperum immiſcetur. Stipulae ſubtus macula
-                                        quaſi inuſta notatae.</ab>
+                                    <ab type="additional_information">Seritur pro pabulo equorum pecorumque: etiam farina
+                                        pani pauperum immiſcetur. Stipulae ſubtus macula quaſi inuſta notatae.</ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0585" ana="lathyroides" n="Vicia lathyroides">
                                     <head>
                                        <num>585.</num>
                                        <name xml:lang="lat" key="wd:Q158525">V. (lathyroides)</name>
                                     </head>
                                     <ab type="morphology">leguminibus ſeſſilibus ſolitariis
-                                        erectis glabris, foliolis ſenis; inferioribus
-                                        obcordatis.</ab>
+                                        erectis glabris, foliolis ſenis; inferioribus obcordatis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Kleinſte frühzeitige Wicke.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="ger">H. in der kleinen</placeName>
@@ -12014,6 +12024,7 @@
                                         <placeName type="habitat_description" xml:lang="lat"> in arenoſis</placeName> gegen Jüterglück, et alibi, paſſim.</ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0586" ana="vicia.sepium" n="Vicia sepium">
                                     <head>
                                        <num>586.</num>
@@ -12042,9 +12053,9 @@
                                        <num>587.</num>
                                        <name xml:lang="lat" key="wd:Q161126">A. (Cicer)</name>
                                     </head>
-                                    <ab>cauleſcens proſtratus, legum, ſubgloboſis
-                                        inflatis mucronatis piloſis. Wilde
-                                        Kichern.</ab>
+                                    <ab type="morphology">cauleſcens proſtratus, legum. ſubgloboſis
+                                        inflatis mucronatis piloſis.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Wilde Kichern.</ab>
                                 <fw>H.</fw>
                                 <pb n="167"/>
                                 <fw>DIADELPHIA. DECANDRIA. Astragalus. 167</fw>
@@ -12054,13 +12065,14 @@
                                         <placeName type="settlement" key="wd:Q826870">Winningen</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
                             </div>
+                            
                             <div type="plant-species" xml:id="s.0588" ana="astragalus.glycyphyllos" n="Astragalus glycyphyllos">
                                     <head>
                                        <num>588.</num>
                                        <name xml:lang="lat" key="wd:Q158127">A. (glycyphyllos)</name>
                                     </head>
                                     <ab type="morphology">cauleſcens proſtratus, leguminibus
-                                        ſubtriquetris arcuatis, foliol. oualibus  pedunculo
+                                        ſubtriquetris arcuatis, foliol. oualibus pedunculo
                                         longioribus.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Wild Süßholz.</ab>
                                     <ab type="location">
@@ -12115,8 +12127,8 @@
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">MELILOTI</hi> Herba, Flores, Semina. Suaueo lens
                                         pellit acaros. Planta emolliens et reſoluens vteri et
-                                        veſicae vitiis dicata. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name> In fotu, emplaſtro, clyſtere
-                                        vſurpata dolores lenit, tumores diſcutit, abſceſſus maturat.
+                                        veſicae vitiis dicata. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name> 
+                                        In fotu, emplaſtro, clyſtere vſurpata dolores lenit, tumores diſcutit, abſceſſus maturat.
                                         <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name></ab>
                                 </div>
                             </div>
@@ -12137,10 +12149,11 @@
                                         <fw>L 4 Tri-</fw>
                                         <pb n="168"/>
                                         <fw>168 DIADELPHIA. DECANDRIA. Trifolium.</fw>
-                                   <ab>Trifolio pratenſi non multo inferior, quae pari ratione
-                                       coli meretur. Sed Semina difficulter maturat et magis
-                                       decumbit, quam T. pratenſe. <name type="reference" key="wd:Q13554413"><hi rend="italic">Schreb.</hi></name></ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Trifolio pratenſi non multo inferior, quae pari ratione
+                                       coli meretur. Sed Semina difficulter maturat et magis decumbit, quam T. pratenſe. 
+                                        <name type="reference" key="wd:Q13554413"><hi rend="italic">Schreb.</hi></name></ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0592" ana="repens" n="Trifolium repens">
                                     <head>
                                        <num>592.</num>
@@ -12169,10 +12182,10 @@
                                         <placeName type="settlement" key="wd:Q138203224 ">Grünberg</placeName>; frequentius in
                                         <placeName type="locality?" ana="not_ident.">Brands Heide</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Calyx nudus dentibus piloſis. Foliola in noſtris non
-                                        ſerrulata. Calycis dens infimus longitudine corollae,
-                                        reliquis breuibus.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Calyx nudus dentibus piloſis. Foliola in noſtris non
+                                        ſerrulata. Calycis dens infimus longitudine corollae, reliquis breuibus.</ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0594" ana="pratenſe" n="Trifolium pratense">
                                     <head>
                                        <num>594.</num>
@@ -12184,9 +12197,11 @@
                                     <ab type="location">
                                         H. in pratis vbique.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Varietas huius ſeritur in agris ad iumentorum pabulum,
-                                        ſub nomine Spaniſcher Klee, bey <placeName type="settlement" key="wd:Q1270887">Döben</placeName>, et alibi.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Varietas huius ſeritur in agris ad iumentorum pabulum,
+                                        ſub nomine Spaniſcher Klee, bey 
+                                        <placeName type="settlement" key="wd:Q1270887">Döben</placeName>, et alibi.</ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0595" ana="alpeſtre" n="Trifolium alpestre">
                                     <head>
                                        <num>595.</num>
@@ -12201,23 +12216,24 @@
                                         <placeName type="settlement" key="wd:Q688045">Gnadau</placeName> und
                                         <placeName type="settlement" key="wd:Q1270887">Döben</placeName>, et alibi, paſſim.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Simile T. pratenſi quoad flores et T. montano quoad folia.
+                                    <ab type="vernacular_name" xml:lang="ger">Simile T. pratenſi quoad flores et T. montano quoad folia.
                                         Huic alpeſtri ſtipulae virides, pratenſi ſcarioſae
                                         venis rubris; hoc ſtipulis vltimis vtrimque lanceolatis,
                                         illud ſubouatis. Folia ſupra glabra, ſtriata, infra
                                         hirſuta, vix ſerrulata.</ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0596" ana="trifolium.arvense" n="Trifolium arvense">
                                     <head><num>596.</num>
                                         <name xml:lang="lat" key="wd:Q125813">T. (aruenſe)</name>
                                     </head>
                                         <ab type="morphology">spicis villoſis oualibus, dentibus calycinis ſetaceis villoſis aequalibus.</ab>
-                                    <ab type="vernacular_name" xml:lang="ger">Katzenklee; Haſenpfötchen.</ab>
-                                    <ab type="location">
+                                        <ab type="vernacular_name" xml:lang="ger">Katzenklee; Haſenpfötchen.</ab>
+                                        <ab type="location">
                                             <placeName type="habitat_description" xml:lang="ger">H. auf dem Anger</placeName>;
                                             <placeName type="habitat_description" xml:lang="lat">in agris, copioſe</placeName>.</ab>
                                         <ab type="flowering_time">Fl. aeſtate.</ab>
-                                        <ab>Alae intus eleganti macula ſanguinea.</ab>
+                                        <ab type="vernacular_name" xml:lang="ger">Alae intus eleganti macula ſanguinea.</ab>
                                 </div>
                                 <fw>597.</fw>
                                 <pb n="597"/>
@@ -12236,7 +12252,7 @@
                                         <placeName type="settlement" key="wd:Q138293501">Flöz</placeName> und
                                         <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName>, frequens.</ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
-                                    <ab>Calycis lacinias exteriores longiores, validiores. Corollae
+                                    <ab type="vernacular_name" xml:lang="ger">Calycis lacinias exteriores longiores, validiores. Corollae
                                         albidae, anguſtae, longitudine calycis.</ab>
                                 </div>
                             </div>
@@ -12253,7 +12269,7 @@
                                     <ab type="location">
                                         H. auf dem Anger copioſe.</ab>
                                     <ab type="flowering_time">Fl. Auguſto.</ab>
-                                    <ab>Flores apud nos plerumque purpurei.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Flores apud nos plerumque purpurei.</ab>
                                 </div>
                             </div>
                             <div type="subcat">
@@ -12270,7 +12286,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in paſcuo</placeName> am
                                         <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>, et alibi, paſſim.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Flores tetrapetali albi. Capitulum eſt vere racemus
+                                    <ab type="vernacular_name" xml:lang="ger">Flores tetrapetali albi. Capitulum eſt vere racemus
                                         coarctatus, bracteis ſubulatis minimis interſtinctus.</ab>
                                 </div>
                                 <div type="plant-species" xml:id="s.0600" ana="agrarium" n="Trifolium agrarium">
@@ -12285,8 +12301,9 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in agris</placeName> gegen
                                         <placeName type="settlement" key="wd:Q695632">Pömelte</placeName>, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Corollae flauae, nec ſpadiceae.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Corollae flauae, nec ſpadiceae.</ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0601" ana="procumbens" n="Trifolium procumbens">
                                     <head>
                                        <num>601.</num>
@@ -12299,7 +12316,7 @@
                                         <placeName type="locality" ana="ident.">kleinen Weidenallee</placeName>; hinter dem
                                         <placeName type="locality" key="wd:Q138135858">Gnez</placeName>, et alibi, copioſe.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>A T. agrario differt capitulis minoribus, paucifloris,
+                                    <ab type="additional_information">A T. agrario differt capitulis minoribus, paucifloris,
                                         vexillis anguſtioribus, parum ſtriatis, nec plicatis.
                                         Praeterea caules longi decumbunt; modo vno alterouo
                                         erecto.</ab>
@@ -12325,16 +12342,17 @@
                                        <num>602.</num>
                                        <name xml:lang="lat" key="wd:Q21874468">H. (Onobrychis)</name>
                                     </head>
-                                    <ab>fol. pinnatis, legum. monoſpermis
-                                        aculeatis, corollarum alis calycem aequantibus, caule elongato.
-                                        <name xml:lang="ger">Eſparcette</name>; <name xml:lang="fra">Saintfoin</name>.
-                                        <seg type="location">
+                                    <ab type="morphology">fol. pinnatis, legum. monoſpermis
+                                        aculeatis, corollarum alis calycem aequantibus, caule elongato.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Eſparcette;</ab>
+                                    <ab type="vernacular_name" xml:lang="fra">Saintfoin.</ab>
+                                    <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in editis</placeName> bey
                                         <placeName type="settlement" key="wd:Q189815">Zens</placeName>;
                                         <placeName type="habitat_description" xml:lang="ger">auch im Garten bey</placeName>
                                         <placeName type="settlement" key="wd:Q1270887">Döben</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Seritur vt pabulum iumentorum praeſtans: non tamen apud
+                                    <ab type="additional_information">Seritur vt pabulum iumentorum praeſtans: non tamen apud
                                         nos, vbi Medicago ſatiua ob ſolum fertile vtilior et frequentior.</ab>
                             </div>
                         </div>
@@ -12379,7 +12397,7 @@
                                         <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> und
                                         <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Planta glabra procumbens. Folia petiolata. Pedunculi
+                                    <ab type="additional_information">Planta glabra procumbens. Folia petiolata. Pedunculi
                                         longitudine foliorum. Flores lutei vexillo rubro reticulato.</ab>
                             </div>
                         </div>
@@ -12405,10 +12423,10 @@
                                         H. in der <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>;
                                         <placeName type="habitat_description" xml:lang="lat">ad vias et ſepes, frequens</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
-                                    <ab>Pro foeno in apricis glareoſis ſteriliſſimis ſerenda. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name>
+                                    <ab type="additional_information">Pro foeno in apricis glareoſis ſteriliſſimis ſerenda. 
+                                        <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name>
                                         Ab aliis etiam nuper in ſcriptis oeconomicis in hunc
-                                        vſum commendata eſt: ſed inutilis inuenta, cum tota
-                                        humi procumbat.</ab>
+                                        vſum commendata eſt: ſed inutilis inuenta, cum tota humi procumbat.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0606" ana="medicago.lupulina" n="Medicago lupulina">
                                     <head>
@@ -12421,7 +12439,7 @@
                                         <placeName type="habitat_description" xml:lang="ger">H. auf dem Anger</placeName>;
                                         <placeName type="habitat_description" xml:lang="lat">in cultis, agris, pratis; copioſiſſime</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Legumina ſtriato-rugoſa, pilis rigidis ſubhiſpida.</ab>
+                                    <ab type="additional_information">Legumina ſtriato-rugoſa, pilis rigidis ſubhiſpida.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0607" ana="medicago.polymorpha" n="Medicago polymorpha">
                                     <head>
@@ -12451,7 +12469,8 @@
                             <ab>Cal. 5-partitus, longitudine corollae.</ab>
                             <div type="plant-species" xml:id="s.0608" ana="ervum.lens" n="Ervum lens" corresp="https://dr.jacq.org/DR022236">
                                     <head><num>608.</num>
-                                    <name xml:lang="lat" key="wd:Q21874210">E. (Lens)</name></head>
+                                        <name xml:lang="lat" key="wd:Q21874210">E. (Lens)</name>
+                                    </head>
                                     <ab type="morphology">pedunc. ſubbifloris, ſem. compreſſis conuexis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Gemeine Linſen.</ab>
                                     <ab type="location">
@@ -12498,8 +12517,10 @@
                                 conniuentes.  Cal. tubuloſus.</ab>
                             <div type="plant-species" xml:id="s.0611" ana="lotus.siliquosus" n="Lotus siliquosus">
                                 <head><num>611.</num>
-                                    <name xml:lang="lat" key="wd:Q50845362">L. (ſiliquoſus)</name></head>
-                                    <ab type="morphology">legum. ſolitariis membranaceo-quadrangulis, caul. procumbentibus, fol. ſubtus pubeſcentibus.</ab>
+                                    <name xml:lang="lat" key="wd:Q50845362">L. (ſiliquoſus)</name>
+                                </head>
+                                    <ab type="morphology">legum. ſolitariis membranaceo-quadrangulis, caul. procumbentibus, 
+                                        fol. ſubtus pubeſcentibus.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. ad foſſas</placeName> beym
                                         <placeName type="locality?" ana="not_ident.">ſauren Ziez</placeName>; bey
@@ -12514,9 +12535,10 @@
                                     <ab type="morphology">capitulis depreſſis, caulibus
                                         decumbentibus, legum. cylindricis patentibus.</ab>
                                     <ab type="location">
-                                        H. auf dem Anger, <placeName type="habitat_description" xml:lang="lat">et in pratis, verſuris, vbique</placeName>.</ab>
+                                        H. auf dem Anger, <placeName type="habitat_description" xml:lang="lat">
+                                        et in pratis, verſuris, vbique</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Varietas β. flore maiore luteo ſplendente C. B. frequens ad
+                                    <ab type="additional_information">Varietas β. flore maiore luteo ſplendente C. B. frequens ad
                                         foſſas occurrit cis et trans <geogName type="river" key="wd:Q1644">Albim</geogName>.</ab>
                             </div>
                         </div>
@@ -12538,26 +12560,28 @@
                             Capſula.</ab>
                         <div type="plant-species" xml:id="s.0613" ana="hypericum.quadrangulum" n="Hypericum quadrangulum" corresp="https://dr.jacq.org/DR022233">
                             <head><num>613.</num>
-                                <name xml:lang="lat" key="wd:Q17812676">H. (quadrangulare)</name></head>
+                                <name xml:lang="lat" key="wd:Q17812676">H. (quadrangulare)</name>
+                            </head>
                                 <ab type="morphology">flor. trigynis, caule quadrato herbaceo.</ab>
-                                    <ab type="location">
+                                <ab type="location">
                                     H. beym <placeName type="locality?" ana="not_ident.">ſauren Ziez</placeName>;
                                     <placeName type="habitat_description" xml:lang="lat">in humidis, paſſim</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Iulio.</ab>
                         </div>
                         <div type="plant-species" xml:id="s.0614" ana="hypericum.perforatum" n="Hypericum perforatum" corresp="https://dr.jacq.org/DR024854">
                             <head><num>614.</num>
-                                <name xml:lang="lat" key="wd:Q158289">H. (perforatum)</name></head>
+                                <name xml:lang="lat" key="wd:Q158289">H. (perforatum)</name>
+                            </head>
                                 <ab type="morphology">flor. trigynis, caule ancipiti, fol. obtuſis pellucido-punctatis.</ab>
-                                    <ab type="location">
+                                <ab type="location">
                                     H. im <placeName type="locality" key="wd:Q138135858">Gnez</placeName>;
                                     <placeName type="habitat_description" xml:lang="lat">ad ſepes et dumeta, copioſiſſime</placeName>.</ab>
-                                    <ab type="flowering_time">Fl. Iunio.</ab>
-                                    <ab type="additional_information">Offic. <hi rend="capital">HYPERICI</hi> Herba, Flores, Semina. Balſamica planta
-                                        poſſidet virtutem detergentem et vulnerariam. Oleum coctum in
-                                        iuſculo ſumtum egregium tuſſis remedium perhibetur.
-                                        <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog</hi></name>. Flores inficiunt ſpiritum et oleum carmeſino
-                                        colore. Antherae puncto atro. Stigmata ſanguinea.</ab>
+                                <ab type="flowering_time">Fl. Iunio.</ab>
+                                <ab type="additional_information">Offic. <hi rend="capital">HYPERICI</hi> Herba, Flores, Semina. Balſamica planta
+                                    poſſidet virtutem detergentem et vulnerariam. Oleum coctum in
+                                    iuſculo ſumtum egregium tuſſis remedium perhibetur.
+                                    <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog</hi></name>. Flores inficiunt ſpiritum et oleum carmeſino
+                                    colore. Antherae puncto atro. Stigmata ſanguinea.</ab>
                         </div>
                         <div type="plant-species" xml:id="s.0615" ana="hypericum.humifusum" n="Hypericum humifusum" corresp="https://dr.jacq.org/DR022232">
                                     <head>
@@ -12571,7 +12595,7 @@
                                         <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>; oberhalb
                                         <placeName type="settlement" key="wd:Q177585">Grossroſenburg</placeName>, paſſim.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Folia punctis in margine nigris.</ab>
+                                    <ab type="additional_information">Folia punctis in margine nigris.</ab>
                         </div>
                         <fw>616.</fw>
                         <pb n="174"/>
@@ -12590,9 +12614,11 @@
                         </div>
                         <div type="plant-species" xml:id="s.0617" ana="hypericum.hirsutum" n="Hypericum hirsutum" corresp="https://dr.jacq.org/DR024715">
                             <head><num>617.</num>
-                                <name xml:lang="lat" key="wd:Q159185">H. (hirſutum)</name></head>
-                                <ab type="morphology">flor. trigynis, calyc. ſerrato-glanduloſis, caule tereti erecto, fol. ouatis ſubpubeſcentibus.</ab>
-                                    <ab type="location">
+                                <name xml:lang="lat" key="wd:Q159185">H. (hirſutum)</name>
+                            </head>
+                                <ab type="morphology">flor. trigynis, calyc. ſerrato-glanduloſis, 
+                                    caule tereti erecto, fol. ouatis ſubpubeſcentibus.</ab>
+                                <ab type="location">
                                     H. im <placeName type="locality" key="wd:Q138135858">Gnez</placeName>,
                                     <placeName type="habitat_description" xml:lang="lat">et alibi in dumetis, frequens</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Iulio.</ab>
@@ -12650,7 +12676,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in agris arenoſis</placeName> bey
                                         <placeName type="settlement" key="wd:Q688662">Gödniz</placeName>, et alibi, paſſim.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Corollae minutae; calycis ſquamae laeues.</ab>
+                                    <ab type="additional_information">Corollae minutae; calycis ſquamae laeues.</ab>
                             </div>
                             <fw>620.</fw>
                             <pb n="176"/>
@@ -12667,7 +12693,7 @@
                                         <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>; bey
                                         <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName>, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Corollae magnae, calycis ſquamae carina ciliata. Flores
+                                    <ab type="additional_information">Corollae magnae, calycis ſquamae carina ciliata. Flores
                                         clauduntur hora 3 poſt meridiem.</ab>
                             </div>
                         </div>
@@ -12688,7 +12714,7 @@
                                         H. in der <placeName type="locality" ana="ident.">kleinen Weidenallee</placeName>
                                         <placeName type="habitat_description" xml:lang="lat">et in pratis frequens</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
-                                    <ab>Radix habitu et virtute Scorzonerae radici ſimilis eſt.
+                                    <ab type="additional_information">Radix habitu et virtute Scorzonerae radici ſimilis eſt.
                                         More aſparagi cocta ſapida eſt, ideoque in hortis culta.
                                         Flos euigilat primo mane ſaepe h. 3. Obdormit inter 9
                                         et 10 antemeridianam, niſi tempeſtate moretur.</ab>
@@ -12714,7 +12740,7 @@
                                         <placeName type="locality?" ana="not_ident.">Stadtmauer</placeName> gegen
                                         <placeName type="locality?" ana="not_ident.">Gethſemane</placeName>, et alibi.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Folia lanceolata. Pedunculi in calycem vsque adſperſi
+                                    <ab type="additional_information">Folia lanceolata. Pedunculi in calycem vsque adſperſi
                                         ſquamis ſubulatis, donec calyx fere imbricatus fiat.</ab>
                             </div>
                         </div>
@@ -12728,7 +12754,8 @@
                                 plumoſus.</ab>
                             <div type="plant-species" xml:id="s.0623" ana="leontodon.taraxacum" n="Leontodon taraxacum">
                                 <head><num>623.</num>
-                                    <name xml:lang="lat" key="wd:Q21976004">L. (Taraxacum)</name></head>
+                                    <name xml:lang="lat" key="wd:Q21976004">L. (Taraxacum)</name>
+                                </head>
                                     <ab type="morphology">calyce ſquamis interne reflexis, fol. runcinatis denticulatis laeuibus.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Butterblume; Pfaffenröhrlein.</ab>
                                     <ab type="location">
@@ -12739,7 +12766,7 @@
                                     <fw>morbis,</fw>
                                     <pb n="177"/>
                                     <fw>SYNGENESIA. POLYG. AEQVAL. Leontodon. 177</fw>
-                                    <ab>morbis, ſcabie, ictero. Epotus ſuccus maxime iuvat. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name></ab>
+                                    <ab type="additional_information">morbis, ſcabie, ictero. Epotus ſuccus maxime iuvat. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name></ab>
                             </div>
                             <div type="plant-species" xml:id="s.0624" ana="leontodon.autumnalis?" n="Leontodon autumnalis">
                                     <head>
@@ -12751,7 +12778,7 @@
                                     <ab type="location">
                                         H. in verſuris, paſcuis, pratis vbique.</ab>
                                     <ab type="flowering_time">Fl. a Iulio in auctumnum.</ab>
-                                    <ab>Genus huius difficile aſſignatur: a Scorzonera differt
+                                    <ab type="additional_information">Genus huius difficile aſſignatur: a Scorzonera differt
                                         pappo ſeſſili, ſubſtipitato; a Crepi calyce ſimplici
                                         imbricato. Euigilat a hora 7 ad 3 pomeridianam. Radix praemorſa.
                                         Variat calycibus modo tantum pubeſcentibus, modo villis nigris
@@ -12766,7 +12793,7 @@
                                     <ab type="location">
                                         H. am <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Bractea linearis infra florem. Pappus ſeſſilis plumoſus.
+                                    <ab type="additional_information">Bractea linearis infra florem. Pappus ſeſſilis plumoſus.
                                         Varietas calyce admodum hirto eſt frequentiſſima. Alia
                                         varietas non tam frequens habet folia lanceolata, parum
                                         repanda, obtuſa, digito vix longiora. Scapus eſt glaber.
@@ -12789,8 +12816,9 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. inter ſegetes copioſiſſime</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Radix reptans, hinc agrorum vitium. Flos ſoliſequus.</ab>
+                                    <ab type="additional_information">Radix reptans, hinc agrorum vitium. Flos ſoliſequus.</ab>
                             </div>
+                            
                             <div type="plant-species" xml:id="s.0627" ana="sonchus.oleraceus" n="Sonchus oleraceus">
                                     <head>
                                        <num>627.</num>
@@ -12801,7 +12829,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in cultis vbique</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Varietates foliis modo laeuibus modo ſpinoſiſſimis, nunc
+                                    <ab type="additional_information">Varietates foliis modo laeuibus modo ſpinoſiſſimis, nunc
                                         valde nunc minus laciniatis, habitum plantae ſatis diuerſum
                                         reddunt. Excubias Florae agit ab hora 6. ſ. 7. in 11. ſ. 12.
                                         antemeridianam. Pro acetariis hieme  vſurpari poteſt.</ab>
@@ -12816,7 +12844,7 @@
                                 <name xml:lang="lat" key="wd:Q1140322"><hi rend="capital">SCORZONERA</hi>.</name>
                                 <name type="vernacular_name" xml:lang="ger">Schlangenmord; Scorzonere.</name>
                             </head>
-                            <ab>Recept. nudum. Pappus plumoſus. Cal.  imbricatus ſquamis margine
+                            <ab>Recept. nudum. Pappus plumoſus. Cal. imbricatus ſquamis margine
                                 ſcarioſis.</ab>
                             <div type="plant-species" xml:id="s.0628" ana="scorzonera.humilis" n="Scorzonera humilis" corresp="https://dr.jacq.org/DR021758">
                                     <head>
@@ -12845,10 +12873,10 @@
                                         <placeName type="habitat_description" xml:lang="ger">rechter Hand, ehe man nach</placeName>
                                         <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName> kommt.</ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
-                                    <ab>Caulis ſimplex totus fere lanuginoſus. Folia radicalia
-                                        latiuſcula, baſi etiam lanuginoſa; caulina anguſta
-                                        ſubulata.</ab>
+                                    <ab type="additional_information">Caulis ſimplex totus fere lanuginoſus. Folia radicalia
+                                        latiuſcula, baſi etiam lanuginoſa; caulina anguſta ſubulata.</ab>
                             </div>
+                            
                             <div type="plant-species" xml:id="s.0630" ana="scorzonera.laciniata" n="Scorzonera laciniata">
                                     <head>
                                        <num>630.</num>
@@ -12862,9 +12890,8 @@
                                         <placeName type="habitat_description" xml:lang="ger">auf Erdwänden bey</placeName>
                                         <placeName type="settlement" ana="ident.">Eikendorf</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Vigilat vsque ad horam 9. matutinam. Poſtea difficulter
-                                        reperitur, quia folia a gramine non facile
-                                        diſtinguuntur.</ab>
+                                    <ab type="additional_information">Vigilat vsque ad horam 9. matutinam. Poſtea difficulter
+                                        reperitur, quia folia a gramine non facile diſtinguuntur.</ab>
                             </div>
                         </div>
                         <div type="genus" xml:id="g.270">
@@ -12886,7 +12913,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in arenoſis</placeName> hinter
                                         <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Structura et facie admodum variat planta polymorpha. Folia
+                                    <ab type="additional_information">Structura et facie admodum variat planta polymorpha. Folia
                                         radicalia Taraxaci; caulina L. auctumnalis; ramea integra,
                                         linearia, ſubſagittata, marginibus reuolutis. Styli antheris
                                         egreſſi, ſunt fuſci.</ab>
@@ -12905,7 +12932,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in gramineis</placeName> am
                                         <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>, et alibi, copioſe.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Caulis angulatus, ſcaber, fragilis.</ab>
+                                    <ab type="additional_information">Caulis angulatus, ſcaber, fragilis.</ab>
                             </div>
                         </div>
                         <div type="genus" xml:id="g.271">
@@ -12922,7 +12949,7 @@
                                         <name xml:lang="lat" key="wd:Q116137">C. (iuncea)</name>
                                     </head>
                                     <ab type="morphology">foliis radicalibus runcinatis, caulinis
-                                        linearibus integris. Chondrilla iuncea. Sp.  Pl. 2. p. 1120.</ab>
+                                        linearibus integris. Chondrilla iuncea. Sp. Pl. 2. p. 1120.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. ad ſepes</placeName> bey
                                         <placeName type="settlement" key="wd:Q138293501">Flöz</placeName>; auch 
@@ -12930,7 +12957,7 @@
                                         <placeName type="settlement" key="wd:Q138293501">Flöz</placeName> und
                                         <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName>, frequens.</ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
-                                    <ab>Seminibus muricatis differt a Lactuca. Corolla lutea ſubtus
+                                    <ab type="additional_information">Seminibus muricatis differt a Lactuca. Corolla lutea ſubtus
                                         purpuraſcens. Caulis inferne ſtrigoſus.</ab>
                             </div>
                         </div>
@@ -12955,7 +12982,7 @@
                                         <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName>
                                         <placeName type="habitat_description" xml:lang="lat">ad muros</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Pappus ſtipitatus.</ab>
+                                    <ab type="additional_information">Pappus ſtipitatus.</ab>
                             </div>
                         </div>
                         <div type="genus" xml:id="g.273">
@@ -12976,7 +13003,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in nemoroſis</placeName> im
                                         <placeName type="locality?" ana="not_ident.">Trizer Buſche</placeName> frequens.</ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
-                                    <ab>Folia inferiora runcinata; ſuperiora pinnatifida, laciniis
+                                    <ab type="additional_information">Folia inferiora runcinata; ſuperiora pinnatifida, laciniis
                                         denticulatis acutis. Caulis ſaepe ſexpedalis. Planta
                                         lacteſcens, vt congeneres.</ab>
                             </div>
@@ -12985,14 +13012,16 @@
                             <fw>180 SYNGENESIA. POLYG. AEQVAL. Lactuca.</fw>
                             <div type="plant-species" xml:id="s.0636" ana="lactuca.scariola" n="Lactuca scariola" corresp="https://dr.jacq.org/DR022201">
                                 <head><num>636.</num>
-                                    <name xml:lang="lat" key="wd:Q110558795">L. (Scariola)</name></head>
+                                    <name xml:lang="lat" key="wd:Q110558795">L. (Scariola)</name>
+                                </head>
                                     <ab type="morphology">foliis verticalibus carina aculeatis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Wilder Sallat.</ab>
                                     <ab type="location">
                                         H. am <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat">et alibi ad aggeres et ſepes, copioſiſſime</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab type="additional_information">Offic. <hi rend="capital">SCARIOLAE</hi> ſ. <hi rend="capital">INTYBI ANGVSTI</hi> Semen.</ab>
+                                    <ab type="additional_information">Offic. <hi rend="capital">SCARIOLAE</hi> ſ. 
+                                        <hi rend="capital">INTYBI ANGVSTI</hi> Semen.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0637" ana="lactuca.saligna" n="Lactuca saligna" corresp="https://dr.jacq.org/DR022212">
                                     <head>
@@ -13006,7 +13035,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">forte etiam ad</placeName>
                                         <placeName type="locality?" ana="not_ident.">ſalinas Salzenſes</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Icon Hall. <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> Ien. p. 207. tab. 4.</ab>
+                                    <ab type="additional_information">Icon Hall. <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> Ien. p. 207. tab. 4.</ab>
                             </div>
                         </div>
                         <div type="genus" xml:id="g.274">
@@ -13049,7 +13078,7 @@
                                         <placeName type="settlement" key="wd:Q138293501">Flöz</placeName> und
                                         <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Folia obtuſa, pilis rarioribus adſperſa. Caulis parum
+                                    <ab type="additional_information">Folia obtuſa, pilis rarioribus adſperſa. Caulis parum
                                         hirſutus, vno alteroue foliolo donatus; flores 2 aut 3 in
                                         cacumine ferens.</ab>
                                 </div>
@@ -13063,7 +13092,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in caeſpitoſis</placeName> im
                                         <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>, et alibi, paſſim.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Folia acuta. Caulis et calyces nigris ſetis adſperſi. Folia
+                                    <ab type="additional_information">Folia acuta. Caulis et calyces nigris ſetis adſperſi. Folia
                                         pilis longis hiſpida.</ab>
                                 </div>
                             </div>
@@ -13082,8 +13111,9 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. β. ſyluaticum</placeName> im
                                         <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Excubias agit ab hora 6. matutina in horam 2. pomeridianam.</ab>
+                                    <ab type="additional_information">Excubias agit ab hora 6. matutina in horam 2. pomeridianam.</ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0642" ana="ſabaudum" n="Hieracium sabaudum">
                                     <head>
                                        <num>642.</num>
@@ -13094,6 +13124,7 @@
                                         H. im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0643" ana="umbellatum" n="Hieracium umbellatum">
                                     <head>
                                        <num>643.</num>
@@ -13103,8 +13134,8 @@
                                     <ab type="location">
                                         H. im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName> frequens.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Tingit lanas eleganti luteo colore. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name> Calyces
-                                        ſquarroſi.</ab>
+                                    <ab type="additional_information">Tingit lanas eleganti luteo colore. 
+                                        <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name> Calyces ſquarroſi.</ab>
                                 </div>
                             </div>
                         </div>
@@ -13127,8 +13158,9 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. inter olera in hortis</placeName>, auch im
                                         <placeName type="locality" key="wd:Q138135858">Gnez</placeName>, et alibi, copioſe.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Papillaris aliquibus dicitur, quia fiſſuras papillae in mammis
-                                        ſanare traditur; vnde Anglis Nipple-Wort. <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> Ien. p. 209.</ab>
+                                    <ab type="additional_information">Papillaris aliquibus dicitur, quia fiſſuras papillae in mammis
+                                        ſanare traditur; vnde Anglis Nipple-Wort.
+                                        <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> Ien. p. 209.</ab>
                             </div>
                         </div>
                         <div type="genus" xml:id="g.276">
@@ -13201,7 +13233,7 @@
                                         <placeName type="settlement" key="wd:Q690013">Nuthe</placeName> und
                                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Folia vere loco braſſicae coqui et edi poſſunt.</ab>
+                                    <ab type="additional_information">Folia vere loco braſſicae coqui et edi poſſunt.</ab>
                             </div>
                         </div>
                         <div type="genus" xml:id="g.279">
@@ -13243,17 +13275,20 @@
                                        <num>649.</num>
                                        <name xml:lang="lat" key="wd:Q21872173">C. (lanceolatus)</name>
                                     </head>
-                                    <ab>fol. decurrentibus pinnatifidis hiſpidis, laciniis diuaricatis; calyc. ouatis ſpinoſis
-                                        villoſis, caule piloſo.
-                                        <name xml:lang="ger">Groſſe Diſtel; Speerdiſtel</name>.</ab>
+                                    <ab type="morphology">fol. decurrentibus pinnatifidis hiſpidis, laciniis diuaricatis; 
+                                        calyc. ouatis ſpinoſis villoſis, caule piloſo.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Groſſe Diſtel; Speerdiſtel.</ab>
                                     <fw>H.</fw>
                                     <pb n="183"/>
                                     <fw>SYNGENESIA. POLYG. AEQVAL. Carduus. 183</fw>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="ger">H. auf dem Anger</placeName>, et alibi, copioſe.</ab>
+                                        <placeName type="habitat_description" xml:lang="ger">H. auf dem Anger</placeName>, 
+                                        et alibi, copioſe.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Flores vices coaguli praeſtant. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
+                                    <ab type="additional_information">Flores vices coaguli praeſtant. 
+                                        <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0650" ana="nutans" n="Carduus nutans" corresp="https://dr.jacq.org/DR024800">
                                     <head>
                                        <num>650.</num>
@@ -13263,7 +13298,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. cum praecedente vulgaris</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Styli reflexi verſus latera. Flos noctu ſuaueolens. Semina
+                                    <ab type="additional_information">Styli reflexi verſus latera. Flos noctu ſuaueolens. Semina
                                         carduelibus gratum pabulum.</ab>
                                 </div>
                                 <div type="plant-species" xml:id="s.0651" ana="acanthoides" n="Carduus acanthoides" corresp="https://dr.jacq.org/DR024801">
@@ -13277,7 +13312,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in marginibus agrorum</placeName> bey
                                         <placeName type="locality" key="wd:Q102004668">Colphus</placeName>, et alibi, copioſe.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Flores minores, quam in C. nutante, maiores quam in C.
+                                    <ab type="additional_information">Flores minores, quam in C. nutante, maiores quam in C.
                                         criſpo. Pedunculi alis criſpis ſpinoſi.</ab>
                                 </div>
                                 <div type="plant-species" xml:id="s.0652" ana="criſpus" n="Carduus crispus" corresp="https://dr.jacq.org/DR024862">
@@ -13291,7 +13326,7 @@
                                         H. im <placeName type="locality" key="wd:Q138135858">Gnez</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat">et alibi in dumetis, frequens</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Folia ſubtus albido-tomentoſa, parum pungentia. Excreſcit
+                                    <ab type="additional_information">Folia ſubtus albido-tomentoſa, parum pungentia. Excreſcit
                                         ſaepe ad altitudinem vltra ſexpedalem.</ab>
                                 </div>
                                 <div type="plant-species" xml:id="s.0653" ana="paluſtris" n="Carduus palustris" corresp="https://dr.jacq.org/DR024808">
@@ -13307,7 +13342,7 @@
                                         <placeName type="settlement" ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW">Poleymühle</placeName>,
                                         et alibi, paſſim.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Calyx arcte imbricatus laeuis. Pedunculi inermes. Caulis
+                                    <ab type="additional_information">Calyx arcte imbricatus laeuis. Pedunculi inermes. Caulis
                                         plerumque fuſco-rufus. Planta tenerior editur a Smolandis.
                                         <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
                                 </div>
@@ -13323,8 +13358,9 @@
                                         <placeName type="locality?" ana="not_ident.">ſteilen Elbufer</placeName> oberhalb
                                         <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> frequens.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Prior tantum varietas Monoclonos apud nos repentur. Non
-                                        confundendus eſt cum C. molli <name type="reference" key="wd:Q21856070"><hi rend="italic">Linnei</hi></name>. In noſtro folia
+                                    <ab type="additional_information">Prior tantum varietas Monoclonos apud nos repentur. Non
+                                        confundendus eſt cum C. molli 
+                                        <name type="reference" key="wd:Q21856070"><hi rend="italic">Linnei</hi></name>. In noſtro folia
                                         omnia ſunt ſeſſilia, plana, margine aliquantulum
                                         reflexo, laciniis longis; ſquamae calycinae lineares
                                         anguſtiores, aequalis longitudinis, laxae, longiores,
@@ -13333,7 +13369,7 @@
                                         <fw>M 4 ſemini-</fw>
                                         <pb n="184"/>
                                         <fw>184 SYNGENESIA. POLYG. AEQVAL. Carduus.</fw>
-                                        <ab>ſeminibus Sibiricis enatis nihil differre, et
+                                        <ab type="additional_information">ſeminibus Sibiricis enatis nihil differre, et
                                         Suinofurti  in Franconia etiam habitare, <name type="reference" key="wd:Q13554413"><hi rend="italic">Schreberus</hi></name>,
                                         quocum  exemplar communicauimus, certiores nos fecit.</ab>
                                 </div>
@@ -13342,11 +13378,12 @@
                                 <head>** Foliis ſeſſilibus.</head>
                                 <div type="plant-species" xml:id="s.0655" ana="carduus.marianus" n="Carduus marianus">
                                     <head><num>655.</num>
-                                        <name xml:lang="lat" key="wd:Q21872176">C. (marianus)</name></head>
+                                        <name xml:lang="lat" key="wd:Q21872176">C. (marianus)</name>
+                                    </head>
                                         <ab type="morphology">fol. amplexicaulibus haſtato-pinnatifidis ſpinoſis, calycibus aphyllis; ſpinis
                                             canaliculatis duplicato-ſpinoſis.</ab>
-                                    <ab type="vernacular_name" xml:lang="ger">Mariendiſtel; Frauendiſtel; Stechkörner.</ab>
-                                    <ab type="location">
+                                        <ab type="vernacular_name" xml:lang="ger">Mariendiſtel; Frauendiſtel; Stechkörner.</ab>
+                                        <ab type="location">
                                             H. im <placeName type="locality?" ana="not_ident.">Elbwerder</placeName>,
                                             <placeName type="habitat_description" xml:lang="lat"> rarius; ad muros in hortis paſſim</placeName>.</ab>
                                         <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
@@ -13359,12 +13396,12 @@
                                        <name xml:lang="lat" key="wd:Q21872159">C. (acaulis)</name>
                                     </head>
                                         <ab type="morphology">acaulis, calyce glabro.</ab>
-                                    <ab type="location">
+                                        <ab type="location">
                                             <placeName type="habitat_description" xml:lang="lat">H. in paſcuis</placeName> beym
                                             <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>; Hinter
                                             <placeName type="settlement" ana="ident.">Werkleiz</placeName>, paſſim.</ab>
                                         <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                        <ab>Caulem paruum ſaepius habet.</ab>
+                                        <ab type="additional_information">Caulem paruum ſaepius habet.</ab>
                                 </div>
                             </div>
                         </div>
@@ -13380,14 +13417,14 @@
                                        <num>657.</num>
                                        <name xml:lang="lat" key="wd:Q30166">O. (Acanthium)</name>
                                     </head>
-                                    <ab type="morphology">calyc. ſquarroſis, ſquamis patentibus, fol. ouato-oblongis ſinuatis. Groſſe</ab>
-                                    <ab type="vernacular_name" xml:lang="ger">Wegediſtel; Krebsdiſtel.</ab>
+                                    <ab type="morphology">calyc. ſquarroſis, ſquamis patentibus, fol. ouato-oblongis ſinuatis.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Groſſe Wegediſtel; Krebsdiſtel.</ab>
                                     <ab type="location">
                                         H. um <placeName type="locality?" ana="not_ident.">Stadtgraben</placeName> beym
                                         <placeName type="locality?" ana="not_ident.">Fürſtenhauſe</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat">et alibi in ruderatis et ad vias, frequens</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Iuniores caules et diſcus, vt Cynarae, eſculenti. Cancri
+                                    <ab type="additional_information">Iuniores caules et diſcus, vt Cynarae, eſculenti. Cancri
                                         ſpecificum ex veterum obſeruatione.</ab>
                             </div>
                         </div>
@@ -13408,7 +13445,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="ger">H. auf der groſſen Wieſe</placeName>, frequens.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Pro luteo colore ad pannos rudiores tingendos colligitur et
+                                    <ab type="additional_information">Pro luteo colore ad pannos rudiores tingendos colligitur et
                                         vſurpatur. Varietas foliis omnibus ſerratis, ſed inciſura
                                         carentibus C. B. Pin. p. 235. n. 1. creſcit ad <geogName type="river" key="wd:Q1678">Salam</geogName> in der
                                         <placeName type="locality?" ana="not_ident.">Hinterluke</placeName>. Folia ciliata.</ab>
@@ -13424,7 +13461,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in agris et paſcuis vbique</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Vitium agrorum et paſcuorum, ob radicem ſerpentem eo magis
+                                    <ab type="additional_information">Vitium agrorum et paſcuorum, ob radicem ſerpentem eo magis
                                         agricolis odioſum. Primo vere cibus equorum  gratus et ſalubris.</ab>
                             </div>
                         </div>
@@ -13437,7 +13474,7 @@
                                 <name xml:lang="lat" key="wd:Q1123970"><hi rend="capital">EVPATORIVM</hi>.</name>
                                 <name type="vernacular_name" xml:lang="ger">Alpkraut.</name>
                             </head>
-                            <ab>Recept. nudum. Pappus plumoſus. Cal.  imbricatus oblongus.
+                            <ab>Recept. nudum. Pappus plumoſus. Cal. imbricatus oblongus.
                                 Stylus ſemibifidus, longus.</ab>
                             <div type="plant-species" xml:id="s.0660" ana="cannabinum" n="Eupatorium cannabinum" corresp="https://dr.jacq.org/DR024626">
                                     <head>
@@ -13476,7 +13513,7 @@
                                         H. am <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat">et alibi ad foſſas et ſtagna, copioſiſſime</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Herba tingit lanas fuluo colore.</ab>
+                                    <ab type="additional_information">Herba tingit lanas fuluo colore.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0662" ana="bidens.minima" n="Bidens minima">
                                     <head>
@@ -13490,7 +13527,8 @@
                                         <placeName type="habitat_description" xml:lang="ger">am Wege nach</placeName>
                                         <placeName type="settlement" key="wd:Q138293501">Flöz</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Varietas eſt B. tripartitae ſecundum <name type="reference" key="wd:Q13554413"><hi rend="italic">Schreb.</hi></name> Spic. Lipſ. p. 15.</ab>
+                                    <ab type="additional_information">Varietas eſt B. tripartitae ſecundum 
+                                        <name type="reference" key="wd:Q13554413"><hi rend="italic">Schreb.</hi></name> Spic. Lipſ. p. 15.</ab>
                             </div>
                             <fw>M 5 663.</fw>
                             <pb n="186"/>
@@ -13500,13 +13538,13 @@
                                        <num>663.</num>
                                         <name xml:lang="lat" key="wd:Q27501">B. (cernua)</name>
                                     </head>
-                                    <ab type="morphology">fol. lanceolatis amplexicaulibus, flor. cernuis, sem. erectis.</ab>
+                                    <ab type="morphology">fol. lanceolatis amplexicaulibus, flor. cernuis, ſem. erectis.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in alnetis</placeName> gegen die
                                         <placeName type="settlement" ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW">Poleymühle</placeName>,
                                         et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. Auguſto.</ab>
-                                    <ab>Coreopſis Bidens huic ſimillima, ſed radiata.</ab>
+                                    <ab type="additional_information">Coreopſis Bidens huic ſimillima, ſed radiata.</ab>
                             </div>
                         </div>
                     </div>
@@ -13535,7 +13573,7 @@
                                         H. am <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat"> et alibi in verſuris ſiccioribus, paſſim</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Auguſto, Septembri.</ab>
-                                    <ab>Infuſum laudari coepit in pleuritide. Racemi ſimplices,
+                                    <ab type="additional_information">Infuſum laudari coepit in pleuritide. Racemi ſimplices,
                                         alterni, floribus ſolitariis.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0665" ana="artemisia.absinthium" n="Artemisia absinthium">
@@ -13555,9 +13593,10 @@
                             </div>
                             <div type="plant-species" xml:id="s.0666" ana="artemisia.vulgaris" n="Artemisia vulgaris">
                                     <head><num>666.</num>
-                                    <name xml:lang="lat" key="wd:Q26663">A. (vulgaris)</name></head>
-                                    <ab type="morphology">fol. pinnatifidis planis inciſis ſubtus tomentoſis; racemis ſimplicibus recuruatis; flor. radio
-                                        quinquefloro.</ab>
+                                        <name xml:lang="lat" key="wd:Q26663">A. (vulgaris)</name>
+                                    </head>
+                                    <ab type="morphology">fol. pinnatifidis planis inciſis ſubtus tomentoſis; racemis ſimplicibus recuruatis; 
+                                        flor. radio quinquefloro.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Gemeiner Beyfuß.</ab>
                                     <ab type="location">
                                         H. am <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>, et alibi, copioſiſſime.</ab>
@@ -13566,7 +13605,7 @@
                                     <fw>Carbo</fw>
                                     <pb n="187"/>
                                     <fw>SYNGENESIA. POLYG. SVPERFL. Tanacetum. 187</fw>
-                                    <ab>Carbo ſub radicibus, e radice ipſa, veteribus prodigioſus.
+                                    <ab type="additional_information">Carbo ſub radicibus, e radice ipſa, veteribus prodigioſus.
                                         In decocto ſumta curſum menſtruum et ipſum partum promouet. In
                                         cataplaſmate ambuſtis medetur. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name>
                                         Trita, praeſtans. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name> Vſus
@@ -13591,8 +13630,8 @@
                                     <ab type="location">
                                         H. am <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>, et alibi, copioſe.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab type="additional_information">Offic. <hi rend="capital">TANACETI</hi> Flores, Semina. Anthelminticum, dum ſemina
-                                        melle ſubacta ſumuntur. Roborat praeterea et ventriculo
+                                    <ab type="additional_information">Offic. <hi rend="capital">TANACETI</hi> Flores, Semina. 
+                                        Anthelminticum, dum ſemina melle ſubacta ſumuntur. Roborat praeterea et ventriculo
                                         imbecillo ſuccurrit. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name> Praeſtans. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
                             </div>
                         </div>
@@ -13620,8 +13659,8 @@
                                         <placeName type="habitat_description" xml:lang="lat">in arenoſis trans</placeName>
                                         <geogName type="river" key="wd:Q1644">Albim</geogName> frequens.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab type="additional_information">Offic. <hi rend="capital">STOECHADIS CITRINAE</hi> Flores. In ſtranguria flores pani
-                                        butyraceo inſperſi et ſic comeſti commendantur.</ab>
+                                    <ab type="additional_information">Offic. <hi rend="capital">STOECHADIS CITRINAE</hi> Flores. 
+                                        In ſtranguria flores pani butyraceo inſperſi et ſic comeſti commendantur.</ab>
                                 </div>
                             </div>
                             <div type="subcat-genus">
@@ -13663,6 +13702,7 @@
                                         et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0671" ana="vliginoſum" n="Gnaphalium uliginosum">
                                     <head>
                                        <num>671.</num>
@@ -13674,7 +13714,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in humidis</placeName> auf dem Anger, et alibi, copioſe.</ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
-                                    <ab>Capitula nigricantia.</ab>
+                                    <ab type="additional_information">Capitula nigricantia.</ab>
                                 </div>
                             </div>
                         </div>
@@ -13691,7 +13731,8 @@
                                 aequalibus. Sem. obouata.</ab>
                             <div type="plant-species" xml:id="s.0672" ana="bellis.perennis" n="Bellis perennis">
                                     <head><num>672.</num>
-                                    <name xml:lang="lat" key="wd:Q26158">B. (perennis)</name></head>
+                                        <name xml:lang="lat" key="wd:Q26158">B. (perennis)</name>
+                                    </head>
                                     <ab type="morphology">ſcapo nudo.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Gänſeblümlein.</ab>
                                     <ab type="location">
@@ -13741,7 +13782,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. ad viam</placeName> wo man nach dem Anger gehet,
                                         <placeName type="habitat_description" xml:lang="lat">et alibi in ruderatis et inter ſegetes</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Receptaculum albicans. Folia tenuiter inciſa.</ab>
+                                    <ab type="additional_information">Receptaculum albicans. Folia tenuiter inciſa.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0675" ana="matricaria.chamomilla" n="Matricaria chamomilla">
                                     <head>
@@ -13796,8 +13837,9 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. ad agros</placeName> bey der 
                                         <placeName type="locality" ana="ident.">kleinen Weidenallee</placeName>, et alibi, paſſim.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Calyx margine ſcarioſo hanc Chryſanthemis adſociat.</ab>
+                                    <ab type="additional_information">Calyx margine ſcarioſo hanc Chryſanthemis adſociat.</ab>
                                 </div>
+                                
                                 <fw>678.</fw>
                                 <pb n="190"/>
                                 <fw>190 SYNGENESIA. POLYG. SVP. Chryſanthemum.</fw>
@@ -13820,14 +13862,15 @@
                                 <head>** Chryſanthema.</head>
                                 <div type="plant-species" xml:id="s.0679" ana="chrysanthemum.segetum" n="Chrysanthemum segetum">
                                     <head><num>679.</num>
-                                        <name xml:lang="lat" key="wd:Q15627858">C. (ſegetum)</name></head>
+                                        <name xml:lang="lat" key="wd:Q15627858">C. (ſegetum)</name>
+                                    </head>
                                         <ab type="morphology">fol. amplexicaulibus, ſuperne laciniatis, inferne dentato-ſerratis.</ab>
-                                    <ab type="vernacular_name" xml:lang="ger">Goldblume; Wucherblume.</ab>
-                                    <ab type="location">
+                                        <ab type="vernacular_name" xml:lang="ger">Goldblume; Wucherblume.</ab>
+                                        <ab type="location">
                                             <placeName type="habitat_description" xml:lang="lat">H. apud nos rariſſime</placeName> bey
                                             <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName>.</ab>
                                         <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                        <ab>In Saxonia inferiore tam frequens eſt vitium agrorum, vt
+                                        <ab type="additional_information">In Saxonia inferiore tam frequens eſt vitium agrorum, vt
                                             in regionibus Hannoueranis ad plantam hanc eradicandam
                                             agricolas per edicta regia admonere neceſſarium viſum ſit. <name type="autor" key="wd:Q105443"><hi rend="italic">Beckm.</hi></name></ab>
                                 </div>
@@ -13843,7 +13886,8 @@
                                 antheris.</ab>
                             <div type="plant-species" xml:id="s.0680" ana="arnica.montana" n="Arnica montana">
                                     <head><num>680.</num>
-                                        <name xml:lang="lat" key="wd:Q207848">A. (montana)</name></head>
+                                        <name xml:lang="lat" key="wd:Q207848">A. (montana)</name>
+                                    </head>
                                     <ab type="morphology">fol. ouatis integris, caulinis geminis oppoſitis.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in gramineis ſyluaticis</placeName> bey
@@ -13868,7 +13912,8 @@
                                 deſinentes.</ab>
                             <div type="plant-species" xml:id="s.0681" ana="inula.dysenterica" n="Inula dysenterica">
                                     <head><num>681.</num>
-                                    <name xml:lang="lat" key="wd:Q21875311">I. (dyſenterica)</name></head>
+                                        <name xml:lang="lat" key="wd:Q21875311">I. (dyſenterica)</name>
+                                    </head>
                                     <ab type="morphology">fol. amplexicaulibus cordato-oblongis,
                                         caule villoſo paniculato, ſquamis calycinis ſetaceis.</ab>
                                     <ab type="location">
@@ -13882,20 +13927,22 @@
                                     <fw>cocti</fw>
                                     <pb n="191" break="no"/>
                                     <fw>SYNGENESIA. POLYG. SVPERFL. Inula. 191</fw>
-                                    <ab>cocti forma. Sed male in quibusdam officinis pro
+                                    <ab type="additional_information">cocti forma. Sed male in quibusdam officinis pro
                                         Arnica venditur; licet fabrica, ſapore et odore diuerſa. Hall.
-                                        <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> Ien. p. 181. et <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name></ab>
+                                        <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> 
+                                        Ien. p. 181. et <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name></ab>
                             </div>
                             <div type="plant-species" xml:id="s.0682" ana="inula.pulicaria" n="Inula pulicaria">
                                 <head><num>682.</num>
-                                    <name xml:lang="lat" key="wd:Q21875358">I. (Pulicaria)</name></head>
+                                    <name xml:lang="lat" key="wd:Q21875358">I. (Pulicaria)</name>
+                                </head>
                                     <ab type="morphology">fol. amplexicaulibus vndulatis, caule
                                         proſtrato, flor. ſubgloboſis radio breuiſſimo.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Kleine Dürrwurz; Flöhkraut.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in inundatis exſiccatis</placeName> am Wege nach dem Anger, et alibi, copioſe.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Caulis ſaepius erectus.</ab>
+                                    <ab type="additional_information">Caulis ſaepius erectus.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0683" ana="inula.salicina" n="Inula salicina">
                                     <head>
@@ -13916,12 +13963,13 @@
                                        <num>684.</num>
                                         <name xml:lang="lat" key="wd:Q1383606">I. (hirta)</name>
                                     </head>
-                                    <ab type="morphology">fol. ſeſſilibus lanceolatis recuruis ſubſerrato-ſcabris, caule teretiuſculo ſubpiloſo, floribus
+                                    <ab type="morphology">fol. ſeſſilibus lanceolatis recuruis ſubſerrato-ſcabris, 
+                                        caule teretiuſculo ſubpiloſo, floribus
                                         inferioribus altioribus.</ab>
                                     <ab type="location">
                                         H. am <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>, et alibi ad ſepes et foſſas, copioſe.</ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
-                                    <ab>Ab I. ſalicina differt foliis latioribus, obtuſioribus, vix
+                                    <ab type="additional_information">Ab I. ſalicina differt foliis latioribus, obtuſioribus, vix
                                         manifeſte ſerratis, caule vbique tereti. Calyx quaſi folioſus.</ab>
                             </div>
                         </div>
@@ -13935,13 +13983,14 @@
                                 anguſtiſſimi.</ab>
                             <div type="plant-species" xml:id="s.0685" ana="erigeron.canadensis" n="Erigeron canadensis">
                                     <head><num>685.</num>
-                                        <name xml:lang="lat" key="wd:Q21874197">E. (canadenſe)</name></head>
+                                        <name xml:lang="lat" key="wd:Q21874197">E. (canadenſe)</name>
+                                    </head>
                                     <ab type="morphology">caule floribus paniculatis, hirtis, fol. lanceolatis ciliatis.</ab>
                                     <ab type="location">
                                         H. am <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat">et alibi in cultis et ruderatis, copioſiſſime</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Planta quondam Americana pappo ſuo mire ſe propagans, nunc
+                                    <ab type="additional_information">Planta quondam Americana pappo ſuo mire ſe propagans, nunc
                                         vulgaris in Germania.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0686" ana="acre" n="Erigeron acris">
@@ -13955,11 +14004,11 @@
                                         H. auf dem Anger bey der groſſen <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat">et alibi in ſiccis, paſſim</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Auguſto, Septembri.</ab>
-                                    <ab>Herba Ruga Wedelii, quam recte inter abſtergentia re-</ab>
+                                    <ab type="additional_information">Herba Ruga Wedelii, quam recte inter abſtergentia re-</ab>
                                     <fw>fert.</fw>
                                     <pb n="193" break="no"/>
                                     <fw>192 SYNGENESIA. POLYG. SVPERFL. Solidago.</fw>
-                                    <ab>fert. Decocti ſpecie pituitam pulmonum incidit et expurgat. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name></ab>
+                                    <ab type="additional_information">fert. Decocti ſpecie pituitam pulmonum incidit et expurgat. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name></ab>
                             </div>
                         </div>
                         <div type="genus" xml:id="g.294">
@@ -13979,7 +14028,8 @@
                                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>; auch gegen
                                         <placeName type="settlement" key="wd:Q32036528">Gommern</placeName> hin.</ab>
                                     <ab type="flowering_time">Fl. Auguſto.</ab>
-                                    <ab type="additional_information">Offic. <hi rend="capital">VIRGAE AVREAE</hi> Herba. Inter praecipuas vulnerarias tonicasque
+                                    <ab type="additional_information">Offic. <hi rend="capital">VIRGAE AVREAE</hi> Herba. 
+                                        Inter praecipuas vulnerarias tonicasque
                                         refertur, eoque nomine balſamis vulnerariis et decoctis additur. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name></ab>
                             </div>
                         </div>
@@ -13996,10 +14046,11 @@
                                        <num>688.</num>
                                        <name xml:lang="lat" key="wd:Q109630864">C. (paluſtris)</name>
                                     </head>
-                                    <ab>floribus corymboſis, fol. lato-lanceolatis
+                                    <ab type="morphology">floribus corymboſis, fol. lato-lanceolatis
                                         dentato-ſinuatis, caule villoſo. Iacobaea paluſtris altiſſima
-                                        ſuaueolens foliis diſſectis. <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> Ien. p. 178.
-                                        <seg type="location">
+                                        ſuaueolens foliis diſſectis. 
+                                        <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> Ien. p. 178.</ab>
+                                    <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in paludibus</placeName> zwiſchen
                                         <placeName type="locality" key="wd:Q102004668">Colphus</placeName> und
                                         <placeName type="settlement" key="wd:Q138206407">Cyprena</placeName>, et alibi, frequens.</ab>
@@ -14026,12 +14077,12 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. inter olera in cultis copioſiſſime</placeName>.</ab>
                                     <ab type="flowering_time">Fl. per totum fere annum.</ab>
-                                    <ab>Aeſtum temperat et vulnerariam poſſidet virtutem. Externe in
+                                    <ab type="additional_information">Aeſtum temperat et vulnerariam poſſidet virtutem. Externe in
                                         lacte coctus ad teſtium inflammationes admo-</ab>
                                         <fw>uetur.</fw>
                                         <pb n="193" break="no"/>
                                         <fw>SYNGENESIA. POLYG. SVPERFL. Senecio. 193</fw>
-                                    <ab>uetur. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name> Seminibus delectantur paſſeres
+                                    <ab type="additional_information">uetur. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name> Seminibus delectantur paſſeres
                                         canori caueis incluſi.</ab>
                                 </div>
                             </div>
@@ -14050,6 +14101,7 @@
                                         <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0691" ana="ſyluaticus" n="Senecio sylvaticus">
                                     <head>
                                        <num>691.</num>
@@ -14061,8 +14113,9 @@
                                         <placeName type="settlement" ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW">Poleymühle</placeName> und
                                         <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Hall. <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> Ien. p. 177. tab. 3.</ab>
+                                    <ab type="additional_information">Hall. <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> Ien. p. 177. tab. 3.</ab>
                                 </div>
+                                
                             </div>
                             <div type="subcat-genus">
                                 <head>*** Floribus radiatis; radio patente, fol.
@@ -14079,6 +14132,7 @@
                                         <placeName type="settlement" key="wd:Q138206407">Cyprena</placeName> frequens.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0693" ana="Iacobaea" n="Senecio jacobaea">
                                     <head>
                                        <num>693.</num>
@@ -14091,7 +14145,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. ad dumeta</placeName> in der
                                         <placeName type="locality" key="wd:Q138291720">Gurgel</placeName>, et alibi, paſſim.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Herba viridi colore tingit.</ab>
+                                    <ab type="additional_information">Herba viridi colore tingit.</ab>
                                 </div>
                             </div>
                             <div type="subcat-genus">
@@ -14109,8 +14163,9 @@
                                         <geogName type="river" key="wd:Q1678">Salam</geogName> in der
                                         <placeName type="locality?" ana="not_ident.">Hinterluke</placeName>, frequens.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Planta procera ad ſexpedalem altitudinem adſcendens.</ab>
+                                    <ab type="additional_information">Planta procera ad ſexpedalem altitudinem adſcendens.</ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0695" ana="senecio.nemorensis" n="Senecio nemorensis">
                                     <head>
                                        <num>695.</num>
@@ -14128,6 +14183,7 @@
                                             <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> kommt.</ab>
                                         <ab type="flowering_time">Fl. Iulio.</ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0696" ana="ſaracenicus" n="Senecio sarracenicus">
                                     <head>
                                        <num>696.</num>
@@ -14140,7 +14196,7 @@
                                         <placeName type="habitat_description" xml:lang="ger">im Buſche hinter</placeName>
                                         <placeName type="settlement" key="wd:Q1746255">Kleinroſenburg</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Laudatur ad mala ex lapſu in decocto potatus. Folia
+                                    <ab type="additional_information">Laudatur ad mala ex lapſu in decocto potatus. Folia
                                         lato-lanceolata, glabra, acute ſerrata. Corollae radii plerumque quinque.</ab>
                                 </div>
                             </div>
@@ -14155,7 +14211,8 @@
                                 aequantes,  ſubmembranaceae.</ab>
                             <div type="plant-species" xml:id="s.0697" ana="tussilago.farfara" n="Tussilago farfara">
                                 <head><num>697.</num>
-                                    <name xml:lang="lat" key="wd:Q26302">T. (Farfara)</name></head>
+                                    <name xml:lang="lat" key="wd:Q26302">T. (Farfara)</name>
+                                </head>
                                     <ab type="morphology">ſcapo vnifloro imbricato, fol. subcordatis angulatis denticulatis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Brandlattich; Haberlattich.</ab>
                                     <ab type="location">
@@ -14195,7 +14252,8 @@
                                        <num>699.</num>
                                         <name xml:lang="lat" key="wd:Q19796604">A. (Tripolium)</name>
                                     </head>
-                                    <ab type="morphology">fol. Ianceolatis integerrimis carnoſis glabris, ramis inaequatis, flor. corymboſis.</ab>
+                                    <ab type="morphology">fol. Ianceolatis integerrimis carnoſis glabris, 
+                                        ramis inaequatis, flor. corymboſis.</ab>
                                     <ab type="location">
                                         H. ad <geogName type="river" key="wd:Q1644">Albim</geogName> bey den
                                         <placeName type="locality?" ana="not_ident.">Schifmühlen</placeName> copioſe.</ab>
@@ -14214,7 +14272,7 @@
                                     <ab type="location">
                                         H. im <placeName type="locality?" ana="not_ident.">Elbwerder</placeName>; rarius.</ab>
                                     <ab type="flowering_time">Fl. Auguſto, Septembri.</ab>
-                                    <ab>Eſt etiam flos in pratis, cui nomen Amello. Virg.</ab>
+                                    <ab type="additional_information">Eſt etiam flos in pratis, cui nomen Amello. Virg.</ab>
                             </div>
                         </div>
                         <div type="genus" xml:id="g.299">
@@ -14232,7 +14290,7 @@
                                        <num>701.</num>
                                        <name xml:lang="lat" key="wd:Q20778">A. (aruenſis)</name>
                                     </head>
-                                    <ab type="morphology">recept. conicis, paleis ſetaceis, ſem. coronato - marginatis.</ab>
+                                    <ab type="morphology">recept. conicis, paleis ſetaceis, ſem. coronato-marginatis.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. ad vias</placeName>
                                         <placeName type="habitat_description" xml:lang="ger">am Ende der</placeName>
@@ -14240,6 +14298,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">et alibi in agris et ad eorum margines, frequens</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
                                 </div>
+                                
                                 <div type="plant-species" xml:id="s.0702" ana="Cotula" n="Anthemis cotula">
                                     <head>
                                        <num>702.</num>
@@ -14276,7 +14335,7 @@
                                         <geogName type="river" key="wd:Q1644">Albim</geogName> dem
                                         <placeName type="locality?" ana="not_ident.">Schloſſe</placeName> gegen über, et alibi.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Flores praebent colorem luteum.</ab>
+                                    <ab type="additional_information">Flores praebent colorem luteum.</ab>
                                 </div>
                             </div>
                         </div>
@@ -14293,7 +14352,8 @@
                             <fw>196 SYNGENESIA. POLYG. SVPERFL. Achillea.</fw>
                             <div type="plant-species" xml:id="s.0704" ana="achillea.ptarmica" n="Achillea ptarmica">
                                     <head><num>704.</num>
-                                    <name xml:lang="lat" key="wd:Q1335122">A. (Ptarmica)</name></head>
+                                        <name xml:lang="lat" key="wd:Q1335122">A. (Ptarmica)</name>
+                                    </head>
                                     <ab type="morphology">fol. lanceolatis acuminatis argute ſerratis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Weiſſer Dorand.</ab>
                                     <ab type="location">
@@ -14329,8 +14389,9 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in aridis apricis</placeName> auf dem
                                         <placeName type="locality" ana="ident.">Mühlinger Berge</placeName>, frequens.</ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
-                                    <ab>Vires medicae in hac ſunt eaedem, ac in praecedenti; ſed
-                                        adhuc praeſtantiores. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name> Folia in ramis ſummis  floralibus
+                                    <ab type="additional_information">Vires medicae in hac ſunt eaedem, ac in praecedenti; ſed
+                                        adhuc praeſtantiores. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name> 
+                                        Folia in ramis ſummis  floralibus
                                         ſimplicia, ſemipinnata, integerrima. Caules non ſulcati. Florum
                                         radius demum reflectitur, vt non appareat.</ab>
                                 </div>
@@ -14345,7 +14406,7 @@
                                 <name xml:lang="lat" key="wd:Q156414"><hi rend="capital">CENTAVREA</hi>.</name>
                                 <name type="vernacular_name" xml:lang="ger">Flockblume.</name>
                             </head>
-                            <ab>Recept. ſetoſum. Pappus ſimplex. Cor.  radii infundibuliformes,
+                            <ab>Recept. ſetoſum. Pappus ſimplex. Cor. radii infundibuliformes,
                             longiores, irregulares.</ab>
                         <div type="plant-species" xml:id="s.0707" ana="centaurea.phrygia" n="Centaurea phrygia">
                                     <head>
@@ -14412,7 +14473,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in pratis et gramineis vbique</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Tingit lanas colore flauo.</ab>
+                                    <ab type="additional_information">Tingit lanas colore flauo.</ab>
                         </div>
                         <div type="plant-species" xml:id="s.0712" ana="centaurea.calcitrapa" n="Centaurea calcitrapa">
                                     <head>
@@ -14441,7 +14502,7 @@
                                         <placeName type="locality" key="wd:Q138135858">Gnez</placeName>;
                                         <placeName type="habitat_description" xml:lang="lat">forte cum ſemine Medicaginis ſatiuae aliunde allata</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Auguſto, Septembri.</ab>
-                                    <ab>Corolla lutea. Flores terminales ſolitarii. Pedunculi
+                                    <ab type="additional_information">Corolla lutea. Flores terminales ſolitarii. Pedunculi
                                         longiſſimi, folioſi. Spinae calycis longiores ſub calyce, baſi tantum dentatae.</ab>
                         </div>
                     </div>
@@ -14466,7 +14527,8 @@
                                         <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName>; auch gegen
                                         <placeName type="settlement" key="wd:Q32036528">Gommern</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Auguſto.</ab>
-                                    <ab>Simillima Bidenti cernuae; ſed flos eleganter radiatus, quod non in illa.</ab>
+                                    <ab type="additional_information">Simillima Bidenti cernuae; 
+                                        ſed flos eleganter radiatus, quod non in illa.</ab>
                         </div>
                     </div>
                 </div>
@@ -14486,13 +14548,13 @@
                                        <name xml:lang="lat" key="wd:Q108746821">F. (germanica)</name>
                                     </head>
                                     <ab type="morphology">panicula dichotoma, flor. rotundatis axillaribus hirſutis, fol. acutis.</ab>
-                                    <ab type="vernacular_name" xml:lang="ger">Ruhrkraut; Feldkatzlein; Engelblumen.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Ruhrkraut; Feldkätzlein; Engelblumen.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in agris</placeName> bey der
                                         <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat"> et alibi in ſiccis, frequens</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Magnitudine capitulorumque diſpoſitione variat.</ab>
+                                    <ab type="additional_information">Magnitudine capitulorumque diſpoſitione variat.</ab>
                         </div>
                         <div type="plant-species" xml:id="s.0716" ana="filago.montana" n="Filago montana">
                                     <head>
@@ -14504,7 +14566,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in ſiccis ſterilibus</placeName> auf dem Anger gegen
                                         <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>, frequens.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Foliis tenuibus, floribus ſparſis albis diſtinguitur.</ab>
+                                    <ab type="additional_information">Foliis tenuibus, floribus ſparſis albis diſtinguitur.</ab>
                         </div>
                         <div type="plant-species" xml:id="s.0717" ana="filago.arvensis" n="Filago arvensis">
                                     <head>
@@ -14540,8 +14602,9 @@
                                         <placeName type="locality?" ana="not_ident.">Herzogsgarten</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat">et alibi in cultis</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
-                                    <ab type="additional_information">Offic. <hi rend="capital">CALENDVLAE</hi> Herba, Flores, Semina. Vis pellens,
-                                        emmenagoga, ſudorifera. Trita, praeſtans. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
+                                    <ab type="additional_information">Offic. <hi rend="capital">CALENDVLAE</hi> Herba, Flores, Semina. 
+                                        Vis pellens, emmenagoga, ſudorifera. Trita, praeſtans. 
+                                        <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
                         </div>
                     </div>
                 </div>
@@ -14566,7 +14629,7 @@
                                          <placeName type="locality?" ana="not_ident.">Böſener Mark</placeName>
                                          <placeName type="habitat_description" xml:lang="lat">inter Carduos et Dipſacum</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Planta ſpecioſa, alias etiam in hortis culta.</ab>
+                                    <ab type="additional_information">Planta ſpecioſa, alias etiam in hortis culta.</ab>
                         </div>
                     </div>
                 </div>
@@ -14631,11 +14694,13 @@
                                         <placeName type="settlement" ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW">Poleymühle</placeName>; auch bey
                                         <placeName type="settlement" key="wd:Q32036528">Gommern</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Aprili, Maio.</ab>
-                                    <ab>Corolla alba aut coeruleo-albida, petalo inferiore venis purpureis picto.</ab>
+                                    <ab type="additional_information">Corolla alba aut coeruleo-albida, 
+                                        petalo inferiore venis purpureis picto.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0723" ana="viola.odorata" n="Viola odorata">
                                     <head><num>723.</num>
-                                    <name xml:lang="lat" key="wd:Q108684">V. (odorata)</name></head>
+                                        <name xml:lang="lat" key="wd:Q108684">V. (odorata)</name>
+                                    </head>
                                     <ab type="morphology">acaulis, fol. cordatis, ſtolonibus reptantibus.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Merzviolen.</ab>
                                     <ab type="location">
@@ -14679,7 +14744,8 @@
                             <head>*** Stipulis pinnatifidis; ſtigmate urceolato.</head>
                             <div type="plant-species" xml:id="s.0726" ana="viola.tricolor" n="Viola tricolor">
                                 <head><num>726.</num>
-                                    <name xml:lang="lat" key="wd:Q190326">V. (tricolor)</name></head>
+                                    <name xml:lang="lat" key="wd:Q190326">V. (tricolor)</name>
+                                </head>
                                     <ab type="morphology">caule triquetro diffuſo, fol. oblongis inciſis, ſtipulis pinnatifidis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Stiefmütterchen; Dreyfaltigkeitsblume; Freiſamkraut.</ab>
                                     <ab type="location">
@@ -14687,7 +14753,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">in agris arenoſis vbique</placeName>; et quidem varietates
                                         flore candido et luteo; atque flore coeruleo et candido.</ab>
                                     <ab type="flowering_time">Fl. Aprili et tota aeſtate.</ab>
-                                    <ab>Planta vix datur, in qua euidentius perſpicitur generationis
+                                    <ab type="additional_information">Planta vix datur, in qua euidentius perſpicitur generationis
                                         opus, quatn in huius cauo apertoque ſtigmate. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
                             </div>
                         </div>
@@ -14715,8 +14781,8 @@
                                         <geogName type="river" key="wd:Q1644">Albim</geogName>
                                         <placeName type="habitat_description" xml:lang="lat">in ſyluis vmbroſis</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Capſulae maturae tactae ſemina elaſtice explodunt. Noctu
-                                        obdormit foliis pendulis. Venenata perhibetur. Folia  tamen
+                                    <ab type="additional_information">Capſulae maturae tactae ſemina elaſtice explodunt. Noctu
+                                        obdormit foliis pendulis. Venenata perhibetur. Folia tamen
                                         extus imponi poſſunt haemorrhoidibus, <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name></ab>
                         </div>
                     </div>
@@ -14738,11 +14804,12 @@
                             <head>* Bulbis indiuiſis.</head>
                             <div type="plant-species" xml:id="s.0728" ana="orchis.bifolia" n="Orchis bifolia">
                                 <head><num>728.</num>
-                                    <name xml:lang="lat" key="wd:Q21977683">O. (bifolia)</name></head>
-                                    <ab>bulbis indiuiſis, nectarii labio lanceolato
-                                        integerrimo; cornu longiſſimo, petalis patentibus.
-                                        <name xml:lang="ger">Biſamknabenkraut; Nachtviolen</name> quibusdam.
-                                        <seg type="location">
+                                    <name xml:lang="lat" key="wd:Q21977683">O. (bifolia)</name>
+                                </head>
+                                    <ab type="morphology">bulbis indiuiſis, nectarii labio lanceolato
+                                        integerrimo; cornu longiſſimo, petalis patentibus.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Biſamknabenkraut; Nachtviolen quibusdam.</ab>
+                                    <ab type="location">
                                         H. im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">SATYRII</hi> Radix. Tabidis et ſenibus commendatur. Tormina
@@ -14760,14 +14827,15 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in editis</placeName> gegen
                                         <placeName type="settlement" key="wd:Q189815">Zens</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
-                                    <ab>Bulbi fuſiformes. Spica denſiſſima breuis. Flores reſupinati, purpuraſcentes.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Bulbi fuſiformes. 
+                                        Spica denſiſſima breuis. Flores reſupinati, purpuraſcentes.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0730" ana="orchis coriophora" n="Orchis coriophora">
                                     <head>
                                        <num>730.</num>
                                        <name xml:lang="lat" key="wd:Q158144">O. (coriophora)</name>
                                     </head>
-                                    <ab>bulbis indiuiſis , nectarii labio trifido
+                                    <ab>bulbis indiuiſis, nectarii labio trifido
                                         reflexo crenato; cornu breui, petalis conniuentibus.</ab>
                                 <fw>H.</fw>
                                 <pb n="203"/>
@@ -14776,8 +14844,9 @@
                                         H. bey <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName> im
                                         <placeName type="locality?" ana="not_ident.">Birkenbuſche</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
-                                    <ab>Labium trifidum, ſerratum.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Labium trifidum, ſerratum.</ab>
                             </div>
+                            
                             <div type="plant-species" xml:id="s.0731" ana="orchis.morio" n="Orchis morio">
                                     <head>
                                        <num>731.</num>
@@ -14789,7 +14858,8 @@
                                         H. im <placeName type="locality?" ana="not_ident.">Lietzker Buſche</placeName> hinter
                                         <placeName type="settlement?" ana="not_ident.">Gehren</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
-                                    <ab type="additional_information">Offic. <hi rend="capital">SALEP</hi> Radix. Vis lubricans, nutriens, aphrodiſiaca.
+                                    <ab type="additional_information">Offic. <hi rend="capital">SALEP</hi> Radix. 
+                                        Vis lubricans, nutriens, aphrodiſiaca.
                                         Labium lateribus crenulatum, trifidum media emarginata. Petala
                                         obtuſa, lineata.</ab>
                             </div>
@@ -14803,7 +14873,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. cum praecedente</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
-                                    <ab>Labium trifidum media biloba productiore punctis ſcabris.
+                                    <ab type="vernacular_name" xml:lang="ger">Labium trifidum media biloba productiore punctis ſcabris.
                                         Petala diſtincta.</ab>
                             </div>
                         </div>
@@ -14821,7 +14891,7 @@
                                         <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName>
                                         <placeName type="habitat_description" xml:lang="ger">linker Hand</placeName>, et alibi.</ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
-                                    <ab>Radices in duos vel tres digitos diuiſae. Folia parum
+                                    <ab type="vernacular_name" xml:lang="ger">Radices in duos vel tres digitos diuiſae. Folia parum
                                         maculata. Petala duo lateralia ſurſum flexa; tria vero
                                         conniuentia. Nectarii labium ſerratum, obſcure trilobum.
                                         Caulis fiſtuloſus.</ab>
@@ -14832,13 +14902,13 @@
                                        <name xml:lang="lat" key="wd:Q39340268">O. (ſambucina)</name>
                                     </head>
                                     <ab type="morphology">bulbis ſubpalmatis rectis, nectarii cornu
-                                        conico, labio ouato ſubtrilobo;  bracteis longitudine florum.</ab>
+                                        conico, labio ouato ſubtrilobo; bracteis longitudine florum.</ab>
                                     <ab type="location">
                                         H. hinter <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName>
                                         <placeName type="habitat_description" xml:lang="ger">linker Hand, wo man nach</placeName>
                                         <placeName type="settlement?" ana="not_ident.">Gehren</placeName> gehet.</ab>
                                     <ab type="flowering_time">Fl. Aprili, Maio.</ab>
-                                    <ab>Variat floribus albis et rubris. Labium ſerratum, trilobum,
+                                    <ab type="vernacular_name" xml:lang="ger">Variat floribus albis et rubris. Labium ſerratum, trilobum,
                                         media emarginata punctis purpureis. Deſcriptio ampla videatur Fl. Suec. 2. p. 313.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0735" ana="orchis.maculata" n="Orchis maculata">
@@ -14855,7 +14925,7 @@
                                 <fw>Labium</fw>
                                 <pb n="204"/>
                                 <fw>204 GYNANDRIA. DIANDRIA. Orchis.</fw>
-                                    <ab>Labium crenatum, trilobum, media anguſtiſſima integerrima.
+                                    <ab type="vernacular_name" xml:lang="ger">Labium crenatum, trilobum, media anguſtiſſima integerrima.
                                         Caulis ſolidus. Calcar breuius. Petala lateralia patula.
                                         Bracteae non flore longiores.</ab>
                             </div>
@@ -14870,7 +14940,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in pratis fyluaticis</placeName> bey
                                         <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
-                                    <ab>Labium aequale trifidum crenulatum, intermedia integerrima.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Labium aequale trifidum crenulatum, intermedia integerrima.</ab>
                             </div>
                         </div>
                     </div>
@@ -14902,7 +14972,7 @@
                                     <ab type="location">
                                         H. im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
-                                    <ab>Labium lineare.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Labium lineare.</ab>
                         </div>
                     </div>
                     <div type="genus" xml:id="g.311">
@@ -14922,7 +14992,7 @@
                                     <ab type="location">
                                         H. im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>; auch in ſyluaticis auf Ranies, frequens.</ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
-                                    <ab>Flores frustusque penduli. Nectarium lineis nullis. Folia
+                                    <ab type="vernacular_name" xml:lang="ger">Flores frustusque penduli. Nectarium lineis nullis. Folia
                                         amplexicaulia. Spica multiflora, longa. Petioli longi.</ab>
                         </div>
                     </div>
@@ -14979,7 +15049,8 @@
                                         H. am <placeName type="locality" ana="ident.">Butterdamme</placeName> bey
                                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
-                                    <ab>Panis paratur e radice in Weſtbotnia. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Panis paratur e radice in Weſtbotnia. 
+                                        <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
                         </div>
                     </div>
                 </div>
@@ -15008,7 +15079,7 @@
                                         <placeName type="settlement" key="wd:Q102004912">Zeiz</placeName>, wenn man nach
                                         <placeName type="settlement" key="wd:Q798763">Salze</placeName> gehet.</ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
-                                    <ab>Inter Cryptogama relata Sp. Pl. 2. p. 1624. et Fl. Suec. 2. p. 427.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Inter Cryptogama relata Sp. Pl. 2. p. 1624. et Fl. Suec. 2. p. 427.</ab>
                         </div>
                     </div>
                 </div>
@@ -15034,7 +15105,7 @@
                             <fw>Creſcit</fw>
                             <pb n="207"/>
                             <fw>MONOECIA. DIANDRIA. Lemna. 207</fw>
-                                    <ab>Creſcit more Opuntiae ſiue prolifero caule et complanato, ſemper decuſſato.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Creſcit more Opuntiae ſiue prolifero caule et complanato, ſemper decuſſato.</ab>
                         </div>
                         <div type="plant-species" xml:id="s.0744" ana="lemna.minor" n="Lemna minor">
                                     <head>
@@ -15045,7 +15116,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in aquis quietis vbique</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Anatum cibus gratiſſimus. Floret quotannis ſub canicula.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Anatum cibus gratiſſimus. Floret quotannis ſub canicula.</ab>
                         </div>
                         <div type="plant-species" xml:id="s.0745" ana="lemna.gibba" n="Lemna gibba">
                                     <head>
@@ -15066,7 +15137,8 @@
                                     </head>
                                     <ab type="morphology">fol. ſeſſilibus, radic. confertis.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">H. in foſſis et ſtagnis cum praecedentibus copioſe</placeName>.</ab>
+                                        <placeName type="habitat_description" xml:lang="lat">H. in foſſis et ſtagnis
+                                        cum praecedentibus copioſe</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                         </div>
                     </div>
@@ -15095,7 +15167,7 @@
                                         <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>, et alibi trans
                                         <geogName type="river" key="wd:Q1644">Albim</geogName>, copioſe.</ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
-                                    <ab>Deſcriptio Fl. Suec. 2. p. 325.</ab>
+                                    <ab type="additional_information">Deſcriptio Fl. Suec. 2. p. 325.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0748" ana="carex.leporina" n="Carex leporina">
                                     <head>
@@ -15124,8 +15196,9 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. ad foſſas</placeName> bey den
                                         <placeName type="locality?" ana="not_ident.">Windmühlen</placeName>, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
-                                    <ab>Culmus craſſus, firmus, exquiſite triangularis.</ab>
+                                    <ab type="additional_information">Culmus craſſus, firmus, exquiſite triangularis.</ab>
                             </div>
+                            
                             <div type="plant-species" xml:id="s.0750" ana="carex.muricata" n="Carex muricata" corresp="https://dr.jacq.org/DR024917">
                                     <head>
                                        <num>750.</num>
@@ -15136,8 +15209,9 @@
                                     <ab type="location">
                                         H. beym <placeName type="locality?" ana="not_ident.">ſauren Ziez</placeName>, et alibi, paſſim.</ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
-                                    <ab>Spica breuis. Folia carinata.</ab>
+                                    <ab type="additional_information">Spica breuis. Folia carinata.</ab>
                             </div>
+                            
                             <div type="plant-species" xml:id="s.0751" ana="carex.remota" n="Carex remota" corresp="https://dr.jacq.org/DR024916">
                                     <head>
                                        <num>751.</num>
@@ -15150,7 +15224,7 @@
                                         <geogName type="river" key="wd:Q884667">Nuthe</geogName> hinter
                                         <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Maio, Iulio.</ab>
-                                    <ab>Spiculae plerumque duae haerent in alis foliorum culmum
+                                    <ab type="additional_information">Spiculae plerumque duae haerent in alis foliorum culmum
                                         ſuperantium; tum vnica cum folio florali mediocri; tandem
                                         ſpiculae circa quatuor ſubnudae.</ab>
                             </div>
@@ -15163,9 +15237,8 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. cum praecedente</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
-                                    <ab>Spica vniuerſalis conſtat circiter ſex ſpiculis, inferioribus
-                                        duas lineas, ſuperioribus vnam lineam a ſe inuicem
-                                        diſtantibus.</ab>
+                                    <ab type="additional_information">Spica vniuerſalis conſtat circiter ſex ſpiculis, inferioribus
+                                        duas lineas, ſuperioribus vnam lineam a ſe inuicem diſtantibus.</ab>
                             </div>
                         </div>
                         <div type="subcat-genus">
@@ -15183,9 +15256,10 @@
                                         <placeName type="settlement" key="wd:Q102004912">Zeiz</placeName> wo man nach
                                         <placeName type="settlement" key="wd:Q798763">Salze</placeName> gehet.</ab>
                                     <ab type="flowering_time">Fl. Aprili, Maio.</ab>
-                                    <ab>Folia mollia, flaueſcentia. Culmi filiformes, nudi, ſpithamei.
+                                    <ab type="additional_information">Folia mollia, flaueſcentia. Culmi filiformes, nudi, ſpithamei.
                                         Spica feminea euadit maturitate nigra.</ab>
                             </div>
+                            
                             <div type="plant-species" xml:id="s.0754" ana="carex.globularis" n="Carex globularis" corresp="https://dr.jacq.org/DR024904">
                                     <head>
                                        <num>754.</num>
@@ -15229,6 +15303,7 @@
                                         <placeName type="settlement" ana="non_ident.">Badez</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
                             </div>
+                            
                             <div type="plant-species" xml:id="s.0757" ana="carex.caespitosa" n="Carex caespitosa" corresp="https://dr.jacq.org/DR024914">
                                     <head>
                                        <num>757.</num>
@@ -15242,7 +15317,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">auf dem Wege nach</placeName>
                                         <placeName type="settlement" key="wd:Q798763">Salze</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Aprili, Maio.</ab>
-                                    <ab>Deſcriptio Fl. Suec. 2. p. 333.</ab>
+                                    <ab type="additional_information">Deſcriptio Fl. Suec. 2. p. 333.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0758" ana="carex.distans" n="Carex distans" corresp="https://dr.jacq.org/DR024913">
                                     <head>
@@ -15256,7 +15331,7 @@
                                         <placeName type="locality?" ana="not_ident.">Pfingſtwieſe</placeName> bey
                                         <placeName type="settlement" key="wd:Q688045">Gnadau</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
-                                    <ab>A C. caeſpitosa differt ſpicis longe diſtantibus, breuiter
+                                    <ab type="additional_information">A C. caeſpitosa differt ſpicis longe diſtantibus, breuiter
                                         pedunculatis, nec nutantibus; capſulis acuminatis; ſquama calycina acuta.</ab>
                             </div>
                         </div>
@@ -15272,38 +15347,46 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in foſſis</placeName> bey der
                                         <placeName type="locality?" ana="not_ident.">Böſener Mark</placeName>, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. Aprili, Maio.</ab>
-                                    <ab>In pratis ſiccis vncialis, in aquoſis ſaepe tripedalis euadit polymorpha planta.</ab>
+                                    <ab type="additional_information">In pratis ſiccis vncialis, 
+                                        in aquoſis ſaepe tripedalis euadit polymorpha planta.</ab>
                             </div>
+                            
                             <div type="plant-species" xml:id="s.0760" ana="carex.vesicaria" n="Carex vesicaria" corresp="https://dr.jacq.org/DR024910, https://dr.jacq.org/DR024920">
                                     <head>
                                        <num>760.</num>
                                         <name xml:lang="lat" key="wd:Q157765">C. (veſicaria)</name>
                                     </head>
-                                    <ab type="morphology">ſpicis maſculis pluribus, femineis pedunculatis, capſulis inflatis acuminatis.</ab>
+                                    <ab type="morphology">ſpicis maſculis pluribus, femineis pedunculatis, 
+                                        capſulis inflatis acuminatis.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. ad foſſas</placeName> bey
                                         <placeName type="settlement" key="wd:Q138206407">Cyprena</placeName>, et alibi.</ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
-                                    <ab>Varietas β. Gramen cyperoides ſyluarum tenuius ſpicatum <hi rend="capital">RAII</hi>,
+                                    <ab type="additional_information">Varietas β. Gramen cyperoides ſyluarum 
+                                        tenuius ſpicatum <hi rend="capital">RAII</hi>,
                                         etiam occurrit ad foſſas paſſim.</ab>
                             </div>
+                            
                             <div type="plant-species" xml:id="s.0761" ana="carex.hirta" n="Carex hirta" corresp="https://dr.jacq.org/DR024908">
                                     <head>
                                        <num>761.</num>
                                         <name xml:lang="lat" key="wd:Q158312">C. (hirta)</name>
                                     </head>
-                                    <ab type="morphology">ſpicis remotis, maſculis pluribus, femineis ſubpedunculatis erectis, capſulis hirtis.</ab>
+                                    <ab type="morphology">ſpicis remotis, maſculis pluribus, femineis ſubpedunculatis erectis, 
+                                        capſulis hirtis.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. auf dem Anger, et alibi, copioſe</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
-                                    <ab> Pubeſcunt folia, ſpicae maſculae et capſulae. Spicae</ab>
+                                    <ab type="additional_information">Pubeſcunt folia, ſpicae maſculae et capſulae. Spicae</ab>
                                     <fw>O maſculae</fw>
                                     <pb n="210"/>
                                     <fw>210 MONOECIA. TRIANDRIA. Sparganium.</fw>
-                                    <ab>maſculae ſaepius tres ſunt, feminea valde remota,  erecta, pedunculata. Carices omnes in aetate tenera pecoribus pabulo, ſi aliud
+                                    <ab type="additional_information">maſculae ſaepius tres ſunt, feminea valde remota,  erecta, pedunculata. 
+                                        Carices omnes in aetate tenera pecoribus pabulo, ſi aliud
                                         non ſuppetat, eſſe poſſunt. Si autem adoleuerint, a
                                         pecoribus comedi nequeunt, iisque ſunt noxiae; hinc e
-                                        pratis, si fieri poteſt, eradicandae. <name type="reference" key="wd:Q13554413"><hi rend="italic">Schreb.</hi></name></ab>
+                                        pratis, si fieri poteſt, eradicandae. 
+                                        <name type="reference" key="wd:Q13554413"><hi rend="italic">Schreb.</hi></name></ab>
                             </div>
                         </div>
                     </div>
@@ -15345,7 +15428,7 @@
                                         <placeName type="locality?" ana="not_ident.">Weinberge</placeName> nach
                                         <placeName type="settlement" key="wd:Q695632">Pömelte</placeName> zu; et alibi.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Spathae a deciduae, altera ad ſpicae maſculae baſin, altera ad eius medium.</ab>
+                                    <ab type="additional_information">Spathae a deciduae, altera ad ſpicae maſculae baſin, altera ad eius medium.</ab>
                         </div>
                         <div type="plant-species" xml:id="s.0764" ana="typha.angustifolia" n="Typha angustifolia">
                                     <head>
@@ -15359,7 +15442,7 @@
                                         <placeName type="locality?" ana="not_ident.">Pröbsſümpfen</placeName>,
                                         <placeName type="habitat_description" xml:lang="lat">et alibi; frequentior, quam praecedens</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
-                                    <ab>Foliis vtuntur vietores ad doliorum circulos firmandos. Pappus
+                                    <ab type="additional_information">Foliis vtuntur vietores ad doliorum circulos firmandos. Pappus
                                         typharum loco plumarum a pauperibus immittitur puluinaribus.</ab>
                         </div>
                     </div>
@@ -15378,7 +15461,8 @@
                             <ab><hi rend="capital">MASC.</hi> Cal. 4-phyllus. Cor. 0. Nectarium centrale, cyathiforme. <hi rend="capital">FEM.</hi> Cal. 2-valuis. Cor. 0. Sem. 1, nitidum.</ab>
                         <div type="plant-species" xml:id="s.0765" ana="urtica.pilulifera" n="Urtica pilulifera" corresp="https://dr.jacq.org/DR024750">
                                     <head><num>765.</num>
-                                    <name xml:lang="lat" key="wd:Q160037">V. (pilulifera)</name></head>
+                                        <name xml:lang="lat" key="wd:Q160037">V. (pilulifera)</name>
+                                    </head>
                                     <ab type="morphology">fol. oppoſitis ouatis ſerratis, amentis
                                         fructiferis globoſis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Römiſche Neſſeln.</ab>
@@ -15399,14 +15483,15 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in cultis vbique</placeName>.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
-                                    <ab>Recens conſciſſa pullis meleagridum in cibo datur. Recipitur etiam
+                                    <ab type="additional_information">Recens conſciſſa pullis meleagridum in cibo datur. Recipitur etiam
                                         primo vere in iuſcula, aut pani butyro illito immittitur. Contra
                                         phthiſin a nonnullis extollitur. Stupenda ſtructura plantae, qua
                                         pungat et vrat, oculo armato inſpicienda. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
                         </div>
                         <div type="plant-species" xml:id="s.0767" ana="urtica.dioica" n="Urtica dioica" corresp="https://dr.jacq.org/DR024752">
                             <head><num>767.</num>
-                                <name xml:lang="lat" key="wd:Q155909">V. (dioica)</name></head>
+                                <name xml:lang="lat" key="wd:Q155909">V. (dioica)</name>
+                            </head>
                                 <ab type="morphology">fol. oppoſitis cordatis, racemis geminis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Brennneſſel; groſſe Neſſel.</ab>
                                     <ab type="location">
@@ -15425,14 +15510,16 @@
                                 <name xml:lang="lat" key="wd:Q25243"><hi rend="capital">BETVLA</hi>.</name>
                                 <name type="vernacular_name" xml:lang="ger">Birke.</name>
                             </head>
-                            <ab><hi rend="capital">MASC.</hi> Cal. 1-phyllus, 3-fidus, 3-florus. Cor. 4-partita. <hi rend="capital">FEM.</hi> Cal. 1-phyllus, ſub-3-fidus, 2-florus. Sem. vtrimque membrana
+                            <ab><hi rend="capital">MASC.</hi> Cal. 1-phyllus, 3-fidus, 3-florus. Cor. 4-partita. 
+                                <hi rend="capital">FEM.</hi> Cal. 1-phyllus, ſub-3-fidus, 2-florus. Sem. vtrimque membrana
                             alata.</ab>
                         <fw>O 2 768.</fw>
                         <pb n="212"/>
                         <fw>212 MONOECIA. TETRANDRIA. Betula.</fw>
                         <div type="plant-species" xml:id="s.0768" ana="betula.alba" n="Betula alba" corresp="https://dr.jacq.org/DR024881">
                             <head><num>763.</num>
-                                <name xml:lang="lat" key="wd:Q12836942">B. (alba)</name></head>
+                                <name xml:lang="lat" key="wd:Q12836942">B. (alba)</name>
+                            </head>
                                 <ab type="morphology">fol. ouatis acuminatis ſerratis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Birke; Mayen.</ab>
                                     <ab type="location">
@@ -15473,7 +15560,8 @@
                                 <name type="vernacular_name" xml:lang="ger">Spitzklette.</name>
                             </head>
                             <ab><hi rend="capital">MASC.</hi> Cal. communis imbricatus. Cor.  1-petalae, 5-fidae,
-                            infundibuliformes. Recept. paleaceum. <hi rend="capital">FEM.</hi> Cal. inuolucrum 2-phyllum, 2-florum. Cor. 0. Drupa ſicca, muricata,
+                            infundibuliformes. Recept. paleaceum. <hi rend="capital">FEM.</hi> 
+                                Cal. inuolucrum 2-phyllum, 2-florum. Cor. 0. Drupa ſicca, muricata,
                              2-fida. Nucleus 2-loculatis.</ab>
                         <div type="plant-species" xml:id="s.0770" ana="ſtrumarium" n="Xanthium strumarium" corresp="https://dr.jacq.org/DR024639">
                                     <head>
@@ -15509,7 +15597,8 @@
                                        <num>771.</num>
                                         <name xml:lang="lat" key="wd:Q160572">A. (Blitum)</name>
                                     </head>
-                                    <ab type="morphology">glomerulis lateralibus, floribus trifidis, fol. ouatis, retuſis; caule diffuſo. Mayer.</ab>
+                                    <ab type="morphology">glomerulis lateralibus, floribus trifidis, fol. ouatis, retuſis; caule diffuſo.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Mayer.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. inter olera in hortis et cultis frequens</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
@@ -15524,7 +15613,7 @@
                                 <name xml:lang="lat" key="wd:Q157652"><hi rend="capital">SAGITTARIA</hi>.</name>
                                 <name type="vernacular_name" xml:lang="ger">Pfeilkraut.</name>
                             </head>
-                            <ab><hi rend="capital">MASC.</hi> Cal. 3-phyllus. Cor. 3-petala.  Filamenta fere 24. <hi rend="capital">FEM.</hi> Cal. 3-phyllus. Corolla 3-petala. Piſt. multa. Sem. multa,
+                            <ab><hi rend="capital">MASC.</hi> Cal. 3-phyllus. Cor. 3-petala. Filamenta fere 24. <hi rend="capital">FEM.</hi> Cal. 3-phyllus. Corolla 3-petala. Piſt. multa. Sem. multa,
                             nuda.</ab>
                         <div type="plant-species" xml:id="s.0772" ana="ſagittaefolia" n="Sagittaria sagittifolia" corresp="https://dr.jacq.org/DR024887">
                                     <head>
@@ -15535,7 +15624,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in foſſis</placeName> auf dem Anger, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                                    <ab>Chinenſes Sagittariam ſerunt, vt bulbum radicis pro culina
+                                    <ab type="vernacular_name" xml:lang="ger">Chinenſes Sagittariam ſerunt, vt bulbum radicis pro culina
                                         obtineant, quem copioſe edunt. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
                         </div>
                     </div>
@@ -15557,7 +15646,7 @@
                                         <placeName type="locality" key="wd:Q102004668">Colphus</placeName> nach
                                         <placeName type="settlement" key="wd:Q138206407">Cyprena</placeName>, et alibi, copioſe.</ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
-                                    <ab>Spica aphylla.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Spica aphylla.</ab>
                         </div>
                         <div type="plant-species" xml:id="s.0774" ana="verticillatum" n="Myriophyllum verticillatum">
                                     <head>
@@ -15568,7 +15657,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. cum praecedente, paſſim</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
-                                    <ab>Folia quaterna.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Folia quaterna.</ab>
                         </div>
                     </div>
                     <fw>O 3 323.</fw>
@@ -15580,7 +15669,7 @@
                                 <name xml:lang="lat" key="wd:Q21795"><hi rend="capital">CERATOPHYLLVM</hi>.</name>
                                 <name type="vernacular_name" xml:lang="ger">Zinkenblatt.</name>
                             </head>
-                            <ab><hi rend="capital">MASC.</hi> Cal. multipartitus. Cor. 0. Stam.  16-20. <hi rend="capital">FEM.</hi> Cal. multipartitus. Cor. 0. Piſt. 1.  Stylus 0. Sem. 1,
+                            <ab><hi rend="capital">MASC.</hi> Cal. multipartitus. Cor. 0. Stam. 16-20. <hi rend="capital">FEM.</hi> Cal. multipartitus. Cor. 0. Piſt. 1.  Stylus 0. Sem. 1,
                             nudum.</ab>
                         <div type="plant-species" xml:id="s.0775" ana="ceratophyllum.demersum" n="Ceratophyllum demersum" corresp="https://dr.jacq.org/DR024890">
                                     <head>
@@ -15604,7 +15693,8 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in foſſis</placeName> gegen
                                         <placeName type="settlement" ana="non_ident.">Badez</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
-                                    <ab>Fructus glabri. Planta minor et tenerior, quam praecedens: folia etiam minora.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Fructus glabri. 
+                                        Planta minor et tenerior, quam praecedens: folia etiam minora.</ab>
                         </div>
                     </div>
                     <div type="genus" xml:id="g.326">
@@ -15643,7 +15733,8 @@
                         <fw>MONOECIA. POLYANDRIA. Fagus. 215 </fw>
                         <div type="plant-species" xml:id="s.0778" ana="ſyluatica" n="Fagus sylvatica" corresp="https://dr.jacq.org/DR024879">
                             <head><num>778.</num>
-                                <name xml:lang="lat" key="wd:Q146149">F. (ſyluatica)</name></head>
+                                <name xml:lang="lat" key="wd:Q146149">F. (ſyluatica)</name>
+                            </head>
                                 <ab type="morphology">fol. ouatis obſolete ſerratis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Rothbuche.</ab>
                                     <ab type="location">
@@ -15697,8 +15788,10 @@
                                     <ab type="location">
                                         H. im <placeName type="locality" key="wd:Q138135858">Gnez</placeName>, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. Martio.</ab>
-                                    <ab type="additional_information">Offic. <hi rend="capital">CORYLI</hi> Lignum, Nuces. Nucum oleum anodynum eſt, et calculoſis
-                                        hominibus ob vim lenientem ſalutare. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name> Carbones ad delineationes
+                                    <ab type="additional_information">Offic. <hi rend="capital">CORYLI</hi> Lignum, Nuces. 
+                                        Nucum oleum anodynum eſt, et calculoſis
+                                        hominibus ob vim lenientem ſalutare. 
+                                        <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name> Carbones ad delineationes
                                         pictorum, ſculptorum, aurifabrorum vſurpantur.</ab>
                         </div>
                     </div>
@@ -15723,7 +15816,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. culta</placeName> hinter dem
                                         <placeName type="locality" key="wd:Q138135858">Gnez</placeName>; auf Ranies, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. Aprili, Maio.</ab>
-                                    <ab>Arbor topiaria pro ſepibus. Lignum album tenaciſſimum, pondera
+                                    <ab type="vernacular_name" xml:lang="ger">Arbor topiaria pro ſepibus. Lignum album tenaciſſimum, pondera
                                         ſuſtinet immenſa. Cortex interior lanas luteo colore inficit.
                                         <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
                         </div>
@@ -15764,18 +15857,18 @@
                                        <name xml:lang="lat" key="wd:Q21876257">P. (Picea)</name>
                                     </head>
                                     <ab type="morphology">fol. ſolitariis emarginatis.</ab>
-                                    <ab type="vernacular_name" xml:lang="ger">Weißkanne.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Weißtanne.</ab>
                                     <ab type="location">
                                         H. trans <geogName type="river" key="wd:Q1644">Albim</geogName>
                                         <placeName type="habitat_description" xml:lang="lat">in ſyluis</placeName> Serueſtanis.</ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
-                                    <ab>Inter tres noſtrates haec ſpecies elegantiſſima, ob folia
-                                    ſaturate viridia horizontaliter diſpoſita, ramificationes</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Inter tres noſtrates haec ſpecies elegantiſſima, ob folia
+                                        ſaturate viridia horizontaliter diſpoſita, ramificationes</ab>
                                     <fw>regu-</fw>
                                     <pb n="217"/>
                                     <fw>MONOECIA. MONADELPHIA. Pinus.
                                     217</fw>
-                                    <ab>regulares, et truncum ſtrictum albicantem. Sed lignum eius pro
+                                    <ab type="vernacular_name" xml:lang="ger">regulares, et truncum ſtrictum albicantem. Sed lignum eius pro
                                         fornace ex his tribus eſt minimi pretii. Terebinthinam communem
                                         fundunt tres noſtrae Pini ſpecies; optimam tamen et copioſiſſimam
                                         haec P. Picea ex veſiculis in trunco ſub cortice inueniendis et
@@ -15820,8 +15913,8 @@
                                         <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>; gegen
                                         <placeName type="locality?" ana="not_ident.">Gethſemane</placeName>, et alibi, paſſim.</ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
-                                    <ab type="additional_information">Offic. <hi rend="capital">BRYONIAE</hi> Radix, Baccae, Semina. Radix purgante virtute
-                                        ſatis forti praedita eſt, vt et reſoluente. Hinc ad hydropem,
+                                    <ab type="additional_information">Offic. <hi rend="capital">BRYONIAE</hi> Radix, Baccae, Semina. 
+                                        Radix purgante virtute ſatis forti praedita eſt, vt et reſoluente. Hinc ad hydropem,
                                         aſthmata et arthritidem conducit. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name> Vnguentum externe in
                                         pleuritide ſolatium adfert. Vſitata, eximia, <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
                         </div>
@@ -15860,7 +15953,8 @@
                                        <num>787.</num>
                                        <name xml:lang="lat" key="wd:Q21877272">S. (vitellina)</name>
                                     </head>
-                                    <ab type="morphology">fol. ſerratis ouatis acutis glabris; ſerraturis cartilagineis, petiolis calloſo-punctatis.</ab>
+                                    <ab type="morphology">fol. ſerratis ouatis acutis glabris; ſerraturis cartilagineis, 
+                                        petiolis calloſo-punctatis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Gelbe Weide.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="ger">H. am Teiche im</placeName>
@@ -15868,7 +15962,7 @@
                                         <placeName type="habitat_description" xml:lang="ger"> am Teiche bey der</placeName>
                                         <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Aprili.</ab>
-                                    <ab>Squamae inter ſtamina flauae. Haec ſpecies hortulanis
+                                    <ab type="vernacular_name" xml:lang="ger">Squamae inter ſtamina flauae. Haec ſpecies hortulanis
                                         aptiſſima ad arbores alligandas, ob ramulorum eximiam tenacitatem.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0788" ana="salix.amygdalina" n="Salix amygdalina">
@@ -15896,7 +15990,7 @@
                                         H. ad <geogName type="river" key="wd:Q1644">Albim</geogName> paſſim; im
                                         <placeName type="locality" key="wd:Q138011875">Kuhwerder</placeName>, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. Aprili.</ab>
-                                    <ab>Haec ſpecies et S. alba ſunt maximae et in arbores vaſtas
+                                    <ab type="vernacular_name" xml:lang="ger">Haec ſpecies et S. alba ſunt maximae et in arbores vaſtas
                                         excreſcunt; cum reliquae ſpecies noſtrates humiliores
                                         et debiliores maneant. Hinc ambae frequenter plantantur pro
                                         lignis ad focum obtinendis: ſed S. alba praeferenda eſt.</ab>
@@ -15912,7 +16006,8 @@
                                         H. am <placeName type="locality?" ana="not_ident.">Elbdamme</placeName> gegen den
                                         <placeName type="locality" key="wd:Q138135858">Gnez</placeName>, et alibi.</ab>
                                     <ab type="flowering_time">Fl. Aprili.</ab>
-                                    <ab>Rami ſaepe ſanguineo-corallini. Stipulae nullae. Folia inferiora ſuboppoſita.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Rami ſaepe ſanguineo-corallini. Stipulae nullae. 
+                                        Folia inferiora ſuboppoſita.</ab>
                             </div>
                         </div>
                         <div type="subcat-genus">
@@ -15950,7 +16045,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in arenoſis humidis</placeName> gegen 
                                         <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Aprili.</ab>
-                                    <ab>Gemma vniualuis bipartita. Folia minima ſupra et amenta
+                                    <ab type="vernacular_name" xml:lang="ger">Gemma vniualuis bipartita. Folia minima ſupra et amenta
                                         communiter nigreſcunt. Affines ſunt S. arenaria, incubacea, repens, fuſca.</ab>
                             </div>
                         </div>
@@ -15967,28 +16062,31 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. ad foſſas</placeName> am
                                         <placeName type="locality" key="wd:Q138135858">Gnez</placeName>, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. Martio, Aprili.</ab>
-                                    <ab>Decoctum in cardialgia ſputatoria Lapponibus vſitatum. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Decoctum in cardialgia ſputatoria Lapponibus vſitatum. 
+                                        <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
                             </div>
                             <fw>795.</fw>
                             <pb n="220"/>
                             <fw>220 DIOECIA. DIANDRIA. Salix.</fw>
                             <div type="plant-species" xml:id="s.0795" ana="salix.viminalis" n="Salix viminalis" corresp="https://dr.jacq.org/DR024212">
-                                    <head>
-                                       <num>795.</num>
+                                    <head><num>795.</num>
                                        <name xml:lang="lat" key="wd:Q158590">S. (viminalis)</name>
                                     </head>
-                                    <ab type="morphology">fol. ſubintegerrimis lanceolato-linearibus longiſſimis acutis ſubtus ſericeis, ramis virgatis.</ab>
+                                    <ab type="morphology">fol. ſubintegerrimis lanceolato-linearibus longiſſimis acutis ſubtus ſericeis, 
+                                        ramis virgatis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Korbweide.</ab>
                                     <ab type="location">
                                         H. ad <geogName type="river" key="wd:Q1644">Albim</geogName> und im
                                         <placeName type="locality" key="wd:Q138011875">Kuhwerder</placeName>, copioſiſſime.</ab>
                                     <ab type="flowering_time">Fl. Martio, Aprili.</ab>
-                                    <ab>Frutex cito creſcens. Rami ad corbes vſitatiſſimi.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Frutex cito creſcens. Rami ad corbes vſitatiſſimi.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0796" ana="salix.alba" n="Salix alba" corresp="https://dr.jacq.org/DR024211">
                                     <head><num>796.</num>
-                                    <name xml:lang="lat" key="wd:Q156918">S. (alba)</name></head>
-                                    <ab type="morphology">fol. lanceolatis acuminatis ſerratis vtrimque pubeſcentibus; ſerraturis infimis glanduloſis.</ab>
+                                        <name xml:lang="lat" key="wd:Q156918">S. (alba)</name>
+                                    </head>
+                                    <ab type="morphology">fol. lanceolatis acuminatis ſerratis vtrimque pubeſcentibus; 
+                                        ſerraturis infimis glanduloſis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Gemeiner Weidenbaum.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in ſalicetis vbique</placeName>. Arbores duae, mas et femina, numquam amputatae et
@@ -16034,7 +16132,7 @@
                                         <fw>ris</fw>
                                         <pb n="221" break="no"/>
                                         <fw>DIOECIA. PENTANDRIA. Humlus. 22I</fw>
-                                    <ab>ris paraſiticus absque radice, ſemperuirens, mare feminae oppoſito. Viſcus pro
+                                    <ab type="vernacular_name" xml:lang="ger">ris paraſiticus absque radice, ſemperuirens, mare feminae oppoſito. Viſcus pro
                                         auibus capiendis ex baccis paratur.</ab>
                         </div>
                     </div>
@@ -16047,7 +16145,7 @@
                                 <name xml:lang="lat" key="wd:Q158790"><hi rend="capital">HVMVLVS</hi>.</name>
                                 <name type="vernacular_name" xml:lang="ger">Hopfen.</name>
                             </head>
-                            <ab>masc. Cal. 5-phyllus. Cor. 0. fem. Cal. 1-phyIlus, oblique patens,  integer. Cor. 0. Styli 2. Sem.
+                            <ab>masc. Cal. 5-phyllus. Cor. 0. fem. Cal. 1-phyIlus, oblique patens, integer. Cor. 0. Styli 2. Sem.
                             1, intra  calycem foliatum.</ab>
                         <div type="plant-species" xml:id="s.0798" ana="humulus.lupulus" n="Humulus lupulus" corresp="https://dr.jacq.org/DR024149">
                                     <head>
@@ -16086,7 +16184,8 @@
                                         H. bey <placeName type="settlement" key="wd:Q138206407">Cyprena</placeName>; bey der
                                         <placeName type="locality?" ana="not_ident.">Böſener Mark</placeName>; frequens.</ab>
                                     <ab type="flowering_time">Fl. Martio, Aprili.</ab>
-                                    <ab>Folia a vento agitata, quia ſubtus ſunt albiſſima, praebent
+                                    <ab type="vernacular_name" xml:lang="ger">Folia a vento agitata, 
+                                        quia ſubtus ſunt albiſſima, praebent
                                         ſpectaculum, ac ſi arbor niue tecta eſſet.</ab>
                         </div>
                         <fw>800.</fw>
@@ -16135,7 +16234,7 @@
                                 <name type="vernacular_name" xml:lang="ger">Froſchbiß; Plompen.</name>
                             </head>
                             <ab><hi rend="capital">MASC.</hi>. Spatha 2-phylla. Cal. 3-fidus.  Corolla 3-petala. Filamenta 3
-                                    interiora ſtylifera. <hi rend="capital">FEM</hi>. Cal. 3-fidus. Cor. 3-petala. Styli. 6.  Capſ. 6-locularis,
+                                    interiora ſtylifera. <hi rend="capital">FEM</hi>. Cal. 3-fidus. Cor. 3-petala. Styli. 6. Capſ. 6-locularis,
                                     polyſperma, infera.</ab>
                         <div type="plant-species" xml:id="s.0802" ana="Morſus ranae" n="Hydrocharis morsus-ranae">
                                     <head>
