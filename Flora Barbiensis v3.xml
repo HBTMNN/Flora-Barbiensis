@@ -1255,7 +1255,7 @@
                             </div>
                         </div>
                         <div type="flores">
-                            <head>c. Flores graminei, valuulis Glumae calycinae.</head>
+                            <head>c. Flores graminei, valuulis Glumae calycinae.</head></div>
                         <div type="genus" xml:id="g.015">
                             <head>
                                 <num>15.</num>
@@ -4037,7 +4037,7 @@
                                         <placeName type="locality?" ana="not_ident.">Schloſſe</placeName> gegen über.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                             </div>
-                            <div><ab> ** Foliis ſcabris latioribus.</ab>
+                            <div><ab> ** Foliis ſcabris latioribus.</ab></div>
                                 
                             <div type="plant-species" xml:id="s.0181" ana="rapunculoides" n="Campanula rapunculoides" corresp="https://dr.jacq.org/DR024565">
                                     <head>
@@ -4566,7 +4566,7 @@
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                             </div>
                             <div>
-                                <head> ** Foliis integris.</head>
+                                <head> ** Foliis integris.</head></div>
                                 
                             <div type="plant-species" xml:id="s.0207" ana="Vuluaria" n="Chenopodium vulvaria" corresp="https://dr.jacq.org/DR024976">
                                     <head>
@@ -19819,7 +19819,7 @@
                     </div>
                 </div>
                 <fw>APPEN-</fw>
-            </div>
+            </div>                
         </body>
         <back>
             <div type="appendix">
@@ -19951,7 +19951,7 @@
                                     <ab type="morphology">corollis barbatis, caule foliis altiore multifloro, floribus inferioribus peduncularis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Schwertlilie.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.
+                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">IREOS NOSTRATIS</hi> Radix. Ad hydropicorum aquas educendas
                                         commendatur. Comeſta ſtrumoſis certiſſimum medicamentum habetur
                                         <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name> Heroica. 
@@ -19974,7 +19974,7 @@
                                     <ab type="morphology">panicula ſubouata ſpiciformi, glumis carinatis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Canarienſamen.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">In hortis paſſim</placeName>.
+                                        <placeName type="habitat_description" xml:lang="lat">In hortis paſſim</placeName>.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">CANARIENSE</hi> Semen. 
                                         Vſus praecipue pro pabulo Paſſerum
                                         canarienſium. Poſſet autem in cibum etiam hominum vſurpari.
@@ -19998,7 +19998,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">In agris</placeName> bey
                                         <placeName type="settlement" key="wd:Q1270887">Döben</placeName>; bey
                                         <placeName type="settlement" key="wd:Q177585">Großroſenburg</placeName>, und gegen
-                                        <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.
+                                        <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">MILII.</hi> Semen. Seminis decoctum leniens et demulcens in
                                         dyſenteria Hungarica ſpecificum deprehenſum. <name type="autor" key="wd:Q2172361"><hi rend="italic">Vog.</hi></name></ab>
                             </div>
@@ -20073,7 +20073,7 @@
                                     <ab type="morphology">floſculis omnibus hermaphroditis ariſtatis; ordinibus duobus erectioribus.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Gemeine Gerſte.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">In agris</placeName>.
+                                        <placeName type="habitat_description" xml:lang="lat">In agris</placeName>.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">HORDEI</hi> Semen. 
                                         Decoctum eius humores diluit, attenuat,
                                         temperat, ſitim exſtinguit et vrinae acrimoniam lenit. 
@@ -20132,7 +20132,7 @@
                                     <ab type="vernacular_name" xml:lang="ger">Färberröthe; Krapp.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">In horto botanico: 
-                                        alibi in agris colitur</placeName>.
+                                        alibi in agris colitur</placeName>.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">RVBIAE TINCTORVM</hi> Radix. 
                                         Eximia detergendi roborandique
                                         facultate pollet. Tingit colore rubro lanas; etiam oſſa
@@ -20219,7 +20219,8 @@
                                     <ab type="morphology">capſ. quinquelocularibus obtectis, caule
                                         indiuiſo, erecto, folioſo, flor. erectis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Waldglockenblume.</ab>
-                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.</div>
+                                    <ab type="location">
+                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.</ab>
                                     <ab type="additional_information">Calycibus a tergo lamellis quinque notatis.</ab>
                             </div>
                         </div>
@@ -20248,7 +20249,7 @@
                                     <ab type="morphology">capitulis ouatis imbricatis terminalibus, fol. omnibus diſtinctis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Gemeine Specklilie; Roſe von Jericho.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.
+                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">CAPRIFOLII</hi> Stipites, Herba, Aqua. 
                                         Vis vulneraria et mundificans. Dubia, exoleta. 
                                         <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
@@ -20272,7 +20273,7 @@
                                     <ab type="morphology">fol. lanceolato-ouatis ſeſſilibus decurrentibus, flor. acutis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Gemeiner Taback.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">In agris frequens</placeName>.
+                                        <placeName type="habitat_description" xml:lang="lat">In agris frequens</placeName>.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">TABACI</hi> Herba, Semina. 
                                         Circa annum 1560. in Europa primum
                                         innotuit per Ioannem Nicotum. Planta in ſe viroſa eſt et
@@ -20287,7 +20288,7 @@
                                        <name xml:lang="lat" key="wd:Q602633">N. (ruſtica)</name>
                                     </head>
                                     <ab type="morphology">fol. petiolatis ouatis integerrimis, flor. obtuſis.</ab>
-                                    <ab type="vernacular_name" xml:lang="ger">Kleiner Taback.
+                                    <ab type="vernacular_name" xml:lang="ger">Kleiner Taback.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">In agris inter praecedentem</placeName>.</ab>
                             </div>
@@ -20326,7 +20327,7 @@
                                     <ab type="morphology">caule inermi herbaceo, foliis pinnatis integerrimis, pedunculis ſubdiuiſis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Erdäpfel; Erdbirnen; Cartoffeln.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">In agris et hortis</placeName>.
+                                        <placeName type="habitat_description" xml:lang="lat">In agris et hortis</placeName>.</ab>
                                     <ab type="additional_information">Planta e Peru adlata circa 1590. Cibus hominum et pabulum fere
                                         omnium animalium.</ab>
                             </div>
@@ -20430,7 +20431,7 @@
                                     <ab type="morphology">floribus ternis. (Calycis foliola baſi inermia.)</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Weiſſer Mangold.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.
+                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">BETAE ALBAE</hi> Herba. Vis et
                                         vſus praecedentis. <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name></ab>
                             </div>
@@ -20448,7 +20449,7 @@
                                     <ab type="morphology">fol. pinnatis, floralibus ternatis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Zuckerwurzel.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.
+                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.</ab>
                                     <ab type="additional_information">Inter radices eſculentas vt ſalutifera et nutriens maxime laudatur.</ab>
                             </div>
                         </div>
@@ -20481,9 +20482,10 @@
                             <div type="plant-species" xml:id="s.035.cult" ana="anethum.foeniculum" n="Anethum foeniculum">
                                     <head><num>35.</num>
                                     <name xml:lang="lat" key="wd:Q21870225">A. (Foeniculum)</name></head>
-                                    <ab type="morphology">fructibus ouatis.
-                                    <ab type="vernacular_name" xml:lang="ger">Fenchel</name>.
-                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.
+                                    <ab type="morphology">fructibus ouatis.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Fenchel.</ab>
+                                    <ab type="location">
+                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">FOENICVLI</hi> Semen, Radix. In numero quatuor
                                         ſeminum calidorum ponitur ſemen; et radix inter quinque
                                         aperientes maiores recenſetur: vnde vſus facile pateſcit.
@@ -20524,7 +20526,7 @@
                                         <name xml:lang="lat" key="wd:Q21870603">A. (Petroſelinum)</name>
                                     </head>
                                     <ab type="morphology">fol. caulinis linearibus, inuolucellis minutis.</ab>
-                                    <ab type="vernacular_name" xml:lang="ger">Peterſilie</name>.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Peterſilie.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">In hortis copioſe</placeName>.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">PETROSELINI</hi> Radix. Aperientibus
@@ -20580,7 +20582,7 @@
                                     <ab type="morphology">caule planifolio bulbifero, bulbo compoſito, ſtam. tricuſpidatis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Zahmer Knoblauch.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">In hortis et nonnumquam in agris</placeName>.
+                                        <placeName type="habitat_description" xml:lang="lat">In hortis et nonnumquam in agris</placeName>.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">ALLII</hi> Radix. Virtus
                                         inſignis et multiplex. Calefacit, incidit et aperit; hinc ſtomachicum, diure-</ab>
                                         <fw>ticum,</fw>
@@ -20598,7 +20600,7 @@
                                         vmbella globoſa, ſtam. tricuſpidatis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Schalotten.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.
+                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.</ab>
                                     <ab type="additional_information">Floret rarius vel numquam. Vſus culinaris notiſſimus.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.042.cult" ana="Cepa" n="Allium cepa">
@@ -20629,7 +20631,7 @@
                                         <name xml:lang="lat" key="wd:Q87605304">H. (flaua)</name>
                                     </head>
                                     <ab type="morphology">corollis flauis. β. Lilio - Aſphodelus luteus minor.
-                                        <name type="reference" key="wd:Q51495344"><hi rend="italic">Tournef.</hi></name>
+                                        <name type="reference" key="wd:Q51495344"><hi rend="italic">Tournef.</hi></name></ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.</ab>
                                     <ab type="additional_information">Odor gratus. Flores explicantur plerumque noctu, et
@@ -20672,7 +20674,7 @@
                                     <ab type="morphology">fol. ſparſis, corollis campanulatis, intus glabris.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Weiſſe Lilie.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">In hortis copioſe</placeName>.
+                                        <placeName type="habitat_description" xml:lang="lat">In hortis copioſe</placeName>.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">LILIORVM ALBORVM</hi> Flores, Radix. Odor
                                         caput grauat et temulentum reddit. Flores oleo infuſi dolores
                                         leniunt et conſolidant. Radicis frequentiſſimus vſus eſt in
@@ -20749,7 +20751,7 @@
                                     <ab type="morphology">flor. lateralibus alternis ſubnutantibus, ſcapo angulato.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Sternhyacinthe.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.
+                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.</ab>
                                     <ab type="additional_information">Circa annum 1590. Conſtantinopoli in Europam
                                         introducta. Germen flauum. Petalorum baſis lineolis 2. albidis.</ab>
                             </div>
@@ -21020,7 +21022,7 @@
                                     <ab type="morphology">fol. ſerraturis omnibus acutis, flor. ſeſſilibus ſolitariis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Pferſichbaum.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.
+                                        <placeName type="habitat_description" xml:lang="lat">In hortis</placeName>.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">PERSICAE</hi> Flores, Nuclei. Flores clementer
                                         purgant, lumbricos expellunt et obſtructiones reſerant, vt
                                         hydropicis adeo vtiles fiant. 
@@ -21352,7 +21354,7 @@
                                        <num>82.</num>
                                         <name xml:lang="lat" key="wd:Q22694">O. (maiorana)</name>
                                     </head>
-                                    <ab type="morphology">fol. ouatis obtuſis, ſpicis ſubrotundis compactis pubeſcentibus. 
+                                    <ab type="morphology">fol. ouatis obtuſis, ſpicis ſubrotundis compactis pubeſcentibus.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Majoran.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">MAIORANAE</hi> Herba. Praecipuum et
                                         praeſtantiſſimum aroma Germanorum. Recens herba tumoribus
@@ -21580,7 +21582,7 @@
                                         ζ  laciniata. <name type="vernacular_name" xml:lang="ger">Blaukohl.</name>
                                         η. ſeleniſia. <name type="vernacular_name" xml:lang="ger">Blumaſchekohl.</name>
                                         θ. ſabellica. <name type="vernacular_name" xml:lang="ger">Buſchkohl.</name>
-                                        ι. botrytis. <name type="vernacular_name" xml:lang="ger">Blumenkohl.</name>
+                                        ι. botrytis. <name type="vernacular_name" xml:lang="ger">Blumenkohl.</name></ab>
                                         <fw>κ. na-</fw>
                                         <fw>290 PLANTAE CVLTAE. Tetradynamia.</fw>
                                     <ab type="additional_information">κ. napobraſſica. <name type="vernacular_name" xml:lang="ger">Kohlrübe</name>. 
@@ -22628,7 +22630,7 @@
                                 <ab type="morphology">fol. faſciculatis obtuſis.</ab>
                                 <ab type="vernacular_name" xml:lang="ger">Lerchenbaum.</ab>
                                 <ab type="location">
-                                    Culta im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>.
+                                    Culta im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital">TEREBINTHINA VENETA</hi>. Vis
                                     diuretica et vulneraria. Trita, praeſtans. 
                                     <name type="reference" key="wd:Q21856070"><hi rend="italic">Linn.</hi></name> Cito creſcit et
@@ -22829,7 +22831,7 @@
                                     <ab type="vernacular_name" xml:lang="ger">Gartenmelde.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">In hortis</placeName> 
-                                        ad vſus culinares ſeritur alba et rubra.
+                                        ad vſus culinares ſeritur alba et rubra.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital">ATRIPLICIS SATIVAE</hi> Herba, 
                                         Semina. Diluens, humectans et
                                         refrigerans. Exoleta, infida, ſuperflua. 
@@ -22964,7 +22966,7 @@
                                     <ab>verticillis ſexfloris, fol.
                                         ouato-lanceolatis trineruiis laeuibus petiolatis, caule
                                         erecto. Sideritis flore albo, barba luteola Riuini. 
-                                        <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> Ien. p. 230.
+                                        <name type="autor" key="wd:Q87491"><hi rend="italic">Rupp.</hi></name> Ien. p. 230.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in agris montoſis et ad margines eorum</placeName> am
                                         <placeName type="locality" ana="ident.">Mühlinger Berge</placeName> gegen
@@ -23068,7 +23070,7 @@
                     <head>Ad pag. 183.</head>
                     <ab type="location">Carduus cyanoides creſcit etiam frequens
                         <placeName type="habitat_description" xml:lang="lat">in aridis arenoſis</placeName> unterhalb
-                        <placeName type="settlement" key="wd:Q688662">Gödniz</placeName>.
+                        <placeName type="settlement" key="wd:Q688662">Gödniz</placeName>.</ab>
                 </div>
                 <div type="add">
                     <head>Ad pag. 205.</head>
