@@ -60,6 +60,7 @@
                     >MDCCLXXV</date>.</docImprint>
             </titlePage>
             <div type="praefatio">
+                <pb n="003"/>
                 <head>PRAEFATIO.</head>
                 <p>
                     <hi rend="capital">Q</hi>uatuordecim abhinc annis ſcholas botanicas in ſeminario
@@ -75,6 +76,7 @@
                     deperditum hominum genus redemiſſe ac vulneribus ſuis nos ſanaſſe. Sicque
                     homines, quam poteſt fieri plurimos, ad veram <fw>A 2 et</fw>
                     <pb/>
+                <pb n="004"/>
                     <fw>PRAEFATIO.</fw> et ſalutarem Chriſti cognitionem perducere conantur.</p>
                 <p>Hunc autem ſcopum primarium perſequentes, poſſunt ſimul opera Creatoris magnifica
                     vbiuis iis obuia admirari. Poſſunt herbas aliaque corpora naturalia ad vſus
@@ -93,7 +95,8 @@
                     abeſt, vt eum ob factas mutationes neceſſarias reprehendere poſſim; vt potius
                     curam ipſius in emendandis ſuis ſcriptis laudare debeam. <fw>Pote-</fw>
                     <pb/>
-                    <fw>PRAEFATIO.</fw> Poterunt igitur et alii veri Botanici corrigere, emendare,
+                <pb n="005"/>
+                <fw>PRAEFATIO.</fw> Poterunt igitur et alii veri Botanici corrigere, emendare,
                     addere: et tamen amicabilis quidam conſenſus ſcientiae botanicae incrementum
                     promouebit.</p>
                 <p>Noſtra haec Flora ſtrictim ſiſtit <hi rend="capital">LINNEI</hi> definitiones et
@@ -114,7 +117,8 @@
                     illud, ob Albis praecipue et Salae in <fw>A 3</fw>
                     <fw>unda-</fw>
                     <pb/>
-                    <fw>PRAEFATIO.</fw>
+               <pb n="006"/>
+               <fw>PRAEFATIO.</fw>
                     <lb break="no"/>undationes, etiam apud nos valet. Plantae antehac indigenae
                     euaneſcunt, aut ſaltim rariores euadunt: aliae contra olim non viſae accedunt.
                     Exempla tamen in tribus his luſtris, quibus plantas Barbienſes conquiſiui,
@@ -135,6 +139,7 @@
                         >SCHAEFFERO</hi>, <hi rend="capital">SCHREBERO</hi> et <hi rend="capital"
                         >WEISIO</hi>. Primarium mihi eſſe <fw>vide-</fw>
                     <pb/>
+                <pb n="007"/>
                     <fw>PRAEFATIO.</fw> videtur, nomen genericum. Si e. g. <hi>Münze</hi> eſt nomen
                     generis Menthae; tunc in ſpeciebus facile epitheta, ſi placet, vt in Latina
                     lingua, adponi poſſunt et dici <hi>Acker-Münze</hi>, <hi>Waſſer-Münze:</hi> et
@@ -154,6 +159,7 @@
                         rend="capital">LINNEI</hi> Materiam medicam et Floram Suecicam, ad manus
                     mihi fuerunt in hoc labore <fw>A 4 VOGE-</fw>
                     <pb/>
+                <pb n="008"/>
                     <fw>PRAEFATIO.</fw>
                     <hi rend="capital">VOGELII</hi> Hiſtoria materiae medicae; <hi rend="capital"
                         >BOERHAAVII</hi> Hiſtoria plantarum; <hi rend="capital">LOESECKE</hi>
@@ -303,7 +309,9 @@
                     <head>IV. FVLCRA, adminicula plantae pro commodiore ſuſtentatione.</head>
                     <list>
                         <item>1. PETIOLVS, fulcrum ſuſtinens folium. 2. STIPVLA, ſquama baſi
-                            petiolorum enaſcentium adſtans. 3. CIR- TERMINORVM EXPLICATIO. 3.
+                            petiolorum enaſcentium adſtans. 3. CIR- 
+                        <pb n="013"/>
+                            TERMINORVM EXPLICATIO. 3.
                             CIRRVS, vinculum filiforme ſpirale, quo planta alii corpori alligatur.
                             4. PVBES, hirſuties omnis in planta. a) PILI, ductus excretorii plantae
                             ſetacei. b) LANA, pili curui, denſi. c) BARBA, pili paralleli. d) SETAE,
@@ -329,7 +337,9 @@
                 </div>
                 <div>
                     <list>
-                        <item>14 TERMINORVM EXPLICATIO. VI. FRVCTIFICATIO, vegetabilium pars
+                        <item>
+                    <pb n="014"/>
+                            14 TERMINORVM EXPLICATIO. VI. FRVCTIFICATIO, vegetabilium pars
                             temporaria generationi dicata. A. CALYX, cortex plantae in
                             fructificatione praeſens. 1. PERIANTHIVM, calyx fructificationi
                             contiguus. a) PROPRIVM, quemlibet florem reſpiciens. b) COMMVNE, plures
@@ -348,7 +358,9 @@
                             monopetalae pars superior dilatata. d) LAMINA, corollae polypetalae pars
                             ſuperior patula. 2. REGVLARIS, aequalis figura, magnitudine et
                             proportione partium. 3. CAMPANVLATA, ventricoſa tubo deſtituta. 4. IN-
-                            TERMINORVM EXPLICATIO. 15 4. INFVNDIBVLIFORMIS, conica tubo impoſita. 5.
+                    <pb n="015"/>
+                            TERMINORVM EXPLICATIO. 15
+                            4. INFVNDIBVLIFORMIS, conica tubo impoſita. 5.
                             ROTATA, plana nulli tubo impoſita. 6. HYPOCRATERIFORMIS, plana tubo
                             impoſita. 7. RINGENS, irregularis in duo labia hians. a) GALEA,
                             ringentis labium ſuperius. b) LABIVM, pro ringentis labio inferiori
@@ -367,8 +379,10 @@
                             viſcus pro pollinis praeparatione. (Organum genitale maſculinum.) 1.
                             FILAMENTVM, pars eleuans adnectensque antheram, 2. ANTHERA, pars
                             ſtaminis grauida polline, quod matura dimittit. 3. POLLEN, puluis
-                            floris, humore rumpendus, atomosque elaſticos eiaculans. E. PI- 6
-                            TERMINORVM EXPLICATIO. E. PISTILLVM, viſcus fructui adhaerens pro
+                            floris, humore rumpendus, atomosque elaſticos eiaculans. E. PI- 
+                   <pb n="016"/>
+                            16 TERMINORVM EXPLICATIO. 
+                            E. PISTILLVM, viſcus fructui adhaerens pro
                             pollinis receptione. (Organum genitale femineum.) 1. GERMEN, rudimentum
                             fructus immaturi in flore. a) SVPERVM, corolla incluſum. b) INFERVM,
                             infra corollam poſitum. 2. STYLVS, pars piſtilli eleuans ſtigma a
@@ -386,7 +400,10 @@
                             rudimentum nonae plantae. 1. HILVM, cicatrix externa ſeminis ab eiusdem
                             adfixione in fructu. 2. CORCVLVM, primordium nouae plantae intra ſemen.
                             a) PLVMVLA, pars corculi ſquamoſa adſcendens. b) ROSTELLVM, pars corculi
-                            ſimplex deſcendens. 3. co- TERMINORVM EXPLICATIO. 17 3. COTYLEDON,
+                            ſimplex deſcendens. 3. co- 
+                     <pb n="017"/>
+                            TERMINORVM EXPLICATIO. 17
+                            3. COTYLEDON,
                             corpus laterale ſeminis, bibulum, caducum. 4. CORONA, calyculus ſupra
                             adhaerens, quo volitat. a) PAPPVS, corona pennacea piloſaue volitans. α)
                             STIPITATVS, filo eleuante et adnectente pappum et ſemen. ß) CAPILLARIS,
@@ -405,7 +422,9 @@
                             partialibus vero vagis, elongatum in pedunculos faſtigiatos. 5. RACHIS,
                             receptaculum filiforme, floſculos longitudinaliter adnectens in ſpicam.
                             6. SPADIX, receptaculum palmae, enatum intra ſpatham, in ramulos
-                            fructificantes diuiſum. B VII. 18 TERMINORVM EXPLICATIO.</item>
+                            fructificantes diuiſum. B VII.
+                      <pb n="018"/>
+                            18 TERMINORVM EXPLICATIO.</item>
                     </list>
                 </div>
                 <div>
@@ -433,6 +452,7 @@
                 </div>
             </div>
             <div type="classium">
+                <pb n="019"/>
                 <head>CLASSIVM CHARACTERES.</head>
                 <entry>
                     <form>I. MONANDRIA.</form>
@@ -483,8 +503,8 @@
                 <fw>B 2</fw>
                 <fw>XII. ICO-</fw>
                 <pb/>
-                <fw>20</fw>
-                <fw>CLASSIVM CHARACTERES.</fw>
+                <pb n="020"/>
+                <fw>20 CLASSIVM CHARACTERES.</fw>
                 <entry>
                     <form>XII. ICOSANDRIA.</form>
                     <def>Stamina viginti communiter, ſaepe plura, non receptaculo, ſed calycis
@@ -541,6 +561,7 @@
                 <fw>ORDI-</fw>
             </div>
             <div type="ordines">
+                <pb n="021"/>
                 <head>ORDINES ſunt claſſium ſubdiuiſiones, vt genera eo facilius diſtinguantur. Sunt
                     autem ſequentes.</head>
                 <list>
@@ -662,6 +683,7 @@
                     </div>
                 </div>
                 <div type="ordo" n="digynia">
+                    <pb n="024"/>
                     <head>
                         <name>DIGYNIA.</name>
                     </head>
@@ -709,6 +731,7 @@
                 </div>
             </div>
             <div type="classis" xml:id="c.02" ana="Q10266045" n="diandria">
+                <pb n="025"/>
                 <head> CLASSIS II. <name xml:lang="lat">DIANDRIA.</name>
                 </head>
                 <div type="ordo">
@@ -1328,6 +1351,7 @@
                 <fw>CLAS-</fw>
             </div>
             <div type="classis" xml:id="c.03" n="triandria">
+                <pb n="031"/>
                 <head>CLASSIS III. TRIANDRIA.</head>
                 <div type="ordo" n="monogynia">
                     <head>M O N O G Y N I A.</head>
@@ -7240,6 +7264,7 @@
                                     emolliente et diſcutiente virtute prae-</ab>
                                 <fw>F diti.</fw>
                                 <pb n="082" break="no"/>
+                                <pb n="082"/>
                                 <fw>82 PENTANDRIA. TRIGYNIA. Alſine.</fw>
                                 <lb break="no"/>
                                 <ab type="additional_information">diti. Arboris vmbra noxia.
@@ -7338,7 +7363,7 @@
                     </div>
                 </div>
                 <fw>PEN-</fw>
-                <pb n="83"/>
+                <pb n="083"/>
                 <fw>PENTANDRIA. PENTAGYNIA. Linum. 83</fw>
                 <div type="ordo">
                     <head>PENTAGYNIA.</head>
@@ -7444,6 +7469,7 @@
                                 </name> Succus ex</ab>
                             <fw>F 2 ſudans</fw>
                             <pb n="084" break="no"/>
+                            <pb n="084"/>
                             <fw>84 PENTANDRIA. PENTAGYNIA. Statice.</fw>
                             <ab type="additional_information">sudans verrucas clauosque tollere
                                 fertur. Ros in foliis denſatus et collectius ab Alchemiſtis
@@ -7513,6 +7539,7 @@
                 <fw>CLAS-</fw>
             </div>
             <div type="classis" xml:id="c.06" n="hexandria">
+                <pb n="085"/>
                 <head>CLASSIS VI. HEXANDRIA.</head>
                 <div type="ordo">
                     <head>MONOGYNIA.</head>
@@ -8271,6 +8298,7 @@
                                     fol. lanceolatis vndulatis acutis.</ab>
                                 <ab type="vernacular_name" xml:lang="ger">Grindwurz; krausblättrige
                                     Mengelwurz.</ab>
+                                <pb n="092"/>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. inter
                                         olera</placeName>; am <placeName type="locality?"
@@ -9053,6 +9081,7 @@
                 <fw>CLAS-</fw>
             </div>
             <div type="classis" xml:id="c.10" ana="Q10264640" n="decandria">
+                <pb n="101"/>
                 <head>CLASSIS X. DECANDRIA.</head>
                 <div type="ordo">
                     <head>MONOGYNIA.</head>
@@ -10232,6 +10261,7 @@
                 <fw>CLAS-</fw>
             </div>
             <div type="classis" xml:id="c.11" ana="Q10267812" n="dodecandria">
+                <pb n="112"/>
                 <head>CLASSIS XI. DODECANDRIA.</head>
                 <div type="ordo">
                     <head>MONOGYNIA.</head>
@@ -10495,6 +10525,7 @@
                                     alibi, frequens.</ab>
                                 <ab type="flowering_time">Fl. Iunio.</ab>
                                 <fw>*** Vm-</fw>
+                                <pb n="115"/>
                                 <fw>DODECANDRIA. TRIGYNIA. Euphorbia. 115</fw>
                             </div>
                         </div>
@@ -10598,6 +10629,7 @@
                 <fw>H 2 CLASS-</fw>
             </div>
             <div type="classis" xml:id="c.12" ana="Q10299754" n="icosandria">
+                <pb n="116"/>
                 <head>CLASSIS XII. ICOSANDRIA.</head>
                 <div type="ordo">
                     <head>MONOGYNIA.</head>
@@ -11421,6 +11453,7 @@
                 <fw>CLAS-</fw>
             </div>
             <div type="classis" xml:id="c.13" ana="Q10350924" n="polyandria">
+                <pb n="124"/>
                 <head>CLASSIS XIII. POLYANDRIA.</head>
                 <div type="ordo">
                     <head>MONOGYNIA.</head>
@@ -12010,6 +12043,7 @@
                         </div>
                     </div>
                     <fw>I 197.</fw>
+                    <pb n="130"/>
                     <fw>130 POLYANDRIA. POLYGYNIA. Ranunculus.</fw>
                     <div type="genus" xml:id="g.197">
                         <head>
@@ -12293,6 +12327,7 @@
                 <fw>CLAS-</fw>
             </div>
             <div type="classis" xml:id="c.14" ana="Q10266173" n="didynamia">
+                <pb n="133"/>
                 <head>CLASSIS XIV. DIDYNAMIA.</head>
                 <div type="ordo">
                     <head>GYMNOSPERMIA.</head>
@@ -13276,7 +13311,7 @@
                                     subexſertis.</ab>
                                 <ab type="vernacular_name" xml:lang="ger">Hanfwürger.</ab>
                                 <fw>H.</fw>
-                                <pb n=""/>
+                                <pb n="142"/>
                                 <fw>142 DIDYNAMIA. ANGIOSPERMIA. Euphraſia.</fw>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in agris
@@ -13803,6 +13838,7 @@
                 <fw>CLAS-</fw>
             </div>
             <div type="classis" xml:id="c.15" ana="Q10380976" n="tetradynamia">
+                <pb n="147"/>
                 <head>CLASSIS XV. TETRADYNAMIA.</head>
                 <div type="ordo" ana="Q10371492" n="siliculosa">
                     <head>SILICVLOSA.</head>
@@ -14842,7 +14878,7 @@
                 <fw>CLAS-</fw>
             </div>
             <div type="classis" xml:id="c.16" ana="Q10331775" n="monadelphia">
-                <fw>157</fw>
+                <pb n="157"/>
                 <head>CLASSIS XVI. MONADELPHIA</head>
                 <div type="ordo">
                     <head>DECANDRIA.</head>
@@ -15166,6 +15202,7 @@
                 </div>
             </div>
             <div type="classis" xml:id="c.17" ana="Q10265968" n="diadelphia">
+                <pb n="161"/>
                 <head>CLASSIS XVII. DIADELPHIA.</head>
                 <div type="ordo">
                     <head>HEXANDRIA.</head>
@@ -16028,7 +16065,7 @@
                                         macula ſanguinea.</ab>
                                 </div>
                                 <fw>597.</fw>
-                                <pb n="597"/>
+                                <pb n="169"/>
                                 <fw>DIADELPHIA. DECANDRIA. Trifolium. 169</fw>
                                 <div type="plant-species" xml:id="s.0597" ana="ſcabrum"
                                     n="Trifolium scabrum">
@@ -16429,6 +16466,7 @@
                 <fw>CLAS-</fw>
             </div>
             <div type="classis" xml:id="c.18" ana="Q10350923" n="polyadelphia">
+                <pb n="173"/>
                 <head>CLASSIS XVIII. POLYADELPHIA.</head>
                 <div type="ordo">
                     <head>POLYANDRIA.</head>
@@ -16533,6 +16571,7 @@
             </div>
             <div type="classis" xml:id="c.19" ana="Q10375498" n="syngenesia">
                 <fw>175</fw>
+                <pb n="175"/>
                 <head>CLASSIS XIX. SYNGENESIA.</head>
                 <div type="ordo">
                     <head>POLYGAMIA AEQVALIS.</head>
@@ -18262,6 +18301,7 @@
                                         >CONYZAE</hi> Herba. In dyſenteria laudatur de-</ab>
                                 <fw>cocti</fw>
                                 <pb n="191" break="no"/>
+                                <pb n="191"/>
                                 <fw>SYNGENESIA. POLYG. SVPERFL. Inula. 191</fw>
                                 <ab type="additional_information">cocti forma. Sed male in quibusdam
                                     officinis pro Arnica venditur; licet fabrica, ſapore et odore
@@ -18367,7 +18407,8 @@
                                 <ab type="additional_information">Herba Ruga Wedelii, quam recte
                                     inter abſtergentia re-</ab>
                                 <fw>fert.</fw>
-                                <pb n="193" break="no"/>
+                                <pb n="192" break="no"/>
+                                <pb n="192"/>
                                 <fw>192 SYNGENESIA. POLYG. SVPERFL. Solidago.</fw>
                                 <ab type="additional_information">fert. Decocti ſpecie pituitam
                                     pulmonum incidit et expurgat. <name type="autor"
@@ -18468,6 +18509,7 @@
                                         inflammationes admo-</ab>
                                     <fw>uetur.</fw>
                                     <pb n="193" break="no"/>
+                                    <pb n="193"/>
                                     <fw>SYNGENESIA. POLYG. SVPERFL. Senecio. 193</fw>
                                     <ab type="additional_information">uetur. <name type="autor"
                                             key="wd:Q2172361">
@@ -19053,6 +19095,7 @@
                         <ab>Recept. paleaceum. Pappus bicornis. Cal. erectus, polyphyllus, baſi
                             radiis patentibus cinctus.</ab>
                         <fw>N 3 714.</fw>
+                        <pb n="198"/>
                         <fw>198 SYNGENESIA. POLYG. ERVSTR. Coreopſis.</fw>
                         <div type="plant-species" xml:id="s.0714" ana="coreopsis.bidens"
                             n="Coreopsis bidens">
@@ -19420,6 +19463,7 @@
                 <fw>N 5 CLAS-</fw>
             </div>
             <div type="classis" xml:id="c.20" ana="Q10293247" n="gynandria">
+                <pb n="202"/>
                 <head>CLASSIS XX. GYNANDRIA.</head>
                 <div type="ordo">
                     <head>DIANDRIA.</head>
@@ -19774,6 +19818,7 @@
                 <fw>CLAS-</fw>
             </div>
             <div type="classis" xml:id="c.21" ana="Q10331895" n="monoecia">
+                <pb n="206"/>
                 <head>CLASSIS XXI. MONOECIA.</head>
                 <div type="ordo">
                     <head>MONANDRIA.</head>
@@ -20909,6 +20954,7 @@
                 <fw>O 5 CLASS-</fw>
             </div>
             <div type="classis" xml:id="c.22" ana="Q10266534" n="dioecia">
+                <pb n="218"/>
                 <head>CLASSIS XXII. DIOECIA.</head>
                 <div type="ordo">
                     <head>DIANDRIA.</head>
@@ -21181,6 +21227,7 @@
                                 </name> Frutex ſingula-</ab>
                             <fw>ris</fw>
                             <pb n="221" break="no"/>
+                            <pb n="221"/>
                             <fw>DIOECIA. PENTANDRIA. Humlus. 22I</fw>
                             <ab type="vernacular_name" xml:lang="ger">ris paraſiticus absque radice,
                                 ſemperuirens, mare feminae oppoſito. Viſcus pro auibus capiendis ex
@@ -21620,6 +21667,7 @@
                 <fw>CLAS-</fw>
             </div>
             <div type="classis" xml:id="c.24" ana="Q10261972" n="cryptogamia">
+                <pb n="227"/>
                 <head>CLASSIS XXIV. CRYPTOGAMIA.</head>
                 <div type="ordo">
                     <head>FILICES.</head>
@@ -22029,7 +22077,7 @@
                                     albis, apice cirroſis: inter radices globi 3-7, ſtylo inſtructi,
                                     poly</ab>
                                 <fw>ſpermi.</fw>
-                                <pb break="231"/>
+                                <pb n="231"/>
                                 <fw>CRYPTOGAMIA. MVSCI. Lycopodium. 231</fw>
                                 <ab type="additional_information">ſpermi. Mant. 2. p. 506. Rara
                                     planta <name type="reference" key="wd:Q13554413">
@@ -22988,6 +23036,7 @@
                                     <ab type="flowering_time">Fl. circa aeſtatem.</ab>
                                 </div>
                                 <fw>867.</fw>
+                                <pb n="240"/>
                                 <fw>240. CRYPTOGAMIA. MVSCI. Hypnum.</fw>
                                 <div type="plant-species" xml:id="s.0867" ana="viticuloſum"
                                     n="Hypnum viticulosum">
@@ -26140,6 +26189,7 @@
         </body>
         <back>
             <div type="appendix">
+                <pb n="267"/>
                 <head>APPENDIX</head>
                 <head type="sub">PLANTARVM IN AGRIS AVT HORTIS FREQVENTIVS CVLTARVM.</head>
                 <div type="classis" ana="Q10266045" n="diandria">
@@ -26587,7 +26637,7 @@
                             </div>
                         </div>
                         <fw>PRI-</fw>
-                        <pb n="271"/>
+                        <pb n="272"/>
                         <fw>272 PLANTAE CVLTAE. Pentandria.</fw>
                         <div type="genus">
                             <head>
@@ -26916,7 +26966,8 @@
                                     </name>
                                 </ab>
                             </div>
-                            <fw>32. B. PLANTAE CVLTAE. Pentandria. 275</fw>
+                            <pb n="275"/>
+                            <fw>PLANTAE CVLTAE. Pentandria. 275</fw>
                             <div type="plant-species" xml:id="s.032.cult" ana="Cicla" n="Beta cycla">
                                 <head>
                                     <num>32.</num>
@@ -27341,7 +27392,8 @@
                                     curioſorum.</ab>
                             </div>
                         </div>
-                        <fw>SCIL- PLANTAE CVLTAE. Hexandria. 279</fw>
+                        <pb n="279"/>
+                        <fw>PLANTAE CVLTAE. Hexandria. 279</fw>
                         <div type="genus">
                             <head>
                                 <name xml:lang="lat" key="wd:Q157238">
@@ -27434,6 +27486,7 @@
                                     horizontaliter exſtantes ſub et poſt antheſin; ante antheſin
                                     erectae. Corollae ſuperiores minutae ſteriles violaceae,
                                     pedicellis longiſſimis. Mant. 2. p. 366. S 4 TRI-</ab>
+                                <pb n="280"/>
                                 <fw>280 PLANTAE CVLTAE. Hexandria.</fw>
                             </div>
                         </div>
@@ -27511,7 +27564,8 @@
                             <ab>Cal. 5-partitus. Petala concaua. Recept. punctis melliferis decem
                                 cinctum. Capſ. lobata. (Quinta pars numeri in quibusdam
                                 excluditur.)</ab>
-                            <fw>58. R. PLANTAE CVLTAE. Decandria. 281</fw>
+                            <pb n="281"/>
+                            <fw>PLANTAE CVLTAE. Decandria. 281</fw>
                             <div type="plant-species" xml:id="s.058.cult" ana="graueolens"
                                 n="Ruta graveolens">
                                 <head>
@@ -27622,7 +27676,8 @@
                                     colitur.</ab>
                             </div>
                         </div>
-                        <fw>S 5 EV- 282 PLATAE CVLTAE. Dodecandria.</fw>
+                        <pb n="282"/>
+                        <fw>282 PLATAE CVLTAE. Dodecandria.</fw>
                         <div type="genus">
                             <head>
                                 <name xml:lang="lat" key="wd:Q146567">
@@ -27727,7 +27782,8 @@
                                 </ab>
                             </div>
                         </div>
-                        <fw>PRV- PLANTAE CVLTAE. Icoſandria. 283</fw>
+                        <pb n="283"/>
+                        <fw>PLANTAE CVLTAE. Icoſandria. 283</fw>
                         <div type="genus">
                             <head>
                                 <name xml:lang="lat" key="wd:Q190545">
@@ -27825,7 +27881,8 @@
                                     Gichtroſe.</name>
                             </head>
                             <ab>Cal. 5-phyllus. Petala 5. Styli 0. Capſ. polyſpermae.</ab>
-                            <fw>70 P. 284 PLANTAE CVLTAE. Polyandria.</fw>
+                            <pb n="284"/>
+                            <fw>284 PLANTAE CVLTAE. Polyandria.</fw>
                             <div type="plant-species" xml:id="s.070.cult" ana="paeonia.officinalis"
                                 n="Paeonia officinalis">
                                 <head>
@@ -27935,7 +27992,8 @@
                                     cient. Sed noxiarum virium multis ſuſpecta ſunt. Ludw.</ab>
                             </div>
                         </div>
-                        <fw>POLY- PLANTAE CVLTAE. Polyandria. 285 POLYGYNIA. </fw>
+                        <pb n="285"/>
+                        <fw>PLANTAE CVLTAE. Polyandria. 285 POLYGYNIA. </fw>
                         <div type="genus">
                             <head>
                                 <name xml:lang="lat" key="wd:Q146130">
@@ -28039,8 +28097,8 @@
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">In
                                         hortis</placeName>.</ab>
-                                <ab type="additional_information">Offic. 286 <hi rend="capital"
-                                        >PLANTAE CVLTAE</hi>. Didynamia. Offic. <hi rend="capital"
+                                <pb n="286"/>
+                                <ab type="additional_information">Offic. <hi rend="capital"
                                         >HYSSOPI</hi> Herba. Vſus eius praecipuus eſt in adfectibus
                                     pectoris, ſi cum melle delingatur, aut decoctum cum ficis, aqua,
                                     melle et ruta potetur. <name type="autor" key="wd:Q2172361">
@@ -28158,6 +28216,7 @@
                             </div>
                         </div>
                         <fw>THY-</fw>
+                        <pb n="287"/>
                         <fw>PLANTAE CVLTAE. Didynamia. 287</fw>
                         <div type="genus">
                             <head>
@@ -28258,6 +28317,7 @@
                         </div>
                     </div>
                     <fw>ANGI-</fw>
+                    <pb n="288"/>
                     <fw>288 PLANTAE CVLTAE. Didynamia.</fw>
                     <div type="ordo" n="angiospermia">
                         <head>ANGIOSPERMIA.</head>
@@ -28350,7 +28410,8 @@
                                         <hi rend="italic">Vog.</hi>
                                     </name>
                                 </ab>
-                                <fw>89. C. PLANTAE CVLTAE. Tetradynamia. 289</fw>
+                                <pb n="289"/>
+                                <fw>PLANTAE CVLTAE. Tetradynamia. 289</fw>
                             </div>
 
                             <div type="plant-species" xml:id="s.089.cult" n="Cheiranthus incanus">
@@ -28456,6 +28517,7 @@
                                         xml:lang="ger">Blumenkohl.</name>
                                 </ab>
                                 <fw>κ. na-</fw>
+                                <pb n="290"/>
                                 <fw>290 PLANTAE CVLTAE. Tetradynamia.</fw>
                                 <ab type="additional_information">κ. napobraſſica. <name
                                         type="vernacular_name" xml:lang="ger">Kohlrübe</name>. λ.
@@ -28557,7 +28619,8 @@
                             </div>
                         </div>
                     </div>
-                    <fw>PO- PLANTAE CVLTAE. Monadelphia. 291</fw>
+                    <pb n="291"/>
+                    <fw>PLANTAE CVLTAE. Monadelphia. 291</fw>
                     <div type="ordo" n="polyandria">
                         <head>POLYANDRIA.</head>
                         <div type="genus">
@@ -28649,7 +28712,8 @@
                                 <name type="vernacular_name" xml:lang="ger">Bohnen; Faſeolen.</name>
                             </head>
                             <ab>Carina cum ſtaminibus ſtyloque ſpiraliter tortis.</ab>
-                            <fw>T 2 100. 292 PLANTAE CVLTAE. Diadelphia.</fw>
+                            <pb n="292"/>
+                            <fw>292 PLANTAE CVLTAE. Diadelphia.</fw>
                             <div type="plant-species" xml:id="s.100.cult" ana="vulgaris"
                                 n="Phaseolus vulgaris">
                                 <head>
@@ -28769,6 +28833,7 @@
                             </div>
                         </div>
                         <fw>RO-</fw>
+                        <pb n="293"/>
                         <fw>PLANTAE CVLTAE. Diadelphia. 293</fw>
                         <div type="genus">
                             <head>
@@ -28864,7 +28929,8 @@
                             </div>
                         </div>
                         <fw>T 3 HE-</fw>
-                        <fw>294 plantae cvltae. Diadelphia.</fw>
+                        <pb n="294"/>
+                        <fw>294 PLANTAE CVLTAE. Diadelphia.</fw>
                         <div type="genus">
                             <head>
                                 <name xml:lang="lat" key="wd:Q148973">
@@ -28963,6 +29029,7 @@
                             </head>
                             <ab>Cal. 5-fidus. Petala 5, oblonga. Antherae 20 filamentis connatis in
                                 varia corpora. Bacca 9-locularis.</ab>
+                            <pb n="295"/>
                             <fw>PLANTAE CVLTAE. Polyadelphia. 295</fw>
 
                             <div type="plant-species" xml:id="s.113.cult" ana="medica"
@@ -29187,6 +29254,7 @@
                                 </head>
                                 <ab type="morphology">fol. ouatis integris serrato-aculeatis.</ab>
                                 <ab type="location">In agris seritur.</ab>
+                                <pb n="297"/>
                                 <ab type="additional_information">Offic. <hi rend="capital"
                                         >CARTHAMI</hi> Flores, Semen. Ad pectoris morbos infuſum
                                     florum laudatur. Pituitam reſoluunt et vrinam cient. <name
@@ -29295,7 +29363,7 @@
                                 <ab type="morphology">herbaceum, fol, lanceolatis patentibus.</ab>
                                 <ab type="location">In hortis.</ab>
                                 <fw>Radii</fw>
-                                <pb n="297"/>
+                                <pb n="298"/>
                                 <fw>298 PLANTAE CVLTAE. Syngeneſia.</fw>
                                 <ab type="additional_information">Radii ſtigma ſimplex; ſemine nudo.
                                     Diſci ſtigma ſubbifidum; ſemina quinque-ariſtata.</ab>
@@ -29407,7 +29475,8 @@
                                     hortulanorum.</ab>
                             </div>
                         </div>
-                        <fw>CHRY- PLANTAE CVLTAE. Syngeneſia. 399</fw>
+                        <pb n="299"/>
+                        <fw>PLANTAE CVLTAE. Syngeneſia. 299</fw>
                         <div type="genus">
                             <head>
                                 <name xml:lang="lat" key="wd:Q59882">
@@ -29505,7 +29574,8 @@
                                 <ab type="additional_information">Radix eſculenta.</ab>
                             </div>
                         </div>
-                        <fw>CEN- 300 PLANTAE CVLTAE. Syngeneſia.</fw>
+                        <pb n="300"/>
+                        <fw>300 PLANTAE CVLTAE. Syngeneſia.</fw>
                         <div type="genus">
                             <head>
                                 <name xml:lang="lat" key="wd:Q156414">
@@ -29611,7 +29681,8 @@
                         </div>
                     </div>
                 </div>
-                <fw>MO- PLANTAE CVLTAE. Monoecia. 301</fw>
+                <pb n="301"/>
+                <fw>PLANTAE CVLTAE. Monoecia. 301</fw>
                 <div type="classis" ana="Q10331895" n="monoecia">
                     <head>MONOECIA.</head>
                     <div type="ordo" n="triandria">
@@ -29683,6 +29754,7 @@
                                 <hi rend="capital">MASC.</hi> Cal. 4-partitus. Cor. 0.<hi
                                     rend="capital">FEM.</hi> Cal. 4-phyllus. Cor. 0. Styli 2-Cal.
                                 baccatus. Sem. 1.</ab>
+                            <pb n="302"/>
                             <fw>302 PLANTAE CVLTA. Monoecia.</fw>
                             <div type="plant-species" xml:id="s.141.cult" ana="morus.alba"
                                 n="morus.alba">
@@ -30135,6 +30207,7 @@
                 <fw>AD-</fw>
             </div>
             <div type="addenda">
+                <pb n="307"/>
                 <head>ADDENDA.</head>
                 <div type="add">
                     <head>Ad pag. 34. poſt n. 42.</head>
