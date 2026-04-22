@@ -1237,7 +1237,7 @@
                                     <num>25.</num>
                                     <name xml:lang="lat" key="wd:Q6117898">S. (ſylueſtris)</name>
                                 </head>
-                                <ab type="morphology">fol. cordato-lanceolatis vndulatis biferratis
+                                <ab type="morphology">fol. cordato-lanceolatis vndulatis biſerratis
                                     maculatis acutis, bracteis coloratis flore breuioribus.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
@@ -3077,14 +3077,10 @@
                                     deſtitutis; infimis geminis.</ab>
                                 <ab type="vernacular_name" xml:lang="ger">Hundsweizen.</ab>
                                 <ab type="location">
-                                    <placeName type="habitat_description" xml:lang="lat">H. inter
-                                        virgulta</placeName>
-                                    <placeName type="habitat_description" xml:lang="ger">beym erſten
-                                        Teiche in der</placeName>
-                                    <placeName type="locality" key="wd:Q102004789"
-                                        >Lindenallee</placeName>; <placeName
-                                        type="habitat_description" xml:lang="lat">ad ſepes
-                                        paſſim</placeName>.</ab>
+                                    <placeName type="habitat_description" xml:lang="lat">H. inter virgulta</placeName>
+                                    <placeName type="habitat_description" xml:lang="ger">beym erſten Teiche in der</placeName>
+                                    <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>; 
+                                    <placeName type="habitat_description" xml:lang="lat">ad ſepes paſſim</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Iulio.</ab>
                                 <ab type="additional_information">Multum ſimilis Tritico repenti:
                                     ſed radix fibroſa, nec repens vaginoſa, vt in illo. Locuſtae
@@ -10646,7 +10642,7 @@
                                 <num>385.</num>
                                 <name xml:lang="lat" key="wd:Q165424">P. (Padus)</name>
                             </head>
-                            <ab type="morphology">flor, racemosis; fol. deciduis baſi ſubtus
+                            <ab type="morphology">flor. racemosis; fol. deciduis baſi ſubtus
                                 biglanduloſis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Faulbaum; Tölpelgensbaum.</ab>
                             <ab type="location">
@@ -21647,7 +21643,7 @@
                                 <num>811.</num>
                                 <name xml:lang="lat" key="wd:Q156907">F. (excelſior)</name>
                             </head>
-                            <ab type="morphology">fol. ſerratis, flor, apetalis.</ab>
+                            <ab type="morphology">fol. ſerratis, flor. apetalis.</ab>
                             <ab type="location"> H. im <placeName type="locality?" ana="not_ident."
                                     >Trizer Buſche</placeName>; auch beym <placeName
                                     type="locality?" ana="not_ident.">Weinberg</placeName>.</ab>
@@ -27357,7 +27353,7 @@
                                     <num>48.</num>
                                     <name xml:lang="lat" key="wd:Q156363">L. (Martagon)</name>
                                 </head>
-                                <ab type="morphology">fol. verticillatis, flor, reflexis, coroll.
+                                <ab type="morphology">fol. verticillatis, flor. reflexis, coroll.
                                     reuolutis.</ab>
                                 <ab type="vernacular_name" xml:lang="ger">Türkiſcher Bund.</ab>
                                 <ab type="location">
@@ -29726,7 +29722,7 @@
                                 <hi rend="capital">MASC.</hi> Cal. 3-phyIlus. Petala 2. Germinis
                                 rudimentum. <hi rend="capital">FEM.</hi> Cal. 4-phyllus. Petala 3.
                                 Styli 3. Capſ. 3-roſtris, 3-locularis. Sem. 2.</ab>
-                            <div type="plant-species" xml:id="s.140" ana="buxus.sempervirens"
+                            <div type="plant-species" xml:id="s.140.cult" ana="buxus.sempervirens"
                                 n="Buxus sempervirens">
                                 <head>
                                     <num>140.</num>
@@ -30140,7 +30136,7 @@
                                     <hi rend="capital">ATRIPLEX</hi>.</name>
                             </head>
                             <ab>Pag. 225.</ab>
-                            <div type="plant-species" xml:id="s.154" ana="atriplex.hortensis"
+                            <div type="plant-species" xml:id="s.154.cult" ana="atriplex.hortensis"
                                 n="Atriplex hortensis">
                                 <head>
                                     <num>154.</num>
