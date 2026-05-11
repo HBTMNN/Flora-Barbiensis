@@ -2873,598 +2873,675 @@
             <div type="addenda_et_emendanda">
                 <head>ADDENDA ET EMENDANDA.</head>
                 <ab type="emendation" xml:id="sup.add.001">
-                    <ref>Ad pag. 25.</ref>
-                    <seg>VERONICAE maritimae et longifoliae characteres ſpecifici vacillant: folia
+                    <ref>Ad pag. 25.</ref></ab>
+                    <ab type="name_reference">VERONICAE maritimae et longifoliae</ab> 
+                    <ab type="morphology">characteres ſpecifici vacillant: folia
                         enim terna aut oppoſita variant, nec ſerraturae aut aequales aut inaequales
                         conſtantes videntur. V. maritima igitur praecipue foliis anguſtioribus eſt
-                        diſtinguenda.</seg>
-                </ab>
+                        diſtinguenda.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.002">
-                    <ref>Ad pag. 27.</ref>
-                    <seg>Veronica Teucrium loco indicato, im Buſche gegen Tochheim, per decem
+                    <ref>Ad pag. 27.</ref></ab>
+                    <ab type="name_reference">Veronica Teucrium</ab>
+                    <ab type="location">loco indicato, im Buſche gegen Tochheim, per decem
                         circiter annos fruſtra quaefita, tandem 1780 inuenta eſt in editis gramineis
                         zwiſchen Tochheim und Friederikenberg, rechter Hand bey den Birken, ehe man
                         in den Buſch kommt; bey Liezke herum; auch häufig bey Jüterglück auf
-                        Reinen.</seg>
-                </ab>
+                        Reinen.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.003">
-                    <ref>Ad pag. 29.</ref>
-                    <seg>Saluia ſylueſtris habitat copioſe in montoſis apricis hinter Salze.</seg>
-                </ab>
+                    <ref>Ad pag. 29.</ref></ab>
+                    <ab type="name_reference">Saluia ſylueſtris</ab>
+                    <ab type="location">habitat copioſe in montoſis apricis hinter Salze.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.004">
-                    <ref>Ad pag. 32.</ref>
-                    <seg>Iris ſibirica creſcit etiam ad Albim hinter Monplaiſir am Damme beym alten
-                        Elbbruche.</seg>
-                </ab>
+                    <ref>Ad pag. 32.</ref></ab>
+                    <ab type="name_reference">Iris ſibirica</ab>
+                    <ab type="location">creſcit etiam ad Albim hinter Monplaiſir am Damme beym alten
+                        Elbbruche.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.005">
-                    <ref>Ad pag. 33.</ref>
-                    <seg>Scirpus caeſpitosus exulabit e Fl. Barb, niſi alio loco in poſterum
+                    <ref>Ad pag. 33.</ref></ab>
+                    <ab type="name_reference">Scirpus caeſpitosus</ab>
+                    <ab type="additional_information_correction">exulabit e Fl. Barb, niſi alio loco in poſterum
                         inueniatur. Qui enim loco indicato creſcit, Scirpus paluſtris eſt, cuius
-                        ſpicae ſaepe breuiſſimae me induxerunt, vt pro caeſpitoſo haberem.</seg>
-                </ab>
+                        ſpicae ſaepe breuiſſimae me induxerunt, vt pro caeſpitoſo haberem.</ab>
+                    
                 <ab type="emendation" xml:id="sup.add.006">
-                    <ref>Ad pag. 34.</ref>
-                    <seg>Scirpus Holoſchoenus creſcit etiam frequens in arenoſis am Wege
-                        von Dornburg nach Prezien.</seg>
-                </ab>
+                    <ref>Ad pag. 34.</ref></ab>
+                    <ab type="name_reference">Scirpus Holoſchoenus</ab>
+                    <ab type="location">creſcit etiam frequens in arenoſis am Wege
+                        von Dornburg nach Prezien.</ab> 
+                
                 <ab type="emendation" xml:id="sup.add.007">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Nardus ſtricta non habitat loco indicato; ſed extra terminos Fl. Barb. in
-                        pratis duris um Glien.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Nardus ſtricta</ab>
+                    <ab type="location">non habitat loco indicato; ſed extra terminos Fl. Barb. in
+                        pratis duris um Glien.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.008">
-                    <ref>Ad pag. 36.</ref>
-                    <seg>Gramen dactylon eſculentum Bauhini, a priori (addatur: varietate) tantum
-                        cultura differt.</seg>
-                </ab>
+                    <ref>Ad pag. 36.</ref></ab>
+                    <ab type="additional_information">Gramen dactylon eſculentum Bauhini, a priori (addatur: varietate) tantum
+                        cultura differt.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.009">
-                    <ref>Ad pag. 37.</ref>
-                    <seg>Stipa pennata habitat etiam in aridis zwiſchen Prezien und Gommern.</seg>
-                </ab>
+                    <ref>Ad pag. 37.</ref></ab>
+                    <ab type="name_reference">Stipa pennata</ab>
+                <ab type="location">habitat etiam in aridis zwiſchen Prezien und Gommern.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.010">
-                    <ref>Ad pag. 38.</ref>
-                    <seg>Stipae junceae loco ſubſtituenda eſt Stipa capillata, quae locis dictis
-                        creſcit. Stipa iuncea ergo non eſt ciuis noſtrae Florae.</seg>
-                </ab>
+                    <ref>Ad pag. 38.</ref></ab>
+                    <ab type="additional_information_correction">Stipae junceae loco ſubſtituenda
+                        eſt Stipa capillata, quae locis dictis creſcit. Stipa iuncea ergo non eſt ciuis noſtrae Florae.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.011">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Aira flexuoſa habitat frequens in paſcuis zwiſchen Tochheim und
-                        Friederikenberg.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Aira flexuoſa</ab>
+                    <ab type="location">habitat frequens in paſcuis zwiſchen Tochheim und Friederikenberg.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.012">
-                    <ref>Ad pag. 44.</ref>
-                    <seg>Deſcriptio Auenae pubeſcenti ſubnexa, pertinet ad Auenam flaueſcentem.</seg>
-                </ab>
+                    <ref>Ad pag. 44.</ref></ab>
+                <ab type="additional_information">Deſcriptio Auenae pubeſcenti ſubnexa, pertinet ad </ab><ab type="name_reference">Auenam flaueſcentem.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.013">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Arundo Calamagroſtis habitat etiam ad Albim über Breitenhagen nach Aken zu.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Arundo Calamagroſtis</ab>
+                    <ab type="location">habitat etiam ad Albim über Breitenhagen nach Aken zu.</ab>
+                    
                 <ab type="emendation" xml:id="sup.add.014">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Arundo arenaria creſcit etiam in ſylua aceroſa am Wege nach Zerbſt linker
-                        Hand.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Arundo arenaria</ab>
+                    <ab type="location">creſcit etiam in ſylua aceroſa am Wege nach Zerbſt linker
+                        Hand.</ab>
+                    
                 <ab type="emendation" xml:id="sup.add.015">
-                    <ref>Ad pag. 51.</ref>
-                    <seg>Galium boreale habitat etiam im Kuhwerder, et alibi.</seg>
-                </ab>
+                    <ref>Ad pag. 51.</ref></ab>
+                    <ab type="name_reference">Galium boreale</ab>
+                    <ab type="location">habitat etiam im Kuhwerder, et alibi.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.016">
-                    <ref>Ad pag. 51,</ref>
-                    <seg>Aſperula aruenſis; legatur: habitat ad marginem agrorum an der
-                        kleinen Weidenallee hinunter gegen den Anger zu; rarius.</seg>
-                </ab>
+                    <ref>Ad pag. 51,</ref></ab>
+                    <ab type="name_reference">Aſperula aruenſis</ab>
+                    <ab type="location">; legatur: habitat ad marginem agrorum an der
+                        kleinen Weidenallee hinunter gegen den Anger zu; rarius.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.017">
-                    <ref>Ad pag. 52.</ref>
-                    <seg>Aſperula tinctoria habitat quoque in montoſis apricis hinter Salze.
-                        Foliorum numerus variat. Figura ſeminum magis oblonga, quam globoſa. Caulis
-                        a ſemipedali ad ſeſquipedalem altitudinem adſcendit in noſtris.</seg>
-                </ab>
+                    <ref>Ad pag. 52.</ref></ab>
+                    <ab type="name_reference">Aſperula tinctoria</ab>
+                    <ab type="location">habitat quoque in montoſis apricis hinter Salze.</ab>
+                    <ab type="morphology">Foliorum numerus variat. Figura ſeminum magis oblonga, quam globoſa. Caulis
+                        a ſemipedali ad ſeſquipedalem altitudinem adſcendit in noſtris.</ab>
+                    
                 <ab type="emendation" xml:id="sup.add.018">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Sherardia aruenſis habitat in campis frequens.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Sherardia aruenſis</ab>
+                    <ab type="location">habitat in campis frequens.</ab>
+                    
                 <ab type="emendation" xml:id="sup.add.019">
-                    <ref>Ad pag. 61.</ref>
-                    <seg>Verbaſcum nigrum habitat quoque trans Albim, dem Schloße gegen über.</seg>
-                </ab>
+                    <ref>Ad pag. 61.</ref></ab>
+                    <ab type="name_reference">Verbaſcum nigrum</ab>
+                    <ab type="location">habitat quoque trans Albim, dem Schloße gegen über.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.020">
-                    <ref>Ad pag. 66.</ref>
-                    <seg>Ribes nigrum habitat etiam in humidis über die Poleymühle hin rechter
-                        Hand.</seg>
-                </ab>
+                    <ref>Ad pag. 66.</ref></ab>
+                    <ab type="name_reference">Ribes nigrum</ab>
+                    <ab type="location">habitat etiam in humidis über die Poleymühle hin rechter Hand.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.021">
-                    <ref>Ad pag. 67.</ref>
-                    <seg>Theſium alpinum habitat frequens in collibus apricis um Glien; auch in
-                        montoſis apricis hinter Salze und Froſe hin. Loco hic indicato naſcitur
-                        Theſium Linophyllum, quod vide ſupra n. 1032.</seg>
-                </ab>
+                    <ref>Ad pag. 67.</ref></ab>
+                    <ab type="name_reference">Theſium alpinum</ab>
+                    <ab type="location">habitat frequens in collibus apricis um Glien; auch in
+                        montoſis apricis hinter Salze und Froſe hin.</ab>
+                    <ab type="additional_information_correction">Loco hic indicato naſcitur
+                        Theſium Linophyllum, quod vide ſupra n. 1032.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.022">
-                    <ref>Ad pag. 68.</ref>
-                    <seg>Gentiana Pneumonanthes varietas latifolia habitat in pratis et aggeribus
-                        trans Salam gegen Lederiz hin. Habitus idem; ſed folia, praeſertim
-                        inferiora, ouato-lanceolata.</seg>
-                </ab>
+                    <ref>Ad pag. 68.</ref></ab>
+                <ab type="name_reference">Gentiana Pneumonanthes</ab>
+                <ab type="location">varietas latifolia habitat in pratis et aggeribus
+                        trans Salam gegen Lederiz hin.</ab>
+                <ab type="morphology">Habitus idem; ſed folia, praeſertim inferiora, ouato-lanceolata.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.023">
-                    <ref>Ad pag. 73.</ref>
-                    <seg>Caucalis leptophylla. Eſt potius Cauc. daucoides. Vide ſupra.</seg>
-                </ab>
+                    <ref>Ad pag. 73.</ref></ab>
+                    <ab type="name_reference">Caucalis leptophylla.</ab>
+                    <ab type="additional_information_correction">Eſt potius Cauc. daucoides. Vide ſupra.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.024">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Tordylium maximum habitat quoque ad dumetum bey der Böſener Mark rechter
-                        Hand ins Feld hinein. Ad 356</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Tordylium maximum</ab>
+                    <ab type="location">habitat quoque ad dumetum bey der Böſener Mark rechter
+                        Hand ins Feld hinein.</ab>
+                    
                 <ab type="emendation" xml:id="sup.add.025">
-                    <ref>Ad pag. 79.</ref>
-                    <seg>Cicuta viroſa creſcit frequens in vliginoſis, über der Poleymühle hin
+                    <ref>Ad pag. 79.</ref></ab>
+                    <ab type="name_reference">Cicuta viroſa</ab>
+                    <ab type="location">creſcit frequens in vliginoſis, über der Poleymühle hin
                         rechter Hand; etiam in turfoſis paluſtribus an der Elbe hinauf gegen Steckby
-                        zu.</seg>
-                </ab>
+                        zu.</ab>
+                    
                 <ab type="emendation" xml:id="sup.add.026">
-                    <ref>Ad pag. 82.</ref>
-                    <seg>Parnaſſia paluſtris creſcit etiam in paſcuis humidis zwiſchen
-                        Friederikenberg und Badez.</seg>
-                </ab>
+                    <ref>Ad pag. 82.</ref></ab>
+                    <ab type="name_reference">Parnaſſia paluſtris</ab>
+                    <ab type="location">creſcit etiam in paſcuis humidis zwiſchen
+                        Friederikenberg und Badez.</ab>
+                    
                 <ab type="emendation" xml:id="sup.add.027">
-                    <ref>Ad pag. 86.</ref>
-                    <seg>Allium vineale habitat frequens inter ſegetes am Wege nach Zerbſt bald
-                        hinter Walternienburg.</seg>
-                </ab>
+                    <ref>Ad pag. 86.</ref></ab>
+                    <ab type="name_reference">Allium vineale</ab>
+                    <ab type="location">habitat frequens inter ſegetes am Wege nach Zerbſt bald
+                        hinter Walternienburg.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.028">
-                    <ref>Ad pag. 87.</ref>
-                    <seg>Conuallaria multiflora creſcit etiam im Zeizer Buſche.</seg>
-                </ab>
+                    <ref>Ad pag. 87.</ref></ab>
+                    <ab type="name_reference">Conuallaria multiflora</ab>
+                    <ab type="location">creſcit etiam im Zeizer Buſche.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.029">
-                    <ref>Ad pag. 101.</ref>
-                    <seg>Monotropa Hippopitys habitat quoque im Friedrichsholze bey Zerbft.</seg>
-                </ab>
+                    <ref>Ad pag. 101.</ref></ab>
+                    <ab type="name_reference">Monotropa Hippopitys</ab>
+                    <ab type="location">habitat quoque im Friedrichsholze bey Zerbft.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.030">
-                    <ref>Ad pag. 103.</ref>
-                    <seg>Saxifraga tridactylites habitat frequens auf Erdwänden bey Flöz, et alibi.</seg>
-                </ab>
+                    <ref>Ad pag. 103.</ref></ab>
+                    <ab type="name_reference">Saxifraga tridactylites</ab>
+                    <ab type="location">habitat frequens auf Erdwänden bey Flöz, et alibi.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.031">
-                    <ref>Ad pag. 105.</ref>
-                    <seg>Arenaria rubra marina habitat frequens ad ſalinas bey Salze, bey den
-                        Salzwerken.</seg>
-                </ab>
+                    <ref>Ad pag. 105.</ref></ab>
+                    <ab type="name_reference">Arenaria rubra</ab>
+                    <ab type="location">marina habitat frequens ad ſalinas bey Salze, bey den
+                        Salzwerken.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.032">
-                    <ref>Ad pag. 106.</ref>
-                    <seg>Cucubalus Behen. Var. β. Lychnis maritima repens Linn. It. gotl. 197.
-                        initio Iunii 1783, nec poſtea reperta eſt bey Zerbſt im Friedrichsholze.
-                        Caulis ſubuiſcidus. Folia glabra, recurua, acuta. Flores paullo minores,
+                    <ref>Ad pag. 106.</ref></ab>
+                    <ab type="name_reference">Cucubalus Behen. Var. β. Lychnis maritima repens Linn. It. gotl. 197.</ab>
+                    <ab type="location">initio Iunii 1783, nec poſtea reperta eſt bey Zerbſt im Friedrichsholze.</ab>
+                    <ab type="morphology">Caulis ſubuiſcidus. Folia glabra, recurua, acuta. Flores paullo minores,
                         quam in Cucubalo Behen vulgari. Calyx glaber, ſubſtriatus, viridis. Corolla
                         alba. Petala apice bifida, tum infra apicem dilatata, vtrinque dente ſeu
                         angulo; poſtea verſus baſin anguſtantur. Faux nuda. Staminum tantum
-                        rudimenta. Styli tres longi, apice curui.</seg>
-                </ab>
+                        rudimenta. Styli tres longi, apice curui.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.033">
-                    <ref>Ad pag. 106.</ref>
-                    <seg>Silene noctiflora. Plantam hanc omnino ſuaueolentem eſſe, his annis ſaepe
-                        expertus ſum.</seg>
-                </ab>
+                    <ref>Ad pag. 106.</ref></ab>
+                    <ab type="name_reference">Silene noctiflora.</ab>
+                    <ab type="additional_information">Plantam hanc omnino ſuaueolentem eſſe, his annis ſaepe
+                        expertus ſum.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.034">
-                    <ref>Ad pag. 107.</ref>
-                    <seg>Silene Armeria habitat im Friedrichsholze.</seg>
-                </ab>
+                    <ref>Ad pag. 107.</ref></ab>
+                    <ab type="name_reference">Silene Armeria</ab>
+                    <ab type="location">habitat im Friedrichsholze.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.035">
-                    <ref>Ad pag. 109.</ref>
-                    <seg>Ceraſtium vulgatum et Ceraſtium viſcoſum. De his notetur: Ceraſtium
+                    <ref>Ad pag. 109.</ref></ab>
+                    <ab type="name_reference">Ceraſtium vulgatum et Ceraſtium viſcoſum.</ab>
+                    <ab type="location">De his notetur: Ceraſtium
                         viſcoſum habitat copioſe in campis arenoſis inter ſegetes, bey Gödnitz et
-                        alibi trans Albim. Caeterum e Flora Suec. p. 158. transſcripſeram in Floram
+                        alibi trans Albim.</ab>
+                    <ab type="morphology">Caeterum e Flora Suec. p. 158. transſcripſeram in Floram
                         Barbienſem Linnei adnotationem, Ceraſtii viſcoſi folia eſſe magis
                         lanceolata, minusque ouata. Sed hoc aliter ſe habere, monet Curtiſii Flora
                         Londinenſis, vbi adnotatur, folia Cer. viſcoſi eſſe minus lanceolata
-                        magisque ouata, quam in Ceraſtio vulgato.</seg>
-                </ab>
+                        magisque ouata, quam in Ceraſtio vulgato.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.036">
-                    <ref>Ad pag. 111.</ref>
-                    <seg>Oxalis Acetoſella creſcit etiam ad radices arborum in dumetis humidis bey
-                        Stenz.</seg>
-                </ab>
+                    <ref>Ad pag. 111.</ref></ab>
+                    <ab type="name_reference">Oxalis Acetoſella</ab>
+                    <ab type="location">creſcit etiam ad radices arborum in dumetis humidis bey
+                        Stenz.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.037">
-                    <ref>Ad pag. 114.</ref>
-                    <seg>Euphorbia dulcis creſcit frequens in ſylvaticis auf Ranies, bald Gelinde
-                        gegen über.</seg>
-                </ab>
+                    <ref>Ad pag. 114.</ref></ab>
+                    <ab type="name_reference">Euphorbia dulcis</ab>
+                    <ab type="location">creſcit frequens in ſylvaticis auf Ranies, bald Gelinde
+                        gegen über.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.038">
-                    <ref>Ad pag. 116.</ref>
-                    <seg>Prunus auium habitat quoque um Wieſenburg.</seg>
-                </ab>
+                    <ref>Ad pag. 116.</ref></ab>
+                    <ab type="name_reference">Prunus auium</ab>
+                    <ab type="location">habitat quoque um Wieſenburg.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.039">
-                    <ref>Ad pag. 131.</ref>
-                    <seg>Ranunculus lanuginoſus eliminandus eſt: eſt enim R. illyricus. Vide ſupra.</seg>
-                </ab>
+                    <ref>Ad pag. 131.</ref></ab>
+                    <ab type="name_reference">Ranunculus lanuginoſus</ab>
+                    <ab type="additional_information_correction">eliminandus eſt: eſt enim R. illyricus. Vide ſupra.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.040">
-                    <ref>Ad pag. 132.</ref>
-                    <seg>Adonis aeſtiualis. Huius varietas flore eleganter phoeniceo creſcit in
-                        agris linker Hand am Weinberge hin.</seg>
-                </ab>
+                    <ref>Ad pag. 132.</ref></ab>
+                    <ab type="name_reference">Adonis aeſtiualis.</ab>
+                    <ab type="location">Huius varietas flore eleganter phoeniceo creſcit in
+                        agris linker Hand am Weinberge hin.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.041.1">
-                    <ref>Ad pag. 135.</ref>
-                    <seg>Aiuga pyramidalis habitat quoque ad marginem ſyluae nahe bey Tochheim, wenn
-                        man von der Poleymühle kommt. Ad Ad pag, 135. Aiuga geneuenfis frequens
-                        creſcit flore carneo in paſcuis um Glien.;</seg>
-                </ab>
+                    <ref>Ad pag. 135.</ref></ab>
+                    <ab type="name_reference">Aiuga pyramidalis</ab>
+                    <ab type="location">habitat quoque ad marginem ſyluae nahe bey Tochheim, wenn
+                        man von der Poleymühle kommt.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.041.2">
-                    <ref>Ad pag. 135.</ref>
-                    <seg>Aiuga geneuenſis frequens creſcit flore carneo in paſcuis um Glien.</seg>
-                </ab>
+                    <ref>Ad pag. 135.</ref></ab>
+                    <ab type="name_reference">Aiuga geneuenſis</ab>
+                    <ab type="location">frequens creſcit flore carneo in paſcuis um Glien.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.042">
-                    <ref>Ad pag. 141.</ref>
-                    <seg>Origanum vulgare habitat quoque in dumetis im Lederizer Buſch an der Elbe,
-                        Steckby gegen über.</seg>
-                </ab>
+                    <ref>Ad pag. 141.</ref></ab>
+                    <ab type="name_reference">Origanum vulgare</ab>
+                    <ab type="location">habitat quoque in dumetis im Lederizer Buſch an der Elbe,
+                        Steckby gegen über.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.043">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Orobanche maior habitat etiam ad dumeta auf der großen Wieſe gegen Welbke;
-                        auch am Wege von Kleinroſenburg nach Breitenhagen zu.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Orobanche maior</ab>
+                    <ab type="location">habitat etiam ad dumeta auf der großen Wieſe gegen Welbke;
+                        auch am Wege von Kleinroſenburg nach Breitenhagen zu.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.044">
-                    <ref>Ad pag. 143.</ref>
-                    <seg>Melampyrum ſyluaticum creſcit etiam im Friedrichsholze bey Zerbſt.</seg>
-                </ab>
+                    <ref>Ad pag. 143.</ref></ab>
+                    <ab type="name_reference">Melampyrum ſyluaticum</ab>
+                    <ab type="location">creſcit etiam im Friedrichsholze bey Zerbſt.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.045">
-                    <ref>Ad pag. 144.</ref>
-                    <seg>Scrophularia aquatica habitat frequens ad foſſas über Dornburg hinaus an
-                        der Straße.</seg>
-                </ab>
+                    <ref>Ad pag. 144.</ref></ab>
+                    <ab type="name_reference">Scrophularia aquatica</ab>
+                    <ab type="location">habitat frequens ad foſſas über Dornburg hinaus an
+                        der Straße.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.046">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Digitalis lutea eſt potius D. ambigua, frequens im Friedrichsholze bey
-                        Zerbſt.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Digitalis lutea</ab>
+                    <ab type="additional_information_correction">eſt potius D. ambigua,</ab>
+                    <ab type="location">frequens im Friedrichsholze bey Zerbſt.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.047">
-                    <ref>Ad pag. 150.</ref>
-                    <seg>Thlaſpi perfoliatum habitat etiam ad aggeres bey den Wieſen vor Jüterglück,
-                        gegen die Zerbſter Straße.</seg>
-                </ab>
+                    <ref>Ad pag. 150.</ref></ab>
+                    <ab type="name_reference">Thlaſpi perfoliatum</ab>
+                    <ab type="location">habitat etiam ad aggeres bey den Wieſen vor Jüterglück,
+                        gegen die Zerbſter Straße.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.048">
-                    <ref>Ad pag. 153.</ref>
-                    <seg>Braſſica campeſtris habitat in agris von Mühlingen die Berge hinauf; in der
-                        Vorderlucke gegen Saalhorn et alibi. Colitur in hortis noſtris, et ſub
-                        nomine Schnittkohl ad olera vſurpatur.</seg>
-                </ab>
+                    <ref>Ad pag. 153.</ref></ab>
+                    <ab type="name_reference">Braſſica campeſtris</ab>
+                    <ab type="location">habitat in agris von Mühlingen die Berge hinauf; in der
+                        Vorderlucke gegen Saalhorn et alibi.</ab>
+                    <ab type="additional_information">Colitur in hortis noſtris, et ſub
+                        nomine Schnittkohl ad olera vſurpatur.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.049">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Braſſica Erucaſtrum, vel planta ea, quam hoc nomine indicauimus, habitat ad
-                        murum an der Elbe auſſerhalb des Schloßgartens.
-                        Fl. Iulio. Petala alba venis
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Braſſica Erucaſtrum</ab>
+                    <ab type="location">, vel planta ea, quam hoc nomine indicauimus, habitat ad
+                        murum an der Elbe auſſerhalb des Schloßgartens.</ab>
+                    <ab type="flowering_time">Fl. Iulio.</ab>
+                    <ab type="morphology">Petala alba venis
                         caeruleis. Folia glabra: inferiora acuta, dentato-pinnatifida ſeu
                         runcinata; caulina lanceolata, dentata. Caulis et pedunculi retrorſum
-                        ſcabri. Sili quae teretes, glabrae. Eſt potius Raphanus Raphaniſtrum, ergo
-                        Braſ. Erucaſtrum delenda erit.</seg>
-                </ab>
+                        ſcabri. Sili quae teretes, glabrae.</ab>
+                    <ab type="additional_information_correction">Eſt potius Raphanus Raphaniſtrum, ergo
+                        Braſ. Erucaſtrum delenda erit.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.050">
-                    <ref>Ad pag. 156.</ref>
-                    <seg>Siſymbrium arenoſum. Locus corrigatur et legatur: H. in arena auf der
-                        Sandbank hinter dem Elbwerder, rarius.</seg>
-                </ab>
+                    <ref>Ad pag. 156.</ref></ab>
+                    <ab type="name_reference">Siſymbrium arenoſum.</ab>
+                    <ab type="location">Locus corrigatur et legatur: H. in arena auf der
+                        Sandbank hinter dem Elbwerder, rarius.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.051">
-                    <ref>Ad pag. 157.</ref>
-                    <seg>Geranium paluſtre habitat quoque frequens in pratis jenseits der
-                        Poleymühle.</seg>
-                </ab>
+                    <ref>Ad pag. 157.</ref></ab>
+                    <ab type="name_reference">Geranium paluſtre</ab>
+                    <ab type="location">habitat quoque frequens in pratis jenseits der Poleymühle.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.052">
-                    <ref>Ad pag. 158.</ref>
-                    <seg>Geranium columbinum habitat etiam in ſyluaticis am Wege von Dornburg nach
+                    <ref>Ad pag. 158.</ref></ab>
+                    <ab type="name_reference">Geranium columbinum</ab>
+                    <ab type="location">habitat etiam in ſyluaticis am Wege von Dornburg nach
                         Prezien. Semel quoque inuentum am Wege in der Lindenallee; auch hinter
-                        Monplaiſir beym Dammbruche.</seg>
-                </ab>
+                        Monplaiſir beym Dammbruche.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.053">
-                    <ref>Ad pag. 159.</ref>
-                    <seg>Lauatera thuringiaca prouenit quoque in aggere am Wege von Colphus nach
-                        Mukrena zu.</seg>
-                </ab>
+                    <ref>Ad pag. 159.</ref></ab>
+                    <ab type="name_reference">Lauatera thuringiaca</ab>
+                    <ab type="location">prouenit quoque in aggere am Wege von Colphus nach
+                        Mukrena zu.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.054">
-                    <ref>Ad pag. 161.</ref>
-                    <seg>Fumaria bulboſa (intermedia) Linn. Spec. Plant. p. 983. radice non caua
-                        minor. Habitat in decliultate monticulorum, zwiſchen der Poleymühle nnd
-                        Tochheim, nahe gegen Tochheim hin. Fl. Martio, Aprili.</seg>
-                </ab>
+                    <ref>Ad pag. 161.</ref></ab>
+                    <ab type="name_reference">Fumaria bulboſa (intermedia) Linn. Spec. Plant. p. 983.</ab>
+                    <ab type="morphology">radice non caua minor.</ab>
+                    <ab type="location">Habitat in decliultate monticulorum, zwiſchen der Poleymühle nnd
+                        Tochheim, nahe gegen Tochheim hin.</ab>
+                    <ab type="flowering_time">Fl. Martio, Aprili.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.055">
-                    <ref>Ad pag. 165.</ref>
-                    <seg>Lathyrus ſyluaticus creſcit etiam in arenoſis hinter Monplaiſir.</seg>
-                </ab>
+                    <ref>Ad pag. 165.</ref></ab>
+                    <ab type="name_reference">Lathyrus ſyluaticus</ab>
+                    <ab type="location">creſcit etiam in arenoſis hinter Monplaiſir.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.056">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Lathyrus paluſtris habitat frequens in paluſtribus hinter Monplaiſir beym
-                        Anfang der Hähniſchen See.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Lathyrus paluſtris</ab>
+                    <ab type="location">habitat frequens in paluſtribus hinter Monplaiſir beym
+                        Anfang der Hähniſchen See.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.057">
-                    <ref>Ad pag. 166.</ref>
-                    <seg>Aſtragalus Cicer habitat quoque in montoſis apricis hinter Salze und
-                        Froſe.</seg>
-                </ab>
+                    <ref>Ad pag. 166.</ref></ab>
+                    <ab type="name_reference">Aſtragalus Cicer</ab>
+                    <ab type="location">habitat quoque in montoſis apricis hinter Salze und Froſe.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.058">
-                    <ref>Ad pag. 170.</ref>
-                    <seg>Hedyſarum Onobrychis creſcit etiam in collibus aridis vom neuen Kruge nach
-                        Bromby zu.</seg>
-                </ab>
+                    <ref>Ad pag. 170.</ref></ab>
+                    <ab type="name_reference">Hedyſarum Onobrychis</ab>
+                    <ab type="location">creſcit etiam in collibus aridis vom neuen Kruge nach
+                        Bromby zu.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.059">
-                    <ref>Ad pag. 174.</ref>
-                    <seg>Hypericum montanum habitat etiam im Friedrichsholze bey Zerbſt.</seg>
-                </ab>
+                    <ref>Ad pag. 174.</ref></ab>
+                    <ab type="name_reference">Hypericum montanum</ab>
+                    <ab type="location">habitat etiam im Friedrichsholze bey Zerbſt.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.060">
-                    <ref>Ad pag. 178.</ref>
-                    <seg>Scorzonera humilis creſcit quoque in editis gramineis zwiſchen Tochheim und
+                    <ref>Ad pag. 178.</ref></ab>
+                    <ab type="name_reference">Scorzonera humilis</ab>
+                    <ab type="location">creſcit quoque in editis gramineis zwiſchen Tochheim und
                         Friederikenberg, rechter Hand bey den Birken, ehe man in den Buſch
-                        kommt.</seg>
-                </ab>
+                        kommt.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.061">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Scorzonera laciniata habitat etiam in montoſis apricis gramineis hinter
-                        Salze und Froſe.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Scorzonera laciniata</ab>
+                    <ab type="location">habitat etiam in montoſis apricis gramineis hinter
+                        Salze und Froſe.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.062">
-                    <ref>Ad pag. 180.</ref>
-                    <seg>Lactuca ſaligna creſcit frequens ad margines agrorum, wenn man über die
+                    <ref>Ad pag. 180.</ref></ab>
+                    <ab type="name_reference">Lactuca ſaligna</ab>
+                    <ab type="location">creſcit frequens ad margines agrorum, wenn man über die
                         Schafbrücke nach Colphus gehet, auch wenn man von den Windmühlen nach
-                        Cyprena gehet, et alibi.</seg>
-                </ab>
+                        Cyprena gehet, et alibi.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.063">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Hieracium dubium creſcit in paſcuis zwiſchen Tochheim und Friederikenberg
-                        linker Hand, et alibi.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Hieracium dubium</ab>
+                    <ab type="location">creſcit in paſcuis zwiſchen Tochheim und Friederikenberg
+                        linker Hand, et alibi.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.064">
-                    <ref>Ad pag. 187.</ref>
-                    <seg>Gnaphalium arenarium habitat frequens in arenoſis hinterMonplaiſir.</seg>
-                </ab>
+                    <ref>Ad pag. 187.</ref></ab>
+                    <ab type="name_reference">Gnaphalium arenarium</ab>
+                    <ab type="location">habitat frequens in arenoſis hinter Monplaiſir.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.065">
-                    <ref>Ad pag. 188.</ref>
-                    <seg>Matricaria Parthenium prouenit ad ſepes in Weſpen.</seg>
-                </ab>
+                    <ref>Ad pag. 188.</ref></ab>
+                    <ab type="name_reference">Matricaria Parthenium</ab>
+                    <ab type="location">prouenit ad ſepes in Weſpen.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.066">
-                    <ref>Ad pag. 190.</ref>
-                    <seg>Chryſanthemum corymboſum habitat frequens in montoſis apricis hinter
-                        Salze und Froſe.</seg>
-                </ab>
+                    <ref>Ad pag. 190.</ref></ab>
+                    <ab type="name_reference">Chryſanthemum corymboſum</ab>
+                    <ab type="location">habitat frequens in montoſis apricis hinter Salze und Froſe.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.067">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Chryſanthemum ſegetum inuentum quoque auf der Sandbank an der Elbe, über
-                        dem Elbwerder.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Chryſanthemum ſegetum</ab>
+                    <ab type="location">inuentum quoque auf der Sandbank an der Elbe, über
+                        dem Elbwerder.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.068">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Arnica montana creſcit frequens über Zerbſt hin, zwiſchen Luſe und
-                        Mühlsdorf, linker Hand auf den Heidewieſen; referente conſule Thoma
-                        Serueſtano.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Arnica montana</ab>
+                    <ab type="location">creſcit frequens über Zerbſt hin, zwiſchen Luſe und
+                        Mühlsdorf, linker Hand auf den Heidewieſen;</ab>
+                    <ab type="additional_information">referente conſule Thoma Serueſtano.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.069">
-                    <ref>Ad pag. 192.</ref>
-                    <seg>Solidago Virgaurea habitat etiam in montoſis apricis hinter Salze.</seg>
-                </ab>
+                    <ref>Ad pag. 192.</ref></ab>
+                    <ab type="name_reference">Solidago Virgaurea</ab>
+                    <ab type="location">habitat etiam in montoſis apricis hinter Salze.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.070.1">
-                    <ref>Ad pag. 194.</ref>
-                    <seg>Tuſſilago alba habitat etiam in ſalicetis arenoſis an der Elbe hinter
-                        Monplaiſir im Treugen Buſche, copioſe.</seg>
-                </ab>
+                    <ref>Ad pag. 194.</ref></ab>
+                    <ab type="name_reference">Tuſſilago alba</ab>
+                    <ab type="location">habitat etiam in ſalicetis arenoſis an der Elbe hinter
+                        Monplaiſir im Treugen Buſche, copioſe.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.071.2">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Aſter Tripolium habitat in foſſis et ad ſalinas bey Salze an den Gradierwerken hin. Fl.
-                        Auguſto. Deleatur itaque locus natalis n. 699. Deſcriptionem vide p. 309.
-                        ſub n. 1014.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Aſter Tripolium</ab>
+                    <ab type="location">habitat in foſſis et ad ſalinas bey Salze an den Gradierwerken hin.</ab>
+                    <ab type="flowering_time">Fl. Auguſto.</ab>
+                    <ab type="additional_information_correction">Deleatur itaque locus natalis n. 699. Deſcriptionem vide p. 309.
+                        ſub n. 1014.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.071">
-                    <ref>Ad pag. 197.</ref>
-                    <seg>Centaurea ſolſtitialis, poſtquam diu viſa non erat, denuo inuenta eſt in
-                        agro poſt meſſem in Böſen am Wege rechter Hand.</seg>
-                </ab>
+                    <ref>Ad pag. 197.</ref></ab>
+                    <ab type="name_reference">Centaurea ſolſtitialis</ab>
+                    <ab type="location">, poſtquam diu viſa non erat, denuo inuenta eſt in
+                        agro poſt meſſem in Böſen am Wege rechter Hand.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.072">
-                    <ref>Ad pag. 199.</ref>
-                    <seg>Echinops ſphaerocephalus creſcit etiam ad dumeta in campis zwiſchen Zeiz
-                        und Weſpen.</seg>
-                </ab>
+                    <ref>Ad pag. 199.</ref></ab>
+                    <ab type="name_reference">Echinops ſphaerocephalus</ab>
+                    <ab type="location">creſcit etiam ad dumeta in campis zwiſchen Zeiz
+                        und Weſpen.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.073.1">
-                    <ref>Ad pag. 200.</ref>
-                    <seg>Viola hirta creſcit frequens auf der großen Wieſe gegen die Hinterlucke zu
-                        et alibi.</seg>
-                </ab>
+                    <ref>Ad pag. 200.</ref></ab>
+                    <ab type="name_reference">Viola hirta</ab>
+                    <ab type="location">creſcit frequens auf der großen Wieſe gegen die Hinterlucke zu
+                        et alibi.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.073.2">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Viola montana habitat etiam im Kuhwerder.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Viola montana</ab>
+                    <ab type="location">habitat etiam im Kuhwerder.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.074">
-                    <ref>Ad pag. 202. 203</ref>
-                    <seg>Orchis coriophora, p. 202. item Orchis vſtulata p. 203. creſcunt etiam
-                        in pratis humidis von Jüterglück gegen die Zerbſter Straße herunter.</seg>
-                </ab>
+                    <ref>Ad pag. 202. 203</ref></ab>
+                    <ab type="name_reference">Orchis coriophora, p. 202. item Orchis vſtulata p. 203.</ab>
+                    <ab type="location">creſcunt etiam in pratis humidis von Jüterglück gegen die Zerbſter Straße herunter.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.075">
-                    <ref>Ad pag. 206.</ref>
-                    <seg>Chara vulgaris habitat etiam in foſſis von Colphus nach Cyprena.</seg>
-                </ab>
+                    <ref>Ad pag. 206.</ref></ab>
+                    <ab type="name_reference">Chara vulgaris</ab>
+                    <ab type="location">habitat etiam in foſſis von Colphus nach Cyprena.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.076">
-                    <ref>Ad pag. 207.</ref>
-                    <seg>Carex leporina. Locus corrigatur et legatur: H. in vdis nemoroſis an der
+                    <ref>Ad pag. 207.</ref></ab>
+                    <ab type="name_reference">Carex leporina.</ab>
+                    <ab type="location">Locus corrigatur et legatur: H. in vdis nemoroſis an der
                         Nuthe, bald wenn man zur Poleymühle kommt, auch in arenoſis ſubhumidis am
-                        Wege nach Zerbſt. Fl. Maio, Iunio. Culmus laeuis, ſuperne nudus,
+                        Wege nach Zerbſt.</ab>
+                    <ab type="flowering_time">Fl. Maio, Iunio.</ab>
+                    <ab type="morphology">Culmus laeuis, ſuperne nudus,
                         triqueter, pedalis et ſeſquipedalis. Folia carinata, in mucronem terminata,
                         retrorſum ſcabra. Spica lanceolata, vncialis, compoſita ex ſpiculis 3 ad 8,
-                        ſeſſilibus, approximatis, ſpadiceis.</seg>
-                </ab>
+                        ſeſſilibus, approximatis, ſpadiceis.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.077">
-                    <ref>Ad pag. 208.</ref>
-                    <seg>Carex montana creſcit etiam ad dumeta beym Zeizer Buſche auf der Seite
-                        gegen Gnadau hin. Iunio.</seg>
-                </ab>
+                    <ref>Ad pag. 208.</ref></ab>
+                    <ab type="name_reference">Carex montana creſcit etiam ad dumeta beym Zeizer Buſche auf der Seite
+                        gegen Gnadau hin. Iunio.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.078">
-                    <ref>Ad pag. 213.</ref>
-                    <seg>Myriophyllum verticillatum habitat frequens in ſtagnis hinter dem Kuhwerder
-                        gegen den Elbdamm zu.</seg>
-                </ab>
+                    <ref>Ad pag. 213.</ref></ab>
+                    <ab type="name_reference">Myriophyllum verticillatum habitat frequens in ſtagnis hinter dem Kuhwerder
+                        gegen den Elbdamm zu.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.079">
-                    <ref>Ad pag. 214.</ref>
-                    <seg>Poterium Sanguiſorba frequens creſcit ad margines agrorum am Mühlinger
-                        Berge, auf der Seite gegen Kleinmühlingen zu.</seg>
-                </ab>
+                    <ref>Ad pag. 214.</ref></ab>
+                    <ab type="name_reference">Poterium Sanguiſorba frequens creſcit ad margines agrorum am Mühlinger
+                        Berge, auf der Seite gegen Kleinmühlingen zu.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.080">
-                    <ref>Ad pag. 222.</ref>
-                    <seg>Hydrocharis Morſus ranae habitat etiam in den Probsſümpfen.</seg>
-                </ab>
+                    <ref>Ad pag. 222.</ref></ab>
+                    <ab type="name_reference">Hydrocharis Morſus ranae habitat etiam in den Probsſümpfen.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.081">
-                    <ref>Ad pag. 228.</ref>
-                    <seg>Equiſetum hiemale habitat in alnetis an der Nuthe am Ende der Allee, dem
-                        Schloſſe gegen über.</seg>
-                </ab>
+                    <ref>Ad pag. 228.</ref></ab>
+                    <ab type="name_reference">Equiſetum hiemale habitat in alnetis an der Nuthe am Ende der Allee, dem
+                        Schloſſe gegen über.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.082">
-                    <ref>Ad pag. 230.</ref>
-                    <seg>Aſplenium Ruta muraria creſcit etiam ad muros im Garten beym Amtshofe, auch
-                        auſſerhalb des Schloßgartens an der Mauer gegen den Elbcanal zu.</seg>
-                </ab>
+                    <ref>Ad pag. 230.</ref></ab>
+                    <ab type="name_reference">Aſplenium Ruta muraria creſcit etiam ad muros im Garten beym Amtshofe, auch
+                        auſſerhalb des Schloßgartens an der Mauer gegen den Elbcanal zu.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.083">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Pteris aquilina habitat ad dumeta über Tochheim an der Elbe hinauf gegen
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Pteris aquilina habitat ad dumeta über Tochheim an der Elbe hinauf gegen
                         Steckby hin. Creſcebat hoc loco ad altitudinem ſexpedalem, paribus ramorum
-                        ternis et quaternis.</seg>
-                </ab>
+                        ternis et quaternis.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.084">
-                    <ref>Ad pag. 234.</ref>
-                    <seg>Mnium polytrichoides creſcit etiam in aridis auf dem Anger gegen
-                        Monplaiſir.</seg>
-                </ab>
+                    <ref>Ad pag. 234.</ref></ab>
+                    <ab type="name_reference">Mnium polytrichoides creſcit etiam in aridis auf dem Anger gegen
+                        Monplaiſir.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.085">
-                    <ref>Ad pag. 235.</ref>
-                    <seg>Bryum pyriforme creſcit frequens in pratis humidis hinter der Poleymühle.</seg>
-                </ab>
+                    <ref>Ad pag. 235.</ref></ab>
+                    <ab type="name_reference">Bryum pyriforme creſcit frequens in pratis humidis hinter der Poleymühle.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.086">
-                    <ref>Ad pag. 235.</ref>
-                    <seg>Bryum extinctorium habitat etiam in editis arenofis hinter
-                        Kleinmühlingen.</seg>
-                </ab>
+                    <ref>Ad pag. 235.</ref></ab>
+                    <ab type="name_reference">Bryum extinctorium habitat etiam in editis arenofis hinter
+                        Kleinmühlingen.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.087">
-                    <ref>Ad pag. 240.</ref>
-                    <seg>Hypnum dendroides prouenit frequens in ſubhumidis auf dem Anger gegen
-                        Monplaiſir am Damme hin.</seg>
-                </ab>
+                    <ref>Ad pag. 240.</ref></ab>
+                    <ab type="name_reference">Hypnum dendroides prouenit frequens in ſubhumidis auf dem Anger gegen
+                        Monplaiſir am Damme hin.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.088">
-                    <ref>Ad pag. 243.</ref>
-                    <seg>Iungermannia aſplenioides creſcit etiam in ſylua, locis vdis trans Albim
-                        linker Hand, wo man nach Tochheim gehet.</seg>
-                </ab>
+                    <ref>Ad pag. 243.</ref></ab>
+                    <ab type="name_reference">Iungermannia aſplenioides creſcit etiam in ſylua, locis vdis trans Albim
+                        linker Hand, wo man nach Tochheim gehet.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.089">
-                    <ref>Ad pag. 245.</ref>
-                    <seg>Iungermannia pinguis creſcit etiam in turfoſis et vdis alnetorum diſſeits
+                    <ref>Ad pag. 245.</ref></ab>
+                    <ab type="name_reference">Iungermannia pinguis creſcit etiam in turfoſis et vdis alnetorum diſſeits
                         und jenſeits der Poleymühle. Pedunculus ſaepe praelongus ad duas
-                        vncias.</seg>
-                </ab>
+                        vncias.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.090">
-                    <ref>Ad pag. 252.</ref>
-                    <seg>Lichen ſubulatus habitat etiam in ſiccis ſteriliſſimis auf dem Anger gegen
-                        Monplaiſir.</seg>
-                </ab>
+                    <ref>Ad pag. 252.</ref></ab>
+                    <ab type="name_reference">Lichen ſubulatus habitat etiam in ſiccis ſteriliſſimis auf dem Anger gegen
+                        Monplaiſir.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.091.1">
-                    <ref>Ad pag. 255.</ref>
-                    <seg>Tremella iuniperina prouenit etiam in terra ſubſabuloſa trans Albim in
+                    <ref>Ad pag. 255.</ref></ab>
+                    <ab type="name_reference">Tremella iuniperina prouenit etiam in terra ſubſabuloſa trans Albim in
                         ſylua, wo man nach Tochheim gehet.</seg>
                     </ab>
                 <ab type="emendation" xml:id="sup.add.091.2">
-                    <ref>Ad pag. eandem</ref>
-                    <seg>Vlua inteſtinalis natat frequens in ſuperficie aquarum, in ſtagnis am 
+                    <ref>Ad pag. eandem</ref></ab>
+                    <ab type="name_reference">Vlua inteſtinalis natat frequens in ſuperficie aquarum, in ſtagnis am 
                         Graben unten am Anger, wo die Fiſchlöcher sind. Eſt ſubſtantia gelatinoſa, 
                         colore viridi vel fuſco, longitudine digiti et vltra. Sibi permiſſa conuoluitur 
                         in ſe, in modum tubuli. Euoluta, eſt membrana vnciam lata et vltra, admodum lubrica, 
-                        vt vix digitis teneri queat. Cum Conferua bulloſa olim permutauimus.</seg>
-                </ab>
+                        vt vix digitis teneri queat. Cum Conferua bulloſa olim permutauimus.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.092">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Vlua granulata creſcit copioſiſſime poſt defluuium aquarum, in terra
-                        limoſa, praecipue verno tempore, bey der Sandbank über dem Elbwerder.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Vlua granulata creſcit copioſiſſime poſt defluuium aquarum, in terra
+                        limoſa, praecipue verno tempore, bey der Sandbank über dem Elbwerder.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.093.1">
-                    <ref>Ad pag. 256.</ref>
-                    <seg>Conferua reticulata habitat etiam ad Albim jenſeits des Elbwerders, poſt
+                    <ref>Ad pag. 256.</ref></ab>
+                    <ab type="name_reference">Conferua reticulata habitat etiam ad Albim jenſeits des Elbwerders, poſt
                         defluuium aquarum in limo. Auctumno.</seg>
                     </ab>
                 <ab type="emendation" xml:id="sup.add.093.2">
-                    <ref>Ad pag. 257.</ref>
-                    <seg>Agaricus quinquepartitus creſcit quoque am Damme bey der Gurgel. Octobri. In lobos vt
+                    <ref>Ad pag. 257.</ref></ab>
+                    <ab type="name_reference">Agaricus quinquepartitus creſcit quoque am Damme bey der Gurgel. Octobri. In lobos vt
                         plurimum quinque, diverſae magnitudinis, diuiditur. Color pilei albidus,
-                        lamellarum etiam; ſed non albidior.</seg>
-                </ab>
+                        lamellarum etiam; ſed non albidior.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.094.1">
-                    <ref>Ad pag. 258.</ref>
-                    <seg>Agaricus cinnamomeus creſcit frequens ad radices tiliarum, in der
+                    <ref>Ad pag. 258.</ref></ab>
+                    <ab type="name_reference">Agaricus cinnamomeus creſcit frequens ad radices tiliarum, in der
                         Lindenallee. Eſt fungus ſatis craſſus, pileo ad 6 vncias lato, ſtipitis
                         diametro vnciali; color ſordide luteus, vt cinnamomi; pileus, praecipue
                         verſus marginem, ſquamoſus; lamellae luteo-fuſcae; volua nulla.</seg>
                     </ab>
                 <ab type="emendation" xml:id="sup.add.094.2">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Agaricus clypeatus eſt A. procerus Reich. Frankf. p. 156. Gled.
-                        Fung. p 144. XX. et habitat quoque im Zeizer Buſche.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Agaricus clypeatus eſt A. procerus Reich. Frankf. p. 156. Gled.
+                        Fung. p 144. XX. et habitat quoque im Zeizer Buſche.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.095">
-                    <ref>Ad pag. 260.</ref>
-                    <seg>Agaricus alneus habitat etiam in truncis arborum caeſarum, im
-                        Elbwerder. Nouembri.</seg>
-                </ab>
+                    <ref>Ad pag. 260.</ref></ab>
+                    <ab type="name_reference">Agaricus alneus habitat etiam in truncis arborum caeſarum, im
+                        Elbwerder. Nouembri.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.096">
-                    <ref>Ad pag. 261.</ref>
-                    <seg>Boletus viſcidus habitat quoque ad arborum truncos in ſylua trans Albim, wo
-                        man nach Tochheim gehet; ad ſalices in der Gurgel. Octobri.</seg>
-                </ab>
+                    <ref>Ad pag. 261.</ref></ab>
+                    <ab type="name_reference">Boletus viſcidus habitat quoque ad arborum truncos in ſylua trans Albim, wo
+                        man nach Tochheim gehet; ad ſalices in der Gurgel. Octobri.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.097">
-                    <ref>Ad pag. 263.</ref>
-                    <seg>Phallus eſculentus habitat frequens im Treugen Buſche gegen die Elbe; auch
-                        ſelten im Schloßgarten.</seg>
-                </ab>
+                    <ref>Ad pag. 263.</ref></ab>
+                    <ab type="name_reference">Phallus eſculentus habitat frequens im Treugen Buſche gegen die Elbe; auch
+                        ſelten im Schloßgarten.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.098">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Pezizae lentiferae varietas maior, nigra, laeuis, labro reuerſo, creſcit
-                        inter muſcos im Gnez et alibi. Nouembri.</seg>
-                </ab>
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Pezizae lentiferae varietas maior, nigra, laeuis, labro reuerſo, creſcit
+                        inter muſcos im Gnez et alibi. Nouembri.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.099">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Peziza puntata habitat etiam in ſtercore bouino auf der großen Wieſe;
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Peziza puntata habitat etiam in ſtercore bouino auf der großen Wieſe;
                         inuenta Octobri, ſed exſiccata. Item habitat in arenoſis aridis editis gegen
                         Tochheim hin. Aprili. Diameter fungi a linea dimidia ad duas et tres lineas.
-                        Superficies niuea, punctis ſubnigris.</seg>
-                </ab>
+                        Superficies niuea, punctis ſubnigris.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.100">
-                    <ref>Ad pag. 263.</ref>
-                    <seg>Peziza cyathoides creſcit in ramis emortuis deiectis, im Elbewerder.
+                    <ref>Ad pag. 263.</ref></ab>
+                    <ab type="name_reference">Peziza cyathoides creſcit in ramis emortuis deiectis, im Elbewerder.
                         Nouembri. Magnitudo huius exemplaris erat ſeminis cannabini, et minor; color
-                        flauus; figura crucibuli, modo trigona, modo tetragona.</seg>
-                </ab>
+                        flauus; figura crucibuli, modo trigona, modo tetragona.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.101">
-                    <ref>Ad pag. eandem.</ref>
-                    <seg>Peziza ſcutellata creſcit etiam in ſteriliſſimis auf dem Anger gegen
+                    <ref>Ad pag. eandem.</ref></ab>
+                    <ab type="name_reference">Peziza ſcutellata creſcit etiam in ſteriliſſimis auf dem Anger gegen
                         Monplaiſir. Nouembri. Varietas huius minor, quae eſt Eluela orbicularis,
                         minima ſeſſilis et coccinea, plana; margine ciliato vel nudo; Gled. Fung. p.
                         45. b. habitat inter muſcos in terra auf den Gartenbeeten; im Schloßgarten;
                         auch auf dem Kleefeld beym Gnez, Vere et Auctumno. Magnitudo ſeminis
-                        miliacei. Diſcus convexo-planus. Pilos non obſeruaui.</seg>
-                </ab>
+                        miliacei. Diſcus convexo-planus. Pilos non obſeruaui.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.102">
-                    <ref>Ad pag. 264.</ref>
-                    <seg>Clauaria Muſcoides creſcit etiam inter muſcos bey den Pyramiden auſſen im
+                    <ref>Ad pag. 264.</ref></ab>
+                    <ab type="name_reference">Clauaria Muſcoides creſcit etiam inter muſcos bey den Pyramiden auſſen im
                         Schloßgarten. Octobri. Fruticulus duarum vnciarum, pallide luteus, valde
-                        ramoſus; odore fungoſo grato, vt edulis videatur.</seg>
-                </ab>
+                        ramoſus; odore fungoſo grato, vt edulis videatur.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.103">
-                    <ref>Ad pag. 265.</ref>
-                    <seg>Mucor Embolus creſcit in ſalicibus putridis im Elbwerder. Altitudo
+                    <ref>Ad pag. 265.</ref></ab>
+                    <ab type="name_reference">Mucor Embolus creſcit in ſalicibus putridis im Elbwerder. Altitudo
                         ſemuncialis. Seta ſeu neruus niger, cui vtrimque adhaeret cuticula
                         tenuiſſima lineari-lanceolata, venis intertexta; ita vt nudo oculo ſtipites
-                        vt totidem pennulae adpareant. Color in ſtatu ſicco nigro-fuſcus.</seg>
-                </ab>
+                        vt totidem pennulae adpareant. Color in ſtatu ſicco nigro-fuſcus.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.104">
-                    <ref>Ad pag. 296.</ref>
-                    <seg>Mucor ſepticus creſcit etiam ad truncos putreſcentes, in ſylua hinter
-                        Zerbſt gegen Reez zu; auch im Zeizer Buſche, und im Gnez. Iulio.</seg>
-                </ab>
+                    <ref>Ad pag. 296.</ref></ab>
+                    <ab type="name_reference">Mucor ſepticus creſcit etiam ad truncos putreſcentes, in ſylua hinter
+                        Zerbſt gegen Reez zu; auch im Zeizer Buſche, und im Gnez. Iulio.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.105">
-                    <ref>Ad pag. 268.</ref>
-                    <seg>Crocus ſatiuus. Adhuc tantum Crocum verum coluimus, quem multi Botanici
-                        tamquam ſpecie a Croco officinali diuerſum conſiderant.</seg>
-                </ab>
+                    <ref>Ad pag. 268.</ref></ab>
+                    <ab type="name_reference">Crocus ſatiuus. Adhuc tantum Crocum verum coluimus, quem multi Botanici
+                        tamquam ſpecie a Croco officinali diuerſum conſiderant.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.106">
-                    <ref>Ad pag. 283.</ref>
-                    <seg>Papauer ſomniferum in Supplemento tanquam plantam indigenam denuo
-                        recenſuimus.</seg>
-                </ab>
+                    <ref>Ad pag. 283.</ref></ab>
+                    <ab type="name_reference">Papauer ſomniferum in Supplemento tanquam plantam indigenam denuo
+                        recenſuimus.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.107">
-                    <ref>Ad pag. 284.</ref>
-                    <seg>Delphinium grandiflorum colitur quidem in hortis, ſed quod hoc loco
+                    <ref>Ad pag. 284.</ref></ab>
+                    <ab type="name_reference">Delphinium grandiflorum colitur quidem in hortis, ſed quod hoc loco
                         indigitare voluimus, eſt aliud, ſfcilicet:
                         DELPHINIUM (Aiacis) nectariis monophyllis, caule ſimplici.
                         Annuum hoc eſt, et ſponte ex ſemine diſperſo
@@ -3478,23 +3555,24 @@
                         inſcribit et HYA. Secundum fabulam ſcilicet Aiax ſe in hunc florem mutauit;
                         qui Hyacintho deſtinatus proprie erat, et a quo flos nomen (Hyacinthus)
                         adeptus eſt. Eſt autem Delphinio Aiacis hoc AIA re vera inſcriptum, et
-                        leguntur tres hae litterae mediocriter pictae in cauitate nectarii.</seg>
-                </ab>
+                        leguntur tres hae litterae mediocriter pictae in cauitate nectarii.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.108">
-                    <ref>Ad pag. 295, n. 115</ref>
-                    <seg>Tragopogon porrifolium, creſcit ſponte in gramineis im Schloßgarten
-                        auſſen bey den Pyramiden.</seg>
-                </ab>
+                    <ref>Ad pag. 295, n. 115</ref></ab>
+                    <ab type="name_reference">Tragopogon porrifolium, creſcit ſponte in gramineis im Schloßgarten
+                        auſſen bey den Pyramiden.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.109">
-                    <ref>Ad pag. 309, n. 1014</ref>
-                    <seg>After acris deleatur: ab A. Tripolio enim non differt.</seg>
-                </ab>
+                    <ref>Ad pag. 309, n. 1014</ref></ab>
+                    <ab type="name_reference">After acris deleatur: ab A. Tripolio enim non differt.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.110">
-                    <ref>Ad pag. eandem, n. 1015</ref>
-                    <seg>Riccia criſtallina habitat etiam ad Albim in terra limoſa beym
+                    <ref>Ad pag. eandem, n. 1015</ref></ab>
+                    <ab type="name_reference">Riccia criſtallina</ab>
+                    habitat etiam ad Albim in terra limoſa beym
                         Elbwerder an der Sandbank; auch an der Saale beym Burgwalde, wenn die Saale
-                        den fetten Schlamm zurück läßt.</seg>
-                </ab>
+                        den fetten Schlamm zurück läßt.</ab>
+                
             </div>
             <div type="indexGenerum">
                 <head>INDEX GENERUM SUPPLEMENTI</head>
