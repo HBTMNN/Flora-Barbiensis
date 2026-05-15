@@ -721,9 +721,7 @@
                                 hermaphroditis.</ab>
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. in
-                                    foſſis</placeName> gegen die <placeName type="settlement"
-                                    ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                    >Poleymühle</placeName>.</ab>
+                                    foſſis</placeName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                             <ab type="flowering_time">Fl. Septembri.</ab>
                             <ab type="additional_information">Folia apice paullulum emarginata.</ab>
                         </div>
@@ -1378,9 +1376,7 @@
                                     <placeName type="habitat_description" xml:lang="lat">H. in
                                         humidis</placeName> hinter <placeName type="settlement"
                                         key="wd:Q688288">Walternienburg</placeName> gegen die
-                                        <placeName type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>.</ab>
+                                        <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Maio.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0030" ana="valeriana.officinalis"
@@ -1529,10 +1525,7 @@
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
                                         paludibus turfoſis</placeName> an der <geogName type="river"
-                                        key="wd:Q884667">Nuthe</geogName> gegen die <placeName
-                                        type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>.</ab>
+                                        key="wd:Q884667">Nuthe</geogName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                             </div>
                         </div>
@@ -1559,9 +1552,7 @@
                                 <ab type="location">
                                     <name xml:lang="ger">Gelbes Cypergras.</name>
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        paludibus</placeName> gegen die <placeName type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>.</ab>
+                                        paludibus</placeName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0037" ana="cyperus.fuscus"
@@ -1770,9 +1761,7 @@
                                 <ab type="vernacular_name" xml:lang="ger">Wieſendungras.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        humidis</placeName> gegen die <placeName type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>; auch gegen <placeName
+                                        humidis</placeName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>; auch gegen <placeName
                                         type="settlement" ana="non_ident.">Badez</placeName>, et
                                     alibi.</ab>
                                 <ab type="flowering_time">Fl. Maio.</ab>
@@ -2553,7 +2542,7 @@
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="ger">H. auf dem
                                             <placeName type="locality?" ana="not_ident."
-                                            >Elbdamme</placeName> bey der</placeName>
+                                            >Elbdamme</placeName> bey der </placeName>
                                     <placeName type="locality" key="wd:Q138291720"
                                         >Gurgel</placeName>, et alibi, frequens.</ab>
                                 <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
@@ -2731,7 +2720,7 @@
                                         margines agrorum</placeName>
                                     <placeName type="habitat_description" xml:lang="ger">am Wege
                                         nach</placeName>
-                                    <placeName type="settlement" ana="ident.">Werkleiz</placeName>;
+                                    <placeName type="settlement" key="wd:Q136918327">Werkleiz</placeName>;
                                         <placeName type="habitat_description" xml:lang="ger">am
                                             <placeName type="locality?" ana="not_ident."
                                             >Elbdamme</placeName>
@@ -3582,10 +3571,7 @@
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
                                         turfoſis</placeName> an der <geogName type="river"
-                                        key="wd:Q884667">Nuthe</geogName> gegen die <placeName
-                                        type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>; auf Ranies, et alibi.</ab>
+                                        key="wd:Q884667">Nuthe</geogName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>; auf Ranies, et alibi.</ab>
                                 <ab type="flowering_time">Fl. Iunio.</ab>
                                 <ab type="additional_information">Pericarpia glabra.</ab>
                             </div>
@@ -4578,9 +4564,7 @@
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
                                         fossas</placeName> hinter <placeName type="settlement"
                                         key="wd:Q688288">Walternienburg</placeName> gegen die
-                                        <placeName type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>.</ab>
+                                        <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Iulio.</ab>
                                 <ab type="additional_information">Corolla partita ad baſin vsque,
                                     interiectis dentibus breuiſſimis, apicibus petali
@@ -4725,10 +4709,7 @@
                                 <fw>60 PENTANDRIA. MONOGYNIA. Conuoluulus.</fw>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        pratis vliginoſis</placeName> gegen die <placeName
-                                        type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName> copioſe.</ab>
+                                        pratis vliginoſis</placeName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> copioſe.</ab>
                                 <ab type="flowering_time">Fl. Maio.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital">TRIFOLII
                                         FIMBRINI</hi> ſ. <hi rend="capital">AQVATICI</hi> Herba.
@@ -6096,10 +6077,7 @@
                                     <fw>72 PENTANDRIA. DIGYNIA. Sanicula.</fw>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
-                                            humidis</placeName> gegen die <placeName
-                                            type="settlement"
-                                            ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                            >Poleymühle</placeName>, et alibi trans <geogName
+                                            humidis</placeName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>, et alibi trans <geogName
                                             type="river" key="wd:Q1644">Albim</geogName>
                                         frequens.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
@@ -6421,10 +6399,7 @@
                                     <ab type="vernacular_name" xml:lang="ger">Bergpeterlein.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
-                                            pratis ſyluaticis</placeName> hinter der <placeName
-                                            type="settlement"
-                                            ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                            >Poleymühle</placeName>; <placeName
+                                            pratis ſyluaticis</placeName> hinter der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>; <placeName
                                             type="habitat_description" xml:lang="ger">auch auf der
                                             Höhe hinter</placeName>
                                         <placeName type="settlement" key="wd:Q130243991"
@@ -7454,9 +7429,7 @@
                                 <placeName type="habitat_description" xml:lang="lat">H. in turfoſis
                                     inter ſphagnum paluſtre</placeName> an der <geogName
                                     type="river" key="wd:Q884667">Nuthe</geogName> gegen die
-                                    <placeName type="settlement"
-                                    ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                    >Poleymühle</placeName> zu.</ab>
+                                    <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> zu.</ab>
                             <ab type="flowering_time">Fl. aeſtate.</ab>
                             <ab type="additional_information">Offic. <hi rend="capital">RORIS
                                     SOLIS</hi> Herba. Flos euigilat hora 9. clauditur hora 12. ante
@@ -7737,10 +7710,7 @@
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
                                         nemoribus</placeName> bey <placeName type="settlement"
-                                        key="wd:Q130243991">Tochheim</placeName> über die <placeName
-                                        type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName> hin.</ab>
+                                        key="wd:Q130243991">Tochheim</placeName> über die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> hin.</ab>
                                 <ab type="flowering_time">Fl Maio.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital">SIGILLI
                                         SALOMONIS</hi> Radix. Pianta ſpithamea, vix pedalis. Flores
@@ -7986,10 +7956,7 @@
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
                                         ſtagnis</placeName> an der <geogName type="river"
-                                        key="wd:Q884667">Nuthe</geogName> bey der <placeName
-                                        type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName> copioſe.</ab>
+                                        key="wd:Q884667">Nuthe</geogName> bey der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> copioſe.</ab>
                                 <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital">CALAMI
                                         VVLGARIS</hi> Radix. Eſt ſtomachicum et roborans. Radix
@@ -8022,9 +7989,7 @@
                                             foſſis</placeName> gegen <placeName type="settlement"
                                             key="wd:Q695632">Pömelte</placeName>; an der <geogName
                                             type="river" key="wd:Q884667">Nuthe</geogName> gegen die
-                                            <placeName type="settlement"
-                                            ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                            >Poleymühle</placeName> copioſe.</ab>
+                                            <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> copioſe.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                                     <ab type="additional_information">Medulla huius et ſequentium ad
                                         lucernas inſeruit. Indicat ſolum ſubtus aquoſum.</ab>
@@ -9001,9 +8966,7 @@
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="ger">H. im Buſche,
                                     wenn man von der</placeName>
-                                <placeName type="settlement"
-                                    ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                    >Poleymühle</placeName> nach <placeName type="settlement"
+                                <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> nach <placeName type="settlement"
                                     key="wd:Q130243991">Tochheim</placeName>
                                 <placeName type="habitat_description" xml:lang="ger">gehet rechter
                                     Hand; auch zwiſchen</placeName>
@@ -9597,9 +9560,7 @@
                                     vliginoſis alnetis</placeName> bey <placeName type="settlement"
                                     key="wd:Q32036528">Gommern</placeName>; auch hinter <placeName
                                     type="settlement" key="wd:Q688288">Walternienburg</placeName>
-                                gegen die <placeName type="settlement"
-                                    ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                    >Poleymühle</placeName>.</ab>
+                                gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                             <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                         </div>
                     </div>
@@ -9779,8 +9740,7 @@
                                         humidiuſculis</placeName> beym <placeName type="locality?"
                                         ana="not_ident.">Weinberge</placeName>; an der <geogName
                                         type="river" key="wd:Q1678">Saale</geogName> gegen
-                                        <placeName type="settlement" ana="ident."
-                                        >Werkleiz</placeName>, et alibi, frequens.</ab>
+                                    <placeName type="settlement" key="wd:Q136918327">Werkleiz</placeName>, et alibi, frequens.</ab>
                                 <ab type="flowering_time">Fl. Auguſto.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital"
                                         >TELEPHII</hi> Radix. Folia contuſa externe ad ambuſta
@@ -10397,8 +10357,7 @@
                                     gramineis</placeName> am <placeName type="locality?"
                                     ana="not_ident.">Elbdamme</placeName> hinter <placeName
                                     type="settlement" key="wd:Q102004825">Monplaiſir</placeName>;
-                                hinter <placeName type="settlement" ana="ident."
-                                    >Werkleiz</placeName>; gegen die <placeName type="locality?"
+                                hinter <placeName type="settlement" key="wd:Q136918327">Werkleiz</placeName>; gegen die <placeName type="locality?"
                                     ana="not_ident.">Fähre</placeName>; et alibi.</ab>
                             <ab type="flowering_time">Fl. Iulio et ſeqq.</ab>
                             <ab type="additional_information">Inflexo cacumine ſolem, etiam noctu,
@@ -10647,8 +10606,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Faulbaum; Tölpelgensbaum.</ab>
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. in
-                                    nemore</placeName> hinter <placeName type="settlement"
-                                    ana="ident.">Werkleiz</placeName> gegen die <placeName
+                                    nemore</placeName> hinter <placeName type="settlement" key="wd:Q136918327">Werkleiz</placeName> gegen die <placeName
                                     type="locality?" ana="not_ident.">Saalfähre</placeName>.</ab>
                             <ab type="flowering_time">Fl. Maio.</ab>
                             <ab type="additional_information">Facias nauſeoſae tamen a pueris
@@ -11061,10 +11019,7 @@
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. in
                                     dumetis</placeName> hinter <placeName type="settlement"
-                                    key="wd:Q688288">Walternienburg</placeName> gegen die <placeName
-                                    type="settlement"
-                                    ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                    >Poleymühle</placeName> hin.</ab>
+                                        key="wd:Q688288">Walternienburg</placeName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> hin.</ab>
                             <ab type="flowering_time">Fl. Iunio.</ab>
                             <ab type="additional_information">Fructus maior, quam in reliquis.</ab>
                         </div>
@@ -11360,9 +11315,7 @@
                                         >Walternienburg</placeName>
                                     <placeName type="habitat_description" xml:lang="ger">am Wege
                                         gegen die</placeName>
-                                    <placeName type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName> hin.</ab>
+                                    <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> hin.</ab>
                                 <ab type="flowering_time">Fl. Maio.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0415" ana="reptans"
@@ -12460,8 +12413,7 @@
                                 <ab type="morphology">fl. verticillatis, fol. ouatis acutis
                                     ſerratis, ſtaminibus corolla breuioribus.</ab>
                                 <ab type="location"> H. an der <geogName type="river" key="wd:Q1678"
-                                        >Saale</geogName> bey <placeName type="settlement"
-                                        ana="ident.">Werkleiz</placeName>; <placeName
+                                    >Saale</geogName> bey <placeName type="settlement" key="wd:Q136918327">Werkleiz</placeName>; <placeName
                                         type="habitat_description" xml:lang="ger"> im Buſche
                                         bey</placeName>
                                     <placeName type="settlement" key="wd:Q138203224 "
@@ -12551,8 +12503,7 @@
                                     <placeName type="habitat_description" xml:lang="ger">H. am
                                         Graben beym</placeName>
                                     <placeName type="locality" key="wd:Q138135858">Gnez</placeName>;
-                                    bey <placeName type="settlement" ana="ident."
-                                        >Werkleiz</placeName>; hinter <placeName type="settlement"
+                                    bey <placeName type="settlement" key="wd:Q136918327">Werkleiz</placeName>; hinter <placeName type="settlement"
                                         key="wd:Q102004825">Monplaiſir</placeName> an der <geogName
                                         type="river" key="wd:Q1644">Elbe</geogName>.</ab>
                                 <ab type="flowering_time">Fl. Iulio.</ab>
@@ -13001,8 +12952,7 @@
                                 <ab type="morphology">fol. cordatis indiuiſis ſerratis, calycibus
                                     ſubtruncatis.</ab>
                                 <ab type="location"> H. bey der <placeName type="locality?"
-                                        ana="not_ident.">Saalfähre</placeName> hinter <placeName
-                                        type="settlement" ana="ident.">Werkleiz</placeName>.</ab>
+                                    ana="not_ident.">Saalfähre</placeName> hinter <placeName type="settlement" key="wd:Q136918327">Werkleiz</placeName>.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                                 <ab type="additional_information">An varietas praecedentis? <name
                                         type="reference" key="wd:Q21856070">
@@ -13501,9 +13451,7 @@
                                         marginem ſyluae</placeName>, <placeName
                                         type="habitat_description" xml:lang="ger">wenn man von
                                         der</placeName>
-                                    <placeName type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName> nach <placeName type="settlement"
+                                    <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> nach <placeName type="settlement"
                                         key="wd:Q130243991">Tochheim</placeName> gehet.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                                 <ab type="additional_information">Vbi planta copioſa, ibi butyrum
@@ -14646,9 +14594,7 @@
                                     <name xml:lang="lat" key="wd:Q163609">C. (amara)</name>
                                 </head>
                                 <ab type="morphology">fol. pinnatis, axillis ſtoloniferis.</ab>
-                                <ab type="location"> H. bey der <placeName type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName> jenſeit der <geogName type="river"
+                                <ab type="location"> H. bey der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> jenſeit der <geogName type="river"
                                         key="wd:Q884667">Nuthe</geogName>, <placeName
                                         type="habitat_description" xml:lang="lat">et alibi in
                                         foſſis</placeName>.</ab>
@@ -14836,7 +14782,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">rarius;
                                             in agris arenoſis trans</placeName>
                                         <geogName type="river" key="wd:Q1644">Albim</geogName> bey
-                                        Jüterglück, et alibi, copioſe.</ab>
+                                        <placeName type="settlement" key="wd:Q688254">Jüterglück</placeName>, et alibi, copioſe.</ab>
                                     <ab type="flowering_time">Fl. Aprili, Maio.</ab>
                                     <ab type="additional_information">Folia radicalia
                                         lanceolato-lyrata; caulina lanceolata dentata; pilis bifidis
@@ -15081,8 +15027,7 @@
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. ad
                                     dumeta</placeName> bey der <placeName type="locality?"
-                                    ana="not_ident.">Saalfähre</placeName> hinter <placeName
-                                    type="settlement" ana="ident.">Werkleiz</placeName>.</ab>
+                                        ana="not_ident.">Saalfähre</placeName> hinter <placeName type="settlement" key="wd:Q136918327">Werkleiz</placeName>.</ab>
                             <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                         </div>
                     </div>
@@ -15326,10 +15271,7 @@
                                     Rehheide.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        ſyluaticis</placeName> zwiſchen der <placeName
-                                        type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName> und <placeName type="settlement"
+                                        ſyluaticis</placeName> zwiſchen der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> und <placeName type="settlement"
                                         key="wd:Q130243991">Tochheim</placeName>, <placeName
                                         type="habitat_description" xml:lang="lat">et alibi in ſyluis
                                         trans</placeName>
@@ -15773,7 +15715,7 @@
                                             >Weidenallee</placeName>; trans <geogName type="river"
                                             key="wd:Q1644">Albim</geogName>
                                         <placeName type="habitat_description" xml:lang="lat"> in
-                                            arenoſis</placeName> gegen Jüterglück, et alibi,
+                                            arenoſis</placeName> gegen <placeName type="settlement" key="wd:Q688254">Jüterglück</placeName>, et alibi,
                                         paſſim.</ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
                                 </div>
@@ -17497,9 +17439,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in
                                             humidis</placeName> hinter <placeName type="settlement"
                                             key="wd:Q688288">Walternienburg</placeName> gegen die
-                                            <placeName type="settlement"
-                                            ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                            >Poleymühle</placeName>, et alibi, paſſim.</ab>
+                                            <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>, et alibi, paſſim.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
                                     <ab type="additional_information">Calyx arcte imbricatus laeuis.
                                         Pedunculi inermes. Caulis plerumque fuſco-rufus. Planta
@@ -17578,8 +17518,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in
                                             paſcuis</placeName> beym <placeName type="locality"
                                             key="wd:Q138012027 ">Zeizer Buſche</placeName>; Hinter
-                                            <placeName type="settlement" ana="ident."
-                                            >Werkleiz</placeName>, paſſim.</ab>
+                                            <placeName type="settlement" key="wd:Q136918327">Werkleiz</placeName>, paſſim.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                                     <ab type="additional_information">Caulem paruum ſaepius
                                         habet.</ab>
@@ -17688,9 +17627,7 @@
                                 <ab type="location"> H. ad <geogName type="river" key="wd:Q1644"
                                         >Albim</geogName> wo man nach <placeName type="settlement"
                                         key="wd:Q130243991">Tochheim</placeName> gehet; auch bey der
-                                        <placeName type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>.</ab>
+                                        <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Iulio.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital"
                                         >EVPARTORII</hi> Herba. Valde amara eſt et odorata.
@@ -17762,9 +17699,7 @@
                                     cernuis, ſem. erectis.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        alnetis</placeName> gegen die <placeName type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>, et alibi, frequens.</ab>
+                                        alnetis</placeName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>, et alibi, frequens.</ab>
                                 <ab type="flowering_time">Fl. Auguſto.</ab>
                                 <ab type="additional_information">Coreopſis Bidens huic ſimillima,
                                     ſed radiata.</ab>
@@ -17978,10 +17913,7 @@
                                         ſparſis.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
-                                            ſylua</placeName> hinter der <placeName
-                                            type="settlement"
-                                            ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                            >Poleymühle</placeName>, et alibi, frequens.</ab>
+                                            ſylua</placeName> hinter der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
                                 </div>
 
@@ -18544,10 +18476,7 @@
                                         denticulatis, caule corymboſo erecto.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
-                                            ſylua</placeName> zwiſchen der <placeName
-                                            type="settlement"
-                                            ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                            >Poleymühle</placeName> und <placeName type="settlement"
+                                            ſylua</placeName> zwiſchen der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> und <placeName type="settlement"
                                             key="wd:Q130243991">Tochheim</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                                     <ab type="additional_information">Hall. <name type="autor"
@@ -19312,10 +19241,7 @@
                                     <placeName type="habitat_description" xml:lang="lat">H. in
                                         turfoſis paludoſis</placeName> hinter <placeName
                                         type="settlement" key="wd:Q688288"
-                                        >Walternienburg</placeName> gegen die <placeName
-                                        type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>; auch bey <placeName
+                                        >Walternienburg</placeName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>; auch bey <placeName
                                         type="settlement" key="wd:Q32036528"
                                     >Gommern</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Aprili, Maio.</ab>
@@ -20004,7 +19930,7 @@
                                         type="plant-species" xml:lang="lat">Carex vulpinax</name>,
                                     von <name type="plant-species" xml:lang="lat" key="Q158521"
                                         >Carex vulpina</name> liegt ein richtig bestimmter Beleg im
-                                    Herbarium Barbiense, Fundort: Im Graben gegen Werkleiz</note>
+                                    Herbarium Barbiense, Fundort: Im Graben gegen <placeName type="settlement" key="wd:Q136918327">Werkleiz</placeName>.</note>
                             </div>
 
                             <div type="plant-species" xml:id="s.0750" ana="carex.muricata"
@@ -21366,9 +21292,7 @@
                                     ſtagnis</placeName> bey der <placeName type="locality?"
                                     ana="not_ident.">alten Burg</placeName>; <placeName
                                     type="habitat_description" xml:lang="lat">in foſſis</placeName>
-                                gegen die <placeName type="settlement"
-                                    ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                    >Poleymühle</placeName>.</ab>
+                                gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                             <ab type="flowering_time">Fl. aeſtate.</ab>
                         </div>
                     </div>
@@ -21774,10 +21698,7 @@
                                 <ab type="morphology">caule ſubnudo laeui.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
-                                        ſtagna ſyluatica</placeName> hinter der <placeName
-                                        type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>, et alibi.</ab>
+                                        ſtagna ſyluatica</placeName> hinter der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>, et alibi.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                                 <ab type="additional_information">Praecedenti nimis affine.</ab>
                             </div>
@@ -21929,9 +21850,7 @@
                                         alnetis vmbroſis</placeName>
                                     <placeName type="habitat_description" xml:lang="ger">am Wege
                                         hinter der</placeName>
-                                    <placeName type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>.</ab>
+                                    <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                                 <ab type="additional_information">Habitus P. Filicis maris. Stipes
                                     glaber. Pollen tegit totam paginam folii; ſed in tenellis
@@ -22063,10 +21982,7 @@
                                 <ab type="morphology">fol. oppoſitis ſimplicibus.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        piſcina</placeName> gleich hinter der <placeName
-                                        type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>.</ab>
+                                        piſcina</placeName> gleich hinter der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Auguſto.</ab>
                                 <ab type="additional_information">Rami natantes. Folia bifaria,
                                     ouata, complicata, adſperſa ſupra glomerulis e filamentis 4,
@@ -22159,10 +22075,7 @@
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
                                         humidis</placeName> an der <geogName type="river"
-                                        key="wd:Q884667">Nuthe</geogName> gegen die <placeName
-                                        type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>, et alibi, frequens.</ab>
+                                        key="wd:Q884667">Nuthe</geogName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>, et alibi, frequens.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                                 <ab type="additional_information">Hoc replet ſtagna, vt demum
                                     tranſeant in paludes, paſcua et prata, conſtituendo foco aptum
@@ -22633,10 +22546,7 @@
                                     patentibus ſerratis.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        vmbroſis humidis ſyluaticis</placeName> gegen die <placeName
-                                        type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>.</ab>
+                                        vmbroſis humidis ſyluaticis</placeName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                                 <ab type="flowering_time">Fl. primo vere.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0850" ana="bryum.unguiculatum"
@@ -23098,10 +23008,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in
                                             humidis alnetis</placeName> hinter <placeName
                                             type="settlement" key="wd:Q688288"
-                                            >Walternienburg</placeName> gegen die <placeName
-                                            type="settlement"
-                                            ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                            >Poleymühle</placeName>.</ab>
+                                            >Walternienburg</placeName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Martio.</ab>
                                     <ab type="additional_information">Arbuſculam eleganter
                                         refert.</ab>
@@ -23142,10 +23049,7 @@
                                         <placeName type="habitat_description" xml:lang="ger">H. in
                                             humidis ſyluaticis</placeName> bey <placeName
                                             type="settlement" key="wd:Q32036528"
-                                        >Gommern</placeName>, und gegen die <placeName
-                                            type="settlement"
-                                            ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                            >Poleymühle</placeName>.</ab>
+                                        >Gommern</placeName>, und gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                                     <ab type="flowering_time">Fl. hieme.</ab>
                                     <ab type="additional_information">Longis, teretibus, nitentibus,
                                         ſubrectis ſurculis, puriſſimis ab omni ſqualore terrae, ſe
@@ -23705,9 +23609,7 @@
                                     <placeName type="habitat_description" xml:lang="lat">H. in aquis
                                         ſtagnantibus</placeName> hinter <placeName type="settlement"
                                         key="wd:Q688288">Walternienburg</placeName> gegen die
-                                        <placeName type="settlement"
-                                        ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                        >Poleymühle</placeName>, <placeName
+                                        <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>, <placeName
                                         type="habitat_description" xml:lang="lat">aquis
                                         innatans</placeName>.</ab>
                                 <ab type="additional_information">Viget vere. Frondes circa
@@ -24409,10 +24311,7 @@
                                         Hunds-Lichen.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
-                                            ſterilibus montoſis</placeName> zwiſchen der <placeName
-                                            type="settlement"
-                                            ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                            >Poleymühle</placeName> und <placeName type="settlement"
+                                            ſterilibus montoſis</placeName> zwiſchen der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> und <placeName type="settlement"
                                             key="wd:Q130243991">Tochheim</placeName>.</ab>
                                     <ab type="flowering_time">Fl. primo vere.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital"
@@ -24562,9 +24461,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in
                                             ſterilibus trans</placeName>
                                         <geogName type="river" key="wd:Q1644">Albim</geogName>
-                                        zwiſchen der <placeName type="settlement"
-                                            ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                            >Poleymühle</placeName> und <placeName type="settlement"
+                                        zwiſchen der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> und <placeName type="settlement"
                                             key="wd:Q130243991">Tochheim</placeName>, et alibi.</ab>
                                     <ab type="flowering_time">Fl. hieme.</ab>
                                 </div>
@@ -24611,9 +24508,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
                                             ſterilibus ſyluaticis</placeName> zwiſchen der
-                                            <placeName type="settlement"
-                                            ref="https://www.deutsche-digitale-bibliothek.de/item/TACPQ64YCKNXSPZDHGJT26E4GTBL5ZWW"
-                                            >Poleymühle</placeName> und <placeName type="settlement"
+                                            <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> und <placeName type="settlement"
                                             key="wd:Q130243991">Tochheim</placeName>.</ab>
                                     <ab type="flowering_time">Fl. hieme.</ab>
                                     <ab type="additional_information">Caules longitudine vix
