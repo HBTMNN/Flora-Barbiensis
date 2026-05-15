@@ -60,7 +60,7 @@
                             <ab type="morphology">herbacea erecta, ramis ſimpliciſſimis. Lin. Syſt.
                                 veg. p. 51. n. 3.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad ſalinas
-                                Salzenſes inter Salicorniam herbaceam, praecipue ad
+                                <placeName type="settlement" key="wd:Q798763">Salze</placeName>nſes inter Salicorniam herbaceam, praecipue ad
                                 foſſas</placeName></ab>
                             <ab type="flowering_time">Fl. Auguſto.</ab>
                             <ab type="additional_information">In Speciebus plantarum haec Salicornia
@@ -96,8 +96,8 @@
                             </head>
                             <ab type="morphology">nectario conico, ſcapo paucifloro.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in foſſa über
-                                    der Saale bey dem Vorwerg Najock, und bey den Teufelslöchern
-                                    zwiſchen Breitenhagen und Aken.</placeName></ab>
+                                    der <geogName type="river" key="wd:Q1678">Saale</geogName> bey dem Vorwerg Najock, und bey den Teufelslöchern
+                                    zwiſchen <placeName type="settlement" key="wd:Q699151">Breitenhagen</placeName> und <placeName type="settlement" key="wd:Q417336">Aken</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio.</ab>
                             <ab type="additional_information">Color luteus. Veſiculae ſeu Vtriculi
                                 radicibus adhaerentes nomen plantae ſubminiſtrarunt.</ab>
@@ -120,7 +120,7 @@
                             <ab type="morphology">ſpica cylindrica, culmo adſcendente, foliis
                                 obliquis, radice bulboſa.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad margines
-                                agrorum bey Gnadau, auch am Wege nach Zeitz, wenn man durch den
+                                agrorum bey <placeName type="settlement" key="wd:Q688045">Gnadau</placeName>, auch am Wege nach Zeitz, wenn man durch den
                                 Buſch gehet, et alibi frequens</placeName></ab>
                             <ab type="flowering_time">Fl. aeſtate.</ab>
                             <ab type="additional_information">Spica glabra. Antherae albae. Balis
@@ -138,8 +138,8 @@
                             </head>
                             <ab type="morphology">panicula effuſa, glumarum carinis ciliatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad foſſas in
-                                pratis wenn man von Tochheim nach Steckby gehet, rechter Hand
-                                gegen die Elbe zu.</placeName></ab>
+                                pratis wenn man von <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> nach <placeName type="settlement" key="wd:Q130270700">Steckby</placeName> gehet, rechter Hand
+                                gegen die <geogName type="river" key="wd:Q1644">Elbe</geogName> zu.</placeName></ab>
                             <ab type="flowering_time">Fl. Auguſto, Septembri.</ab>
                             <ab type="additional_information">Schreb. gram. pag. 6. tab. 22.
                                 Iacquin. Vindob. obſerv 8. pag. 206. Hoc ſingulare, quod e culmo
@@ -166,8 +166,8 @@
                             <ab type="morphology">floribus paniculatis diſperſis muticis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Fladdergras; Waldhirſe.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in
-                                ſyluaticis humidis trans Albim, zwiſchen der großen Allee und
-                                Walternienburg an der Nuthen hin.</placeName></ab>
+                                ſyluaticis humidis trans <geogName type="river" key="wd:Q1644">Albim</geogName>, zwiſchen der großen Allee und
+                                <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName> an der <geogName type="river" key="wd:Q884667">Nuthen</geogName> hin.</placeName></ab>
                             <ab type="flowering_time">Fl. Auguſto.</ab>
                             <ab type="additional_information">Odor gratus, fere vt Anthoxanti
                                 odorati. A pecoribus libenter comeditur. Schreb.</ab>
@@ -184,7 +184,7 @@
                             <ab type="morphology">paniculae ramulis patentibus muticis, culmo
                                 repente, calycibus aequalibus.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in pratis an
-                                der Elbe gegen Schönebeck.</placeName></ab>
+                                der <geogName type="river" key="wd:Q1644">Elbe</geogName> gegen Schönebeck.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                         </div>
                         <div>
@@ -210,8 +210,8 @@
                                 longioribus, foliis planis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Waſſerschmielen.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad aquam
-                                ſtagnantem in via caeſpitoſa unweit Gödnitz nach Gehren zu; auch
-                                am Wege nach der Nuthe von Walternienburg nach der Poleymühle
+                                ſtagnantem in via caeſpitoſa unweit <placeName type="settlement" key="wd:Q688662">Gödnitz</placeName> nach Gehren zu; auch
+                                am Wege nach der <geogName type="river" key="wd:Q884667">Nuthe</geogName> von <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName> nach der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>
                                 hin.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                             <ab type="additional_information">Flosculi mutici, ſinguli aut bini in
@@ -230,7 +230,7 @@
                             <ab type="morphology">foliis ſetaceis, panicula diuaricata, floribus
                                 ariſtatis diſtantibus.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in campis
-                                ſiccis hinter Lederiz; in arenoſis trans Albim paſſim.</placeName></ab>
+                                ſiccis hinter Lederiz; in arenoſis trans <geogName type="river" key="wd:Q1644">Albim</geogName> paſſim.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio.</ab>
                             <ab type="additional_information">Planta parua vix vltra altitudinem
                                 palmarem adſcendit.</ab>
@@ -247,8 +247,8 @@
                             <ab type="morphology">panicula ſpicata, calycibus minutiſſimis muticis,
                                 floribus ſcabris, ariſtis longis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in aggeribus
-                                ad viam bey der Windmühle zwiſchen Bazez und Sachſendorf: bey
-                                Gnadau im Garten am Gemeinhause.</placeName></ab>
+                                ad viam bey der Windmühle zwiſchen <placeName type="settlement" key="wd:Q34342631">Bazez</placeName> und <placeName type="settlement" key="wd:Q697649">Sachſendorf</placeName>: bey
+                                <placeName type="settlement" key="wd:Q688045">Gnadau</placeName> im Garten am Gemeinhause.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio.</ab>
                         </div>
                         
@@ -260,7 +260,7 @@
                             <ab type="morphology">panicula erecta, ſpiculis ſubouatis muticis,
                                 calyce floſculis maiore, culmo decumbente.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in paſcuis
-                                ſterilibus von Tochheim nach Steckby hin, nicht weit von dem
+                                ſterilibus von <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> nach <placeName type="settlement" key="wd:Q130270700">Steckby</placeName> hin, nicht weit von dem
                                 Teiche.</placeName></ab>
                             <ab type="flowering_time">Fl. aeſtate.</ab>
                             <ab type="additional_information">Melicae affinis. Linn. Etiam habitus a
@@ -323,7 +323,7 @@
                             <ab type="morphology">foliis quaternis linearibus, ſuperioribus
                                 oppoſitis, caule erecto, floribus quadrifidis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in verſuris
-                                bey Gnadau; in editis bey Tochheim, frequens.</placeName></ab>
+                                bey <placeName type="settlement" key="wd:Q688045">Gnadau</placeName>; in editis bey <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>, frequens.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio et ſeqq.</ab>
                             <ab type="additional_information">At pag. 52. poſt n. 130.</ab>
                         </div>
@@ -343,9 +343,9 @@
                             </head>
                             <ab type="morphology">petiolis foliorum natantium ventricoſis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſtagno
-                                ſyluatico trans Albim linker Hand am Wege, nach Tochheim, auch
-                                in den Teufelslöchern zwiſchen Breitenhagen und
-                                Aken.</placeName></ab>
+                                ſyluatico trans <geogName type="river" key="wd:Q1644">Albim</geogName> linker Hand am Wege, nach <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>, auch
+                                in den Teufelslöchern zwiſchen <placeName type="settlement" key="wd:Q699151">Breitenhagen</placeName> und
+                                <placeName type="settlement" key="wd:Q417336">Aken</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio et Iulio.</ab>
                             <ab type="additional_information">Etiam Auguſto florentem inuenimus,
                                 ſimul cum fructibus fere maturis et iunioribus, Offic. NUCIS
@@ -385,9 +385,9 @@
                             <ab type="morphology">panicula foliacea, foliis linearibus.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Leinblatt.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in editis
-                                aridis hinter Dornburg rechter Hand an der Straße.</placeName></ab>
+                                aridis hinter <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName> rechter Hand an der Straße.</placeName></ab>
                             <ab type="additional_information">H. etiam in editis gramineis zwiſchen
-                                Tochheim und Friederikenberg, rechter Hand bey den Birken, ehe man
+                                <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> und <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>, rechter Hand bey den Birken, ehe man
                                 in den Buſch kommt. Caulis ſtatim ad baſin ramoſus, folioſus, magis
                                 erectus et altior, quam in Th. alpino.</ab>
                         </div>
@@ -409,7 +409,7 @@
                                 floribus pedunculatis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Wintergrün; Todtenviolen.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in nemoribus
-                                et dumetis beym Hospital; auch in Cyprena, copioſe.</placeName></ab>
+                                et dumetis beym Hospital; auch in <placeName type="settlement" key="wd:Q138206407">Cyprena</placeName>, copioſe.</placeName></ab>
                             <ab type="flowering_time">Fl. Martio, Aprili; ſed rarius.</ab>
                             <ab type="additional_information">Offic. VINCAE PERUINCAE Herba. Planta
                                 amara, recens pellentem, ſicca adſtringentem vim exſerit. Lin.</ab>
@@ -427,7 +427,7 @@
                                 barbatis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Herbſtenzian.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in editis.
-                                hinter Salze und Froſe.</placeName></ab>
+                                hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName> und Froſe.</placeName></ab>
                             <ab type="flowering_time">Fl. Septembri; Octobri.</ab>
                             <ab type="additional_information">Offic. GENTIANELLAE Herba. Amara eſt
                                 et tonica virtute gaudet. Ad febres tertianas et pleuritidem
@@ -444,8 +444,8 @@
                             <ab type="morphology">foliis lanceolatis, racemis foliatis ſimplicibus.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Merikanischer Thee.</ab>
                             <ab type="location"><placeName type="habitat_description">H. hodie
-                                ſpontaneum auſſer der Schloßgartenmauer beym Eingang in
-                                den Elbwerder, auch auf dem Schloßhofe.</placeName></ab>
+                                ſpontaneum auſſer der <placeName type="locality?" ana="not_ident.">Schloßgartenmauer</placeName> beym Eingang in
+                                den Elbwerder, auch auf dem <placeName type="locality?" ana="not_ident.">Schloßhofe</placeName>.</placeName></ab>
                         </div>
                         <note type="reference_to_main_flora">Pag. 73</note>
                         <note type="unparsed">n. 217 ita legatur:</note>
@@ -541,7 +541,7 @@
                                 reuolutis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Türkischer Bund.</ab>
                             <ab type="location"><placeName type="habitat_description">ſpontaneum im
-                                Friedrichsholze bey Zerbſt.</placeName></ab>
+                                <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. aeſtate.</ab>
                         </div>
                         <note type="reference_to_main_flora">Ad pag. 90, poſt n. 282.</note>
@@ -556,7 +556,7 @@
                             <ab type="morphology">culmo nudo filiformi nutante, panicula
                                 laterali.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſubhumidis
-                                gegen Steckby.</placeName></ab>
+                                gegen <placeName type="settlement" key="wd:Q130270700">Steckby</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio.</ab>
                             <ab type="additional_information">Culmi infirmi; panicula, ſaepe non
                                 expanſa, in medio culmi.</ab>
@@ -569,7 +569,7 @@
                             <ab type="morphology">culmo nudo, foliis ſetaceis, capitulis glomeratis
                                 aphyllis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in humidis
-                                gegen Steckby.</placeName></ab>
+                                gegen <placeName type="settlement" key="wd:Q130270700">Steckby</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. aeſtate.</ab>
                             <ab type="additional_information">Folia patentia rigida falcem eludunt,
                                 ut Nardus.</ab>
@@ -584,8 +584,8 @@
                                 ſubfolioſis, petalis acutis integris pericarpio aequalibus. Weigel.
                                 obſ. bot. 28. t. 2. f. 5.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in humidis a
-                                ſcaturiginibus ortis am Elbufer über Tochheim hinauf gegen
-                                Steckby zu.</placeName></ab>
+                                ſcaturiginibus ortis am Elbufer über <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> hinauf gegen
+                                <placeName type="settlement" key="wd:Q130270700">Steckby</placeName> zu.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                             <ab type="additional_information">Vid. deſcr. et ſynon. apud Weig. 1.
                                 c.</ab>
@@ -609,8 +609,8 @@
                                 petiolum decurrentibus.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Otterwurzel, Natterwurzel.</ab>
                             <ab type="location"><placeName type="habitat_description">H. frequens in
-                                pratis vliginoſis bey Deez; auch über der Saale im Buſche
-                                zwiſchen Lederiz und Steckby ſatis copioſe.</placeName></ab>
+                                pratis vliginoſis bey Deez; auch über der <geogName type="river" key="wd:Q1678">Saale</geogName> im Buſche
+                                zwiſchen Lederiz und <placeName type="settlement" key="wd:Q130270700">Steckby</placeName> ſatis copioſe.</placeName></ab>
                             <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                             <ab type="additional_information">Offic. BISTORTAE Radix. Siccat,
                                 repellit, et in haemorrhagiis aliisque fluxibus, vbi adſtringentibus
@@ -649,8 +649,8 @@
                             <ab type="morphology">floribus paniculatis, ſquamis calycinis breuibus
                                 acuminatis corollis multifido-capillaribus, caule erecto.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad prata wenn
-                                man von Friederikenberg nach Badez gehet linker Hand. Etiam bey
-                                Zerbſt im Friedrichsholze, altitudine bipedali, et vitra.</placeName></ab>
+                                man von <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName> nach Badez gehet linker Hand. Etiam bey
+                                <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName>, altitudine bipedali, et vitra.</placeName></ab>
                             <ab type="flowering_time">Fl. Auguſto.</ab>
                             <ab type="additional_information">Flores fragrantiſſimi.</ab>
                         </div>
@@ -673,7 +673,7 @@
                                 herbaceis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Steinbeeren.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis
-                                im Zeizer Buſche, in Büſchen hinter Nedlitz.</placeName></ab>
+                                im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>, in Büſchen hinter Nedlitz.</placeName></ab>
                             <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                             <ab type="additional_information">A Rubo idaeo foliis
                                 ſubtus non incanis diſtinguitur. Ramuli ſimplices erecti
@@ -699,7 +699,7 @@
                                 amplexicaulibus inciſis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Mohn, Maagſaamen.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad dumeta über
-                                Lederiz nach Aken zu, et alibi in ruderatis.</placeName></ab>
+                                Lederiz nach <placeName type="settlement" key="wd:Q417336">Aken</placeName> zu, et alibi in ruderatis.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio.</ab>
                             <ab type="additional_information">Offic. PAPAUERIS ALBI et NIGRI Semen.
                                 Pingui oleo refertum, temperat et humorum acrimoniam lenit,
@@ -729,7 +729,7 @@
                             </head>
                             <ab type="morphology">nectariis incuruis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in dumetis in
-                                dem Zeizer Buſche, wenn man den Weg mitten hindurch gehet, von
+                                dem <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>, wenn man den Weg mitten hindurch gehet, von
                                 vornen hinein rechter Hand</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                             <ab type="additional_information">Offic. AQUILEGIAE Flores, Semina.
@@ -750,7 +750,7 @@
                             </head>
                             <ab type="morphology">foliis ternatis integerrimis lanceolatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in apricis
-                                montoſis am Mühlinger Berge, auch auf dem
+                                montoſis am <placeName type="locality" ana="ident.">Mühlinger Berge</placeName>, auch auf dem
                                 Mukrener Berge.</placeName></ab>
                             <ab type="additional_information">Folia, vt tota planta, incana,
                                 holoſericea ſeu lanuginoſa, ternata: laciniis lanceolatis, ſuperius
@@ -779,7 +779,7 @@
                             <ab type="morphology">corollis conniuentibus, nectariis longitudine
                                 ſtaminum.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in pratis, auf
-                                den Gemeinwieſen, bey Polenſko jenseits Zerbſt, durch
+                                den Gemeinwieſen, bey Polenſko jenseits <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>, durch
                                 Burgermeiſter Thomas geſandt.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio Iulio.</ab>
                             <ab type="additional_information">Planta habetur ſuſpecta.</ab>
@@ -840,7 +840,7 @@
                             <ab type="morphology">foliis cordatis acuminatis, verticillis
                                 decemfloris.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad ſepes im
-                                Schloßgarten; auch im Buſche bey Klein-Roſenburg, et
+                                <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>; auch im Buſche bey <placeName type="settlement" key="wd:Q1746255">Klein-Roſenburg</placeName>, et
                                 alibi</placeName></ab>
                             <ab type="flowering_time">Fl. Martio, Aprili et ſeqq.</ab>
                             <ab type="additional_information">Numerus verticillorum variat. Color purpureus. 
@@ -865,7 +865,7 @@
                             <ab type="morphology">caule ſimpliciſſimo laeui, ſtaminibus
                                 exſertis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſaliceto
-                                ad radices fruticum im Kuhwerder.</placeName></ab>
+                                ad radices fruticum im <placeName type="locality" key="wd:Q138011875">Kuhwerder</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Auguſto.</ab>
                             <ab type="additional_information">Color caeruleus; flos magnus; bracteae
                                 ternae, calyx quinquefidus.</ab>
@@ -881,8 +881,8 @@
                             </head>
                             <ab type="morphology">corollarum labio emarginato, foliis ſubtus
                                 pubeſcentibus.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. ad Tochheim in
-                                ſyluaticis editis, rarius; im Friedrichſholze bey Zerbſt
+                            <ab type="location"><placeName type="habitat_description">H. ad <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> in
+                                ſyluaticis editis, rarius; im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>
                                 frequens.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio.</ab>
                         </div>
@@ -898,8 +898,8 @@
                             <ab type="morphology">foliis ſublinearibus: inferioribus quaternis,
                                 calycibus piloſo-viſcidis, floribus ſpicatis, caule erecto.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in campis
-                                eorumque marginibus beyn Zeizer Buſche, auf der Seite gegen
-                                Zachmunden; auch gegen Weſpen zu.</placeName></ab>
+                                eorumque marginibus beyn <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>, auf der Seite gegen
+                                Zachmunden; auch gegen <placeName type="settlement" key="wd:Q688266">Weſpen</placeName> zu.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio.</ab>
                             <ab type="additional_information">Folia inferiora ſunt verticillata
                                 quaterna, paullo altius terna, in ramis alterna. Calcar breue
@@ -917,8 +917,8 @@
                             <ab type="morphology">caule ramoſo, calycibus oblongis angulatis
                                 laeuibus, corollis labio cordato.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in pratis et
-                                paſcuis ſubhumidis zwiſchen Walternienburg und Floz; auch am
-                                Wege gegen die Poleymühle hin, et alibi.</placeName></ab>
+                                paſcuis ſubhumidis zwiſchen <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName> und Floz; auch am
+                                Wege gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> hin, et alibi.</placeName></ab>
                             <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                             <ab type="additional_information">Caulis procumbens. Flores purpurei, et
                                 nonnunquam albi. Calyx glaber, reticulatus non punctatus, longior
@@ -942,7 +942,7 @@
                             <ab type="morphology">ſiliculis biarticulatis monoſpermis, foliis
                                 extrorſum ſinuatis denticulatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in editis wenn
-                                man vom neuen Krug rechter Hand gegen Bromby zu gehet.</placeName></ab>
+                                man vom neuen Krug rechter Hand gegen <placeName type="settlement" key="wd:Q992421">Bromby</placeName> zu gehet.</placeName></ab>
                             <ab type="additional_information">Siliculae articulus inferior abortit,
                                 ſuperior globoſus monoſpermus. SILIQUOSA.</ab>
                         </div>
@@ -992,7 +992,7 @@
                             </head>
                             <ab type="morphology">foliis petiolatis lanceolatis integerrimis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in agris an
-                                der Lindenallee, auch am Mukrener Berge gegen Zeiz.</placeName></ab>
+                                der <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>, auch am Mukrener Berge gegen <placeName type="settlement" key="wd:Q102004912">Zeiz</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Aprili, Maio; etiam poſt meſſem denuo
                                 floret copioſe in dictis agris.</ab>
                         </div>
@@ -1004,8 +1004,8 @@
                             <ab type="morphology">foliis caulinis ſublyratis, rameis lanceolatis
                                 inciſis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis
-                                gramineis, Steckby gegen über nach Lederiz zu; auch über
-                                Breitenhagen hin.</placeName></ab>
+                                gramineis, <placeName type="settlement" key="wd:Q130270700">Steckby</placeName> gegen über nach Lederiz zu; auch über
+                                <placeName type="settlement" key="wd:Q699151">Breitenhagen</placeName> hin.</placeName></ab>
                             <ab type="flowering_time">Fl. Maio.</ab>
                             <ab type="additional_information">Caulis erectus, debilis; folia lyrata
                                 glabra. Flores albi.</ab>
@@ -1039,7 +1039,7 @@
                                 obtuſis, floribus corollatis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Kleine Wieſenkreſſe.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis
-                                gramineis humidis über Lederiz nach Aken zu.</placeName></ab>
+                                gramineis humidis über Lederiz nach <placeName type="settlement" key="wd:Q417336">Aken</placeName> zu.</placeName></ab>
                             <ab type="flowering_time">Fl. Maio.</ab>
                             <ab type="additional_information">Simillima C. Impatienti, ſed minor et
                                 petalis ſemper praeſentibus inſtructa. Foliola vix dentata. Siliquae
@@ -1113,7 +1113,7 @@
                             <ab type="morphology">pedunculis multifloris, foliolis reflexis ouatis
                                 mucronatis, ſtipulis ſubdentatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in dumetis
-                                über der Poleymühle hin bey der Wieſe gegen den Buſch zu</placeName></ab>
+                                über der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> hin bey der Wieſe gegen den Buſch zu</placeName></ab>
                             <ab type="flowering_time">Fl. aeſtate.</ab>
                         </div>
                     </div>
@@ -1130,7 +1130,7 @@
                         <name xml:lang="lat" key="wd:Q127326859">НУРОСНOERIS (maculata)</name>
                     </head>
                     <ab type="morphology">caule ſubnudo: ramo ſolitario, foliis ouato-oblongis, integris dentatis.</ab>
-                    <ab type="location">H. in monteſis ſiccis hinter Salze und Froſe.</ab>
+                    <ab type="location">H. in monteſis ſiccis hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName> und Froſe.</ab>
                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                     <ab type="additional_information">Eſt HERBA COSTA Officinarum, Rupp. pag. 200. Folia coquuntur in cibum, uti Braſſica, a
                         Smolandis. Vigilat ab hora ſexta matutina in quartam pomeridianam. Linn.</ab>
@@ -1146,7 +1146,7 @@
                             <ab type="morphology">pedunculis calycibusque hifpidis ſubumbellatis,
                                 foliis runcinatis baſi ſagittatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſalicibus
-                                humidis zwiſchen Gelinde und der Elbe.</placeName></ab>
+                                humidis zwiſchen Gelinde und der <geogName type="river" key="wd:Q1644">Elbe</geogName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                             <ab type="additional_information">Altitudo vltra ſexpedalis. Facies a S.
                                 aruenſi diuerſiſſima, cuius varietatem eſſe Hallerus credidit.</ab>
@@ -1163,7 +1163,7 @@
                             <ab type="morphology">foliis lineari-ſubulatis integris
                                 canaliculato-triquetris, pedunculis cylindricis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in montoſis
-                                apricis hinter Salze und Froſe.</placeName></ab>
+                                apricis hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName> und Froſe.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                             <ab type="additional_information">Flos caeruleus. Folia alterna,
                                 remota.</ab>
@@ -1180,7 +1180,7 @@
                             <ab type="morphology">foliis lanceolatis integris piloſis, ſcapo ſubnudo
                                 baſi piloſo, floribus ſubumbellatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in dumetis
-                                campeſtribus von Weſpen nach Kleinmühlingen hin.</placeName></ab>
+                                campeſtribus von <placeName type="settlement" key="wd:Q688266">Weſpen</placeName> nach Kleinmühlingen hin.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                             <ab type="additional_information">Simillimum H. Auriculae, ſed differt notis
                                 ſequentibus: folia anguſtiora, longiora, acutiora; pili breuiores,
@@ -1197,7 +1197,7 @@
                             <ab type="morphology">caule paniculato, foliis amplexicaulibus dentatis
                                 glabris, calycibus hiſpidis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in alneto
-                                vliginoſo hinter Walternienburg an der Nuthe frequens.</placeName></ab>
+                                vliginoſo hinter <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName> an der <geogName type="river" key="wd:Q884667">Nuthe</geogName> frequens.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio.</ab>
                         </div>
                         <note type="reference_to_main_flora">Ad pag, 184, poſt n. 656.</note>
@@ -1211,8 +1211,8 @@
                             </head>
                             <ab type="morphology">foliis ſubdecurrentibus petiolatis ſubpinnatifidis
                                 ſpinofis, caule inermi, floribus ſolitariis.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. trans Albim
-                                hinter Dornburg nach Kreſſau zu, ad foſſas.</placeName></ab>
+                            <ab type="location"><placeName type="habitat_description">H. trans <geogName type="river" key="wd:Q1644">Albim</geogName>
+                                hinter <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName> nach Kreſſau zu, ad foſſas.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                         </div>
                         
@@ -1231,9 +1231,9 @@
                                 repandis obtuſis vtrimque pubeſcentibus, floribus
                                 conglomeratis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in aggeribus
-                                ad foſſas, trans Salam bey dem Dorfe Typzig rechter Hand.</placeName></ab>
+                                ad foſſas, trans <geogName type="river" key="wd:Q1678">Salam</geogName> bey dem Dorfe Typzig rechter Hand.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
-                            <ab type="additional_information">Etiam am hohen Elbufer von Tochheim
+                            <ab type="additional_information">Etiam am hohen Elbufer von <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>
                                 hin in ſubhumidis, et alibi.</ab>
                         </div>
                         <note type="reference_to_main_flora">Ad pag. 191, poſt. n. 684.</note>
@@ -1248,7 +1248,7 @@
                             <ab type="morphology">foliis ſeſſilibus lanceolatis, recuruis ſcabris,
                                 floribus ſubfaſciculatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in dumeto
-                                campeſtri aprico herboſo, über Weſpen hinaus, wenn man nach
+                                campeſtri aprico herboſo, über <placeName type="settlement" key="wd:Q688266">Weſpen</placeName> hinaus, wenn man nach
                                 Kleinmühlingen geht, linker Hand.</placeName></ab>
                             <ab type="flowering_time">Fl. Auguſto.</ab>
                             <ab type="additional_information">Caulis bipedalis et
@@ -1271,7 +1271,7 @@
                             <ab type="morphology">foliis lanceolatis ſerratis margine ſcabris:
                                 rameis ſublinearibus integerrimis, pedunculis alternis
                                 ſubnudis.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. ad Albim bey
+                            <ab type="location"><placeName type="habitat_description">H. ad <geogName type="river" key="wd:Q1644">Albim</geogName> bey
                                 den Schifmühlen copioſe.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                             <ab type="additional_information">Radix perennis, fibroſa, non repens.
@@ -1337,7 +1337,7 @@
                             <ab type="morphology">bulbis indiuiſis, nectarii labio quadrilobo
                                 crenulato; cornu obtuſo, petalis dorſalibus reflexis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in pratis et
-                                eorum aggeribus, von Jüterglück gegen die Zerbſter Straße
+                                eorum aggeribus, von <placeName type="settlement" key="wd:Q688254">Jüterglück</placeName> gegen die <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>er Straße
                                 hin.</placeName></ab>
                             <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                             <ab type="additional_information">Facies Orchidis Morionis, ſed haec
@@ -1379,7 +1379,7 @@
                             <ab type="morphology">bulbis aggregatis oblongis, caule ſubfolioſo,
                                 floribus ſpirali-ſecundis, nectarii labio indiuiſo crenulato.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in humidis,
-                                wenn man von Walternienburg den Fußſteig nach Zerbſt
+                                wenn man von <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName> den Fußſteig nach <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>
                                 gehet.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                             <ab type="additional_information">Oed. Fl. Dan. tab. 387, Petala tria
@@ -1398,7 +1398,7 @@
                                 floribus pendulis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in prato
                                 vliginoſo bey Deez, copioſe; etiam in pratis bey Badez, und
-                                hinter Jüterglück.</placeName></ab>
+                                hinter <placeName type="settlement" key="wd:Q688254">Jüterglück</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio.</ab>
                             <ab type="additional_information">Similis S. latifoliae, ſed flores
                                 duplo maiores; Nectarium reliquis petalis adhaerens; Cymba lineis
@@ -1453,8 +1453,8 @@
                                 <num>1079.</num>
                                 <name xml:lang="lat" key="wd:Q159194">Z. (paluſtris)</name>
                             </head>
-                            <ab type="location"><placeName type="habitat_description">H. bey Gnadau im
-                                Schenkenloch gegen Döben zu.</placeName></ab>
+                            <ab type="location"><placeName type="habitat_description">H. bey <placeName type="settlement" key="wd:Q688045">Gnadau</placeName> im
+                                Schenkenloch gegen <placeName type="settlement" key="wd:Q1270887">Döben</placeName> zu.</placeName></ab>
                         </div>
                         
                         <div type="ordo">
@@ -1471,7 +1471,7 @@
                             <ab type="morphology">ſpica compofita diſticha nuda, ſpiculis androgynis
                                 oblongis contiguis, culmo nudo.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in pratis
-                                depreſſis wenn man von Walternienburg nach der Poleymühle gehet.</placeName></ab>
+                                depreſſis wenn man von <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName> nach der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> gehet.</placeName></ab>
                             <ab type="flowering_time">Fl. Auguſto.</ab>
                             <ab type="additional_information">Altitudo Spithamaea et vltra. Folia
                                 non carinata, ſed canaliculata ſemicylindrica. A Carice praecoci
@@ -1488,7 +1488,7 @@
                                 contiguis androgynis teretibus rectis, culmo ſuperne nudo. Schreb.
                                 Spicil. Lipſ. p. 63.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in gramineis
-                                ſiccioribus im Schloßgarten; bey der kleinen Weidenallee, et
+                                ſiccioribus im <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>; bey der kleinen <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName>, et
                                 alibi frequens.</placeName></ab>
                             <ab type="flowering_time">Fl. Martio, Aprili.</ab>
                         </div>
@@ -1500,7 +1500,7 @@
                             <ab type="morphology">ſpicis pendulis, maſcula erecta, femineis ouatis
                                 imbricatis, capſulis confertis obtuſis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in dumetis am
-                                Zeizer Buſche, nahe am Wege, et alibi.</placeName></ab>
+                                <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>, nahe am Wege, et alibi.</placeName></ab>
                             <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                             <ab type="additional_information">Folia pubeſcentia. Spicae femineae
                                 fere binae, vix pendulae. Culmus folioſus.</ab>
@@ -1513,7 +1513,7 @@
                             <ab type="morphology">ſpicis pedunculatis erectis remotis; femineis
                                 linearibus, capſulis obtuſiuſculis inflatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in udis
-                                nemoroſis an der Nuthe, bald wenn man zur Poleymühle kommt, et
+                                nemoroſis an der <geogName type="river" key="wd:Q884667">Nuthe</geogName>, bald wenn man zur <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> kommt, et
                                 alibi</placeName></ab>
                             <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                             <ab type="additional_information">Spica maſcula ſuperne plerumque
@@ -1555,8 +1555,8 @@
                             </head>
                             <ab type="morphology">foliis ſerratis glabris lanceolato-linearibus:
                                 ſuperioribus oppoſitis obliquis.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. ad Albim et
-                                Salam im Friedrichswerder und bey der alten Saale, auch im
+                            <ab type="location"><placeName type="habitat_description">H. ad <geogName type="river" key="wd:Q1644">Albim</geogName> et
+                                <geogName type="river" key="wd:Q1678">Salam</geogName> im Friedrichswerder und bey der alten <geogName type="river" key="wd:Q1678">Saale</geogName>, auch im
                                 Treugen Buſche, frequens.</placeName></ab>
                             <ab type="flowering_time">Fl. Aprili.</ab>
                             <ab type="additional_information">Flores ſunt monandri, adeoque
@@ -1608,7 +1608,7 @@
                             <ab type="morphology">glumis bifloris nudiuſculis; floſculo
                                 hermaphrodito mutico, maſculo ariſta geniculata.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad agros in
-                                arena hinter Walternienburg am Wege nach, Lindau, frequens.</placeName></ab>
+                                arena hinter <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName> am Wege nach <placeName type="settlement" key="wd:Q697959">Lindau</placeName>, frequens.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                             <ab type="additional_information">Confer omnino Schreber gram. tab.
                                 20. item Aira mollis Schreb. Spicil. Lipſ. pag. 52.</ab>
@@ -1621,7 +1621,7 @@
                             <ab type="morphology">glumis trifloris muticis acuminatis; floſculo
                                 hermaphrodito diandro.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in gramineis
-                                arenoſis humidiuſculis, zwiſchen Gelinde und der Elbe, auch im
+                                arenoſis humidiuſculis, zwiſchen Gelinde und der <geogName type="river" key="wd:Q1644">Elbe</geogName>, auch im
                                 Treugen Buſche.</placeName></ab>
                             <ab type="flowering_time">Fl. Aprili ſeqq.</ab>
                             <ab type="additional_information">Floſculi duo laterales maſculi
@@ -1644,8 +1644,8 @@
                                 ſinuato-dentatis vndulatis alternis. Atriplex maritima noſtra
                                 procerior. Pluk.alm. 60.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſalicetis
-                                an der Saale in der Hinterlucken; in ſyluatiticis humidis an der
-                                Elbe Montplaiſir gegen über, et alibi paſſim.</placeName></ab>
+                                an der <geogName type="river" key="wd:Q1678">Saale</geogName> in der Hinterlucken; in ſyluatiticis humidis an der
+                                <geogName type="river" key="wd:Q1644">Elbe</geogName> Montplaiſir gegen über, et alibi paſſim.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio.</ab>
                             <ab type="additional_information">Altitudo humana et vltra. Folia ſubtus
                                 cinerea, ſaepius quatuor vncias longa, terminata apice cuſpide
@@ -1662,7 +1662,7 @@
                             <ab type="morphology">caule herbaceo diuaricato, foliis lanceolatis
                                 obtuſis integris, calycibus ſemineis pedunculatis. Lin. Spec. Plant.
                                 Append. p. 1675.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. ad ſalinas bey Salze.</placeName></ab>
+                            <ab type="location"><placeName type="habitat_description">H. ad ſalinas bey <placeName type="settlement" key="wd:Q798763">Salze</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                             <ab type="additional_information">Pedunculus calycis feminei 1-3 lineas longus. Calyx fructus ipſe
                                 obcordatus. Folia incana et quaſi albis maculis notata, vnciam
@@ -1688,7 +1688,7 @@
                             </head>
                             <ab type="morphology">fronde ouata.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in pratis
-                                humidis trans Salam gegen Lederiz zu bey dem Vorwerg Rajock.</placeName></ab>
+                                humidis trans <geogName type="river" key="wd:Q1678">Salam</geogName> gegen Lederiz zu bey dem Vorwerg Rajock.</placeName></ab>
                             <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                         </div>
                         <note type="reference_to_main_flora">Ad pag. 229, poſt n. 822.</note>
@@ -1721,7 +1721,7 @@
                                 pinnatis; pinnulis repetito pinnatifidis, omnibus vndique ſerratis,
                                 ſerraturis ſpinoſis. Weis Crypt. pag. 317.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſalicibus cauis 
-                                in der großen Weidenallee, rarius.</placeName></ab>
+                                in der großen <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName>, rarius.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                             <ab type="additional_information">Frondes omnino non
                                 ſubbipinnatae ſed ſubtripinnatae. Pinnae infimae fere ſteriles,
@@ -1767,7 +1767,7 @@
                             <ab type="morphology">foliis ſparſis ciliatis lanceolatis, ſpicis
                                 ſolitariis terminalibus folioſis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad ſyluulam am
-                                Fußſteige hinter Walternienburg nach Zerbſt.</placeName></ab>
+                                Fußſteige hinter <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName> nach <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Auguſto.</ab>
                             <ab type="additional_information">Oed. Fl. Dan. T. 70. Caulis repens.
                                 Folia non tam ciliis, quam mucronibus terminata.</ab>
@@ -1784,7 +1784,7 @@
                             <ab type="morphology">caule ſimplici, foliis ouatis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Dunkelgrün myrtenblättriges Mnium.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ligno
-                                putrido ſalicum cauarum im Elbwerder; in der Gurgel et
+                                putrido ſalicum cauarum im Elbwerder; in der <placeName type="locality" key="wd:Q138291720">Gurgel</placeName> et
                                 alibi.</placeName></ab>
                             <ab type="flowering_time">Fl. vere.</ab>
                         </div>
@@ -1796,7 +1796,7 @@
                             <ab type="morphology">caule ſimplici geniculis inflexo.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Schlankes ſpeichenförmig getheiltes Sumpfmnium.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in udis et
-                                ſcaturiginibus arenoſis ad alneta unterhalb Gödnitz; auch hinter Walternienburg.</placeName></ab>
+                                ſcaturiginibus arenoſis ad alneta unterhalb <placeName type="settlement" key="wd:Q688662">Gödnitz</placeName>; auch hinter <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Aprili.</ab>
                             <ab type="additional_information">Surculi ſimplices, fere
                                 aequales, laete virides, pauliſper luteſcentes, teretes, graciles.
@@ -1810,7 +1810,7 @@
                             </head>
                             <ab type="morphology">caule dichotomo, foliis ſubulatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in humidis
-                                alneti hinter Walternienburg et alibi.</placeName></ab>
+                                alneti hinter <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName> et alibi.</placeName></ab>
                             <ab type="additional_information">Eſt inter maiora, caulibus vltra
                                 triuncialibus; fere ſemper dichotomis. Ramuli lutei. Denſe creſcit,
                                 ita vt cauliculi per ſe ſimplices arcte iuxta ſe poſiti ceſpitem
@@ -1827,7 +1827,7 @@
                                 pellucidis, pedunculis ſubradicalibus, antheris nutantibus.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Kurzrankiges weidenblättriges Mnium.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in humidis ſyluaticis 
-                                zwiſchen der Poleymühle und Tochheim.</placeName></ab>
+                                zwiſchen der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> und <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Aprili.</ab>
                             <ab type="additional_information">Caules circiter vnciales. Folia ouato-lanceolata.
                                 Setae e ſurculis annotinis, puniceae.</ab>
@@ -1844,7 +1844,7 @@
                             <ab type="morphology">antheris erectis ſubulatis: ſurculis
                                 acaulibus.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in humidis
-                                alneti an der Nuthe, hinter Walternienburg.</placeName></ab>
+                                alneti an der <geogName type="river" key="wd:Q884667">Nuthe</geogName>, hinter <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Febr. Martio.</ab>
                         </div>
                         <div type="plant-species" xml:id="sup.s.1103" ana="bryum.heteromallum" n="BRYUM heteromallum">
@@ -1855,7 +1855,7 @@
                             <ab type="morphology">antheris erectis, foliis ſetaceis ſecundis. Hypnum
                                 heteromallum. Weis Crypt. pag. 215.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſylua bey
-                                Friederikenberg</placeName></ab>
+                                <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName></placeName></ab>
                             <ab type="flowering_time">Fl. Nouembri.</ab>
                             <ab type="additional_information">Simile B. ſcopario; ſed ſurculi
                                 minores, folia magis capillaria; ſetae breuiores.</ab>
@@ -1868,7 +1868,7 @@
                             <ab type="morphology">acaule, foliis ſetaceis, antheris obtuſiſſimis
                                 patulis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad foueas
-                                humidas im Zeizer Buſche.</placeName></ab>
+                                humidas im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Aprili.</ab>
                             <ab type="additional_information">Minimum eſt inter Brya. Cauliculi e
                                 ſimplici faſciculo foliorum exiliſſimorum conſtant. Setae vix duas
@@ -1886,7 +1886,7 @@
                             <ab type="morphology">fronde ſimpliciſſima pinnata lanceolata, baſi
                                 pedunculifera.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis
-                                vmbroſis gegen Friederikenberg.</placeName></ab>
+                                vmbroſis gegen <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Martio; etiam Octobri, quo menſe
                                 inuenimus.</ab>
                             <ab type="additional_information">Simile H. bryoidi, ſed longe maius
@@ -1901,7 +1901,7 @@
                                 imbricatis incuruis acutis ſecundis. Hypnum filicinum et ſpicatum.
                                 Weis Crypt. pag. 228.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis
-                                humidiuſculis im Buſche bey Friederikenberg.</placeName></ab>
+                                humidiuſculis im Buſche bey <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. hieme.</ab>
                             <ab type="additional_information">Surculi digitales et vltra. Pinnae
                                 folioſae ſimplices, ſuperius denſius collectae, ſpicam quaſi
@@ -1915,7 +1915,7 @@
                             <ab type="morphology">ſurculis pinnatis; ramulis approximatis; apicibus
                                 recuruis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis
-                                im Buſche bey Friederikenberg; in Brands Heide copioſe.</placeName></ab>
+                                im Buſche bey <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>; in Brands Heide copioſe.</placeName></ab>
                             <ab type="flowering_time">Fl. Martio; ſed nondum florens vidi.</ab>
                             <ab type="additional_information">Nomen triuiale inde natum eſt, quod
                                 folia falcata acutiſſima, in extremitate pinnularum et ſurculorum
@@ -1946,8 +1946,8 @@
                                 multifloris, capſulis erectis. Schr. Spic. Lipſ. pag. 97.
                                 Mattuſchka Enumerat. ſtirp. ſil. pag. 305.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in truncis
-                                ſalicum, parte praeſertim ſuperiore, in der Gurgel; in der
-                                Weidenallee et alibi</placeName></ab>
+                                ſalicum, parte praeſertim ſuperiore, in der <placeName type="locality" key="wd:Q138291720">Gurgel</placeName>; in der
+                                <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName> et alibi</placeName></ab>
                             <ab type="flowering_time">Fl. Martio, Aprili.</ab>
                             <ab type="additional_information">Rami breues, denſe congeſti, implexi,
                                 denſum ceſpitem quaſi conſtituunt. Setae numeroſae.</ab>
@@ -1966,7 +1966,7 @@
                             <ab type="morphology">puluerulentus conglomeratus roſeus. Schreb. Spic.
                                 Lipſ. p. 140.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in cortice
-                                quercuum annoſarum trans Albim, frequens. Perſiſtens.</placeName></ab>
+                                quercuum annoſarum trans <geogName type="river" key="wd:Q1644">Albim</geogName>, frequens. Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Figura glebularum, et color earum, eſt
                                 floris cobalti, qualis quarzo inſperſus in ſodinis ſubinde occurrit,
                                 vt Schreberus ait. Non ergo colore apparet rubro, ſed ad roſeum
@@ -1981,7 +1981,7 @@
                             <ab type="morphology">leproſus, luteo-viridis; ſcutellis fuluis. Schreb.
                                 Spic. Lipſ. p. 137.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſalicibus
-                                in der großen Weidenallee, paſſim. Perſiſtens.</placeName></ab>
+                                in der großen <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName>, paſſim. Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Cruſta annoſa per ſenium
                                 cineraſcens.</ab>
                         </div>
@@ -1994,7 +1994,7 @@
                                 cinereis laeuibus; ſcutellis nigris margine crenulato. Schreb. Spic.
                                 Lipſ. p. 128.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in arboribus
-                                horti an der Lindenallee, etiam in tiliis paſſim. Perſiſtens.</placeName></ab>
+                                horti an der <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>, etiam in tiliis paſſim. Perſiſtens.</placeName></ab>
                         </div>
                         <note type="reference_to_main_flora">Ad pag. 249, poſt n. 914.</note>
                         <div type="plant-species" xml:id="sup.s.1113" ana="lichen.puluerulentus" n="LICHEN puluerulentus">
@@ -2006,7 +2006,7 @@
                                 viridibus, polline conſperſis; ſcutellis nigris, margine crenatis.
                                 Schreb. Spic. Lipſ. p. 128.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in tiliis in
-                                der Lindenallee et alibi, copioſe. Perſiſtens.</placeName></ab>
+                                der <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName> et alibi, copioſe. Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Laciniae latiores, quam
                                 praecedentis, profundius crenatae, obtuſiores.</ab>
                         </div>
@@ -2018,7 +2018,7 @@
                             <ab type="morphology">imbricatus, foliolis lobatis oliuaceis, fcutellis
                                 integerrimis. Schreb. Spic. Lipſ. pag. 131.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſcala
-                                lapidea des Altans im Schloßgarten. Perſiſtens.</placeName></ab>
+                                lapidea des Altans im <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>. Perſiſtens.</placeName></ab>
                         </div>
                         <note type="reference_to_main_flora">Ad pag. 253, poſt n. 937.</note>
                         <note type="unparsed">****** Umbilicati.</note>
@@ -2030,7 +2030,7 @@
                             <ab type="morphology">vmbilicatus, ſubtus lacunoſus, furſure nigro
                                 adſperſus.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſcala
-                                lapidea des Alrans im Schloßgarten</placeName></ab>
+                                lapidea des Alrans im <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Ianuario, Februario.</ab>
                             <ab type="additional_information">Humidus vireſcit. Color ruber ex hoc
                                 conficitur. Linn.</ab>
@@ -2045,7 +2045,7 @@
                                 furcatis. Schreb. Spic. Lipſ. p. 117. Reichard Fl. Francof. p.
                                 150.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſterilibus
-                                ſyluaticis gegen Friederikenberg. Perſiſtens.</placeName></ab>
+                                ſyluaticis gegen <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>. Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Similis L. rangiferino,
                                 ſed rami erecti furcati; color griſeus, nec albidus.</ab>
                         </div>
@@ -2057,8 +2057,8 @@
                             <ab type="morphology">fruticuloſus ſolidus, tectus foliolis
                                 cruſtaceis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in collibus
-                                ſteriliſſimis vmbroſis am Wege zwiſchen der Poleymühle und
-                                Tochheim.</placeName></ab>
+                                ſteriliſſimis vmbroſis am Wege zwiſchen der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> und
+                                <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. hieme.</ab>
                             <ab type="additional_information">Fruticulus botryiformis et quaſi
                                 incruſtatus.</ab>
@@ -2073,7 +2073,7 @@
                                 ramis breuibus ſubtricuſpidatis. Lichen terreſtris anguſtior
                                 ramoſiſſimus fuſcus. Hall. Enum. pag. 70.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in collibus
-                                arenoſis ſteriliſſimis über der Elbe unterhalb Gödnitz et alibi frequens. Perſiſtens.</placeName></ab>
+                                arenoſis ſteriliſſimis über der <geogName type="river" key="wd:Q1644">Elbe</geogName> unterhalb <placeName type="settlement" key="wd:Q688662">Gödnitz</placeName> et alibi frequens. Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Color caſtaneus ſeu
                                 rufo-nigreſcens, magnitudo ſemiuncialis et vltra; durities modica,
                                 non tamen fragiliſſimus.</ab>
@@ -2100,7 +2100,7 @@
                             </head>
                             <ab type="morphology">tuberculoſa ſolida rugoſa.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ſub aqua, et
-                                poſt aquae defluuium in littore, in ſtagno hinter dem Gnez, am
+                                poſt aquae defluuium in littore, in ſtagno hinter dem <placeName type="locality" key="wd:Q138135858">Gnez</placeName>, am
                                 Damme, am Ende des Erbpachtes.</placeName></ab>
                             <ab type="flowering_time">Fl. Septembri.</ab>
                             <ab type="additional_information">Corpus rotundum gelatinoſum, diametri
@@ -2118,7 +2118,7 @@
                             </head>
                             <ab type="morphology">filamentis aequalibus, baſin verſus
                                 ramoſioribus.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. ad Albim in
+                            <ab type="location"><placeName type="habitat_description">H. ad <geogName type="river" key="wd:Q1644">Albim</geogName> in
                                 alueo eius limpido arenoſo, inhaerens lapillis et conchis, bey
                                 der Sandbank et alibi.</placeName></ab>
                             <ab type="additional_information">Viget auctumno. Longitudo noſtrorum exemplarium 2 aut
@@ -2137,7 +2137,7 @@
                             <ab type="morphology">lanuginoſa violacea, lignis adnaſcens.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Blauer Holzſchimmel.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in trabibus
-                                putreſcentibus unter der Brücke im Schloßgarten</placeName></ab>
+                                putreſcentibus unter der Brücke im <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>.</placeName></ab>
                             <ab type="additional_information">Viget hieme. Color eleganter caeruleus; baſis
                                 craſſiuſcula.</ab>
                         </div>
@@ -2149,7 +2149,7 @@
                             <ab type="morphology">perennis denſiſſima albicans. Schreb. Spic. Lipſ.
                                 p. 144.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in
-                                quercubus annoſis trans Albim, et alibi. Perſiſtens.</placeName></ab>
+                                quercubus annoſis trans <geogName type="river" key="wd:Q1644">Albim</geogName>, et alibi. Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Facies corii ſubtilioris. Color albus
                                 ad ochroleucum inclinans. Fibrae difficulter diſtinguuntur; vidi
                                 tamen in exemplari recenti.</ab>
@@ -2164,7 +2164,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Grüspan-Byſſus.</ab> 
                             <ab type="reference">Weis Crypt. p. 18.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſalicibus
-                                cauis in der kleinen Weidenallee. Perſiſtens.</placeName></ab>
+                                cauis in der kleinen <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName>. Perſiſtens.</placeName></ab>
                         </div>
                         
                         <div type="plant-species" xml:id="sup.s.1125" ana="byssus.crocea" n="BYSSUS crocea">
@@ -2201,7 +2201,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Rother Täubling.</ab>
                             <ab type="reference">Mattuſchka.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſylua
-                                hinter Walternienburg an dem Wege nach Zerbſt linker Hand.</placeName></ab>
+                                hinter <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName> an dem Wege nach <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> linker Hand.</placeName></ab>
                             <ab type="flowering_time">Nouembri.</ab>
                             <ab type="additional_information">Pileus latitudine 2
                                 vnciarum, purpureus, lamellae altiſſimae aequalis longitudinis, modo
@@ -2221,7 +2221,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Leberſchwamm.</ab>
                             <ab type="reference">Mattuſchka Enumerat. Stirp. Sileſ. pag. 330.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad pinos im
-                                Schloßgarten gegen die Prinzeß zu.</placeName></ab>
+                                <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName> gegen die Prinzeß zu.</placeName></ab>
                             <ab type="flowering_time">Octobri.</ab>
                             <ab type="additional_information">Forte varietas A. violacei?
                                 Mattuſchka. Secundum Reichardum Syſt. Plant. Vol. IV. p. 602. omnino
@@ -2258,7 +2258,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Hundsreisker.</ab>
                             <ab type="reference">Matt.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſylua gegen
-                                Friederikenberg; auch am Damme bey der Gurgel.</placeName></ab>
+                                <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>; auch am Damme bey der <placeName type="locality" key="wd:Q138291720">Gurgel</placeName>.</placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Color flauo-rufus. Pileus in
                                 medio depreſſus. Lac dulce. Petiolus baſi incraſſatus, ſolidus.
@@ -2276,14 +2276,14 @@
                                 X. der rechte wahre Kaiſerſchwamm.</ab>
                             <ab type="location"><placeName type="habitat_description">H. frequens in
                                 ſyluis in Brands Heide bey Zipsdorf; auch bey Reuden un
-                                Zerbſtiſchen Buſche.</placeName></ab>
+                                <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>iſchen Buſche.</placeName></ab>
                             <ab type="flowering_time">Septembri.</ab>
                             <ab type="additional_information">Lac fundit copioſum, ſed
                                 non acre; ſubſtantia fungi, immo corticalis illa et durior
                                 praeſertim, e qua iam lac defluxit, linguam vrit. Ita Gleditſch. 1.
                                 c. Varietas huius forte Gleditſch Fung. pag. 100. d.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in
-                                ſyluaticis gegen Friederikenberg.</placeName></ab>
+                                ſyluaticis gegen <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>.</placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="morphology">Color ſpadiceo-ruſeſcens; lamellis ſubalbidis ſeu flauidis: 
                                 Petiolus breuis, craſſus.</ab>
@@ -2298,7 +2298,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Bläuling.</ab>
                             <ab type="reference">Matt.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in gramineis
-                                ad ſalices in der kleinen Weidenallee.</placeName></ab>
+                                ad ſalices in der kleinen <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName>.</placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Stipes breuis, craſſus;
                                 pileus ſat magnus ad diametrum pedis dimidii; color ſuperne griſeus
@@ -2316,7 +2316,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Kuhmaul; Schleimpilz.</ab>
                             <ab type="reference">Matt. Enum. ftirp. Silef. p. 331.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis
-                                im Gnez.</placeName></ab>
+                                im <placeName type="locality" key="wd:Q138135858">Gnez</placeName>.</placeName></ab>
                             <ab type="flowering_time">Nouembri.</ab>
                             <ab type="additional_information">Velum viſcoſum ſplendens
                                 totam partem pilei inferiorem tegit in iunioribus. Carnoſus noſter
@@ -2330,7 +2330,7 @@
                             <ab type="morphology">ſtipitatus, pileo purpuraſcente-fuſco viſcido,
                                 lamellis fuſco-purpuraſcentibus.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluis bey
-                                Friederikenberg.</placeName></ab>
+                                <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>.</placeName></ab>
                             <ab type="flowering_time">Octobri.</ab>
                             <ab type="additional_information">Pileus rufo-fuſcus, viſcidus;
                                 lamellae albidae, vix rufae. Stipes ſaepe purpureus.</ab>
@@ -2343,7 +2343,7 @@
                             <ab type="morphology">ſtipitatus; pileo pallido: diſco ſtellatim luteo,
                                 lamellis ſulphureis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in gramineis
-                                am Damme hinter der Gurgel; auch in der Lindenallee.</placeName></ab>
+                                am Damme hinter der <placeName type="locality" key="wd:Q138291720">Gurgel</placeName>; auch in der <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>.</placeName></ab>
                             <ab type="flowering_time">Nouembri.</ab>
                             <ab type="additional_information">Pileus flauus: diſco luteo.
                                 Lamellae pallido-ſulphureae, baſi ſeparatae. Stipes etiam flauus,
@@ -2359,7 +2359,7 @@
                             <ab type="reference">Leyſer Hall. p. 216. Linn. Fl. Suec.
                                 441. n. 1194. Gleditſch Fung. p. 86. n. 3.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in aruis et
-                                paſcuis, im Gnez et alibi frequens.</placeName></ab>
+                                paſcuis, im <placeName type="locality" key="wd:Q138135858">Gnez</placeName> et alibi frequens.</placeName></ab>
                             <ab type="flowering_time">Octobri.</ab>
                             <ab type="additional_information">Facies A. campestris, ſed
                                 lamellae altiſſimae.</ab>
@@ -2377,7 +2377,7 @@
                                 Agarico-polyporus pediculatus ceruinus, poris tenuiſſimis albis.</ab>
                             <ab type="morphology">Hall. Enum. p. 26. n. 2.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in terra ad
-                                radices pinorum im Schloßgarten zwiſchen den Fichtenhecken und
+                                radices pinorum im <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName> zwiſchen den Fichtenhecken und
                                 der Mauer, wo das abgeſchnittene von den Fichten hingeworfen wird. Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Pileus in noſtris non planus, ſed
                                 conuexus, vnciam latus, ſuperne bruneus, et puluere bruneo ſeu
@@ -2418,7 +2418,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Habichtſchwamm, braune Hirſchzunge.</ab>
                             <ab type="morphology">Matt.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſylua bey
-                                Friederikenberg.</placeName></ab>
+                                <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>.</placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Color ceruinus ſeu pallide
                                 luteus. Pileus medio depreſſus, ſquamoſus, ſquamis ſubatris. Eſculentus.</ab>
@@ -2432,7 +2432,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Steppelpilz; weiſſer Süßling.</ab>
                             <ab type="reference">Matt.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſylua gegen
-                                Friederikenberg.</placeName></ab>
+                                <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>.</placeName></ab>
                             <ab type="flowering_time">Octobri.</ab>
                             <ab type="additional_information">Pileus flaveſcens, carnoſus;
                                 aculei breues. Eſculentus, ſecundum Mattuſchka.</ab>
@@ -2454,7 +2454,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Stockmorchel; Manrache.</ab>
                             <ab type="reference">Matt.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis
-                                am Wege linker Hand im Buſche an der Elbe nach Tochheim zu.</placeName></ab>
+                                am Wege linker Hand im Buſche an der <geogName type="river" key="wd:Q1644">Elbe</geogName> nach <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> zu.</placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Cauleſcens, fragilis. Pileus
                                 membranaceus, inflatus, plicatus, ſubalbidus. Petiolus teres,
@@ -2468,7 +2468,7 @@
                             <ab type="morphology">fibroſo-reticulata, nigro-fuſca; fibris rigidis et
                                 compreſſis. Gled. Fung. p. 53.</ab>
                             <ab type="location"><placeName type="habitat_description">H. intra corticem
-                                et lignum Iuglandis regiae putreſcentis, item ſalicum, im Gnez
+                                et lignum Iuglandis regiae putreſcentis, item ſalicum, im <placeName type="locality" key="wd:Q138135858">Gnez</placeName>
                                 et alibi. Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Arcte adhaeret ligno ſub cortice, et a
                                 baſi, vnciam lata, ſe diffundit variis ramificationibus.</ab>
@@ -2481,7 +2481,7 @@
                             <ab type="morphology">ſcutellata ouata, ſubcutanea. Schreb. Spicil.
                                 Lipſ. p. 112.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in cortice
-                                populi tremulae trans Albim, et alibi. Perſiſtens.</placeName></ab>
+                                populi tremulae trans <geogName type="river" key="wd:Q1644">Albim</geogName>, et alibi. Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Etiam ex aliarum arborum, praecipue
                                 Coryli, corticibus erumpit. Libro inſidet et epidermide rupta
                                 effloreſcit. Patellae ouatae, margine parum eleuato,
@@ -2516,7 +2516,7 @@
                                 acetabulo imperfecto.</ab>
                             <ab type="reference">Hall, Enum. p. 19. Gled. Fung. p. 5r. X. a.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in truncis
-                                putridis bey den Baracken; im Zeizer Buſche et alibi.</placeName></ab>
+                                putridis bey den Baracken; im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName> et alibi.</placeName></ab>
                             <ab type="flowering_time">Vere et Auctumno.</ab>
                             <ab type="additional_information">Fungus vncialis,
                                 colore rubro ſeu violaceo, variis gyris formatus: hinc Agaricus
@@ -2550,7 +2550,7 @@
                             </head>
                             <ab type="morphology">clauata integerrima compreſſa obtuſa.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in
-                                caeſpite, ligno putrido infiſtens in der Lindenallee.</placeName></ab>
+                                caeſpite, ligno putrido infiſtens in der <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>.</placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Pars fuperior ſpicam Ophiogloſſi vulgaris repraeſentat,
                                 longitudine vnciali; inferius ſuſtentatur ſtipite biunciali
@@ -2566,7 +2566,7 @@
                             <ab type="morphology">ramofo-cornuta compreſſa.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Gemshörnchen.</ab>
                             <ab type="location"><placeName type="habitat_description">H. intra ſalices putridas, in der
-                                großen Weidenallee; etiam ad, truncos putridos im Zeizer Buſche
+                                großen <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName>; etiam ad, truncos putridos im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>
                                 et alibi. Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Gregatim naſcens, modo ſimplex, modo
                                 apicibus fiſſis. Color niger ſummitatibus albis et quaſi farina
@@ -2585,8 +2585,8 @@
                                 Corallenſchwamm mit weißlichen Spiken.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluis in
                                 Brands Heide; zwiſchen den Reezer Hütten und Reuden auf dem Wege
-                                nach Zerbſt zu; in humidiuſculis ad foſſam im Buſche bey
-                                Friederikenberg, linker Hand nicht weit vom Wege.</placeName></ab>
+                                nach <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> zu; in humidiuſculis ad foſſam im Buſche bey
+                                <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>, linker Hand nicht weit vom Wege.</placeName></ab>
                             <ab type="flowering_time">Septembri.</ab>
                             <ab type="additional_information">Clauaria coralloides colore
                                 flaueſcente eſculenta eſt; vtrum etiam haec varietas fuſca? non
@@ -2601,7 +2601,7 @@
                                 luteis. Coralloides ramis planis palmatis, flauum.</ab>
                             <ab type="reference">Hall. Rupp. Ien. p. 357.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad ſalicem am
-                                Wege gegen die Elbfähre; auch in der Weidenallee.</placeName></ab>
+                                Wege gegen die Elbfähre; auch in der <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName>.</placeName></ab>
                             <ab type="flowering_time">Octobri.</ab>
                             <ab type="additional_information">Magnitudo fere duplex capitis
                                 humani. Rami parum fiſſi, apice ſaturate lutei. Caeterum totum
@@ -2616,7 +2616,7 @@
                             <ab type="reference">Reyger Gedan. p. 180. Gled. Fung. Boletus XI. p. 75?
                                 Vielkopfiger grauer Bock. Wulf. Boruf. p. 8.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad truncos
-                                caeduos trans Albim, nicht weit vom Jägerhauſe gegen den Buſch hinein.</placeName></ab>
+                                caeduos trans <geogName type="river" key="wd:Q1644">Albim</geogName>, nicht weit vom Jägerhauſe gegen den Buſch hinein.</placeName></ab>
                             <ab type="flowering_time">Octobri.</ab>
                             <ab type="additional_information">Deſcriptio Breynii apud Reigerum l. e.
                                 conuenit cum noſtro exemplari. Magnitudo
@@ -2634,7 +2634,7 @@
                                 centro farinifero, radice deſtitutum.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Hirſchtrüffel.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad radices quereuum 
-                                gegen die Poleymühle hin et alibi.</placeName></ab>
+                                gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> hin et alibi.</placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Creſcit ſupra terram, ad dimidium terra aut muſeo
                                 tectum. Magnitudo oui minoris, ſed figura globoſa. Superficies
@@ -2655,7 +2655,7 @@
                             <ab type="morphology">volua multifida, fructu globoſo ex feminibus
                                 combinatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in afferibus
-                                putreſcentibus am erſten Garten an der Elbe; auch am Garten wenn man auf den
+                                putreſcentibus am erſten Garten an der <geogName type="river" key="wd:Q1644">Elbe</geogName>; auch am Garten wenn man auf den
                                 Anger gehet linker Hand.</placeName></ab>
                             <ab type="flowering_time">Octobri, Nouembri.</ab>
                             <ab type="additional_information">
@@ -2695,7 +2695,7 @@
                             <ab type="morphology">ſtipite longo, capitulo globoſo glabro; ore
                                 cylindrico integerrimo.</ab>
                             <ab type="location"><placeName type="habitat_description">H. inter muſcos
-                                in gramineis im Schloßgarten zwiſchen den Pyramiden et alibi.</placeName></ab>
+                                in gramineis im <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName> zwiſchen den Pyramiden et alibi.</placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Stipes circa duarum
                                 vnciarum. Capitulum magnitudine nucis auellanae.</ab>
@@ -2719,7 +2719,7 @@
                             </head>
                             <ab type="morphology">paraſiticum ſubrotundum truncatum.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in truncis
-                                ſalicum emortuis in der Gurgel et alibi.</placeName></ab>
+                                ſalicum emortuis in der <placeName type="locality" key="wd:Q138291720">Gurgel</placeName> et alibi.</placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Corpus ſubgloboſum, a piſi
                                 magnitudine ad pugni. Cortex griſeus vel fuſcus, coriaceus. Pulpa
@@ -2741,7 +2741,7 @@
                             <ab type="morphology">Spaerocephalus niger, villo ochroleuco.</ab>
                             <ab type="reference">Hall. Enum. p. 9. Tab. I. f. 3.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in arboribus
-                                cauis putridis, in der kleinen Weidenallee; in ſudibus et
+                                cauis putridis, in der kleinen <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName>; in ſudibus et
                                 aſſeribus putreſcentibus, frequens. Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Capitula fere nigra, triplo minora,
                                 quam Mucoris Lichenoidis, ſeu ſeminis papaueris.</ab>
@@ -2772,8 +2772,8 @@
                                 foliis furfuraceis, ſtipite filiformi, capitulo głoboſo.</ab>
                             <ab type="reference">Schreb. Spicil. Lipſ. p. 134.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in rimis
-                                corticis quercuum annoſarum in der Vorderlucke gegen
-                                Saalhorn. Perſiſtens.</placeName></ab>
+                                corticis quercuum annoſarum in der <placeName type="locality">Vorderlucke</placeName> gegen
+                                <placeName type="locality" ana="ident.">Saalhorn</placeName>. Perſiſtens.</placeName></ab>
                         </div>
                         <div type="plant-species" xml:id="sup.s.1160" ana="mucor.miniatusiacquini" n="MUCOR miniatus Iacquini">
                             <head>
@@ -2786,7 +2786,7 @@
                                 capitulis miniatis. Oed. Fl. Dan. tab. 467. fig. I. et forte etiam
                                 fig. 2.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſalicibus
-                                putridis am Anger von Colphus her, gegen die Baracken zu. Perſiſtens.</placeName></ab>
+                                putridis am Anger von <placeName type="locality" key="wd:Q102004668">Colphus</placeName> her, gegen die Baracken zu. Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Magnitudo capituli multo minor, quam
                                 ſeminis ſinapeos. Gregatim et arcte iuxta ſe poſitae plantulae
                                 elegantem ſyluulam repraeſentant.</ab>
@@ -2799,7 +2799,7 @@
                             <ab type="morphology">viridis granuloſus.</ab>
                             <ab type="reference">Linn. Syſt. veg. p. 825. Mant. p. 313.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in corticibus
-                                arborum putridarum trans Albim bey Dornburg, im Trizer Buſche. Perſiſtens.</placeName></ab>
+                                arborum putridarum trans <geogName type="river" key="wd:Q1644">Albim</geogName> bey <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName>, im Trizer Buſche. Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Facies Byſſi botryoidis;
                                 ſed mucorem indicant veſiculae ſtipitatae, ſeu capitula rotunda in
                                 ſtipite concolore, prius virideſcentia, poſtmodum griſea.</ab>
@@ -2883,21 +2883,21 @@
                 <ab type="emendation" xml:id="sup.add.002">
                     <ref>Ad pag. 27.</ref></ab>
                     <ab type="name_reference">Veronica Teucrium</ab>
-                    <ab type="location">loco indicato, im Buſche gegen Tochheim, per decem
+                    <ab type="location">loco indicato, im Buſche gegen <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>, per decem
                         circiter annos fruſtra quaefita, tandem 1780 inuenta eſt in editis gramineis
-                        zwiſchen Tochheim und Friederikenberg, rechter Hand bey den Birken, ehe man
-                        in den Buſch kommt; bey Liezke herum; auch häufig bey Jüterglück auf
+                        zwiſchen <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> und <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>, rechter Hand bey den Birken, ehe man
+                        in den Buſch kommt; bey Liezke herum; auch häufig bey <placeName type="settlement" key="wd:Q688254">Jüterglück</placeName> auf
                         Reinen.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.003">
                     <ref>Ad pag. 29.</ref></ab>
                     <ab type="name_reference">Saluia ſylueſtris</ab>
-                    <ab type="location">habitat copioſe in montoſis apricis hinter Salze.</ab>
+                    <ab type="location">habitat copioſe in montoſis apricis hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.004">
                     <ref>Ad pag. 32.</ref></ab>
                     <ab type="name_reference">Iris ſibirica</ab>
-                    <ab type="location">creſcit etiam ad Albim hinter Monplaiſir am Damme beym alten
+                    <ab type="location">creſcit etiam ad <geogName type="river" key="wd:Q1644">Albim</geogName> hinter Monplaiſir am Damme beym alten
                         Elbbruche.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.005">
@@ -2911,7 +2911,7 @@
                     <ref>Ad pag. 34.</ref></ab>
                     <ab type="name_reference">Scirpus Holoſchoenus</ab>
                     <ab type="location">creſcit etiam frequens in arenoſis am Wege
-                        von Dornburg nach Prezien.</ab> 
+                        von <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName> nach Prezien.</ab> 
                 
                 <ab type="emendation" xml:id="sup.add.007">
                     <ref>Ad pag. eandem.</ref></ab>
@@ -2937,7 +2937,7 @@
                 <ab type="emendation" xml:id="sup.add.011">
                     <ref>Ad pag. eandem.</ref></ab>
                     <ab type="name_reference">Aira flexuoſa</ab>
-                    <ab type="location">habitat frequens in paſcuis zwiſchen Tochheim und Friederikenberg.</ab>
+                    <ab type="location">habitat frequens in paſcuis zwiſchen <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> und <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.012">
                     <ref>Ad pag. 44.</ref></ab>
@@ -2946,29 +2946,30 @@
                 <ab type="emendation" xml:id="sup.add.013">
                     <ref>Ad pag. eandem.</ref></ab>
                     <ab type="name_reference">Arundo Calamagroſtis</ab>
-                    <ab type="location">habitat etiam ad Albim über Breitenhagen nach Aken zu.</ab>
+                    <ab type="location">habitat etiam ad <geogName type="river" key="wd:Q1644">Albim</geogName> über <placeName type="settlement" key="wd:Q699151">Breitenhagen</placeName> nach 
+                        <placeName type="settlement" key="wd:Q417336">Aken</placeName> zu.</ab>
                     
                 <ab type="emendation" xml:id="sup.add.014">
                     <ref>Ad pag. eandem.</ref></ab>
                     <ab type="name_reference">Arundo arenaria</ab>
-                    <ab type="location">creſcit etiam in ſylua aceroſa am Wege nach Zerbſt linker
+                    <ab type="location">creſcit etiam in ſylua aceroſa am Wege nach <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> linker
                         Hand.</ab>
                     
                 <ab type="emendation" xml:id="sup.add.015">
                     <ref>Ad pag. 51.</ref></ab>
                     <ab type="name_reference">Galium boreale</ab>
-                    <ab type="location">habitat etiam im Kuhwerder, et alibi.</ab>
+                    <ab type="location">habitat etiam im <placeName type="locality" key="wd:Q138011875">Kuhwerder</placeName>, et alibi.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.016">
                     <ref>Ad pag. 51,</ref></ab>
                     <ab type="name_reference">Aſperula aruenſis</ab>
                     <ab type="location">; legatur: habitat ad marginem agrorum an der
-                        kleinen Weidenallee hinunter gegen den Anger zu; rarius.</ab>
+                        kleinen <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName> hinunter gegen den Anger zu; rarius.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.017">
                     <ref>Ad pag. 52.</ref></ab>
                     <ab type="name_reference">Aſperula tinctoria</ab>
-                    <ab type="location">habitat quoque in montoſis apricis hinter Salze.</ab>
+                    <ab type="location">habitat quoque in montoſis apricis hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName>.</ab>
                     <ab type="morphology">Foliorum numerus variat. Figura ſeminum magis oblonga, quam globoſa. Caulis
                         a ſemipedali ad ſeſquipedalem altitudinem adſcendit in noſtris.</ab>
                     
@@ -2980,18 +2981,18 @@
                 <ab type="emendation" xml:id="sup.add.019">
                     <ref>Ad pag. 61.</ref></ab>
                     <ab type="name_reference">Verbaſcum nigrum</ab>
-                    <ab type="location">habitat quoque trans Albim, dem Schloße gegen über.</ab>
+                    <ab type="location">habitat quoque trans <geogName type="river" key="wd:Q1644">Albim</geogName>, dem Schloße gegen über.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.020">
                     <ref>Ad pag. 66.</ref></ab>
                     <ab type="name_reference">Ribes nigrum</ab>
-                    <ab type="location">habitat etiam in humidis über die Poleymühle hin rechter Hand.</ab>
+                    <ab type="location">habitat etiam in humidis über die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> hin rechter Hand.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.021">
                     <ref>Ad pag. 67.</ref></ab>
                     <ab type="name_reference">Theſium alpinum</ab>
                     <ab type="location">habitat frequens in collibus apricis um Glien; auch in
-                        montoſis apricis hinter Salze und Froſe hin.</ab>
+                        montoſis apricis hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName> und Froſe hin.</ab>
                     <ab type="additional_information_correction">Loco hic indicato naſcitur
                         Theſium Linophyllum, quod vide ſupra n. 1032.</ab>
                 
@@ -2999,7 +3000,7 @@
                     <ref>Ad pag. 68.</ref></ab>
                 <ab type="name_reference">Gentiana Pneumonanthes</ab>
                 <ab type="location">varietas latifolia habitat in pratis et aggeribus
-                        trans Salam gegen Lederiz hin.</ab>
+                        trans <geogName type="river" key="wd:Q1678">Salam</geogName> gegen Lederiz hin.</ab>
                 <ab type="morphology">Habitus idem; ſed folia, praeſertim inferiora, ouato-lanceolata.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.023">
@@ -3016,47 +3017,47 @@
                 <ab type="emendation" xml:id="sup.add.025">
                     <ref>Ad pag. 79.</ref></ab>
                     <ab type="name_reference">Cicuta viroſa</ab>
-                    <ab type="location">creſcit frequens in vliginoſis, über der Poleymühle hin
-                        rechter Hand; etiam in turfoſis paluſtribus an der Elbe hinauf gegen Steckby
+                    <ab type="location">creſcit frequens in vliginoſis, über der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> hin
+                        rechter Hand; etiam in turfoſis paluſtribus an der <geogName type="river" key="wd:Q1644">Elbe</geogName> hinauf gegen <placeName type="settlement" key="wd:Q130270700">Steckby</placeName>
                         zu.</ab>
                     
                 <ab type="emendation" xml:id="sup.add.026">
                     <ref>Ad pag. 82.</ref></ab>
                     <ab type="name_reference">Parnaſſia paluſtris</ab>
                     <ab type="location">creſcit etiam in paſcuis humidis zwiſchen
-                        Friederikenberg und Badez.</ab>
+                        <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName> und Badez.</ab>
                     
                 <ab type="emendation" xml:id="sup.add.027">
                     <ref>Ad pag. 86.</ref></ab>
                     <ab type="name_reference">Allium vineale</ab>
-                    <ab type="location">habitat frequens inter ſegetes am Wege nach Zerbſt bald
-                        hinter Walternienburg.</ab>
+                    <ab type="location">habitat frequens inter ſegetes am Wege nach <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> bald
+                        hinter <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.028">
                     <ref>Ad pag. 87.</ref></ab>
                     <ab type="name_reference">Conuallaria multiflora</ab>
-                    <ab type="location">creſcit etiam im Zeizer Buſche.</ab>
+                    <ab type="location">creſcit etiam im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.029">
                     <ref>Ad pag. 101.</ref></ab>
                     <ab type="name_reference">Monotropa Hippopitys</ab>
-                    <ab type="location">habitat quoque im Friedrichsholze bey Zerbft.</ab>
+                    <ab type="location">habitat quoque im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey Zerbft.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.030">
                     <ref>Ad pag. 103.</ref></ab>
                     <ab type="name_reference">Saxifraga tridactylites</ab>
-                    <ab type="location">habitat frequens auf Erdwänden bey Flöz, et alibi.</ab>
+                    <ab type="location">habitat frequens auf Erdwänden bey <placeName type="settlement" key="wd:Q138293501">Flöz</placeName>, et alibi.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.031">
                     <ref>Ad pag. 105.</ref></ab>
                     <ab type="name_reference">Arenaria rubra</ab>
-                    <ab type="location">marina habitat frequens ad ſalinas bey Salze, bey den
+                    <ab type="location">marina habitat frequens ad ſalinas bey <placeName type="settlement" key="wd:Q798763">Salze</placeName>, bey den
                         Salzwerken.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.032">
                     <ref>Ad pag. 106.</ref></ab>
                     <ab type="name_reference">Cucubalus Behen. Var. β. Lychnis maritima repens Linn. It. gotl. 197.</ab>
-                    <ab type="location">initio Iunii 1783, nec poſtea reperta eſt bey Zerbſt im Friedrichsholze.</ab>
+                    <ab type="location">initio Iunii 1783, nec poſtea reperta eſt bey <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName>.</ab>
                     <ab type="morphology">Caulis ſubuiſcidus. Folia glabra, recurua, acuta. Flores paullo minores,
                         quam in Cucubalo Behen vulgari. Calyx glaber, ſubſtriatus, viridis. Corolla
                         alba. Petala apice bifida, tum infra apicem dilatata, vtrinque dente ſeu
@@ -3072,14 +3073,14 @@
                 <ab type="emendation" xml:id="sup.add.034">
                     <ref>Ad pag. 107.</ref></ab>
                     <ab type="name_reference">Silene Armeria</ab>
-                    <ab type="location">habitat im Friedrichsholze.</ab>
+                    <ab type="location">habitat im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.035">
                     <ref>Ad pag. 109.</ref></ab>
                     <ab type="name_reference">Ceraſtium vulgatum et Ceraſtium viſcoſum.</ab>
                     <ab type="location">De his notetur: Ceraſtium
-                        viſcoſum habitat copioſe in campis arenoſis inter ſegetes, bey Gödnitz et
-                        alibi trans Albim.</ab>
+                        viſcoſum habitat copioſe in campis arenoſis inter ſegetes, bey <placeName type="settlement" key="wd:Q688662">Gödnitz</placeName> et
+                        alibi trans <geogName type="river" key="wd:Q1644">Albim</geogName>.</ab>
                     <ab type="morphology">Caeterum e Flora Suec. p. 158. transſcripſeram in Floram
                         Barbienſem Linnei adnotationem, Ceraſtii viſcoſi folia eſſe magis
                         lanceolata, minusque ouata. Sed hoc aliter ſe habere, monet Curtiſii Flora
@@ -3101,7 +3102,7 @@
                 <ab type="emendation" xml:id="sup.add.038">
                     <ref>Ad pag. 116.</ref></ab>
                     <ab type="name_reference">Prunus auium</ab>
-                    <ab type="location">habitat quoque um Wieſenburg.</ab>
+                    <ab type="location">habitat quoque um <placeName type="settlement" key="wd:Q623510">Wieſenburg</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.039">
                     <ref>Ad pag. 131.</ref></ab>
@@ -3117,8 +3118,8 @@
                 <ab type="emendation" xml:id="sup.add.041.1">
                     <ref>Ad pag. 135.</ref></ab>
                     <ab type="name_reference">Aiuga pyramidalis</ab>
-                    <ab type="location">habitat quoque ad marginem ſyluae nahe bey Tochheim, wenn
-                        man von der Poleymühle kommt.</ab>
+                    <ab type="location">habitat quoque ad marginem ſyluae nahe bey <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>, wenn
+                        man von der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> kommt.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.041.2">
                     <ref>Ad pag. 135.</ref></ab>
@@ -3128,43 +3129,43 @@
                 <ab type="emendation" xml:id="sup.add.042">
                     <ref>Ad pag. 141.</ref></ab>
                     <ab type="name_reference">Origanum vulgare</ab>
-                    <ab type="location">habitat quoque in dumetis im Lederizer Buſch an der Elbe,
-                        Steckby gegen über.</ab>
+                    <ab type="location">habitat quoque in dumetis im Lederizer Buſch an der <geogName type="river" key="wd:Q1644">Elbe</geogName>,
+                        <placeName type="settlement" key="wd:Q130270700">Steckby</placeName> gegen über.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.043">
                     <ref>Ad pag. eandem.</ref></ab>
                     <ab type="name_reference">Orobanche maior</ab>
                     <ab type="location">habitat etiam ad dumeta auf der großen Wieſe gegen Welbke;
-                        auch am Wege von Kleinroſenburg nach Breitenhagen zu.</ab>
+                        auch am Wege von <placeName type="settlement" key="wd:Q1746255">Kleinroſenburg</placeName> nach <placeName type="settlement" key="wd:Q699151">Breitenhagen</placeName> zu.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.044">
                     <ref>Ad pag. 143.</ref></ab>
                     <ab type="name_reference">Melampyrum ſyluaticum</ab>
-                    <ab type="location">creſcit etiam im Friedrichsholze bey Zerbſt.</ab>
+                    <ab type="location">creſcit etiam im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.045">
                     <ref>Ad pag. 144.</ref></ab>
                     <ab type="name_reference">Scrophularia aquatica</ab>
-                    <ab type="location">habitat frequens ad foſſas über Dornburg hinaus an
+                    <ab type="location">habitat frequens ad foſſas über <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName> hinaus an
                         der Straße.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.046">
                     <ref>Ad pag. eandem.</ref></ab>
                     <ab type="name_reference">Digitalis lutea</ab>
                     <ab type="additional_information_correction">eſt potius D. ambigua,</ab>
-                    <ab type="location">frequens im Friedrichsholze bey Zerbſt.</ab>
+                    <ab type="location">frequens im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.047">
                     <ref>Ad pag. 150.</ref></ab>
                     <ab type="name_reference">Thlaſpi perfoliatum</ab>
-                    <ab type="location">habitat etiam ad aggeres bey den Wieſen vor Jüterglück,
-                        gegen die Zerbſter Straße.</ab>
+                    <ab type="location">habitat etiam ad aggeres bey den Wieſen vor <placeName type="settlement" key="wd:Q688254">Jüterglück</placeName>,
+                        gegen die <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>er Straße.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.048">
                     <ref>Ad pag. 153.</ref></ab>
                     <ab type="name_reference">Braſſica campeſtris</ab>
-                    <ab type="location">habitat in agris von Mühlingen die Berge hinauf; in der
-                        Vorderlucke gegen Saalhorn et alibi.</ab>
+                <ab type="location">habitat in agris von <placeName type="settlement" ana="non_ident.">Mühlingen</placeName> die Berge hinauf; in der
+                        <placeName type="locality">Vorderlucke</placeName> gegen <placeName type="locality" ana="ident.">Saalhorn</placeName> et alibi.</ab>
                     <ab type="additional_information">Colitur in hortis noſtris, et ſub
                         nomine Schnittkohl ad olera vſurpatur.</ab>
                 
@@ -3172,7 +3173,7 @@
                     <ref>Ad pag. eandem.</ref></ab>
                     <ab type="name_reference">Braſſica Erucaſtrum</ab>
                     <ab type="location">, vel planta ea, quam hoc nomine indicauimus, habitat ad
-                        murum an der Elbe auſſerhalb des Schloßgartens.</ab>
+                        murum an der <geogName type="river" key="wd:Q1644">Elbe</geogName> auſſerhalb des <placeName type="locality?" ana="not_ident.">Schloßgartens</placeName>.</ab>
                     <ab type="flowering_time">Fl. Iulio.</ab>
                     <ab type="morphology">Petala alba venis
                         caeruleis. Folia glabra: inferiora acuta, dentato-pinnatifida ſeu
@@ -3190,27 +3191,27 @@
                 <ab type="emendation" xml:id="sup.add.051">
                     <ref>Ad pag. 157.</ref></ab>
                     <ab type="name_reference">Geranium paluſtre</ab>
-                    <ab type="location">habitat quoque frequens in pratis jenseits der Poleymühle.</ab>
+                    <ab type="location">habitat quoque frequens in pratis jenseits der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.052">
                     <ref>Ad pag. 158.</ref></ab>
                     <ab type="name_reference">Geranium columbinum</ab>
-                    <ab type="location">habitat etiam in ſyluaticis am Wege von Dornburg nach
-                        Prezien. Semel quoque inuentum am Wege in der Lindenallee; auch hinter
+                    <ab type="location">habitat etiam in ſyluaticis am Wege von <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName> nach
+                        Prezien. Semel quoque inuentum am Wege in der <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>; auch hinter
                         Monplaiſir beym Dammbruche.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.053">
                     <ref>Ad pag. 159.</ref></ab>
                     <ab type="name_reference">Lauatera thuringiaca</ab>
-                    <ab type="location">prouenit quoque in aggere am Wege von Colphus nach
+                    <ab type="location">prouenit quoque in aggere am Wege von <placeName type="locality" key="wd:Q102004668">Colphus</placeName> nach
                         Mukrena zu.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.054">
                     <ref>Ad pag. 161.</ref></ab>
                     <ab type="name_reference">Fumaria bulboſa (intermedia) Linn. Spec. Plant. p. 983.</ab>
                     <ab type="morphology">radice non caua minor.</ab>
-                    <ab type="location">Habitat in decliultate monticulorum, zwiſchen der Poleymühle nnd
-                        Tochheim, nahe gegen Tochheim hin.</ab>
+                    <ab type="location">Habitat in decliultate monticulorum, zwiſchen der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> nnd
+                        <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>, nahe gegen <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> hin.</ab>
                     <ab type="flowering_time">Fl. Martio, Aprili.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.055">
@@ -3227,43 +3228,43 @@
                 <ab type="emendation" xml:id="sup.add.057">
                     <ref>Ad pag. 166.</ref></ab>
                     <ab type="name_reference">Aſtragalus Cicer</ab>
-                    <ab type="location">habitat quoque in montoſis apricis hinter Salze und Froſe.</ab>
+                    <ab type="location">habitat quoque in montoſis apricis hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName> und Froſe.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.058">
                     <ref>Ad pag. 170.</ref></ab>
                     <ab type="name_reference">Hedyſarum Onobrychis</ab>
                     <ab type="location">creſcit etiam in collibus aridis vom neuen Kruge nach
-                        Bromby zu.</ab>
+                        <placeName type="settlement" key="wd:Q992421">Bromby</placeName> zu.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.059">
                     <ref>Ad pag. 174.</ref></ab>
                     <ab type="name_reference">Hypericum montanum</ab>
-                    <ab type="location">habitat etiam im Friedrichsholze bey Zerbſt.</ab>
+                    <ab type="location">habitat etiam im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.060">
                     <ref>Ad pag. 178.</ref></ab>
                     <ab type="name_reference">Scorzonera humilis</ab>
-                    <ab type="location">creſcit quoque in editis gramineis zwiſchen Tochheim und
-                        Friederikenberg, rechter Hand bey den Birken, ehe man in den Buſch
+                    <ab type="location">creſcit quoque in editis gramineis zwiſchen <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> und
+                        <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>, rechter Hand bey den Birken, ehe man in den Buſch
                         kommt.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.061">
                     <ref>Ad pag. eandem.</ref></ab>
                     <ab type="name_reference">Scorzonera laciniata</ab>
                     <ab type="location">habitat etiam in montoſis apricis gramineis hinter
-                        Salze und Froſe.</ab>
+                        <placeName type="settlement" key="wd:Q798763">Salze</placeName> und Froſe.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.062">
                     <ref>Ad pag. 180.</ref></ab>
                     <ab type="name_reference">Lactuca ſaligna</ab>
                     <ab type="location">creſcit frequens ad margines agrorum, wenn man über die
-                        Schafbrücke nach Colphus gehet, auch wenn man von den Windmühlen nach
-                        Cyprena gehet, et alibi.</ab>
+                        Schafbrücke nach <placeName type="locality" key="wd:Q102004668">Colphus</placeName> gehet, auch wenn man von den Windmühlen nach
+                        <placeName type="settlement" key="wd:Q138206407">Cyprena</placeName> gehet, et alibi.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.063">
                     <ref>Ad pag. eandem.</ref></ab>
                     <ab type="name_reference">Hieracium dubium</ab>
-                    <ab type="location">creſcit in paſcuis zwiſchen Tochheim und Friederikenberg
+                    <ab type="location">creſcit in paſcuis zwiſchen <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> und <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>
                         linker Hand, et alibi.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.064">
@@ -3274,41 +3275,41 @@
                 <ab type="emendation" xml:id="sup.add.065">
                     <ref>Ad pag. 188.</ref></ab>
                     <ab type="name_reference">Matricaria Parthenium</ab>
-                    <ab type="location">prouenit ad ſepes in Weſpen.</ab>
+                    <ab type="location">prouenit ad ſepes in <placeName type="settlement" key="wd:Q688266">Weſpen</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.066">
                     <ref>Ad pag. 190.</ref></ab>
                     <ab type="name_reference">Chryſanthemum corymboſum</ab>
-                    <ab type="location">habitat frequens in montoſis apricis hinter Salze und Froſe.</ab>
+                    <ab type="location">habitat frequens in montoſis apricis hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName> und Froſe.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.067">
                     <ref>Ad pag. eandem.</ref></ab>
                     <ab type="name_reference">Chryſanthemum ſegetum</ab>
-                    <ab type="location">inuentum quoque auf der Sandbank an der Elbe, über
+                    <ab type="location">inuentum quoque auf der Sandbank an der <geogName type="river" key="wd:Q1644">Elbe</geogName>, über
                         dem Elbwerder.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.068">
                     <ref>Ad pag. eandem.</ref></ab>
                     <ab type="name_reference">Arnica montana</ab>
-                    <ab type="location">creſcit frequens über Zerbſt hin, zwiſchen Luſe und
+                    <ab type="location">creſcit frequens über <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> hin, zwiſchen Luſe und
                         Mühlsdorf, linker Hand auf den Heidewieſen;</ab>
                     <ab type="additional_information">referente conſule Thoma Serueſtano.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.069">
                     <ref>Ad pag. 192.</ref></ab>
                     <ab type="name_reference">Solidago Virgaurea</ab>
-                    <ab type="location">habitat etiam in montoſis apricis hinter Salze.</ab>
+                    <ab type="location">habitat etiam in montoſis apricis hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.070.1">
                     <ref>Ad pag. 194.</ref></ab>
                     <ab type="name_reference">Tuſſilago alba</ab>
-                    <ab type="location">habitat etiam in ſalicetis arenoſis an der Elbe hinter
+                    <ab type="location">habitat etiam in ſalicetis arenoſis an der <geogName type="river" key="wd:Q1644">Elbe</geogName> hinter
                         Monplaiſir im Treugen Buſche, copioſe.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.071.2">
                     <ref>Ad pag. eandem.</ref></ab>
                     <ab type="name_reference">Aſter Tripolium</ab>
-                    <ab type="location">habitat in foſſis et ad ſalinas bey Salze an den Gradierwerken hin.</ab>
+                    <ab type="location">habitat in foſſis et ad ſalinas bey <placeName type="settlement" key="wd:Q798763">Salze</placeName> an den Gradierwerken hin.</ab>
                     <ab type="flowering_time">Fl. Auguſto.</ab>
                     <ab type="additional_information_correction">Deleatur itaque locus natalis n. 699. Deſcriptionem vide p. 309.
                         ſub n. 1014.</ab>
@@ -3322,8 +3323,8 @@
                 <ab type="emendation" xml:id="sup.add.072">
                     <ref>Ad pag. 199.</ref></ab>
                     <ab type="name_reference">Echinops ſphaerocephalus</ab>
-                    <ab type="location">creſcit etiam ad dumeta in campis zwiſchen Zeiz
-                        und Weſpen.</ab>
+                <ab type="location">creſcit etiam ad dumeta in campis zwiſchen <placeName type="settlement" key="wd:Q102004912">Zeiz</placeName>
+                        und <placeName type="settlement" key="wd:Q688266">Weſpen</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.073.1">
                     <ref>Ad pag. 200.</ref></ab>
@@ -3334,24 +3335,24 @@
                 <ab type="emendation" xml:id="sup.add.073.2">
                     <ref>Ad pag. eandem.</ref></ab>
                     <ab type="name_reference">Viola montana</ab>
-                    <ab type="location">habitat etiam im Kuhwerder.</ab>
+                    <ab type="location">habitat etiam im <placeName type="locality" key="wd:Q138011875">Kuhwerder</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.074">
                     <ref>Ad pag. 202. 203</ref></ab>
                     <ab type="name_reference">Orchis coriophora, p. 202. item Orchis vſtulata p. 203.</ab>
-                    <ab type="location">creſcunt etiam in pratis humidis von Jüterglück gegen die Zerbſter Straße herunter.</ab>
+                    <ab type="location">creſcunt etiam in pratis humidis von <placeName type="settlement" key="wd:Q688254">Jüterglück</placeName> gegen die <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>er Straße herunter.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.075">
                     <ref>Ad pag. 206.</ref></ab>
                     <ab type="name_reference">Chara vulgaris</ab>
-                    <ab type="location">habitat etiam in foſſis von Colphus nach Cyprena.</ab>
+                    <ab type="location">habitat etiam in foſſis von <placeName type="locality" key="wd:Q102004668">Colphus</placeName> nach <placeName type="settlement" key="wd:Q138206407">Cyprena</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.076">
                     <ref>Ad pag. 207.</ref></ab>
                     <ab type="name_reference">Carex leporina.</ab>
                     <ab type="location">Locus corrigatur et legatur: H. in vdis nemoroſis an der
-                        Nuthe, bald wenn man zur Poleymühle kommt, auch in arenoſis ſubhumidis am
-                        Wege nach Zerbſt.</ab>
+                        <geogName type="river" key="wd:Q884667">Nuthe</geogName>, bald wenn man zur <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> kommt, auch in arenoſis ſubhumidis am
+                        Wege nach <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</ab>
                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                     <ab type="morphology">Culmus laeuis, ſuperne nudus,
                         triqueter, pedalis et ſeſquipedalis. Folia carinata, in mucronem terminata,
@@ -3360,82 +3361,98 @@
                 
                 <ab type="emendation" xml:id="sup.add.077">
                     <ref>Ad pag. 208.</ref></ab>
-                    <ab type="name_reference">Carex montana creſcit etiam ad dumeta beym Zeizer Buſche auf der Seite
-                        gegen Gnadau hin. Iunio.</ab>
+                    <ab type="name_reference">Carex montana</ab>
+                    <ab type="location">creſcit etiam ad dumeta beym <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName> auf der Seite
+                        gegen <placeName type="settlement" key="wd:Q688045">Gnadau</placeName> hin.</ab>
+                    <ab type="flowering_time">Iunio.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.078">
                     <ref>Ad pag. 213.</ref></ab>
-                    <ab type="name_reference">Myriophyllum verticillatum habitat frequens in ſtagnis hinter dem Kuhwerder
+                    <ab type="name_reference">Myriophyllum verticillatum</ab>
+                    <ab type="location">habitat frequens in ſtagnis hinter dem <placeName type="locality" key="wd:Q138011875">Kuhwerder</placeName>
                         gegen den Elbdamm zu.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.079">
                     <ref>Ad pag. 214.</ref></ab>
-                    <ab type="name_reference">Poterium Sanguiſorba frequens creſcit ad margines agrorum am Mühlinger
-                        Berge, auf der Seite gegen Kleinmühlingen zu.</ab>
+                    <ab type="name_reference">Poterium Sanguiſorba</ab>
+                <ab type="location">frequens creſcit ad margines agrorum am <placeName type="locality" ana="ident.">Mühlinger Berge</placeName>, auf der Seite gegen Kleinmühlingen zu.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.080">
                     <ref>Ad pag. 222.</ref></ab>
-                    <ab type="name_reference">Hydrocharis Morſus ranae habitat etiam in den Probsſümpfen.</ab>
+                    <ab type="name_reference">Hydrocharis Morſus ranae</ab>
+                    <ab type="location">habitat etiam in den Probsſümpfen.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.081">
                     <ref>Ad pag. 228.</ref></ab>
-                    <ab type="name_reference">Equiſetum hiemale habitat in alnetis an der Nuthe am Ende der Allee, dem
+                    <ab type="name_reference">Equiſetum hiemale</ab>
+                <ab type="location">habitat in alnetis an der <geogName type="river" key="wd:Q884667">Nuthe</geogName> am Ende der Allee, dem
                         Schloſſe gegen über.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.082">
                     <ref>Ad pag. 230.</ref></ab>
-                    <ab type="name_reference">Aſplenium Ruta muraria creſcit etiam ad muros im Garten beym Amtshofe, auch
-                        auſſerhalb des Schloßgartens an der Mauer gegen den Elbcanal zu.</ab>
+                    <ab type="name_reference">Aſplenium Ruta muraria</ab>
+                    <ab type="location">creſcit etiam ad muros im Garten beym Amtshofe, auch
+                        auſſerhalb des <placeName type="locality?" ana="not_ident.">Schloßgartens</placeName> an der Mauer gegen den Elbcanal zu.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.083">
                     <ref>Ad pag. eandem.</ref></ab>
-                    <ab type="name_reference">Pteris aquilina habitat ad dumeta über Tochheim an der Elbe hinauf gegen
-                        Steckby hin. Creſcebat hoc loco ad altitudinem ſexpedalem, paribus ramorum
+                    <ab type="name_reference">Pteris aquilina</ab>
+                    <ab type="location">habitat ad dumeta über <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> an der <geogName type="river" key="wd:Q1644">Elbe</geogName> hinauf gegen
+                        <placeName type="settlement" key="wd:Q130270700">Steckby</placeName> hin.</ab>
+                    <ab type="morphology">Creſcebat hoc loco ad altitudinem ſexpedalem, paribus ramorum
                         ternis et quaternis.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.084">
                     <ref>Ad pag. 234.</ref></ab>
-                    <ab type="name_reference">Mnium polytrichoides creſcit etiam in aridis auf dem Anger gegen
+                    <ab type="name_reference">Mnium polytrichoides</ab>
+                    <ab type="location">creſcit etiam in aridis auf dem Anger gegen
                         Monplaiſir.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.085">
                     <ref>Ad pag. 235.</ref></ab>
-                    <ab type="name_reference">Bryum pyriforme creſcit frequens in pratis humidis hinter der Poleymühle.</ab>
+                    <ab type="name_reference">Bryum pyriforme</ab>
+                    <ab type="location">creſcit frequens in pratis humidis hinter der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.086">
                     <ref>Ad pag. 235.</ref></ab>
-                    <ab type="name_reference">Bryum extinctorium habitat etiam in editis arenofis hinter
-                        Kleinmühlingen.</ab>
+                    <ab type="name_reference">Bryum extinctorium</ab>
+                    <ab type="location">habitat etiam in editis arenofis hinter Kleinmühlingen.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.087">
                     <ref>Ad pag. 240.</ref></ab>
-                    <ab type="name_reference">Hypnum dendroides prouenit frequens in ſubhumidis auf dem Anger gegen
+                    <ab type="name_reference">Hypnum dendroides</ab>
+                    <ab type="location">prouenit frequens in ſubhumidis auf dem Anger gegen
                         Monplaiſir am Damme hin.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.088">
                     <ref>Ad pag. 243.</ref></ab>
-                    <ab type="name_reference">Iungermannia aſplenioides creſcit etiam in ſylua, locis vdis trans Albim
-                        linker Hand, wo man nach Tochheim gehet.</ab>
+                    <ab type="name_reference">Iungermannia aſplenioides</ab>
+                    <ab type="location">creſcit etiam in ſylua, locis vdis trans <geogName type="river" key="wd:Q1644">Albim</geogName>
+                        linker Hand, wo man nach <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> gehet.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.089">
                     <ref>Ad pag. 245.</ref></ab>
-                    <ab type="name_reference">Iungermannia pinguis creſcit etiam in turfoſis et vdis alnetorum diſſeits
-                        und jenſeits der Poleymühle. Pedunculus ſaepe praelongus ad duas
-                        vncias.</ab>
+                    <ab type="name_reference">Iungermannia pinguis</ab>
+                    <ab type="location">creſcit etiam in turfoſis et vdis alnetorum diſſeits
+                        und jenſeits der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
+                    <ab type="morphology">Pedunculus ſaepe praelongus ad duas vncias.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.090">
                     <ref>Ad pag. 252.</ref></ab>
-                    <ab type="name_reference">Lichen ſubulatus habitat etiam in ſiccis ſteriliſſimis auf dem Anger gegen
+                    <ab type="name_reference">Lichen ſubulatus</ab>
+                    <ab type="location">habitat etiam in ſiccis ſteriliſſimis auf dem Anger gegen
                         Monplaiſir.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.091.1">
                     <ref>Ad pag. 255.</ref></ab>
-                    <ab type="name_reference">Tremella iuniperina prouenit etiam in terra ſubſabuloſa trans Albim in
-                        ſylua, wo man nach Tochheim gehet.</seg>
-                    </ab>
+                    <ab type="name_reference">Tremella iuniperina</ab>
+                    <ab type="location">prouenit etiam in terra ſubſabuloſa trans <geogName type="river" key="wd:Q1644">Albim</geogName> in
+                        ſylua, wo man nach <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> gehet.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.091.2">
                     <ref>Ad pag. eandem</ref></ab>
-                    <ab type="name_reference">Vlua inteſtinalis natat frequens in ſuperficie aquarum, in ſtagnis am 
+                    <ab type="name_reference">Vlua inteſtinalis</ab>
+                    <ab type="additional_information">natat frequens in ſuperficie aquarum, in ſtagnis am 
                         Graben unten am Anger, wo die Fiſchlöcher sind. Eſt ſubſtantia gelatinoſa, 
                         colore viridi vel fuſco, longitudine digiti et vltra. Sibi permiſſa conuoluitur 
                         in ſe, in modum tubuli. Euoluta, eſt membrana vnciam lata et vltra, admodum lubrica, 
@@ -3443,112 +3460,146 @@
                 
                 <ab type="emendation" xml:id="sup.add.092">
                     <ref>Ad pag. eandem.</ref></ab>
-                    <ab type="name_reference">Vlua granulata creſcit copioſiſſime poſt defluuium aquarum, in terra
+                    <ab type="name_reference">Vlua granulata</ab>
+                    <ab type="location">creſcit copioſiſſime poſt defluuium aquarum, in terra
                         limoſa, praecipue verno tempore, bey der Sandbank über dem Elbwerder.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.093.1">
                     <ref>Ad pag. 256.</ref></ab>
-                    <ab type="name_reference">Conferua reticulata habitat etiam ad Albim jenſeits des Elbwerders, poſt
-                        defluuium aquarum in limo. Auctumno.</seg>
-                    </ab>
+                    <ab type="name_reference">Conferua reticulata</ab>
+                    <ab type="location">habitat etiam ad <geogName type="river" key="wd:Q1644">Albim</geogName> jenſeits des Elbwerders, poſt
+                        defluuium aquarum in limo.</ab>
+                    <ab type="flowering_time">Auctumno.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.093.2">
                     <ref>Ad pag. 257.</ref></ab>
-                    <ab type="name_reference">Agaricus quinquepartitus creſcit quoque am Damme bey der Gurgel. Octobri. In lobos vt
-                        plurimum quinque, diverſae magnitudinis, diuiditur. Color pilei albidus,
+                    <ab type="name_reference">Agaricus quinquepartitus</ab>
+                    <ab type="location">creſcit quoque am Damme bey der <placeName type="locality" key="wd:Q138291720">Gurgel</placeName>.</ab>
+                    <ab type="flowering_time">Octobri.</ab>
+                    <ab type="morphology">In lobos vt plurimum quinque, diverſae magnitudinis, diuiditur. Color pilei albidus,
                         lamellarum etiam; ſed non albidior.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.094.1">
                     <ref>Ad pag. 258.</ref></ab>
-                    <ab type="name_reference">Agaricus cinnamomeus creſcit frequens ad radices tiliarum, in der
-                        Lindenallee. Eſt fungus ſatis craſſus, pileo ad 6 vncias lato, ſtipitis
+                    <ab type="name_reference">Agaricus cinnamomeus</ab>
+                    <ab type="location">creſcit frequens ad radices tiliarum, in der
+                        <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>.</ab>
+                    <ab type="morphology">Eſt fungus ſatis craſſus, pileo ad 6 vncias lato, ſtipitis
                         diametro vnciali; color ſordide luteus, vt cinnamomi; pileus, praecipue
-                        verſus marginem, ſquamoſus; lamellae luteo-fuſcae; volua nulla.</seg>
-                    </ab>
+                        verſus marginem, ſquamoſus; lamellae luteo-fuſcae; volua nulla.</ab>
+                
                 <ab type="emendation" xml:id="sup.add.094.2">
                     <ref>Ad pag. eandem.</ref></ab>
-                    <ab type="name_reference">Agaricus clypeatus eſt A. procerus Reich. Frankf. p. 156. Gled.
-                        Fung. p 144. XX. et habitat quoque im Zeizer Buſche.</ab>
+                    <ab type="name_reference">Agaricus clypeatus</ab>
+                    <ab type="additional_information_correction"> eſt A. procerus Reich. Frankf. p. 156. Gled.
+                        Fung. p 144. XX.</ab>
+                    <ab type="location">et habitat quoque im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.095">
                     <ref>Ad pag. 260.</ref></ab>
-                    <ab type="name_reference">Agaricus alneus habitat etiam in truncis arborum caeſarum, im
-                        Elbwerder. Nouembri.</ab>
+                    <ab type="name_reference">Agaricus alneus</ab>
+                    <ab type="location">habitat etiam in truncis arborum caeſarum, im
+                        Elbwerder.</ab>
+                    <ab type="flowering_time">Nouembri.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.096">
                     <ref>Ad pag. 261.</ref></ab>
-                    <ab type="name_reference">Boletus viſcidus habitat quoque ad arborum truncos in ſylua trans Albim, wo
-                        man nach Tochheim gehet; ad ſalices in der Gurgel. Octobri.</ab>
+                    <ab type="name_reference">Boletus viſcidus</ab>
+                    <ab type="location">habitat quoque ad arborum truncos in ſylua trans <geogName type="river" key="wd:Q1644">Albim</geogName>, wo
+                        man nach <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> gehet; ad ſalices in der <placeName type="locality" key="wd:Q138291720">Gurgel</placeName>.</ab>
+                    <ab type="flowering_time">Octobri.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.097">
                     <ref>Ad pag. 263.</ref></ab>
-                    <ab type="name_reference">Phallus eſculentus habitat frequens im Treugen Buſche gegen die Elbe; auch
-                        ſelten im Schloßgarten.</ab>
+                    <ab type="name_reference">Phallus eſculentus</ab>
+                    <ab type="location">habitat frequens im Treugen Buſche gegen die <geogName type="river" key="wd:Q1644">Elbe</geogName>; auch
+                        ſelten im <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.098">
                     <ref>Ad pag. eandem.</ref></ab>
-                    <ab type="name_reference">Pezizae lentiferae varietas maior, nigra, laeuis, labro reuerſo, creſcit
-                        inter muſcos im Gnez et alibi. Nouembri.</ab>
+                    <ab type="name_reference">Pezizae lentiferae varietas maior</ab>
+                    <ab type="morphology">, nigra, laeuis, labro reuerſo,</ab>
+                    <ab type="location">creſcit inter muſcos im <placeName type="locality" key="wd:Q138135858">Gnez</placeName> et alibi.</ab>
+                    <ab type="flowering_time">Nouembri.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.099">
                     <ref>Ad pag. eandem.</ref></ab>
-                    <ab type="name_reference">Peziza puntata habitat etiam in ſtercore bouino auf der großen Wieſe;
-                        inuenta Octobri, ſed exſiccata. Item habitat in arenoſis aridis editis gegen
-                        Tochheim hin. Aprili. Diameter fungi a linea dimidia ad duas et tres lineas.
+                    <ab type="name_reference">Peziza puntata</ab>
+                    <ab type="location">habitat etiam in ſtercore bouino auf der großen Wieſe;</ab>
+                    <ab type="additional_information">inuenta Octobri, ſed exſiccata.</ab>
+                    <ab type="location">Item habitat in arenoſis aridis editis gegen
+                        <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> hin.</ab>
+                    <ab type="flowering_time">Aprili.</ab>
+                    <ab type="morphology">Diameter fungi a linea dimidia ad duas et tres lineas.
                         Superficies niuea, punctis ſubnigris.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.100">
                     <ref>Ad pag. 263.</ref></ab>
-                    <ab type="name_reference">Peziza cyathoides creſcit in ramis emortuis deiectis, im Elbewerder.
-                        Nouembri. Magnitudo huius exemplaris erat ſeminis cannabini, et minor; color
+                    <ab type="name_reference">Peziza cyathoides</ab>
+                    <ab type="location">creſcit in ramis emortuis deiectis, im Elbwerder.</ab>
+                    <ab type="flowering_time">Nouembri.</ab>
+                    <ab type="morphology">Magnitudo huius exemplaris erat ſeminis cannabini, et minor; color
                         flauus; figura crucibuli, modo trigona, modo tetragona.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.101">
                     <ref>Ad pag. eandem.</ref></ab>
-                    <ab type="name_reference">Peziza ſcutellata creſcit etiam in ſteriliſſimis auf dem Anger gegen
-                        Monplaiſir. Nouembri. Varietas huius minor, quae eſt Eluela orbicularis,
+                    <ab type="name_reference">Peziza ſcutellata</ab>
+                    <ab type="location">creſcit etiam in ſteriliſſimis auf dem Anger gegen
+                        Monplaiſir.</ab>
+                    <ab type="flowering_time">Nouembri.</ab>
+                    <ab type="additional_information">Varietas huius minor, quae eſt Eluela orbicularis,
                         minima ſeſſilis et coccinea, plana; margine ciliato vel nudo; Gled. Fung. p.
-                        45. b. habitat inter muſcos in terra auf den Gartenbeeten; im Schloßgarten;
-                        auch auf dem Kleefeld beym Gnez, Vere et Auctumno. Magnitudo ſeminis
-                        miliacei. Diſcus convexo-planus. Pilos non obſeruaui.</ab>
+                        45. b.</ab>
+                    <ab type="location">habitat inter muſcos in terra auf den Gartenbeeten; im <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>;
+                        auch auf dem Kleefeld beym <placeName type="locality" key="wd:Q138135858">Gnez</placeName>,</ab>
+                    <ab type="flowering_time">Vere et Auctumno.</ab>
+                    <ab type="morphology">Magnitudo ſeminis miliacei. Diſcus convexo-planus. Pilos non obſeruaui.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.102">
                     <ref>Ad pag. 264.</ref></ab>
-                    <ab type="name_reference">Clauaria Muſcoides creſcit etiam inter muſcos bey den Pyramiden auſſen im
-                        Schloßgarten. Octobri. Fruticulus duarum vnciarum, pallide luteus, valde
+                    <ab type="name_reference">Clauaria Muſcoides</ab>
+                    <ab type="location">creſcit etiam inter muſcos bey den Pyramiden auſſen im
+                        <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>.</ab>
+                    <ab type="flowering_time">Octobri.</ab>
+                    <ab type="morphology">Fruticulus duarum vnciarum, pallide luteus, valde
                         ramoſus; odore fungoſo grato, vt edulis videatur.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.103">
                     <ref>Ad pag. 265.</ref></ab>
-                    <ab type="name_reference">Mucor Embolus creſcit in ſalicibus putridis im Elbwerder. Altitudo
-                        ſemuncialis. Seta ſeu neruus niger, cui vtrimque adhaeret cuticula
+                    <ab type="name_reference">Mucor Embolus</ab>
+                    <ab type="location">creſcit in ſalicibus putridis im Elbwerder.</ab>
+                    <ab type="morphology">Altitudo ſemuncialis. Seta ſeu neruus niger, cui vtrimque adhaeret cuticula
                         tenuiſſima lineari-lanceolata, venis intertexta; ita vt nudo oculo ſtipites
                         vt totidem pennulae adpareant. Color in ſtatu ſicco nigro-fuſcus.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.104">
                     <ref>Ad pag. 296.</ref></ab>
-                    <ab type="name_reference">Mucor ſepticus creſcit etiam ad truncos putreſcentes, in ſylua hinter
-                        Zerbſt gegen Reez zu; auch im Zeizer Buſche, und im Gnez. Iulio.</ab>
+                    <ab type="name_reference">Mucor ſepticus</ab>
+                    <ab type="location">creſcit etiam ad truncos putreſcentes, in ſylua hinter
+                        <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> gegen Reez zu; auch im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>, und im <placeName type="locality" key="wd:Q138135858">Gnez</placeName>.</ab>
+                    <ab type="flowering_time">Iulio.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.105">
                     <ref>Ad pag. 268.</ref></ab>
-                    <ab type="name_reference">Crocus ſatiuus. Adhuc tantum Crocum verum coluimus, quem multi Botanici
+                    <ab type="name_reference">Crocus ſatiuus.</ab>
+                    <ab type="additional_information">Adhuc tantum Crocum verum coluimus, quem multi Botanici
                         tamquam ſpecie a Croco officinali diuerſum conſiderant.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.106">
                     <ref>Ad pag. 283.</ref></ab>
-                    <ab type="name_reference">Papauer ſomniferum in Supplemento tanquam plantam indigenam denuo
+                    <ab type="name_reference">Papauer ſomniferum</ab>
+                    <ab type="additional_information">in Supplemento tanquam plantam indigenam denuo
                         recenſuimus.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.107">
                     <ref>Ad pag. 284.</ref></ab>
-                    <ab type="name_reference">Delphinium grandiflorum colitur quidem in hortis, ſed quod hoc loco
-                        indigitare voluimus, eſt aliud, ſfcilicet:
-                        DELPHINIUM (Aiacis) nectariis monophyllis, caule ſimplici.
-                        Annuum hoc eſt, et ſponte ex ſemine diſperſo
-                        plerumque regerminat.
-                        Notandum eſt, flores ſaepius luxuriare, et proferre
-                        capſulas binas aut ternas.
-                        Dic quibus in terris inſcripta nomina regum,
+                    <ab type="name_reference">Delphinium grandiflorum</ab>
+                    <ab type="additional_information">colitur quidem in hortis, ſed quod hoc loco
+                        indigitare voluimus, eſt aliud, ſfcilicet: DELPHINIUM (Aiacis)</ab>
+                    <ab type="morphology">nectariis monophyllis, caule ſimplici.
+                        Annuum hoc eſt, et ſponte ex ſemine diſperſo plerumque regerminat.
+                        Notandum eſt, flores ſaepius luxuriare, et proferre capſulas binas aut ternas.</ab>
+                    <ab type="additional_information">Dic quibus in terris inſcripta nomina regum,
                         naſcantur flores. Virgilii Eclog. III. Ecce ſuos gemitus ſoliis inſcripſit
                         at AIA. Ita citat Lin. Syſt. Veg. p. 418. Sed in Ouidii Metam. Lib X. fab.
                         6. Edit. Lipſ. 1590. verſus ita legitur: Ipſe ſuos gemitus foliis
@@ -3559,18 +3610,20 @@
                 
                 <ab type="emendation" xml:id="sup.add.108">
                     <ref>Ad pag. 295, n. 115</ref></ab>
-                    <ab type="name_reference">Tragopogon porrifolium, creſcit ſponte in gramineis im Schloßgarten
+                    <ab type="name_reference">Tragopogon porrifolium,</ab>
+                <ab type="location">creſcit ſponte in gramineis im <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>
                         auſſen bey den Pyramiden.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.109">
                     <ref>Ad pag. 309, n. 1014</ref></ab>
-                    <ab type="name_reference">After acris deleatur: ab A. Tripolio enim non differt.</ab>
+                    <ab type="name_reference">After acris</ab>
+                    <ab type="additional_information_correction">deleatur: ab A. Tripolio enim non differt.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.110">
                     <ref>Ad pag. eandem, n. 1015</ref></ab>
                     <ab type="name_reference">Riccia criſtallina</ab>
-                    habitat etiam ad Albim in terra limoſa beym
-                        Elbwerder an der Sandbank; auch an der Saale beym Burgwalde, wenn die Saale
+                    <ab type="location">habitat etiam ad <geogName type="river" key="wd:Q1644">Albim</geogName> in terra limoſa beym
+                        Elbwerder an der Sandbank; auch an der <geogName type="river" key="wd:Q1678">Saale</geogName> beym Burgwalde, wenn die <geogName type="river" key="wd:Q1678">Saale</geogName>
                         den fetten Schlamm zurück läßt.</ab>
                 
             </div>
