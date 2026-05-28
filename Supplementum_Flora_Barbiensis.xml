@@ -55,7 +55,7 @@
                         <div type="plant-species" xml:id="sup.s.1016" ana="salicornia.virginica" n="SALICORNIA virginica">
                             <head>
                                 <num>1016.</num>
-                                <name xml:lang="lat" key="wd:Q5770072">SALICORNIA(virginica)</name>
+                                <name xml:lang="lat" key="wd:Q5770072">SALICORNIA (virginica)</name>
                             </head>
                             <ab type="morphology">herbacea erecta, ramis ſimpliciſſimis. Lin. Syſt.
                                 veg. p. 51. n. 3.</ab>
@@ -1124,7 +1124,9 @@
                 <div type="ordo">
                     <head>POLYGAMIA AEQUALIS.</head>
                     <note type="reference_to_main_flora">Ad pag. 176, poſt n. 620.</note>
-                    <div>
+                    <div type="genus" subtype="continued" xml:id="sup.g.043.1" n="НУРОСНOERIS">
+                        <head><name xml:lang="lat"><hi rend="capital">НУРОСНOERIS</hi>.</name></head>
+                        <div type="plant-species" xml:id="sup.s.1065" ana="hypocheris.maculata" n="НУРОСНOERIS maculata">
                     <head>
                         <num>1065.</num>
                         <name xml:lang="lat" key="wd:Q127326859">НУРОСНOERIS (maculata)</name>
@@ -1134,8 +1136,9 @@
                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                     <ab type="additional_information">Eſt HERBA COSTA Officinarum, Rupp. pag. 200. Folia coquuntur in cibum, uti Braſſica, a
                         Smolandis. Vigilat ab hora ſexta matutina in quartam pomeridianam. Linn.</ab>
-                        
+                        </div>                        
                     <note type="reference_to_main_flora">Ad pag. 177, poſt n. 627.</note>
+                </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.044" n="SONCHUS">
                         <head><name xml:lang="lat"><hi rend="capital">SONCHUS</hi>.</name></head>
                         <div type="plant-species" xml:id="sup.s.1066" ana="sonchus.paluſtris" n="SONCHUS paluſtris">
@@ -1243,7 +1246,7 @@
                         <div type="plant-species" xml:id="sup.s.1072" ana="inula.germanica" n="INULA germanica">
                             <head>
                                 <num>1072.</num>
-                                <name xml:lang="lat" key="wd:Q11798192">INULA (germanica)</name>
+                                <name xml:lang="lat" key="wd:Q117910652">INULA (germanica)</name>
                             </head>
                             <ab type="morphology">foliis ſeſſilibus lanceolatis, recuruis ſcabris,
                                 floribus ſubfaſciculatis.</ab>
@@ -1654,7 +1657,7 @@
                                 magnitudine, niſi quod A. tataricae paullo magis acuminatus.</ab>
                          </div>
                     </div>
-                    <div>
+                    <div type="plant-species" xml:id="sup.s.1091" ana="atriplex.pedunculata" n="ATRIPLEX pedunculata">
                             <head>
                                 <num>1091.</num>
                                 <name xml:lang="lat" key="wd:Q15586536">A. (pedunculata)</name>
@@ -1740,7 +1743,8 @@
                             <ab type="flowering_time">Fl. Iulio.</ab>
                         </div>
                         <div type="ordo">
-                            <head>MUSCI.</head>
+                            <head>MUSCI.</head
+                            >
                         <note type="reference_to_main_flora">Ad pag. 231, poſt n. 828.</note></div>
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.063" n="LYCOPODIUM">
@@ -2903,7 +2907,7 @@
                 <ab type="emendation" xml:id="sup.add.005">
                     <ref>Ad pag. 33.</ref></ab>
                     <ab type="name_reference">Scirpus caeſpitosus</ab>
-                    <ab type="additional_information_correction">exulabit e Fl. Barb, niſi alio loco in poſterum
+                    <ab type="additional_information_correction">exulabit e Fl. Barb. niſi alio loco in poſterum
                         inueniatur. Qui enim loco indicato creſcit, Scirpus paluſtris eſt, cuius
                         ſpicae ſaepe breuiſſimae me induxerunt, vt pro caeſpitoſo haberem.</ab>
                     
@@ -3846,4 +3850,4 @@
         </div>
     </div>
 </div>
-</div></div></div></div></div></div></body></text></TEI>
+</div></div></div></div></div></body></text></TEI>
