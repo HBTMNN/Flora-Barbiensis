@@ -452,7 +452,7 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.018" n="CAUCALIS">
                         <head><name xml:lang="lat"><hi rend="capital">CAUCALIS</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.217" ana="caucalis.daucoides" n="CAUCALIS daucoides">
+                        <div type="plant-species" xml:id="sup.s.0217" ana="caucalis.daucoides" n="CAUCALIS daucoides">
                             <head>
                                 <num>217.</num>
                                 <name xml:lang="lat" key="wd:Q15477543">CAUCALIS (daucoides)</name>
@@ -743,7 +743,7 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.029" n="RANUNCULUS">
                         <head><name xml:lang="lat"><hi rend="capital">RANUNCULUS</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.443" ana="ranunculus.illyricus" n="RANUNCULUS illyricus">
+                        <div type="plant-species" xml:id="sup.s.0443" ana="ranunculus.illyricus" n="RANUNCULUS illyricus">
                             <head>
                                 <num>443.</num>
                                 <name xml:lang="lat" key="wd:Q639337">RANUNCULUS (illyricus)</name>
@@ -874,7 +874,7 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.033" n="DIGITALIS">
                         <head><name xml:lang="lat"><hi rend="capital">DIGITALIS</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.503" ana="digitalis.ambigua" n="DIGITALIS ambigua">
+                        <div type="plant-species" xml:id="sup.s.0503" ana="digitalis.ambigua" n="DIGITALIS ambigua">
                             <head>
                                 <num>503.</num>
                                 <name xml:lang="lat" key="wd:???">DIGITALIS (ambigua)</name>
