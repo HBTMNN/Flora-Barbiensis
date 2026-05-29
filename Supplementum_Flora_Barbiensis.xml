@@ -201,7 +201,8 @@
                         
                     <div type="genus" subtype="continued" xml:id="sup.g.007" n="AIRA">
                         <head><name xml:lang="lat"><hi rend="capital">AIRA</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.1022" ana="aira.aquatica" n="AIRA aquatica">
+                        <div type="plant-species" xml:id="sup.s.1022" ana="aira.aquatica" n="AIRA aquatica" corresp="https://dr.jacq.org/DR023519
+                            ">
                             <head>
                                 <num>1022.</num>
                                 <name xml:lang="lat" key="wd:Q21870116">AIRA (aquatica)</name>
@@ -222,7 +223,8 @@
                                 ipſe inter paniculam. Folia plana latiuſcula. Tota planta
                                 ſpithamaea.</ab>
                         </div>
-                        <div type="plant-species" xml:id="sup.s.1023" ana="aira.cariophyllea" n="AIRA cariophyllea">
+                        <div type="plant-species" xml:id="sup.s.1023" ana="aira.cariophyllea" n="AIRA cariophyllea" corresp="https://dr.jacq.org/DR023523
+                            ">
                             <head>
                                 <num>1023.</num>
                                 <name xml:lang="lat" key="wd:Q159058">A. (cariophyllea)</name>
@@ -377,7 +379,8 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.014" n="THESIUM">
                         <head><name xml:lang="lat"><hi rend="capital">THESIUM</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.1031" ana="thesium.linophyllum" n="THESIUM Linophyllum">
+                        <div type="plant-species" xml:id="sup.s.1031" ana="thesium.linophyllum" n="THESIUM Linophyllum" corresp="https://dr.jacq.org/DR025004
+                            ">
                             <head>
                                 <num>1031.</num>
                                 <name xml:lang="lat" key="wd:Q127377208">THESIUM (Linophyllum)</name>
@@ -400,7 +403,8 @@
                             <name type="vernacular_name" xml:lang="ger">Sinngrün.</name>
                         </head>
                         <ab>Contorta. Folliculi 2, erecti. Semina nuda.</ab>
-                        <div type="plant-species" xml:id="sup.s.1032" ana="vinca.minor" n="VINCA minor">
+                        <div type="plant-species" xml:id="sup.s.1032" ana="vinca.minor" n="VINCA minor" corresp="https://dr.jacq.org/DR025002
+                            ">
                             <head>
                                 <num>1032.</num>
                                 <name xml:lang="lat" key="wd:Q161777">V. (minor)</name>
@@ -436,7 +440,8 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.017" n="CHENOPODIUM">
                         <head><name xml:lang="lat"><hi rend="capital">CHENOPODIUM</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.1034" ana="chenopodium.ambrosioides" n="CHENOPODIUM ambrosioides">
+                        <div type="plant-species" xml:id="sup.s.1034" ana="chenopodium.ambrosioides" n="CHENOPODIUM ambrosioides" corresp="https://dr.jacq.org/DR024972
+                            ">
                             <head>
                                 <num>1034.</num>
                                 <name xml:lang="lat" key="wd:Q15251066">CHENOPODIUM (ambroſioides)</name>
@@ -471,7 +476,8 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.019" n="ATHAMANTA">
                         <head><name xml:lang="lat"><hi rend="capital">ATHAMANTA</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.1035" ana="athamanta.ceruaria" n="ATHAMANTA Ceruaria">
+                        <div type="plant-species" xml:id="sup.s.1035" ana="athamanta.ceruaria" n="ATHAMANTA Ceruaria" corresp="https://dr.jacq.org/DR021775
+                            ">
                             <head>
                                 <num>1035.</num>
                                 <name xml:lang="lat" key="wd:Q95919883">ATHAMANTA (Ceruaria)</name>
@@ -503,7 +509,8 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.021" n="SIUM">
                         <head><name xml:lang="lat"><hi rend="capital">SIUM</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.1037" ana="sium.angustifolium" n="SIUM angustifolium">
+                        <div type="plant-species" xml:id="sup.s.1037" ana="sium.angustifolium" n="SIUM angustifolium" corresp="https://dr.jacq.org/DR024445
+                            ">
                             <head>
                                 <num>1037.</num>
                                 <name xml:lang="lat" key="wd:Q17467361">SIUM (anguſtifolium)</name>
@@ -641,7 +648,8 @@
                             <ab type="additional_information">Colitur frequens in hortis et a
                                 noſtris etiam Pfingſtnelken adpellatur.</ab>
                         </div>
-                        <div type="plant-species" xml:id="sup.s.1044" ana="dianthus.superbus" n="DIANTHUS Superbus">
+                        <div type="plant-species" xml:id="sup.s.1044" ana="dianthus.superbus" n="DIANTHUS Superbus" corresp="https://dr.jacq.org/DR024821
+                            ">
                             <head>
                                 <num>1044.</num>
                                 <name xml:lang="lat" key="wd:Q161878">D. (ſuperbus)</name>
@@ -771,7 +779,8 @@
                                 <ab>Calyx o Petala circiter 14. Capſ. plurimae, ouatae,
                                     monoſpermae.</ab></div>
                         
-                        <div type="plant-species" xml:id="sup.s.1048" ana="trollus.europaeus" n="trollus europaeus">
+                        <div type="plant-species" xml:id="sup.s.1048" ana="trollius.europaeus" n="trollius europaeus" corresp="https://dr.jacq.org/DR024229
+                            ">
                             <head>
                                 <num>1048.</num>
                                 <name xml:lang="lat" key="wd:???">T. (europaeus)</name>
@@ -787,7 +796,8 @@
                         <note type="reference_to_main_flora">Ad pag. 132, poſt n. 453.</note>
                             
                             
-                            <div type="plant-species" xml:id="sup.s.1049" ana="adonis.vernalis" n="ADONIS vernalis">
+                        <div type="plant-species" xml:id="sup.s.1049" ana="adonis.vernalis" n="ADONIS vernalis" corresp="https://dr.jacq.org/DR024185
+                            ">
                                 <head>
                                     <num>1049.</num>
                                     <name xml:lang="lat" key="wd:Q147648">A. (vernalis)</name>
@@ -832,7 +842,8 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.031" n="LAMIUM">
                         <head><name xml:lang="lat"><hi rend="capital">LAMIUM</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.1051" ana="lamium.maculatum" n="LAMIUM maculatum">
+                        <div type="plant-species" xml:id="sup.s.1051" ana="lamium.maculatum" n="LAMIUM maculatum" corresp="https://dr.jacq.org/DR024728
+                            ">
                             <head>
                                 <num>1051.</num>
                                 <name xml:lang="lat" key="wd:Q164035">LAMIUM (maculatum)</name>
@@ -890,7 +901,8 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.034" n="ANTIRRHINUM">
                         <head><name xml:lang="lat"><hi rend="capital">ANTIRRHINUM</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.1053" ana="antirrhinum.aruense" n="ANTIRRHINUM aruense">
+                        <div type="plant-species" xml:id="sup.s.1053" ana="antirrhinum.aruense" n="ANTIRRHINUM aruense" corresp="https://dr.jacq.org/DR025019
+                            ">
                             <head>
                                 <num>1053.</num>
                                 <name xml:lang="lat" key="wd:Q21870267">ANTIRRHINUM (aruenſe)</name>
@@ -934,7 +946,8 @@
                     <note type="reference_to_main_flora">Ad pag. 147, poſt n. 512.</note>
                     <div type="genus" subtype="continued" xml:id="sup.g.036" n="MYAGRUM">
                         <head><name xml:lang="lat"><hi rend="capital">MYAGRUM</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.1055" ana="myagrum.perenne" n="MYAGRUM perenne">
+                        <div type="plant-species" xml:id="sup.s.1055" ana="myagrum.perenne" n="MYAGRUM perenne" corresp="https://dr.jacq.org/DR024287
+                            ">
                             <head>
                                 <num>1055.</num>
                                 <name xml:lang="lat" key="wd:Q21977531">MYAGRUM (perenne)</name>
@@ -1045,7 +1058,8 @@
                                 petalis ſemper praeſentibus inſtructa. Foliola vix dentata. Siliquae
                                 dimidio minores erectae in pedicellis horizontalibus.</ab>
                         </div>
-                        <div type="plant-species" xml:id="sup.s.1061" ana="cardamine.hirfuta" n="CARDAMINE hirfuta">
+                        <div type="plant-species" xml:id="sup.s.1061" ana="cardamine.hirfuta" n="CARDAMINE hirfuta" corresp="https://dr.jacq.org/DR024533
+                            ">
                             <head>
                                 <num>1061.</num>
                                 <name xml:lang="lat" key="wd:Q157926">C. (hirſuta)</name>
@@ -1062,7 +1076,8 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.041" n="SISYMBRIUM">
                         <head><name xml:lang="lat"><hi rend="capital">SISYMBRIUM</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.1062" ana="sisymbrium.loefelii" n="SISYMBRIUM Loefelii">
+                        <div type="plant-species" xml:id="sup.s.1062" ana="sisymbrium.loefelii" n="SISYMBRIUM Loefelii" corresp="https://dr.jacq.org/DR024301
+                            ">
                             <head>
                                 <num>1062.</num>
                                 <name xml:lang="lat" key="wd:Q159769">SISYMBRIUM (Loeſelii)</name>
@@ -1084,7 +1099,8 @@
                     <note type="reference_to_main_flora">Ad pag. 165, poſt n. 581.</note>
                     <div type="genus" subtype="continued" xml:id="sup.g.042" n="LATHYRUS">
                         <head><name xml:lang="lat"><hi rend="capital">LATHYRUS</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.1063" ana="lathyrus.aphaca" n="LATHYRUS Aphaca">
+                        <div type="plant-species" xml:id="sup.s.1063" ana="lathyrus.aphaca" n="LATHYRUS Aphaca" corresp="https://dr.jacq.org/DR022255
+                            ">
                             <head>
                                 <num>1063.</num>
                                 <name xml:lang="lat" key="wd:Q158592">LATHYRUS (Aphaca)</name>
@@ -1356,7 +1372,8 @@
                             <name type="vernacular_name" xml:lang="ger">Bocksgeilen; Stendel.</name>
                         </head>
                         <ab>Nectarium ſcrotiforme ſeu inflato-didymum, pone florem.</ab>
-                        <div type="plant-species" xml:id="sup.s.1075" ana="satyrium.albidum" n="SATYRIUM albidum">
+                        <div type="plant-species" xml:id="sup.s.1075" ana="satyrium.albidum" n="SATYRIUM albidum" corresp="https://dr.jacq.org/DR024720
+                            ">
                             <head>
                                 <num>1075.</num>
                                 <name xml:lang="lat" key="wd:Q21877297">S. (albidum)</name>
@@ -1421,7 +1438,8 @@
                         </head>
                         <ab>Spatha monophylla, cucullata; Spadix ſupra nudus, inferne femineus,
                             medio ſtamineus.</ab>
-                        <div type="plant-species" xml:id="sup.s.1078" ana="arum.maculatum" n="ARUM maculatum">
+                        <div type="plant-species" xml:id="sup.s.1078" ana="arum.maculatum" n="ARUM maculatum" corresp="https://dr.jacq.org/DR023424
+                            ">
                             <head>
                                 <num>1078.</num>
                                 <name xml:lang="lat" key="wd:Q836366">A. (maculatum)</name>
@@ -1482,7 +1500,8 @@
                                 et altitudine maiori ac tempore florendi. Conf. Schreb. Spicil. p.
                                 63.</ab>
                         </div>
-                        <div type="plant-species" xml:id="sup.s.1081" ana="carex.praecox" n="CAREX praecox">
+                        <div type="plant-species" xml:id="sup.s.1081" ana="carex.praecox" n="CAREX praecox" corresp="https://dr.jacq.org/DR024906
+                            ">
                             <head>
                                 <num>1081.</num>
                                 <name xml:lang="lat" key="wd:Q160043">C. (praecox)</name>
@@ -1508,7 +1527,8 @@
                             <ab type="additional_information">Folia pubeſcentia. Spicae femineae
                                 fere binae, vix pendulae. Culmus folioſus.</ab>
                         </div>
-                        <div type="plant-species" xml:id="sup.s.1083" ana="carex.panicea" n="CAREX panicea">
+                        <div type="plant-species" xml:id="sup.s.1083" ana="carex.panicea" n="CAREX panicea" corresp="https://dr.jacq.org/DR024911
+                            ">
                             <head>
                                 <num>1083.</num>
                                 <name xml:lang="lat" key="wd:Q126235">C. (panicea)</name>
@@ -1698,7 +1718,8 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.062" n="POLYPODIUM">
                         <head><name xml:lang="lat"><hi rend="capital">POLYPODIUM</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.1093" ana="polypodium.vulgare" n="POLYPODIUM vulgare">
+                        <div type="plant-species" xml:id="sup.s.1093" ana="polypodium.vulgare" n="POLYPODIUM vulgare" corresp="https://dr.jacq.org/DR044629
+                            ">
                             <head>
                                 <num>1093.</num>
                                 <name xml:lang="lat" key="wd:Q743883">POLYPODIUM (vulgare)</name>
@@ -1713,7 +1734,8 @@
                                 Offic. POLYPODII Radix. Eſt eccoprotica, dulcis; diutius
                                 cocta amara euadit. Linn.</ab>
                         </div>
-                        <div type="plant-species" xml:id="sup.s.1094" ana="polypodium.criftatum" n="POLYPODIUM criftatum">
+                        <div type="plant-species" xml:id="sup.s.1094" ana="polypodium.criftatum" n="POLYPODIUM criftatum" corresp="https://dr.jacq.org/DR044636
+                            ">
                             <head>
                                 <num>1094.</num>
                                 <name xml:lang="lat" key="wd:Q21877093">P. (criſtatum)</name>
@@ -1730,7 +1752,8 @@
                                 ſubbipinnatae ſed ſubtripinnatae. Pinnae infimae fere ſteriles,
                                 ſuboppoſitae. Laciniae pinnularum falcatae.</ab>
                         </div>
-                        <div type="plant-species" xml:id="sup.s.1095" ana="polypodium.dryopteris" n="POLYPODIUM Dryopteris">
+                        <div type="plant-species" xml:id="sup.s.1095" ana="polypodium.dryopteris" n="POLYPODIUM Dryopteris" corresp="https://dr.jacq.org/DR044631
+                            ">
                             <head>
                                 <num>1095.</num>
                                 <name xml:lang="lat" key="Q21877095">P. (Dryopteris)</name>
@@ -1749,7 +1772,8 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.063" n="LYCOPODIUM">
                         <head><name xml:lang="lat"><hi rend="capital">LYCOPODIUM</hi>.</name></head>
-                        <div type="plant-species" xml:id="sup.s.1096" ana="lycopodium.annotinum" n="LYCOPODIUM annotinum">
+                        <div type="plant-species" xml:id="sup.s.1096" ana="lycopodium.annotinum" n="LYCOPODIUM annotinum" corresp="https://dr.jacq.org/DR044620
+                            ">
                             <head>
                                 <num>1096.</num>
                                 <name xml:lang="lat" key="wd:Q1138172">LYCOPODIUM (annotinum)</name>
