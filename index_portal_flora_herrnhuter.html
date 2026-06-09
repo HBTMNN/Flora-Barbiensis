@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flora Barbiensis · Naturforschung</title>
+<style>
+:root{
+  --bg:#eef3ec;
+  --paper:#fffaf2;
+  --ink:#2f2a24;
+  --muted:#6b645b;
+  --line:#d7c6aa;
+  --shadow:0 10px 30px rgba(80,60,20,.08);
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family:Georgia,"Times New Roman",serif;
+  background:var(--bg);
+  color:var(--ink);
+  line-height:1.6;
+}
+header{
+  padding:44px 40px 36px;
+  color:#fff;
+  border-bottom:1px solid var(--line);
+  background:
+    linear-gradient(rgba(138,154,123,.78),rgba(138,154,123,.78)),
+    radial-gradient(circle at 22% 18%, rgba(255,255,255,.25), transparent 28%),
+    linear-gradient(135deg,#8a9a7b,#45624b);
+}
+header h1{
+  margin:0;
+  font-size:clamp(2rem,3vw,3.2rem);
+  line-height:1.05;
+}
+header p{
+  max-width:900px;
+  margin:12px 0 0;
+  color:#fffdf8;
+  font-size:1.08rem;
+}
+main{
+  width:min(1180px,calc(100vw - 36px));
+  margin:0 auto;
+  padding:28px 0 60px;
+}
+.intro{
+  background:var(--paper);
+  border:1px solid var(--line);
+  border-radius:14px;
+  box-shadow:var(--shadow);
+  padding:26px 30px;
+  margin-bottom:24px;
+}
+.intro h2{
+  margin:0 0 10px;
+  color:#35523c;
+  font-size:1.35rem;
+}
+.intro p{
+  margin:0;
+  color:var(--muted);
+  font-size:1.03rem;
+}
+.cards{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:22px;
+}
+.card{
+  display:block;
+  overflow:hidden;
+  background:var(--paper);
+  color:var(--ink);
+  border:1px solid var(--line);
+  border-radius:14px;
+  box-shadow:var(--shadow);
+  text-decoration:none;
+  transition:transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+}
+.card:hover{
+  transform:translateY(-3px);
+  box-shadow:0 16px 36px rgba(80,60,20,.12);
+  border-color:#bfae91;
+  text-decoration:none;
+}
+.cover{
+  min-height:225px;
+  display:flex;
+  align-items:flex-end;
+  padding:20px;
+  border-bottom:1px solid var(--line);
+  background:
+    linear-gradient(180deg,rgba(255,250,242,.12),rgba(255,250,242,.88)),
+    radial-gradient(circle at top left, rgba(156,175,136,.55), transparent 42%),
+    linear-gradient(135deg,#e8dcc6,#ccd8c1);
+}
+.card:nth-child(2) .cover{
+  background:
+    linear-gradient(180deg,rgba(255,250,242,.12),rgba(255,250,242,.88)),
+    radial-gradient(circle at top right, rgba(138,106,63,.25), transparent 42%),
+    linear-gradient(135deg,#ede4d3,#d4dfcf);
+}
+.tag{
+  display:inline-flex;
+  background:#e2ecdd;
+  color:#35523c;
+  border:1px solid rgba(69,98,75,.18);
+  border-radius:9px;
+  padding:6px 11px;
+  font-weight:700;
+  font-size:.9rem;
+}
+.card-body{
+  padding:21px 23px 24px;
+}
+.card-body h3{
+  margin:0 0 8px;
+  color:#2f2a24;
+  font-size:1.48rem;
+}
+.card-body p{
+  margin:0 0 18px;
+  color:var(--muted);
+}
+.open{
+  display:inline-flex;
+  padding:10px 15px;
+  border:1px solid #d8c8ad;
+  border-radius:999px;
+  background:#fffdf8;
+  color:#31453a;
+  font-weight:700;
+}
+.note{
+  margin-top:24px;
+  color:#6b645b;
+  font-size:.95rem;
+}
+@media(max-width:760px){
+  header{padding:32px 20px 28px}
+  main{width:min(100vw - 18px,1180px);padding-top:18px}
+  .intro{padding:20px}
+  .cards{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>Digitale Naturforschung</h1>
+  <p>Ein gemeinsames Portal für Flora Barbiensis und Herrnhuter Naturforschende.</p>
+</header>
+
+<main>
+  <section class="intro">
+    <h2>Willkommen</h2>
+    <p>
+      Dieses Portal verbindet die digitale Edition der <strong>Flora Barbiensis</strong>
+      mit dem Projekt <strong>Naturforschung und protestantische Mission</strong>.
+      Der Text kann später noch durch eine ausführliche Einleitung ersetzt werden.
+    </p>
+  </section>
+
+  <section class="cards" aria-label="Projektübersicht">
+    <a class="card" href="flora_barbiensis_species_browser_72.html">
+      <div class="cover"><span class="tag">Botanik</span></div>
+      <div class="card-body">
+        <h3>Flora Barbiensis</h3>
+        <p>Digitale Edition mit Arten-Katalog, Register, Prolog und Supplementum.</p>
+        <span class="open">Öffnen →</span>
+      </div>
+    </a>
+
+    <a class="card" href="https://rue-a.github.io/naturforschung_und_protestantische_mission/">
+      <div class="cover"><span class="tag">Personen &amp; Orte</span></div>
+      <div class="card-body">
+        <h3>Herrnhuter Naturforschende</h3>
+        <p>Naturforschung und protestantische Mission mit Personenregister und Orten.</p>
+        <span class="open">Öffnen →</span>
+      </div>
+    </a>
+  </section>
+
+  <p class="note">
+    Hinweis: Diese Datei muss im gleichen GitHub-Ordner liegen wie
+    <code>flora_barbiensis_species_browser_72.html</code>, damit die Flora-Karte direkt funktioniert.
+  </p>
+</main>
+</body>
+</html>
