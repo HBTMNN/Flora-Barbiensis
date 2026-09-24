@@ -1632,7 +1632,7 @@
                                 </head>
                                 <ab type="morphology">culmo tereti nudo ſetiformi, ſpica ouata
                                     biualui, ſeminibus nudis.</ab>
-                                <ab type="vernacular_name" xml:lang="ger">Kleinſte Binsen.</ab>
+                                <ab type="vernacular_name" xml:lang="ger">Kleinſte Binſen.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
                                         inundatis</placeName>
@@ -1718,8 +1718,7 @@
                                         key="wd:Q1270887">Döben</placeName>
                                     <placeName type="habitat_description" xml:lang="ger">am Wege
                                         nach</placeName>
-                                    <placeName type="settlement" key="wd:Q688266"
-                                    >Calbe</placeName>.</ab>
+                                    <placeName type="settlement" key="wd:Q688266">Calbe</placeName>.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0044" ana="scirpus.sylvaticus"
                                 n="Scirpus sylvaticus">
@@ -1886,7 +1885,7 @@
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
                                         foſſas paſſim</placeName>; <placeName
-                                        type="habitat_description" xml:lang="ger">auch am Elbdamme,
+                                        type="habitat_description" xml:lang="ger">auch am <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>,
                                         und im Sande an der</placeName>
                                     <geogName type="river" key="wd:Q1644">Elbe</geogName>.</ab>
                                 <ab type="flowering_time">Fl. Iulio.</ab>
@@ -6629,9 +6628,7 @@
                                         ſerratis.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="ger">H. im
-                                            Buſche gegen</placeName>
-                                        <placeName type="locality" ana="ident."
-                                        >Saalhorn</placeName>, <placeName type="habitat_description"
+                                            Buſche gegen</placeName> <placeName type="settlement" key="wd:Q102004858">Saalhorn</placeName>, <placeName type="habitat_description"
                                             xml:lang="lat">et alibi in dumetis,
                                         copioſe</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
@@ -8669,8 +8666,8 @@
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. in
                                     arenoſis</placeName> hinter <placeName type="settlement"
-                                    key="wd:Q102004825">Monplaiſir</placeName>; auf dem <placeName
-                                    type="locality?" ana="not_ident.">Werder den
+                                    key="wd:Q102004825">Monplaiſir</placeName>; auf dem Werder den<placeName
+                                    type="locality?" ana="not_ident.">
                                     Schifmühlen</placeName> gegen über, et alibi, frequens.</ab>
                             <ab type="flowering_time">Fl. aeſtate.</ab>
                             <ab type="additional_information">E Virginia 1614 adlata, <name
@@ -9327,7 +9324,7 @@
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. in
                                     agris</placeName> gegen <placeName type="settlement"
-                                    ana="ident.">Eikendorf</placeName>.</ab>
+                                        key="wd:Q704419">Eikendorf</placeName>.</ab>
                             <ab type="flowering_time">Fl. Iunio.</ab>
                         </div>
                     </div>
@@ -10825,8 +10822,7 @@
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. in
                                     nemoribus</placeName> in der <placeName type="locality?"
-                                    ana="not_ident.">Vorderluke</placeName> gegen <placeName
-                                    type="locality" ana="ident.">Saalhorn</placeName>; auch gegen
+                                        ana="not_ident.">Vorderluke</placeName> gegen <placeName type="settlement" key="wd:Q102004858">Saalhorn</placeName>; auch gegen
                                 dem <placeName type="locality?" ana="not_ident."
                                     >Schloſſe</placeName>
                                 <placeName type="habitat_description" xml:lang="ger">über im Buſche
@@ -12785,8 +12781,7 @@
                                 <ab type="vernacular_name" xml:lang="ger">Waldneſſel; Heilwurz.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        dumetis</placeName> gegen <placeName type="locality"
-                                        ana="ident.">Saalhorn</placeName>, et alibi, frequens.</ab>
+                                        dumetis</placeName> gegen <placeName type="settlement" key="wd:Q102004858">Saalhorn</placeName>, et alibi, frequens.</ab>
                                 <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                                 <ab type="additional_information">Foetida vmbra bufonibus grata.
                                     Contra colicam prodeſſe dicitur ſuccus depuratus.</ab>
@@ -14107,8 +14102,8 @@
                                 <ab type="vernacular_name" xml:lang="ger">Baurenſenf.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        campis</placeName> gegen <placeName type="settlement"
-                                        ana="ident.">Felgeleben</placeName>, et alibi, paſſim.</ab>
+                                        campis</placeName> gegen <placeName
+                                            type="settlement" key="wd:Q102005292">Felgeleben</placeName>, et alibi, paſſim.</ab>
                                 <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital"
                                         >THLASPEOS</hi> Semina. Odor ingratus, alliaceus. Semina cum
@@ -14272,7 +14267,7 @@
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
                                         noſtris agris paſſim; in agris</placeName> bey <placeName
-                                        type="settlement" ana="ident.">Felgeleben</placeName> und
+                                            type="settlement" key="wd:Q102005292">Felgeleben</placeName> und
                                         <placeName type="settlement" key="wd:Q798763"
                                         >Salze</placeName> copioſiſſime.</ab>
                                 <ab type="flowering_time">Fl. Maio et ſeqq.</ab>
@@ -16844,8 +16839,7 @@
                                         type="settlement" key="wd:Q102004912">Zeiz</placeName>;
                                         <placeName type="habitat_description" xml:lang="ger">auf
                                         Erdwänden bey</placeName>
-                                    <placeName type="settlement" ana="ident."
-                                    >Eikendorf</placeName>.</ab>
+                                    <placeName type="settlement" key="wd:Q704419">Eikendorf</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                                 <ab type="additional_information">Vigilat vsque ad horam 9.
                                     matutinam. Poſtea difficulter reperitur, quia folia a gramine
@@ -19724,8 +19718,8 @@
                                 hermaphrodito.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Waſſerdrachenwurz;
                                 Klappen.</ab>
-                            <ab type="location"> H. am <placeName type="locality" ana="ident."
-                                    >Butterdamme</placeName> bey <placeName type="settlement"
+                            <ab type="location"> H. am <placeName type="locality"
+                                key="wd:Q102105784">Butterdamme</placeName> bey <placeName type="settlement"
                                     key="wd:Q155981">Zerbſt</placeName>.</ab>
                             <ab type="flowering_time">Fl. Iulio.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Panis paratur e radice in
@@ -23554,9 +23548,8 @@
                                     <ab type="vernacular_name" xml:lang="ger">Ausgeſchweifte fette
                                         Jungermannie.</ab>
                                     <ab type="location"> H. bey <placeName type="settlement"
-                                            key="wd:Q155981">Zerbſt</placeName> am <placeName
-                                            type="locality" ana="ident."
-                                        >Butterdamme</placeName>.</ab>
+                                        key="wd:Q155981">Zerbſt</placeName> am <placeName type="locality"
+                                            key="wd:Q102105784">Butterdamme</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Aprili.</ab>
                                 </div>
 
