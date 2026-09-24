@@ -2230,7 +2230,7 @@
                                 Ende des Erbpachtes.</placeName></ab>
                             <ab type="flowering_time">Fl. Septembri.</ab>
                             <ab type="additional_information">Corpus rotundum gelatinoſum, diametri vnciam
-                                aequantis, craffitie, in ſtatu recente ſemunciae. Color obſcure viridis.</ab>
+                                aequantis, craſſitie, in ſtatu recente ſemunciae. Color obſcure viridis.</ab>
                         </div>
                         <note type="reference_to_main_flora">Ad pag. 256, poſt n. 954.</note>
                     </div>
@@ -2288,7 +2288,7 @@
                                 <name xml:lang="lat" key="wd:???">B. (aeruginoſa)</name>
                             </head>
                             <ab type="morphology">cruſta viridiſſima.</ab>
-                            <ab type="vernacular_name" xml:lang="ger">Grüspan-Byſſus.</ab>
+                            <ab type="vernacular_name" xml:lang="ger">Grüſpan-Byſſus.</ab>
                             <ab type="reference">Weis Crypt. p. 18.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſalicibus cauis in
                                 der kleinen
@@ -2372,8 +2372,8 @@
                             <ab type="morphology">Fungus ſiccior, puluinatus rufus lamellis rarioribus. Hall.
                                 Enum. p. 49.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad truncos putridos;
-                                in terra am <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>
-                                , et alibi frequens.</placeName></ab>
+                                in terra am <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>, 
+                                et alibi frequens.</placeName></ab>
                             <ab type="additional_information">Viget toto fere auctumno, et ad ipſam ſaepius
                                 brumam. Magnitudo mediocris, ita vt diametrum pilei vltra 2 vncias dilatatum
                                 vix viderimus.</ab>
@@ -2389,9 +2389,9 @@
                             <ab type="vernacular_name" xml:lang="ger">Hundsreisker.</ab>
                             <ab type="reference">Matt.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſylua gegen
-                                <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName> ;
+                                <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>;
                                 auch am Damme bey der
-                                <placeName type="locality" key="wd:Q138291720">Gurgel </placeName>.
+                                <placeName type="locality" key="wd:Q138291720">Gurgel</placeName>.
                               </placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Color flauo-rufus. Pileus in medio depreſſus.
@@ -2409,10 +2409,9 @@
                                 97. X. der rechte wahre Kaiſerſchwamm.</ab>
                             <ab type="location"><placeName type="habitat_description">H. frequens in ſyluis in
                                 <placeName type="locality?" ana="not_ident.">Brands Heide</placeName> bey
-                                <placeName type="locality?" ana="not_ident.">Zipsdorf</placeName> ; auch bey
-                                <placeName type="locality?" ana="not_ident.">Reuden</placeName> un
-                                <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> iſchen
-                                Buſche.</placeName></ab>
+                                <placeName type="locality?" ana="not_ident.">Zipsdorf</placeName>; auch bey
+                                <placeName type="locality?" ana="not_ident.">Reuden</placeName> un [um]
+                                Zerbſtiſchen Buſche.</placeName></ab>
                             <ab type="flowering_time">Septembri.</ab>
                             <ab type="additional_information">Lac fundit copioſum, ſed non acre; ſubſtantia
                                 fungi, immo corticalis illa et durior praeſertim, e qua iam lac defluxit,
@@ -2453,7 +2452,7 @@
                                 petiolo tereti pleno voluato, ſuperne albido, baſi tuberoſo fuſco, velo
                                 viſcoſo ſplendente annulo ſpurio.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Kuhmaul; Schleimpilz.</ab>
-                            <ab type="reference">Matt. Enum. ftirp. Silef. p. 331.</ab>
+                            <ab type="reference">Matt. Enum. ſtirp. Sileſ. p. 331.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis im
                                 <placeName type="locality" key="wd:Q138135858">Gnez</placeName>.</placeName></ab>
                             <ab type="flowering_time">Nouembri.</ab>
@@ -2482,9 +2481,9 @@
                             <ab type="morphology">ſtipitatus; pileo pallido: diſco ſtellatim luteo, lamellis
                                 ſulphureis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in gramineis am Damme
-                                hinter der <placeName type="locality" key="wd:Q138291720">Gurgel</placeName> ;
+                                hinter der <placeName type="locality" key="wd:Q138291720">Gurgel</placeName>;
                                 auch in der
-                                <placeName type="locality" key="wd:Q102004789">Lindenallee </placeName>.
+                                <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>.
                               </placeName></ab>
                             <ab type="flowering_time">Nouembri.</ab>
                             <ab type="additional_information">Pileus flauus: diſco luteo. Lamellae
@@ -2504,7 +2503,7 @@
                                 im <placeName type="locality" key="wd:Q138135858">Gnez</placeName> et alibi
                                 frequens.</placeName></ab>
                             <ab type="flowering_time">Octobri.</ab>
-                            <ab type="additional_information">Facies A. campestris, ſed lamellae altiſſimae.</ab>
+                            <ab type="additional_information">Facies A. campeſtris, ſed lamellae altiſſimae.</ab>
                         </div>
                         <note type="reference_to_main_flora">Ad pag. 261, poſt n. 982.</note>
                     </div>
@@ -2600,8 +2599,8 @@
                             <ab type="reference">Matt.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis am Wege
                                 linker Hand im Buſche an der
-                                <geogName type="river" key="wd:Q1644">Elbe </geogName> nach
-                                <placeName type="settlement" key="wd:Q130243991">Tochheim </placeName> zu.
+                                <geogName type="river" key="wd:Q1644">Elbe</geogName> nach
+                                <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> zu.
                               </placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Cauleſcens, fragilis. Pileus membranaceus,
@@ -2647,8 +2646,8 @@
                             <ab type="morphology">globoſo-campanulata; margine crenato. Linn. Peziza ſordide
                                 alba, acetabulo variabili.</ab>
                             <ab type="reference">Hall. Enum. p. 19. n. 5.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. ad marginem arenoſum foſſae am Felde neben dem Anger, in areis horti im Paradieſe.</placeName>
-                                </ab>
+                            <ab type="location"><placeName type="habitat_description">H. ad marginem arenoſum foſſae 
+                                am Felde neben dem Anger, in areis horti im Paradieſe.</placeName></ab>
                             <ab type="flowering_time">Vere et Auctumno.</ab>
                             <ab type="additional_information">Magnitudo a dimidio piſi ad dimidium nucis
                                 iuglandis regiae. Color extus albidus, intus fuſcus, ſordidus. Figura
@@ -2663,7 +2662,7 @@
                                 imperfecto.</ab>
                             <ab type="reference">Hall, Enum. p. 19. Gled. Fung. p. 5r. X. a.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in truncis putridis
-                                bey den <placeName type="locality?" ana="not_ident.">Baracken</placeName> ; im
+                                bey den <placeName type="locality?" ana="not_ident.">Baracken</placeName>; im
                                 <placeName type="locality" key="wd:Q138012027">Zeizer Buſche</placeName> et
                                 alibi.</placeName></ab>
                             <ab type="flowering_time">Vere et Auctumno.</ab>
@@ -2680,7 +2679,7 @@
                                 p. 43. a?</ab>
                             <ab type="location"><placeName type="habitat_description">H. in truncis
                                 putreſcentibus bey den
-                                <placeName type="locality?" ana="not_ident.">Baracken </placeName> et alibi.
+                                <placeName type="locality?" ana="not_ident.">Baracken</placeName> et alibi.
                               </placeName></ab>
                             <ab type="flowering_time">Octobri.</ab>
                             <ab type="additional_information">Color fuſcus et fere niger. Subſtantia
@@ -2699,11 +2698,11 @@
                             </head>
                             <ab type="morphology">clauata integerrima compreſſa obtuſa.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in caeſpite, ligno
-                                putrido infiſtens in der
-                                <placeName type="locality" key="wd:Q102004789"> Lindenallee</placeName>.
+                                putrido inſiſtens in der
+                                <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>.
                               </placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
-                            <ab type="additional_information">Pars fuperior ſpicam Ophiogloſſi vulgaris
+                            <ab type="additional_information">Pars ſuperior ſpicam Ophiogloſſi vulgaris
                                 repraeſentat, longitudine vnciali; inferius ſuſtentatur ſtipite biunciali
                                 tenui. Color niger. Lingulae cutis rugoſae ſeu punctis numeroſis nigris
                                 obſitae. Subſtantia fungi interior albida ſeu cinerea. Gled. Fung. p. 29. i.</ab>
@@ -2713,11 +2712,11 @@
                                 <num>1147.</num>
                                 <name xml:lang="lat" key="wd:Q21872388">С. (Нуроxylon)</name>
                             </head>
-                            <ab type="morphology">ramofo-cornuta compreſſa.</ab>
+                            <ab type="morphology">ramoſo-cornuta compreſſa.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Gemshörnchen.</ab>
                             <ab type="location"><placeName type="habitat_description">H. intra ſalices
                                 putridas, in der großen
-                                <placeName type="locality" key="wd:Q102004789"> Weidenallee</placeName> ;
+                                <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName>;
                                 etiam ad, truncos putridos im
                                 <placeName type="locality" key="wd:Q138012027">Zeizer Buſche</placeName> et
                                 alibi. Perſiſtens.</placeName></ab>
@@ -2735,11 +2734,11 @@
                             <ab type="reference">Gled. Fung. p. 32. litt. e.</ab>
                             <ab type="morphology">Ein ganz brauner Corallenſchwamm mit weißlichen Spiken.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluis in
-                                <placeName type="locality?" ana="not_ident.">Brands Heide</placeName> ;
+                                <placeName type="locality?" ana="not_ident.">Brands Heide</placeName>;
                                 zwiſchen den
-                                <placeName type="locality?" ana="not_ident.">Reezer Hütten </placeName> und
+                                <placeName type="locality?" ana="not_ident.">Reezer Hütten</placeName> und
                                 <placeName type="locality?" ana="not_ident.">Reuden</placeName> auf dem Wege
-                                nach <placeName type="settlement" key="wd:Q155981">Zerbſt </placeName> zu; in
+                                nach <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> zu; in
                                 humidiuſculis ad foſſam im Buſche bey
                                 <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>,
                                 linker Hand nicht weit vom Wege.</placeName></ab>
@@ -2762,7 +2761,7 @@
                             <ab type="flowering_time">Octobri.</ab>
                             <ab type="additional_information">Magnitudo fere duplex capitis humani. Rami parum
                                 fiſſi, apice ſaturate lutei. Caeterum totum corpus flauo-luteum. Odor
-                                ingratus,</ab>
+                                ingratus.</ab>
                         </div>
                         <div type="plant-species" xml:id="sup.s.1150" ana="clavaria.intybacea" n="CLAVARIA intybacea">
                             <head>
@@ -2770,8 +2769,9 @@
                                 <name xml:lang="lat" key="wd:???">C. (intybacea)</name>
                             </head>
                             <ab type="morphology">ramoſa, apicibus latis criſpatis.</ab>
-                            <ab type="reference">Reyger Gedan. p. 180. Gled. Fung. Boletus XI. p. 75?
-                                Vielkopfiger grauer Bock. Wulf. Boruf. p. 8.</ab>
+                            <ab type="reference">Reyger Gedan. p. 180. Gled. Fung. Boletus XI. p. 75?</ab>
+                            <ab type="vernacular_name" xml:lang="ger">Vielköpfiger grauer Bock.</ab>
+                            <ab type="reference">Wulf. Boruf. p. 8.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad truncos caeduos
                                 trans <geogName type="river" key="wd:Q1644">Albim</geogName>, nicht weit vom
                                 Jägerhauſe gegen den Buſch hinein.</placeName></ab>
@@ -2792,7 +2792,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Hirſchtrüffel.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad radices quereuum
                                 gegen die
-                                <placeName type="settlement" key="wd:Q139280289">Poleymühle </placeName> hin
+                                <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> hin
                                 et alibi.</placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Creſcit ſupra terram, ad dimidium terra aut
@@ -2809,10 +2809,10 @@
                                 <num>1152.</num>
                                 <name xml:lang="lat" key="wd:Q21976219">L. (Carpobolus)</name>
                             </head>
-                            <ab type="morphology">volua multifida, fructu globoſo ex feminibus combinatis.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. in afferibus
+                            <ab type="morphology">volua multifida, fructu globoſo ex ſeminibus combinatis.</ab>
+                            <ab type="location"><placeName type="habitat_description">H. in aſſeribus
                                 putreſcentibus am erſten Garten an der
-                                <geogName type="river" key="wd:Q1644"> Elbe</geogName> ; auch am Garten wenn
+                                <geogName type="river" key="wd:Q1644"> Elbe</geogName>; auch am Garten wenn
                                 man auf den Anger gehet linker Hand.</placeName></ab>
                             <ab type="flowering_time">Octobri, Nouembri.</ab>
                             <ab type="additional_information">Magnitudo capitis aciculae. Cutis exterior
@@ -2840,7 +2840,7 @@
                                 coadunata, conſtituunt fere vnicum corpus, infra anguſtatum, ſupra dilatatum,
                                 quod lana bombycina emiſſa partem faui apium repraeſentat. Haec lana adhaeret
                                 ligno, et fere faciem byſſi aureae prae ſe fert. Aliae plantulae etiam
-                                ſigillatim creſcunt, quarum lana flaua eſt; cum reliquarum fere fulua ſit.</ab>
+                                ſigillatim creſcunt, quarum lana flaua eſt; cum reliquarum fere ſulua ſit.</ab>
                         </div>
                         <div type="plant-species" xml:id="sup.s.1154" ana="clavaria.pedunculatum" n="CLAVARIA pedunculatum">
                             <head>
@@ -2851,7 +2851,7 @@
                                 integerrimo.</ab>
                             <ab type="location"><placeName type="habitat_description">H. inter muſcos in
                                 gramineis im
-                                <placeName type="locality?" ana="not_ident.">Schloßgarten </placeName>
+                                <placeName type="locality?" ana="not_ident.">Schloßgarten</placeName>
                                 zwiſchen den Pyramiden et alibi.</placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Stipes circa duarum vnciarum. Capitulum
@@ -2877,7 +2877,7 @@
                             <ab type="morphology">paraſiticum ſubrotundum truncatum.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in truncis ſalicum
                                 emortuis in der
-                                <placeName type="locality" key="wd:Q138291720">Gurgel </placeName> et alibi.
+                                <placeName type="locality" key="wd:Q138291720">Gurgel</placeName> et alibi.
                             </placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Corpus ſubgloboſum, a piſi magnitudine ad pugni.
@@ -2899,7 +2899,7 @@
                             <ab type="reference">Hall. Enum. p. 9. Tab. I. f. 3.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in arboribus cauis
                                 putridis, in der kleinen
-                                <placeName type="locality" key="wd:Q102004789"> Weidenallee</placeName> ; in
+                                <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName>; in
                                 ſudibus et aſſeribus putreſcentibus, frequens. Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Capitula fere nigra, triplo minora, quam Mucoris
                                 Lichenoidis, ſeu ſeminis papaueris.</ab>
@@ -2973,7 +2973,7 @@
                                 <name xml:lang="lat" key="wd:Q29513729">M. (caeſpitoſus)</name>
                             </head>
                             <ab type="morphology">ſtipite ramoſo, ſpicis ternatis.</ab>
-                            <ab type="vernacular_name" xml:lang="ger">Weisser Haarschimmel.</ab>
+                            <ab type="vernacular_name" xml:lang="ger">Weiſſer Haarſchimmel.</ab>
                             <ab type="morphology">Byſſus petiolata caeſpitofa, fructificationibus in ſpicam
                                 decompofitam digeſtis.</ab>
                             <ab type="reference">Gled. Fung. p. 24.</ab>
@@ -2989,7 +2989,7 @@
                             </head>
                             <ab type="morphology">luteus globoſus, in bafi tomentoſa feſſilis.</ab>
                             <ab type="reference">Gled. Fung. 162. c. Mucor globoſus flauus. Hall. Enum. p. 8.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. in lignis putridis; toto fere anno</placeName>
+                            <ab type="location"><placeName type="habitat_description">H. in lignis putridis; toto fere anno.</placeName>
                                 </ab>
                             <ab type="additional_information">Tomentum baſeos ſubalbidum. Grana magnitudine
                                 ſeminis papaueris, colore luteo.</ab>
