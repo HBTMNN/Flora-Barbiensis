@@ -5241,7 +5241,7 @@
                                     <placeName type="habitat_description" xml:lang="lat">H. in
                                         ſiccis gramineis</placeName>
                                     <placeName type="habitat_description" xml:lang="ger">bey der
-                                        Elbfähre; bey der</placeName>
+                                        <placeName type="locality?" ana="not_ident.">Elbfähre</placeName>; bey der</placeName>
                                     <placeName type="locality?" ana="not_ident.">Gnadauer
                                         Windmühle</placeName>; auf dem <placeName type="locality"
                                         ana="ident.">Mühlinger Berge</placeName>.</ab>
@@ -12162,8 +12162,8 @@
                                     tripartito-multifidis; ſummis linearibus.</ab>
                                 <ab type="vernacular_name" xml:lang="ger">Ranunkel.</ab>
                                 <ab type="location">
-                                    <placeName type="habitat_description" xml:lang="lat">H. in
-                                        pratis</placeName> bey der Elbfähre, et alibi, copioſe.</ab>
+                                    <placeName type="habitat_description" xml:lang="lat">H. in pratis</placeName> bey der 
+                                    <placeName type="locality?" ana="not_ident.">Elbfähre</placeName>, et alibi, copioſe.</ab>
                                 <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital"
                                         >RANVNCVLI</hi> Herba. Lobi foliorum ſeſſiles. Caulis pilis
@@ -24294,8 +24294,7 @@
                                     n="Lichen aphthosus">
                                     <head>
                                         <num>924.</num>
-                                        <name xml:lang="lat" key="wd:Q21976033">L.
-                                            (aphthoſus)</name>
+                                        <name xml:lang="lat" key="wd:Q21976033">L. (aphthoſus)</name>
                                     </head>
                                     <ab type="morphology">coriaceus repens lobatus obtuſus planus,
                                         verrucis ſparſis, pelta marginali adſcendente. Lichen

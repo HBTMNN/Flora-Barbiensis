@@ -87,8 +87,8 @@
                             </head>
                             <ab type="morphology">nectario conico, ſcapo paucifloro.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in foſſa über der
-                                <geogName type="river" key="wd:Q1678">Saale</geogName> bey dem Vorwerg Rajock,
-                                und bey den Teufelslöchern zwiſchen
+                                <geogName type="river" key="wd:Q1678">Saale</geogName> bey dem Vorwerg <placeName type="settlement" key="wd:Q110235644">Rajock</placeName>,
+                                und bey den <placeName type="locality?" ana="not_ident.">Teufelslöchern</placeName> zwiſchen
                                 <placeName type="settlement" key="wd:Q699151">Breitenhagen</placeName> und
                                 <placeName type="settlement" key="wd:Q417336">Aken</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio.</ab>
@@ -114,7 +114,7 @@
                                 bulboſa.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad margines agrorum
                                 bey <placeName type="settlement" key="wd:Q688045">Gnadau</placeName>, auch am
-                                Wege nach Zeitz, wenn man durch den Buſch gehet, et alibi frequens.
+                                Wege nach <placeName type="settlement" key="wd:Q102004912">Zeitz</placeName>, wenn man durch den Buſch gehet, et alibi frequens.
                               </placeName></ab>
                             <ab type="flowering_time">Fl. aeſtate.</ab>
                             <ab type="additional_information">Spica glabra. Antherae albae. Balis ſpicae
@@ -183,7 +183,7 @@
                             <ab type="morphology">paniculae ramulis patentibus muticis, culmo repente,
                                 calycibus aequalibus.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in pratis an der
-                                <geogName type="river" key="wd:Q1644">Elbe</geogName> gegen Schönebeck.
+                                <geogName type="river" key="wd:Q1644">Elbe</geogName> gegen <placeName type="settlement" key="wd:Q16020">Schönebeck</placeName>.
                               </placeName></ab>
                             <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                         </div>
@@ -212,7 +212,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Waſſerſchmielen.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad aquam ſtagnantem
                                 in via caeſpitoſa unweit
-                                <placeName type="settlement" key="wd:Q688662">Gödnitz</placeName> nach Gehren
+                                <placeName type="settlement" key="wd:Q688662">Gödnitz</placeName> nach <placeName type="settlement?" ana="not_ident.">Gehren</placeName>
                                 zu; auch am Wege nach der
                                 <geogName type="river" key="wd:Q884667">Nuthe</geogName> von
                                 <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName> nach
@@ -235,7 +235,7 @@
                             <ab type="morphology">foliis ſetaceis, panicula diuaricata, floribus ariſtatis
                                 diſtantibus.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in campis ſiccis
-                                hinter Lederiz; in arenoſis trans
+                                hinter <placeName type="settlement" key="wd:Q702102">Lederiz</placeName>; in arenoſis trans
                                 <geogName type="river" key="wd:Q1644">Albim</geogName> paſſim.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio.</ab>
                             <ab type="additional_information">Planta parua vix vltra altitudinem palmarem
@@ -257,7 +257,7 @@
                                 zwiſchen <placeName type="settlement" key="wd:Q34342631">Bazez</placeName> und
                                 <placeName type="settlement" key="wd:Q697649">Sachſendorf</placeName>: bey
                                 <placeName type="settlement" key="wd:Q688045">Gnadau</placeName> im Garten am
-                                Gemeinhause.</placeName></ab>
+                                <placeName type="locality?" ana="not_ident.">Gemeinhauſe</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio.</ab>
                         </div>
                         
@@ -289,7 +289,7 @@
                             <ab type="morphology">panicula oblonga contracta ſecunda, floſculis geminis apice
                                 biariſtatis, dorſo ariſta geniculata. Schreb. Spicil. Lipſ. p. 52.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in campis inter auenam ſatiuam auf dem
-                                Felde vor dem Reithause, et alibi.</placeName></ab>
+                                Felde vor dem <placeName type="locality?" ana="not_ident.">Reithauſe</placeName>, et alibi.</placeName></ab>
                             <ab type="flowering_time">Fl. lunio.</ab>
                             <ab type="additional_information">Characteribus a Schrebero 1. c. allegatis ſatis
                                 diſtinguitur a reliquis Auenis.</ab>
@@ -306,7 +306,7 @@
                             <ab type="morphology">ſpiculis ſecundis alternis ſeſſilibus rigidis obtuſis
                                 adpreſſis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad vias auf dem Damme
-                                von den Probssümpfen gegen
+                                von den <placeName type="locality?" ana="not_ident.">Pröbsſümpfen</placeName> gegen
                                 <placeName type="settlement" key="wd:Q689529"> Gelinde</placeName> zu, et
                                 alibi, copioſe.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio.</ab>
@@ -357,7 +357,7 @@
                                 trans <geogName type="river" key="wd:Q1644">Albim</geogName> linker Hand am
                                 Wege, nach
                                 <placeName type="settlement" key="wd:Q130243991">Tochheim </placeName>, auch
-                                in den Teufelslöchern zwiſchen
+                                in den <placeName type="locality?" ana="not_ident.">Teufelslöchern</placeName> zwiſchen
                                 <placeName type="settlement" key="wd:Q699151">Breitenhagen</placeName> und
                                 <placeName type="settlement" key="wd:Q417336">Aken</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio et Iulio.</ab>
@@ -380,8 +380,8 @@
                                 <name xml:lang="lat" key="wd:Q21870190">ANCHUSA (anguſtifolia)</name>
                             </head>
                             <ab type="morphology">racemis ſubnudis-coniugatis.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. in marginibus agrorum, et ipſis agris noualibus be[y] Gehren.</placeName>
-                                </ab>
+                            <ab type="location"><placeName type="habitat_description">H. in marginibus agrorum, et ipſis agris noualibus be[y] 
+                                <placeName type="settlement?" ana="not_ident.">Gehren</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio.</ab>
                             <ab type="additional_information">Color florum in noſtro exemplari albidus. Folia
                                 caulina baſi attenuata, nec ouato-lanceolata.</ab>
@@ -464,7 +464,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Merikaniſcher Thee.</ab>
                             <ab type="location"><placeName type="habitat_description">H. hodie ſpontaneum
                                 auſſer der
-                                <placeName type="locality?" ana="not_ident.">Schloßgartenmauer </placeName>
+                                <placeName type="locality?" ana="not_ident.">Schloßgartenmauer</placeName>
                                 beym Eingang in den
                                 <placeName type="locality?" ana="not_ident.">Elbwerder</placeName>, auch auf
                                 dem <placeName type="locality?" ana="not_ident.">Schloßhofe</placeName>.
@@ -640,7 +640,7 @@
                             <ab type="location"><placeName type="habitat_description">H. frequens in pratis
                                 vliginoſis bey Deez; auch über der
                                 <geogName type="river" key="wd:Q1678">Saale </geogName> im Buſche zwiſchen
-                                Lederiz und
+                                <placeName type="settlement" key="wd:Q702102">Lederiz</placeName> und
                                 <placeName type="settlement" key="wd:Q130270700">Steckby</placeName> ſatis
                                 copioſe.</placeName></ab>
                             <ab type="flowering_time">Fl. Maio, Iunio.</ab>
@@ -710,7 +710,7 @@
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis im
                                 <placeName type="locality" key="wd:Q138012027">Zeizer Buſche</placeName>, in
                                 Büſchen hinter
-                                <placeName type="locality?" ana="not_ident.">Nedlitz</placeName>.
+                                <placeName type="settlement" key="wd:Q689566">Nedlitz</placeName>.
                               </placeName></ab>
                             <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                             <ab type="additional_information">A Rubo idaeo foliis ſubtus non incanis
@@ -736,7 +736,7 @@
                                 inciſis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Mohn, Maagſaamen.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad dumeta über
-                                Lederiz nach <placeName type="settlement" key="wd:Q417336">Aken</placeName>
+                                <placeName type="settlement" key="wd:Q702102">Lederiz</placeName> nach <placeName type="settlement" key="wd:Q417336">Aken</placeName>
                                 zu, et alibi in ruderatis.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio.</ab>
                             <ab type="additional_information">Offic. PAPAUERIS ALBI et NIGRI Semen. Pingui
@@ -1061,7 +1061,7 @@
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis
                                 gramineis,
                                 <placeName type="settlement" key="wd:Q130270700">Steckby</placeName> gegen
-                                über nach Lederiz zu; auch über
+                                über nach <placeName type="settlement" key="wd:Q702102">Lederiz</placeName> zu; auch über
                                 <placeName type="settlement" key="wd:Q699151">Breitenhagen</placeName> hin.
                               </placeName></ab>
                             <ab type="flowering_time">Fl. Maio.</ab>
@@ -1099,7 +1099,7 @@
                                 floribus corollatis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Kleine Wieſenkreſſe.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis
-                                gramineis humidis über Lederiz nach
+                                gramineis humidis über <placeName type="settlement" key="wd:Q702102">Lederiz</placeName> nach
                                 <placeName type="settlement" key="wd:Q417336">Aken</placeName> zu.
                               </placeName></ab>
                             <ab type="flowering_time">Fl. Maio.</ab>
@@ -1529,7 +1529,7 @@
                             </head>
                             <ab type="location"><placeName type="habitat_description">H. bey
                                 <placeName type="settlement" key="wd:Q688045">Gnadau</placeName> im
-                                Schenkenloch gegen
+                                <placeName type="locality?" ana="not_ident.">Schenkenloch</placeName> gegen
                                 <placeName type="settlement" key="wd:Q1270887">Döben</placeName> zu.
                               </placeName></ab>
                         </div>
@@ -1779,8 +1779,8 @@
                             </head>
                             <ab type="morphology">fronde ouata.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in pratis humidis
-                                trans <geogName type="river" key="wd:Q1678">Salam</geogName> gegen Lederiz zu
-                                bey dem Vorwerg Rajock.</placeName></ab>
+                                trans <geogName type="river" key="wd:Q1678">Salam</geogName> gegen <placeName type="settlement" key="wd:Q702102">Lederiz</placeName> zu
+                                bey dem Vorwerg <placeName type="settlement" key="wd:Q110235644">Rajock</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                         </div>
                         <note type="reference_to_main_flora">Ad pag. 229, poſt n. 822.</note>
@@ -1798,8 +1798,8 @@
                             <ab type="vernacular_name" xml:lang="ger">Engelſüß; Süßwurz.</ab>
                             <ab type="location"><placeName type="habitat_description">H. extra terminos Fl.
                                 Barb. H. in ſylua zwiſchen
-                                <placeName type="locality?" ana="not_ident.">Nedlitz </placeName> und
-                                <placeName type="locality?" ana="not_ident.">Zipsdorf </placeName>.
+                                <placeName type="settlement" key="wd:Q689566">Nedlitz</placeName> und
+                                <placeName type="locality?" ana="not_ident.">Zipsdorf</placeName>.
                               </placeName></ab>
                             <ab type="flowering_time">Fl. Aprili.</ab>
                             <ab type="additional_information">Offic. POLYPODII Radix. Eſt eccoprotica, dulcis;
@@ -1832,8 +1832,9 @@
                                 <name xml:lang="lat" key="Q21877095">P. (Dryopteris)</name>
                             </head>
                             <ab type="morphology">frondibus ſupradecompoſitis: foliolis ternis bipinnatis.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. extra terminos Fl. Barb. H. in ſylua hinter Nedliz, auch sonſt in Brands-Heide, copioſe.</placeName>
-                                </ab>
+                            <ab type="location"><placeName type="habitat_description">H. extra terminos Fl. Barb. H. in ſylua hinter 
+                                <placeName type="settlement" key="wd:Q689566">Nedlitz</placeName>, auch sonſt in 
+                                <placeName type="locality?" ana="not_ident.">Brands-Heide</placeName>, copioſe.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio.</ab>
                         </div>
                         <div type="ordo">
@@ -1852,7 +1853,7 @@
                             <ab type="morphology">foliis ſparſis quinquefariis ſubſerratis, caule
                                 annotino-articulato, ſpicis terminalibus glabris erectis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſylua hinter
-                                <placeName type="locality?" ana="not_ident.">Nedlitz</placeName>.
+                                <placeName type="settlement" key="wd:Q689566">Nedlitz</placeName>.
                               </placeName></ab>
                             <ab type="flowering_time">Fl. aeſtate.</ab>
                             <ab type="additional_information">Rami ad genicula annotina contracti; folia quina
@@ -2046,7 +2047,7 @@
                             <ab type="morphology">foliis lanceolatis alternis remotis. Linn. Fl. Suec. 2. p.
                                 399. Weis Crypt. p. 226. Schreb. Spicil. Lipſ. p. 92.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad radices ſalicum ad
-                                ſtagnum am Ende des Erbpachtes beym
+                                ſtagnum am Ende des <placeName type="locality?" ana="not_ident.">Erbpachtes</placeName> beym
                                 <placeName type="locality?" ana="not_ident.">Elbdamme</placeName>.
                               </placeName></ab>
                             <ab type="additional_information">Flores non vidi. Longitudo ſurculorum, fere
@@ -2227,7 +2228,7 @@
                             <ab type="location"><placeName type="habitat_description">H. ſub aqua, et poſt
                                 aquae defluuium in littore, in ſtagno hinter dem
                                 <placeName type="locality" key="wd:Q138135858">Gnez</placeName>, am Damme, am
-                                Ende des Erbpachtes.</placeName></ab>
+                                Ende des <placeName type="locality?" ana="not_ident.">Erbpachtes</placeName>.</placeName></ab>
                             <ab type="flowering_time">Fl. Septembri.</ab>
                             <ab type="additional_information">Corpus rotundum gelatinoſum, diametri vnciam
                                 aequantis, craſſitie, in ſtatu recente ſemunciae. Color obſcure viridis.</ab>
@@ -2410,8 +2411,8 @@
                             <ab type="location"><placeName type="habitat_description">H. frequens in ſyluis in
                                 <placeName type="locality?" ana="not_ident.">Brands Heide</placeName> bey
                                 <placeName type="locality?" ana="not_ident.">Zipsdorf</placeName>; auch bey
-                                <placeName type="locality?" ana="not_ident.">Reuden</placeName> un [um]
-                                Zerbſtiſchen Buſche.</placeName></ab>
+                                <placeName type="settlement" key="wd:Q688761">Reuden</placeName> un [um]
+                                <placeName type="locality?" ana="not_ident.">Zerbſtiſchen Buſche</placeName>.</placeName></ab>
                             <ab type="flowering_time">Septembri.</ab>
                             <ab type="additional_information">Lac fundit copioſum, ſed non acre; ſubſtantia
                                 fungi, immo corticalis illa et durior praeſertim, e qua iam lac defluxit,
@@ -2539,7 +2540,7 @@
                                 Curtis Fl. Lond. n. 37.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad radices arborum
                                 putreſcentium hinter
-                                <placeName type="settlement" key="wd:Q102004825"> Monplaiſir</placeName> am
+                                <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName> am
                                 Burgfelde, et alibi.</placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Stipes et pileus ſuperne vernice coloris
@@ -2736,8 +2737,8 @@
                             <ab type="location"><placeName type="habitat_description">H. in ſyluis in
                                 <placeName type="locality?" ana="not_ident.">Brands Heide</placeName>;
                                 zwiſchen den
-                                <placeName type="locality?" ana="not_ident.">Reezer Hütten</placeName> und
-                                <placeName type="locality?" ana="not_ident.">Reuden</placeName> auf dem Wege
+                                <placeName type="settlement" key="wd:Q107406585">Reezer Hütten</placeName> und
+                                <placeName type="settlement" key="wd:Q688761">Reuden</placeName> auf dem Wege
                                 nach <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> zu; in
                                 humidiuſculis ad foſſam im Buſche bey
                                 <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>,
@@ -3160,7 +3161,7 @@
                     <ref>Ad pag. 68.</ref></ab>
                 <ab type="name_reference">Gentiana Pneumonanthes</ab>
                 <ab type="location">varietas latifolia habitat in pratis et aggeribus
-                        trans <geogName type="river" key="wd:Q1678">Salam</geogName> gegen Lederiz hin.</ab>
+                        trans <geogName type="river" key="wd:Q1678">Salam</geogName> gegen <placeName type="settlement" key="wd:Q702102">Lederiz</placeName> hin.</ab>
                 <ab type="morphology">Habitus idem; ſed folia, praeſertim inferiora, ouato-lanceolata.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.023">
@@ -3290,7 +3291,7 @@
                 <ab type="emendation" xml:id="sup.add.042">
                     <ref>Ad pag. 141.</ref></ab>
                     <ab type="name_reference">Origanum vulgare</ab>
-                    <ab type="location">habitat quoque in dumetis im Lederizer Buſch an der <geogName type="river" key="wd:Q1644">Elbe</geogName>,
+                    <ab type="location">habitat quoque in dumetis im <placeName type="settlement" key="wd:Q702102">Lederiz</placeName>er Buſch an der <geogName type="river" key="wd:Q1644">Elbe</geogName>,
                         <placeName type="settlement" key="wd:Q130270700">Steckby</placeName> gegen über.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.043">
@@ -3542,7 +3543,7 @@
                 <ab type="emendation" xml:id="sup.add.080">
                     <ref>Ad pag. 222.</ref></ab>
                     <ab type="name_reference">Hydrocharis Morſus ranae</ab>
-                    <ab type="location">habitat etiam in den Probsſümpfen.</ab>
+                    <ab type="location">habitat etiam in den <placeName type="locality?" ana="not_ident.">Pröbsſümpfen</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.081">
                     <ref>Ad pag. 228.</ref></ab>
@@ -3738,7 +3739,10 @@
                     <ref>Ad pag. 296.</ref></ab>
                     <ab type="name_reference">Mucor ſepticus</ab>
                     <ab type="location">creſcit etiam ad truncos putreſcentes, in ſylua hinter
-                        <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> gegen Reez zu; auch im <placeName type="locality" key="wd:Q138012027">Zeizer Buſche</placeName> , und im <placeName type="locality" key="wd:Q138135858">Gnez</placeName>.</ab>
+                        <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> gegen 
+                        <placeName type="settlement" key="wd:Q107389520">Reez</placeName> zu; auch im 
+                        <placeName type="locality" key="wd:Q138012027">Zeizer Buſche</placeName>, und im 
+                        <placeName type="locality" key="wd:Q138135858">Gnez</placeName>.</ab>
                     <ab type="flowering_time">Iulio.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.105">
