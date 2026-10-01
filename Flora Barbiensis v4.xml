@@ -2431,8 +2431,7 @@
                                 <ab type="vernacular_name" xml:lang="ger">Bergviehgras.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        muris</placeName> im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName>; im <placeName
+                                        muris</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; im <placeName
                                         type="locality?" ana="not_ident.">Paradiſe</placeName>, et
                                     alibi, frequens.</ab>
                                 <ab type="flowering_time">Fl. Iulio.</ab>
@@ -2677,8 +2676,7 @@
                                     glumis ſubulato-ariſtatis.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
-                                        ſepes</placeName> im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName>
+                                        ſepes</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>
                                     <placeName type="habitat_description" xml:lang="ger">bey der
                                         Brücke</placeName>, et alibi, copioſe.</ab>
                                 <ab type="flowering_time">Fl. Iunio.</ab>
@@ -2743,8 +2741,7 @@
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
                                         muros</placeName> im <placeName type="locality?"
-                                        ana="not_ident.">Paradiſe</placeName> und im <placeName
-                                        type="locality?" ana="not_ident.">Schloßgarten</placeName>;
+                                        ana="not_ident.">Paradiſe</placeName> und im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>;
                                         <placeName type="habitat_description" xml:lang="ger">auch im
                                         trockenen Sande hinter</placeName>
                                     <placeName type="settlement" key="wd:Q102004825"
@@ -3035,8 +3032,7 @@
                                 <ab type="vernacular_name" xml:lang="ger">Wildes Korn.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="ger">H. α. auf
-                                        dem <placeName type="locality?" ana="not_ident."
-                                            >Schloßhofe</placeName>
+                                        dem <placeName type="locality" key="wd:Q27780047">Schloßhofe</placeName>
                                     </placeName>; <placeName type="habitat_description"
                                         xml:lang="lat">ad vias et ſepes frequens</placeName>;
                                         <placeName type="habitat_description" xml:lang="ger">β. in
@@ -3178,8 +3174,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Ackernägleingras.</ab>
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. ad
-                                    vias</placeName> im <placeName type="locality?" ana="not_ident."
-                                    >Schloßgarten</placeName>, et alibi, frequens.</ab>
+                                    vias</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>, et alibi, frequens.</ab>
                             <ab type="flowering_time">Fl. Aprili, Maio.</ab>
                         </div>
                     </div>
@@ -3570,7 +3565,7 @@
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
                                         turfoſis</placeName> an der <geogName type="river"
-                                        key="wd:Q884667">Nuthe</geogName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>; auf Ranies, et alibi.</ab>
+                                        key="wd:Q884667">Nuthe</geogName> gegen die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>; auf <placeName type="settlement" key="wd:Q617613">Ranies</placeName>, et alibi.</ab>
                                 <ab type="flowering_time">Fl. Iunio.</ab>
                                 <ab type="additional_information">Pericarpia glabra.</ab>
                             </div>
@@ -3833,8 +3828,7 @@
                                     Hürrlizchenbaum.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        ſepibus</placeName> im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName> und in <placeName
+                                        ſepibus</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName> und in <placeName
                                         type="settlement" key="wd:Q688045">Gnadau</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Martio, nonnumquam iam Februario.</ab>
                                 <ab type="additional_information">Drupa eſculenta, roborans. <name
@@ -4319,8 +4313,7 @@
                                     Blumen.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
-                                        muros</placeName> auf dem <placeName type="locality?"
-                                        ana="not_ident.">Schloßhofe</placeName>; in der <placeName
+                                        muros</placeName> auf dem <placeName type="locality" key="wd:Q27780047">Schloßhofe</placeName>; in der <placeName
                                         type="locality" key="wd:Q102004789">Lindenallee</placeName>,
                                     et alibi.</ab>
                                 <ab type="flowering_time">Fl. Maio.</ab>
@@ -4681,8 +4674,7 @@
                                         foſſis</placeName> über der <geogName type="river"
                                         key="wd:Q1644">Elbe</geogName> bey der <geogName
                                         type="river" key="wd:Q884667">Nuthe</geogName> nach
-                                        <placeName type="settlement" key="wd:Q138293501"
-                                        >Flöz</placeName> hin, et alibi.</ab>
+                                        <placeName type="settlement" key="wd:Q138293501">Flöz</placeName> hin, et alibi.</ab>
                                 <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                                 <ab type="additional_information">Herba ſub aqua occultatur; florum
                                     ſpica emergit. Capſula ſphaerica: ſemina anguloſa.</ab>
@@ -4758,8 +4750,7 @@
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="ger">H. am
                                         Graben im</placeName>
-                                    <placeName type="locality?" ana="not_ident."
-                                        >Schloßgarten</placeName>; <placeName
+                                    <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; <placeName
                                         type="habitat_description" xml:lang="lat">in dumetis et
                                         ſepibus paſſim.</placeName>
                                 </ab>
@@ -5059,8 +5050,7 @@
                                     Judenkirschen.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
-                                        muros</placeName> im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName>; über der
+                                        muros</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; über der
                                         <geogName type="river" key="wd:Q1678">Saale</geogName>
                                     zwiſchen <placeName type="settlement" key="wd:Q177585"
                                         >Groß-</placeName> und <placeName type="settlement"
@@ -5242,9 +5232,8 @@
                                         ſiccis gramineis</placeName>
                                     <placeName type="habitat_description" xml:lang="ger">bey der
                                         <placeName type="locality?" ana="not_ident.">Elbfähre</placeName>; bey der</placeName>
-                                    <placeName type="locality?" ana="not_ident.">Gnadauer
-                                        Windmühle</placeName>; auf dem <placeName type="locality"
-                                        ana="ident.">Mühlinger Berge</placeName>.</ab>
+                                    <placeName type="locality?" ana="not_ident.">Gnadauer Windmühle</placeName>; auf dem 
+                                    <placeName type="locality?" ana="not_ident.">Mühlinger Berg</placeName>.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                             </div>
                         </div>
@@ -5458,8 +5447,7 @@
                                         ana="not_ident.">Paradiſe</placeName>; <placeName
                                         type="habitat_description" xml:lang="ger">in den Hecken
                                         auſſen im</placeName>
-                                    <placeName type="locality?" ana="not_ident."
-                                        >Schloßgarten</placeName>.</ab>
+                                    <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Septembri.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital">HEDERAE
                                         ARBOREAE</hi> Lignum, Folia, Reſina, Baccae. Folia vlceribus
@@ -6134,8 +6122,7 @@
                                         vniformibus.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Teutſche
                                         Bärenklau.</ab>
-                                    <ab type="location"> H. im <placeName type="locality?"
-                                            ana="not_ident.">Schloßgarten</placeName>
+                                    <ab type="location"> H. im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>
                                         <placeName type="locality?" ana="not_ident.">am
                                             Graben</placeName>, et alibi, frequens.</ab>
                                     <ab type="flowering_time">Fl. Iulio.</ab>
@@ -6743,8 +6730,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="ger">H. an
                                             der Mauer des</placeName>
-                                        <placeName type="locality?" ana="not_ident."
-                                            >Schloßhofes</placeName>, et alibi, paſſim.</ab>
+                                        <placeName type="locality" key="wd:Q27780047">Schloßhofes</placeName>, et alibi, paſſim.</ab>
                                     <ab type="flowering_time">Fl. Maio.</ab>
                                 </div>
                             </div>
@@ -6814,8 +6800,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="ger">H. am
                                             Graben im</placeName>
-                                        <placeName type="locality?" ana="not_ident."
-                                            >Schloßgarten</placeName>, et alibi ad ſepes,
+                                        <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>, et alibi ad ſepes,
                                         frequens.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
                                     <ab type="additional_information">Caulis adſperſus punctis
@@ -6843,8 +6828,7 @@
                                     </head>
                                     <ab type="morphology">foliorum ramificationibus
                                         diuaricatis.</ab>
-                                    <ab type="location"> H. im <placeName type="locality?"
-                                            ana="not_ident.">Schloßgraben</placeName>, <placeName
+                                    <ab type="location"> H. im <placeName type="locality" key="wd:Q27780047">Schloßgraben</placeName>, <placeName
                                             type="habitat_description" xml:lang="lat">et alibi in
                                             foſſis et ſtagnis copioſiſſime</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio.</ab>
@@ -6878,11 +6862,9 @@
                                     <ab type="morphology">petiolis rameis membranaceis ventricoſis
                                         emarginatis.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">H. in
-                                            prato ſyluatico</placeName> beym <placeName
-                                            type="locality" key="wd:Q138012027 ">Zeizer
-                                            Buſche</placeName>; auch am <placeName type="locality"
-                                            ana="ident.">Mühlinger Berge</placeName>.</ab>
+                                        <placeName type="habitat_description" xml:lang="lat">H. in prato ſyluatico</placeName> beym 
+                                        <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>; auch am 
+                                        <placeName type="locality?" ana="not_ident.">Mühlinger Berge</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio et ſeqq.</ab>
                                     <ab type="additional_information">Caulis ſpithameus et vltra,
                                         ſtriatus. Flores albicanti-ſubuiolacei. Iacq. Vind. p. 225.
@@ -6976,8 +6958,7 @@
                                         <name xml:lang="lat" key="wd:Q188614">P. (ſatiua)</name>
                                     </head>
                                     <ab type="morphology">fol. ſimpliciter pinnatis.</ab>
-                                    <ab type="location"> H. auf dem <placeName type="locality?"
-                                            ana="not_ident.">Schloßhofe</placeName>; <placeName
+                                    <ab type="location"> H. auf dem <placeName type="locality" key="wd:Q27780047">Schloßhofe</placeName>; <placeName
                                             type="habitat_description" xml:lang="ger">auf der
                                             groſſen Wieſe</placeName>, et alibi, copioſiſſime.</ab>
                                     <ab type="flowering_time">Fl. aeſtate.</ab>
@@ -7817,8 +7798,7 @@
                                     ſimplicibus.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        ſepibus</placeName> im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName>; im <placeName
+                                        ſepibus</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; im <placeName
                                         type="locality" key="wd:Q138135858">Gnez</placeName>
                                     copioſiſſime.</ab>
                                 <ab type="flowering_time">Fl. Martio, Aprili.</ab>
@@ -7841,8 +7821,7 @@
                                     <placeName type="settlement" key="wd:Q695632"
                                         >Pömelte</placeName>; auch <placeName
                                         type="habitat_description" xml:lang="lat">ad
-                                        ſepes</placeName> im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName>.</ab>
+                                        ſepes</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Martio, Aprili.</ab>
                                 <ab type="additional_information">Differt quod minus, et petala
                                     habeat acuminatiſſima; praecipue quod pubeſcat, cum O. luteum
@@ -7886,9 +7865,7 @@
                                     campaniformi.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        ſepibus et gramineis</placeName> im <placeName
-                                        type="locality?" ana="not_ident."
-                                    >Schloßgarten</placeName>.</ab>
+                                        ſepibus et gramineis</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Maio.</ab>
                                 <ab type="additional_information">Neapoli innotuit circa 1570. <name
                                         type="reference" key="wd:Q21856070">
@@ -8320,8 +8297,7 @@
                                 <ab type="morphology">flor. hermaphr. valuulis dentatis graniferis,
                                     fol. cordato-oblongis obtuſiuſculis crenulatis.</ab>
                                 <ab type="location"> H. ad <geogName type="river" key="wd:Q1644"
-                                        >Albim</geogName> auſſerhalb des <placeName type="locality?"
-                                        ana="not_ident.">Schloßgartens</placeName>, et alibi,
+                                        >Albim</geogName> auſſerhalb des <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>, et alibi,
                                     copioſe.</ab>
                                 <ab type="flowering_time">Fl. Iulio.</ab>
                                 <ab type="additional_information">Folia dilutius virentia, interdum
@@ -8849,8 +8825,7 @@
                                 <ab type="morphology">flor. octandris trigynis axillaribus, fol.
                                     lanceolatis, caule procumbente herbaceo.</ab>
                                 <ab type="vernacular_name" xml:lang="ger">Wegetritt; Wegegras.</ab>
-                                <ab type="location"> H. auf dem <placeName type="locality?"
-                                        ana="not_ident.">Schloßhofe</placeName>; <placeName
+                                <ab type="location"> H. auf dem <placeName type="locality" key="wd:Q27780047">Schloßhofe</placeName>; <placeName
                                         type="habitat_description" xml:lang="lat">in viis, cultis
                                         vbique</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Iunio et ſeqq.</ab>
@@ -9245,8 +9220,7 @@
                                 caule erecto ramoſo.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Kleiner Steinbrech.</ab>
                             <ab type="location"> H. auf dem <placeName type="locality?"
-                                    ana="not_ident.">Altan</placeName> im <placeName
-                                    type="locality?" ana="not_ident.">Schloßgarten</placeName>.</ab>
+                                    ana="not_ident.">Altan</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>.</ab>
                             <ab type="flowering_time">Fl. Aprili, Maio.</ab>
                         </div>
                     </div>
@@ -9459,8 +9433,7 @@
                             <fw>DECANDRIA. TRIGYNIA. Arenaria. 105</fw>
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. ad vias et
-                                    muros</placeName> im <placeName type="locality?"
-                                    ana="not_ident.">Schloßgarten</placeName>; auf dem Anger, et
+                                    muros</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; auf dem Anger, et
                                 alibi.</ab>
                             <ab type="flowering_time">Fl. Maio et ſeqq.</ab>
                             <ab type="additional_information">Odor oleoſus nauſeoſus.</ab>
@@ -10141,8 +10114,7 @@
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="ger">H. am Graben
                                     im</placeName>
-                                <placeName type="locality?" ana="not_ident."
-                                    >Schloßgarten</placeName>; im <placeName type="locality"
+                                <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; im <placeName type="locality"
                                     key="wd:Q138135858">Gnez</placeName> frequens.</ab>
                             <ab type="flowering_time">Fl. Maio.</ab>
                             <ab type="additional_information">Variat flore rubro et albo. Varietas
@@ -10371,9 +10343,8 @@
                             <ab type="morphology">foliis omnibus trifidis; inferioribus
                                 pinnatis.</ab>
                             <ab type="location">
-                                <placeName type="habitat_description" xml:lang="lat">H. in
-                                    ſiccis</placeName> am <placeName type="locality" ana="ident."
-                                    >Mühlinger Berge</placeName>.</ab>
+                                <placeName type="habitat_description" xml:lang="lat">H. in ſiccis</placeName> am 
+                                <placeName type="locality?" ana="not_ident.">Mühlinger Berge</placeName>.</ab>
                             <ab type="flowering_time">Fl. Iunio et ſeqq.</ab>
                         </div>
                     </div>
@@ -11266,8 +11237,7 @@
                                 <ab type="morphology">fol. quinatis cuneiformibus inciſis ſubtus
                                     tomentoſis, caule erecto.</ab>
                                 <ab type="vernacular_name" xml:lang="ger">Steinfünffingerkraut.</ab>
-                                <ab type="location"> H. auf dem <placeName type="locality?"
-                                        ana="not_ident.">Schloßhofe</placeName>, et alibi,
+                                <ab type="location"> H. auf dem <placeName type="locality" key="wd:Q27780047">Schloßhofe</placeName>, et alibi,
                                     copioſe.</ab>
                                 <ab type="flowering_time">Fl. Iunio.</ab>
                             </div>
@@ -11572,7 +11542,7 @@
                                 <ab type="morphology">floribus nectario deſtitutis.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        ſyluis</placeName> auf Ranies; in der <placeName
+                                        ſyluis</placeName> auf <placeName type="settlement" key="wd:Q617613">Ranies</placeName>; in der <placeName
                                         type="locality" key="wd:Q102004789">Lindenallee</placeName>,
                                     culta.</ab>
                                 <ab type="flowering_time">Fl. Iulio.</ab>
@@ -11977,8 +11947,7 @@
                                     ſubrotundis, caule ſubbifloro.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
-                                        ſepes</placeName> im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName>; im <placeName
+                                        ſepes</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; im <placeName
                                         type="locality" key="wd:Q138135858">Gnez</placeName>
                                     copioſiſſime.</ab>
                                 <ab type="flowering_time">Fl. Martio, Aprili.</ab>
@@ -12146,7 +12115,7 @@
                                 <ab type="location"> H. am <placeName type="locality?"
                                         ana="not_ident.">Elbdamme</placeName>; in <placeName
                                         type="settlement" key="wd:Q138206407">Cyprena</placeName>;
-                                    auf Ranies; et alibi.</ab>
+                                    auf <placeName type="settlement" key="wd:Q617613">Ranies</placeName>; et alibi.</ab>
                                 <ab type="flowering_time">Fl. Maio.</ab>
                                 <ab type="additional_information">Differt a R. acri ſtatura duplo
                                     maiore, foliis profundius et acutius diſſectis et magis glabris,
@@ -12183,11 +12152,9 @@
                                     petiolisque hirſutis, fol. trifidis lobatis crenatis
                                     holoſericeis.</ab>
                                 <ab type="location">
-                                    <placeName type="habitat_description" xml:lang="lat">H. in
-                                        editis</placeName> bey <placeName type="settlement"
-                                        key="wd:Q189815">Zens</placeName> um den <placeName
-                                        type="locality" ana="ident.">Mühlinger
-                                    Berg</placeName>.</ab>
+                                    <placeName type="habitat_description" xml:lang="lat">H. in editis</placeName> bey 
+                                    <placeName type="settlement" key="wd:Q189815">Zens</placeName> um den 
+                                    <placeName type="locality?" ana="not_ident.">Mühlinger Berg</placeName>.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0450" ana="aruenſis"
@@ -12389,8 +12356,7 @@
                                     petiolatis, ſtaminibus corolla longioribus.</ab>
                                 <ab type="vernacular_name" xml:lang="ger">Waſſermünze.</ab>
                                 <ab type="location"> H. an der <geogName type="river" key="wd:Q1644"
-                                        >Elbe</geogName> beym <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName>; beym <placeName
+                                        >Elbe</geogName> beym <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; beym <placeName
                                         type="locality?" ana="not_ident.">ſauren Ziez</placeName>,
                                     et alibi, paſſim.</ab>
                                 <ab type="flowering_time">Fl. Iulio.</ab>
@@ -12750,7 +12716,7 @@
                                 <ab type="morphology">verticillis ſexfloris; inuolucro
                                     tetraphyllo.</ab>
                                 <ab type="vernacular_name" xml:lang="ger">Gelbe taube Neſſel.</ab>
-                                <ab type="location"> H. auf Ranies gegen <placeName
+                                <ab type="location"> H. auf <placeName type="settlement" key="wd:Q617613">Ranies</placeName> gegen <placeName
                                         type="settlement" key="wd:Q705030"
                                     >Pretzien</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Maio.</ab>
@@ -13140,9 +13106,8 @@
                                 </head>
                                 <ab type="morphology">α. caerulea, magno flore.</ab>
                                 <ab type="location">
-                                    <placeName type="habitat_description" xml:lang="lat">H. in
-                                        ſiccis</placeName> an dem <placeName type="locality"
-                                        ana="ident.">Mühlinger Berge</placeName>.</ab>
+                                    <placeName type="habitat_description" xml:lang="lat">H. in ſiccis</placeName> an dem 
+                                    <placeName type="locality?" ana="not_ident.">Mühlinger Berg</placeName>.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                                 <ab type="additional_information">Planta humilis, floribus
                                     ſpecioſis. A P. vulgari tantum ſaltim differre videtur, quantum
@@ -13692,8 +13657,7 @@
                                 </ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
-                                        muros</placeName> zwiſchen dem <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName> und <placeName
+                                        muros</placeName> zwiſchen dem <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName> und <placeName
                                         type="locality?" ana="not_ident.">Paradiſe</placeName>.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                                 <ab type="additional_information">Radicibus ſeſe multiplicat; ſed
@@ -13932,8 +13896,7 @@
                                     <placeName type="habitat_description" xml:lang="lat">H. in
                                         aridis apricis</placeName> hinter <placeName
                                         type="settlement" key="wd:Q130243991">Tochheim</placeName>;
-                                    auf dem <placeName type="locality" ana="ident.">Mühlinger
-                                        Berge</placeName>, et alibi.</ab>
+                                    auf dem <placeName type="locality?" ana="not_ident.">Mühlinger Berge</placeName>, et alibi.</ab>
                                 <ab type="flowering_time">Fl. Maio et ſeqq.</ab>
                                 <ab type="additional_information">Stamina in hac ſpecie nulla
                                     dentata obſeruauimus. Petala lutea, poſtmodum alba.</ab>
@@ -14146,13 +14109,13 @@
                                     amplexicaulibus, corollis calyce maioribus.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        ſyluaticis</placeName> auf Ranies.</ab>
+                                        ſyluaticis</placeName> auf <placeName type="settlement" key="wd:Q617613">Ranies</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Maio.</ab>
                                 <ab type="additional_information">Corollae ſubaequales. Fructus
                                     faciesque Thlaſpeos ab Iberide hanc diſtinguunt.</ab>
                                 <note n="52" type="determination" resp="#Exkursionstagebuch1766">
                                     Wird auch als solche in Scholler (1775) aufgeführt „in
-                                    sylvaticis auf Ranies“; vermutlich beziehen sich die Angaben auf
+                                    sylvaticis auf <placeName type="settlement" key="wd:Q617613">Ranies</placeName>“; vermutlich beziehen sich die Angaben auf
                                         <name type="plant-species" subtype="interpretation"
                                         cert="medium" xml:lang="lat" key="Q163035">Noccaea
                                         caerulescens</name>, bereits bei Rother (1865) wird die
@@ -14298,8 +14261,7 @@
                                 <ab type="morphology">ſiliquis ſpicae adpreſſis; fol.
                                     runcinatis.</ab>
                                 <ab type="vernacular_name" xml:lang="ger">Wegeſenf.</ab>
-                                <ab type="location"> H. auf dem <placeName type="locality?"
-                                        ana="not_ident.">Schloßhofe</placeName>, <placeName
+                                <ab type="location"> H. auf dem <placeName type="locality" key="wd:Q27780047">Schloßhofe</placeName>, <placeName
                                         type="habitat_description" xml:lang="lat">et alibi in
                                         ruderatis et ad vias, frequens</placeName>.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
@@ -14797,8 +14759,7 @@
                                         decompoſito-pinnatis.</ab>
                                     <ab type="vernacular_name" xml:lang="ger">Beſenkraut;
                                         Sophienkraut.</ab>
-                                    <ab type="location"> H. auf dem <placeName type="locality?"
-                                            ana="not_ident.">Schloßhofe</placeName>, <placeName
+                                    <ab type="location"> H. auf dem <placeName type="locality" key="wd:Q27780047">Schloßhofe</placeName>, <placeName
                                             type="habitat_description" xml:lang="lat">et alibi in
                                             ruderatis, frequens</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
@@ -15069,8 +15030,7 @@
                             <ab type="morphology">caule erecto herbaceo, fol. ſeptemlobatis acutis,
                                 pedunculis petiolisque piloſis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Haſenpappeln.</ab>
-                            <ab type="location"> H. auf dem <placeName type="locality?"
-                                    ana="not_ident.">Schloßhofe</placeName>, <placeName
+                            <ab type="location"> H. auf dem <placeName type="locality" key="wd:Q27780047">Schloßhofe</placeName>, <placeName
                                     type="habitat_description" xml:lang="lat"> et alibi in
                                     ruderatis, frequens</placeName>.</ab>
                             <ab type="flowering_time">Fl. aeſtate.</ab>
@@ -15368,17 +15328,14 @@
                                     duplicato.</ab>
                                 <ab type="vernacular_name" xml:lang="ger">Gelber Wundklee.</ab>
                                 <ab type="location">
-                                    <placeName type="habitat_description" xml:lang="lat">H. ad
-                                        margines agrorum</placeName> hinter <placeName
-                                        type="settlement" key="wd:Q1270887">Döben</placeName>; am
-                                        <placeName type="locality" ana="ident.">Mühlinger
-                                        Berge</placeName> gegen <placeName type="settlement"
-                                        key="wd:Q189815">Zens</placeName>.</ab>
+                                    <placeName type="habitat_description" xml:lang="lat">H. ad margines agrorum</placeName> hinter 
+                                    <placeName type="settlement" key="wd:Q1270887">Döben</placeName>; am
+                                    <placeName type="locality?" ana="not_ident.">Mühlinger Berge</placeName> gegen 
+                                    <placeName type="settlement" key="wd:Q189815">Zens</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Iunio.</ab>
                                 <ab type="additional_information">Decocta vel contuſa et vulneribus
                                     adplicata detergit, ſuppurationem inhibet et labia coniungit.
-                                        <name type="autor" key="wd:Q313093">
-                                        <hi rend="italic">Boerh.</hi>
+                                    <name type="autor" key="wd:Q313093"><hi rend="italic">Boerh.</hi>
                                     </name>
                                 </ab>
                             </div>
@@ -16960,8 +16917,7 @@
                                 <ab type="location"> H. im <placeName type="locality"
                                         key="wd:Q32018582">Friedrichsholze</placeName> bey
                                         <placeName type="settlement" key="wd:Q155981"
-                                        >Zerbſt</placeName>; im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName> zu <placeName
+                                        >Zerbſt</placeName>; im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName> zu <placeName
                                         type="settlement" key="wd:Q1245637">Dornburg</placeName>
                                     <placeName type="habitat_description" xml:lang="lat">ad
                                         muros</placeName>.</ab>
@@ -17107,8 +17063,7 @@
                                         repentibus, ſcapo nudo multifloro.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
-                                            caeſpitoſis</placeName> im <placeName type="locality?"
-                                            ana="not_ident.">Schloßgarten</placeName>, et alibi,
+                                            caeſpitoſis</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>, et alibi,
                                         paſſim.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                                     <ab type="additional_information">Folia acuta. Caulis et calyces
@@ -18450,8 +18405,7 @@
                                     <ab type="morphology">corollis reuolutis, fol. pinnatifidis
                                         viſcidis, ſquamis calycinis laxis longitudine
                                         perianthii.</ab>
-                                    <ab type="location"> H. auf dem <placeName type="locality?"
-                                            ana="not_ident.">Schloßhofe</placeName>; <placeName
+                                    <ab type="location"> H. auf dem <placeName type="locality" key="wd:Q27780047">Schloßhofe</placeName>; <placeName
                                             type="habitat_description" xml:lang="lat"> in
                                             arenoſis</placeName> hinter <placeName type="settlement"
                                             key="wd:Q102004825">Monplaiſir</placeName>, et alibi,
@@ -18636,7 +18590,7 @@
                                     paucis.</ab>
                                 <ab type="vernacular_name" xml:lang="ger">Kleine Peſtilenzwurz.</ab>
                                 <ab type="location"> H. ad <geogName type="river" key="wd:Q1644"
-                                        >Albim</geogName> auf Ranies bald <placeName
+                                        >Albim</geogName> auf <placeName type="settlement" key="wd:Q617613">Ranies</placeName> bald <placeName
                                         type="settlement" key="wd:Q689529">Gelinde</placeName> gegen
                                     über.</ab>
                                 <ab type="flowering_time">Fl. Aprili.</ab>
@@ -18728,8 +18682,7 @@
                                         Hundschamillen.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
-                                            plateis</placeName> vorm <placeName type="locality?"
-                                            ana="not_ident.">Schloßthore</placeName>; am <placeName
+                                            plateis</placeName> vorm <placeName type="locality" key="wd:Q27780047">Schloßthore</placeName>; am <placeName
                                             type="locality?" ana="not_ident."
                                             >Stadtgraben</placeName> gegen das <placeName
                                             type="locality?" ana="not_ident."
@@ -18842,10 +18795,8 @@
                                     ſuperioribus obtuſis tomentoſis, corymbis conuexis
                                     confertiſſimis.</ab>
                                 <ab type="location">
-                                    <placeName type="habitat_description" xml:lang="lat">H. in
-                                        aridis apricis</placeName> auf dem <placeName
-                                        type="locality" ana="ident.">Mühlinger Berge</placeName>,
-                                    frequens.</ab>
+                                    <placeName type="habitat_description" xml:lang="lat">H. in aridis apricis</placeName> auf dem 
+                                    <placeName type="locality?" ana="not_ident.">Mühlinger Berge</placeName>, frequens.</ab>
                                 <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                                 <ab type="additional_information">Vires medicae in hac ſunt eaedem,
                                     ac in praecedenti; ſed adhuc praeſtantiores. <name type="autor"
@@ -19252,8 +19203,7 @@
                                 <ab type="vernacular_name" xml:lang="ger">Merzviolen.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
-                                        ſepes</placeName> im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName>, et alibi,
+                                        ſepes</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>, et alibi,
                                     copioſe.</ab>
                                 <ab type="flowering_time">Fl. Martio, Aprili.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital"
@@ -19650,9 +19600,8 @@
                             </head>
                             <ab type="morphology">bulbis fibroſis, fol. ouatis amplexicaulibus,
                                 flor. pendulis. Serapias Helleborine. Sp. pl. p. 1344.</ab>
-                            <ab type="location"> H. im <placeName type="locality"
-                                    key="wd:Q138012027 ">Zeizer Buſche</placeName>; auch in
-                                ſyluaticis auf Ranies, frequens.</ab>
+                            <ab type="location"> H. im <placeName type="locality" key="wd:Q138012027 ">Zeizer Buſche</placeName>; auch in
+                                ſyluaticis auf <placeName type="settlement" key="wd:Q617613">Ranies</placeName>, frequens.</ab>
                             <ab type="flowering_time">Fl. Iulio.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Flores frustusque penduli.
                                 Nectarium lineis nullis. Folia amplexicaulia. Spica multiflora,
@@ -19682,16 +19631,12 @@
                             </head>
                             <ab type="morphology">fol. cordatis, caule erecto, flor. axillaribus
                                 confertis.</ab>
-                            <ab type="location"> H. bey <placeName type="settlement"
-                                    key="wd:Q138206407">Cyprena</placeName>; auch am <placeName
-                                    type="locality?" ana="not_ident.">Thierberge</placeName> bey
-                                    <placeName type="locality?" ana="not_ident."
-                                    >Zachmünde</placeName>
-                                <placeName type="habitat_description" xml:lang="lat">in
-                                    dumetis</placeName>.</ab>
+                            <ab type="location"> H. bey <placeName type="settlement" key="wd:Q138206407">Cyprena</placeName>; auch am 
+                                <placeName type="locality?" ana="not_ident.">Thierberge</placeName> bey
+                                <placeName type="settlement" key="wd:Q139966">Zachmünde</placeName>
+                                <placeName type="habitat_description" xml:lang="lat">in dumetis</placeName>.</ab>
                             <ab type="flowering_time">Fl. aeſtate.</ab>
-                            <ab type="additional_information">Offic. <hi rend="capital"
-                                    >ARISTOLOCHIAE VVLGARIS</hi> Radix. Ad podagrae tam
+                            <ab type="additional_information">Offic. <hi rend="capital">ARISTOLOCHIAE VVLGARIS</hi> Radix. Ad podagrae tam
                                 praeſeruationem quam curationem laudatur. Externe puluis carnes
                                 fungoſas abſumit, cariem repurgat, et vlcera vulneraque ſanat.</ab>
                         </div>
@@ -19891,8 +19836,7 @@
                                     approximatis alternis androgynis nudis.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        gramineis</placeName> im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName>; bey der
+                                        gramineis</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; bey der
                                         <placeName type="locality" ana="ident.">kleinen
                                         Weidenallee</placeName>, et alibi, frequens.</ab>
                                 <ab type="flowering_time">Fl. Maio.</ab>
@@ -20399,8 +20343,7 @@
                             <ab type="morphology">caule inermi, fol. cordatis trineruatis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Kleine Klette;
                                 Bettlerläuſe.</ab>
-                            <ab type="location"> H. auf dem <placeName type="locality?"
-                                    ana="not_ident.">Schloßhofe</placeName>; am <placeName
+                            <ab type="location"> H. auf dem <placeName type="locality" key="wd:Q27780047">Schloßhofe</placeName>; am <placeName
                                     type="locality?" ana="not_ident.">Stadtgraben</placeName> gegen
                                     <placeName type="locality?" ana="not_ident."
                                     >Gethſemane</placeName>; <placeName type="habitat_description"
@@ -20720,7 +20663,7 @@
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H.
                                     culta</placeName> hinter dem <placeName type="locality"
-                                    key="wd:Q138135858">Gnez</placeName>; auf Ranies, et alibi,
+                                    key="wd:Q138135858">Gnez</placeName>; auf <placeName type="settlement" key="wd:Q617613">Ranies</placeName>, et alibi,
                                 frequens.</ab>
                             <ab type="flowering_time">Fl. Aprili, Maio.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Arbor topiaria pro ſepibus.
@@ -20809,8 +20752,7 @@
                                 bifariam verſis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Fichte; Rothtanne.</ab>
                             <ab type="location"> H. im <placeName type="locality"
-                                    key="wd:Q138135858">Gnez</placeName> und im <placeName
-                                    type="locality?" ana="not_ident.">Schloßgarten</placeName>
+                                    key="wd:Q138135858">Gnez</placeName> und im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>
                                 plantata; trans <geogName type="river" key="wd:Q1644"
                                     >Albim</geogName> bey <placeName type="settlement"
                                     key="wd:Q27479030">Friederikenberg</placeName> paſſim.</ab>
@@ -20847,8 +20789,7 @@
                             <ab type="morphology">fol. palmatis vtrimque calloſo-ſcabris.</ab>
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. in
-                                    ſepibus</placeName> im <placeName type="locality?"
-                                    ana="not_ident.">Schloßgarten</placeName>; gegen <placeName
+                                    ſepibus</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; gegen <placeName
                                     type="locality?" ana="not_ident.">Gethſemane</placeName>, et
                                 alibi, paſſim.</ab>
                             <ab type="flowering_time">Fl. Iunio.</ab>
@@ -21317,8 +21258,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Gemeiner Wachholderbaum.</ab>
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. ad
-                                    murum</placeName> im <placeName type="locality?"
-                                    ana="not_ident.">Schloßgarten</placeName>; <placeName
+                                    murum</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; <placeName
                                     type="habitat_description" xml:lang="lat">caeterum in noſtris
                                     regionibus rara arbor</placeName>.</ab>
                             <ab type="flowering_time">Fl. Aprili.</ab>
@@ -21425,8 +21365,7 @@
                             <ab type="morphology">fol. lobatis obtuſis emarginatis.</ab>
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. in
-                                    ſepibus</placeName> im <placeName type="locality?"
-                                    ana="not_ident.">Schloßgarten</placeName>; trans <geogName
+                                    ſepibus</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; trans <geogName
                                     type="river" key="wd:Q1644">Albim</geogName>
                                 <placeName type="habitat_description" xml:lang="lat"> in
                                     ſylua</placeName> gegen <placeName type="settlement"
@@ -21454,8 +21393,7 @@
                                 calycibus diphyllis.</ab>
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. ad
-                                    muros</placeName> im <placeName type="locality?"
-                                    ana="not_ident.">Schloßgarten</placeName>
+                                    muros</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>
                                 <placeName type="habitat_description" xml:lang="ger">zwiſchen der
                                     Fichtenhecke; an der</placeName>
                                 <placeName type="locality?" ana="not_ident.">Stadtmauer</placeName>
@@ -21795,8 +21733,7 @@
                                 <ab type="vernacular_name" xml:lang="ger">Farnkraut.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
-                                        muros</placeName> im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName> bey der Prinzeß;
+                                        muros</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName> bey der Prinzeß;
                                         <placeName type="habitat_description" xml:lang="lat">in
                                         ſyluaticis trans</placeName>
                                     <geogName type="river" key="wd:Q1644">Albim</geogName> bey
@@ -21904,8 +21841,7 @@
                                     Frauenhaar.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
-                                        muros</placeName> im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName> beym <placeName
+                                        muros</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName> beym <placeName
                                         type="locality?" ana="not_ident.">Altan</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Martio, Aprili.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital">RVTAE
@@ -22421,8 +22357,7 @@
                                 <ab type="morphology">antheris erectis ſphaericis.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
-                                        muros</placeName> im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName>.</ab>
+                                        muros</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>.</ab>
                                 <ab type="flowering_time">Fl. primo vere.</ab>
                                 <ab type="additional_information">Caules vnciales; ſetae
                                     ſemunciales, pallide rubentes; capſulae globoſae.</ab>
@@ -22440,8 +22375,7 @@
                                         aggeres</placeName> in der <placeName type="locality"
                                         key="wd:Q138291720">Gurgel</placeName> hinter dem <placeName
                                         type="locality" key="wd:Q138135858">Gnez</placeName>; auch
-                                    im <placeName type="locality?" ana="not_ident."
-                                        >Schloßgarten</placeName>.</ab>
+                                    im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Februario et ſeqq.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0845" ana="bryum.extinctorium"
@@ -22501,8 +22435,7 @@
                                     Mauer-Bryum.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        muris</placeName> im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName> und <placeName
+                                        muris</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName> und <placeName
                                         type="locality?" ana="not_ident.">Paradiſe</placeName>, et
                                     alibi, copiose.</ab>
                                 <ab type="flowering_time">Fl. hieme.</ab>
@@ -22758,8 +22691,7 @@
                                         dreykantigblättriges Hypnum.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="ger">H. am
-                                            Graben</placeName> im <placeName type="locality?"
-                                            ana="not_ident.">Schloßgarten</placeName>; im <placeName
+                                            Graben</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; im <placeName
                                             type="locality" key="wd:Q138135858">Gnez</placeName>,
                                         copioſe.</ab>
                                     <ab type="flowering_time">Fl. hieme:</ab>
@@ -22781,9 +22713,7 @@
                                         Blüthen-Hypnum.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. ad
-                                            muros et ſepes</placeName> im <placeName
-                                            type="locality?" ana="not_ident."
-                                            >Schloßgarten</placeName>; <placeName
+                                            muros et ſepes</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; <placeName
                                             type="habitat_description" xml:lang="lat">ad
                                             arbores</placeName> im <placeName type="locality"
                                             key="wd:Q138135858">Gnez</placeName>, et alibi,
@@ -22808,8 +22738,7 @@
                                         gefiedertes Farn-Hypnum.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
-                                            gramineis</placeName> im <placeName type="locality?"
-                                            ana="not_ident.">Schloßgarten</placeName>; in der
+                                            gramineis</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; in der
                                             <placeName type="locality" key="wd:Q102004789"
                                             >Lindenallee</placeName>; im <placeName type="locality"
                                             key="wd:Q138135858">Gnez</placeName>, et alibi,
@@ -22972,9 +22901,7 @@
                                         Hypnum.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
-                                            gramineis humidis</placeName> im <placeName
-                                            type="locality?" ana="not_ident."
-                                            >Schloßgarten</placeName>; in der <placeName
+                                            gramineis humidis</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; in der <placeName
                                             type="locality" key="wd:Q102004789"
                                             >Lindenallee</placeName>; im <placeName type="locality"
                                             key="wd:Q138135858">Gnez</placeName>; copioſe.</ab>
@@ -23343,8 +23270,7 @@
                                     <placeName type="habitat_description" xml:lang="ger">beym
                                         Gartenhaus am</placeName>
                                     <placeName type="locality?" ana="not_ident."
-                                        >Paradiſe</placeName>; auch im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName>
+                                        >Paradiſe</placeName>; auch im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>
                                     <placeName type="habitat_description" xml:lang="lat">in terra
                                         humida</placeName>.</ab>
                                 <ab type="flowering_time">Fl. circa initium aeſtatis.</ab>
@@ -23473,8 +23399,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. ad
                                             truncos arborum, praecipue vlmorum</placeName>, im
                                             <placeName type="locality" key="wd:Q138135858"
-                                            >Gnez</placeName>; im <placeName type="locality?"
-                                            ana="not_ident.">Schloßgarten</placeName>, et
+                                            >Gnez</placeName>; im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>, et
                                         alibi.</ab>
                                     <ab type="flowering_time">Fl. primo vere.</ab>
                                     <ab type="additional_information">Differt a I. complanata, cui
@@ -23517,9 +23442,7 @@
                                         Lebensbaum-Jungermannie.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
-                                            corticibus vlmorum</placeName> im <placeName
-                                            type="locality?" ana="not_ident."
-                                            >Schloßgarten</placeName>
+                                            corticibus vlmorum</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>
                                         <placeName type="habitat_description" xml:lang="ger">am
                                             Graben; im</placeName>
                                         <placeName type="locality" key="wd:Q138135858"
@@ -23566,8 +23489,7 @@
                                             corticibus pinorum</placeName>
                                         <placeName type="habitat_description" xml:lang="ger">bey der
                                             Mauer auſſen im</placeName>
-                                        <placeName type="locality?" ana="not_ident."
-                                            >Schloßgarten</placeName>.</ab>
+                                        <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>.</ab>
                                     <ab type="flowering_time">Fl. primo vere.</ab>
                                     <ab type="additional_information">Minuta planta, cauliculis vix
                                         ad vncialem longitudinem protenſis.</ab>
@@ -23657,8 +23579,7 @@
                                             <placeName type="settlement?" ana="not_ident."
                                             >Kleinlüps</placeName>; <placeName
                                             type="habitat_description" xml:lang="lat">ad
-                                            muros</placeName> im <placeName type="locality?"
-                                            ana="not_ident.">Schloßgarten</placeName>, rarius.
+                                            muros</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>, rarius.
                                         Perſiſtens.</ab>
                                 </div>
 
@@ -23956,8 +23877,7 @@
                                         <placeName type="habitat_description" xml:lang="lat">H. in
                                             columnis lapideis</placeName> beym <placeName
                                             type="locality?" ana="not_ident.">Altan</placeName> im
-                                            <placeName type="locality?" ana="not_ident."
-                                            >Schloßgarten</placeName>, <placeName
+                                            <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>, <placeName
                                             type="habitat_description" xml:lang="lat">et alibi in
                                             ſaxis, frequens.</placeName>
                                     </ab>
@@ -24330,8 +24250,7 @@
                                         bräunlicher Hunds-Lichen.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. α.
-                                            ad terram</placeName> im <placeName type="locality?"
-                                            ana="not_ident.">Schloßgarten</placeName>
+                                            ad terram</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>
                                         <placeName type="habitat_description" xml:lang="ger">am
                                             Graben</placeName>; <placeName
                                             type="habitat_description" xml:lang="lat">β. in
@@ -24702,8 +24621,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="ger">H. an
                                             den Bildſäulen im</placeName>
-                                        <placeName type="locality?" ana="not_ident."
-                                            >Schloßgarten</placeName>; am <placeName
+                                        <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; am <placeName
                                             type="locality?" ana="not_ident.">Schloſſe</placeName>
                                         ſelbſt; et alibi.</ab>
                                     <ab type="additional_information">Perſiſtens.</ab>
@@ -24844,8 +24762,7 @@
                                         type="locality" key="wd:Q138291720">Gurgel</placeName> an
                                     der <geogName type="river" key="wd:Q1644">Elbe</geogName>, vbi
                                     poſt tempus plunioſum menſe Decembri copioſe vigebat; auch im
-                                        <placeName type="locality?" ana="not_ident."
-                                        >Schloßgarten</placeName>
+                                        <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>
                                     <placeName type="habitat_description" xml:lang="ger">in den
                                         Gängen beym Graben</placeName>.</ab>
                                 <ab type="additional_information">Viget praecipue vere et aeſtate.
@@ -24872,8 +24789,7 @@
                                     <placeName type="habitat_description" xml:lang="lat">H. in ramis
                                         emortuis et moribundis</placeName> in der <placeName
                                         type="locality" key="wd:Q102004789">Lindenallee</placeName>;
-                                    im <placeName type="locality?" ana="not_ident."
-                                        >Schloßgarten</placeName>; et alibi.</ab>
+                                    im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>; et alibi.</ab>
                                 <ab type="additional_information">Viget hieme. Excludenda, ſecundum
                                     Weiſium Crypt. p. 30. ex hocce genere, et pro initio agarici
                                     cuiusdam habenda.</ab>
@@ -24954,8 +24870,7 @@
                                         type="settlement" key="wd:Q138206407">Cyprena</placeName>;
                                         <placeName type="habitat_description" xml:lang="ger">auch im
                                         Graben des</placeName>
-                                    <placeName type="locality?" ana="not_ident."
-                                        >Schloßgartens</placeName>, et alibi.</ab>
+                                    <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>, et alibi.</ab>
                                 <ab type="additional_information">Viget a vere in auctumnum.
                                     Vulneratas partes glutinare dicitur et oſſa fracta mirabili
                                     celeritate, ſi ipſis imponatur et arefacta aqua ſubinde
@@ -25225,8 +25140,7 @@
                                 </head>
                                 <ab type="morphology">ſtipitatus, pileo campaniformi albido lacero,
                                     lamellis niueis, ſtipite ſubbulboſo ſubulato nudo.</ab>
-                                <ab type="location"> H. auf dem <placeName type="locality?"
-                                        ana="not_ident.">Schloßhofe</placeName>, et alibi.</ab>
+                                <ab type="location"> H. auf dem <placeName type="locality" key="wd:Q27780047">Schloßhofe</placeName>, et alibi.</ab>
                                 <ab type="additional_information">Aeſtate.</ab>
                             </div>
 
@@ -25329,8 +25243,7 @@
                                 </head>
                                 <ab type="morphology">ſtipitatus albus, pileo plicato membranaceo,
                                     ſtipite nigro. Ammanita minima muſcoſa Dillenii.</ab>
-                                <ab type="location"> H. im <placeName type="locality?"
-                                        ana="not_ident.">Schloßgarten</placeName>
+                                <ab type="location"> H. im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>
                                     <placeName type="habitat_description" xml:lang="ger">auſſen bey
                                         den Fichten am</placeName>
                                     <placeName type="locality?" ana="not_ident."
@@ -25854,8 +25767,7 @@
                                     putrida</placeName> im <placeName type="locality?"
                                     ana="not_ident.">Paradiſe</placeName>; <placeName
                                     type="habitat_description" xml:lang="lat">in terra</placeName>
-                                im <placeName type="locality?" ana="not_ident."
-                                    >Schloßgarten</placeName>
+                                im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>
                                 <placeName type="habitat_description" xml:lang="ger">zwiſchen der
                                     Fichtenhecke und dem</placeName>
                                 <placeName type="locality?" ana="not_ident."
@@ -25931,8 +25843,7 @@
                                     viſa</placeName>.</ab>
                             <ab type="morphology">Var. β. Lycoperdon ſtellatum calyce inuerſo
                                 Buxbaumii,</ab>
-                            <ab type="location">ſemel lecta ad ſepes im <placeName type="locality?"
-                                    ana="not_ident.">Schloßgarten</placeName>.</ab>
+                            <ab type="location">ſemel lecta ad ſepes im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>.</ab>
                             <ab type="additional_information">Auctumno.</ab>
                         </div>
                         <div type="plant-species" xml:id="s.1000" ana="Epidendrum"
@@ -30187,7 +30098,7 @@
                                 humidis trans</placeName>
                             <geogName type="river" key="wd:Q1644">Albim</geogName> gegen <placeName
                                 type="settlement" key="wd:Q138203224 ">Grünberg</placeName>; auch
-                            auf Ranies.</ab>
+                            auf <placeName type="settlement" key="wd:Q617613">Ranies</placeName>.</ab>
                         <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                         <ab type="additional_information">Affinis M. ſylueſtri; ſed folia latiora,
                             ſupra viridia glabra, infra candicantia tomento vix conſpicuo.</ab>
@@ -30207,11 +30118,9 @@
                                 <hi rend="italic">Rupp.</hi>
                             </name> Ien. p. 230.</ab>
                         <ab type="location">
-                            <placeName type="habitat_description" xml:lang="lat">H. in agris
-                                montoſis et ad margines eorum</placeName> am <placeName
-                                type="locality" ana="ident.">Mühlinger Berge</placeName> gegen
-                                <placeName type="settlement" key="wd:Q189815">Zens</placeName>,
-                            copioſe.</ab>
+                            <placeName type="habitat_description" xml:lang="lat">H. in agris montoſis et ad margines eorum</placeName> am 
+                            <placeName type="locality?" ana="not_ident.">Mühlinger Berge</placeName> gegen
+                            <placeName type="settlement" key="wd:Q189815">Zens</placeName>, copioſe.</ab>
                         <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                         <ab type="additional_information">Caulis palmaris et pedalis erectus, in
                             paruis ſimplex, in maioribus ramoſus. Folia inferiora ouata, rugoſa,
