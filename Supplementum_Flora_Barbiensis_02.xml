@@ -216,7 +216,7 @@
                                 zu; auch am Wege nach der
                                 <geogName type="river" key="wd:Q884667">Nuthe</geogName> von
                                 <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName> nach
-                                der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>
+                                der <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName>
                                 hin.</placeName></ab>
                             <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                             <ab type="additional_information">Flosculi mutici, ſinguli aut bini in eodem
@@ -967,7 +967,7 @@
                             <ab type="location"><placeName type="habitat_description">H. in pratis et paſcuis ſubhumidis zwiſchen
                                 <placeName type="settlement" key="wd:Q688288"> Walternienburg</placeName> und 
                                 <placeName type="settlement" key="wd:Q138293501">Flöz</placeName>; auch am Wege gegen die
-                                <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> hin, et alibi.</placeName></ab>
+                                <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> hin, et alibi.</placeName></ab>
                             <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                             <ab type="additional_information">Caulis procumbens. Flores purpurei, et
                                 nonnunquam albi. Calyx glaber, reticulatus non punctatus, longior quam in
@@ -1177,7 +1177,7 @@
                             <ab type="morphology">pedunculis multifloris, foliolis reflexis ouatis mucronatis,
                                 ſtipulis ſubdentatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in dumetis über der
-                                <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> hin
+                                <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> hin
                                 bey der Wieſe gegen den Buſch zu.</placeName></ab>
                             <ab type="flowering_time">Fl. aeſtate.</ab>
                         </div>
@@ -1550,7 +1550,7 @@
                             <ab type="location"><placeName type="habitat_description">H. in pratis depreſſis
                                 wenn man von
                                 <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName> nach
-                                der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>
+                                der <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName>
                                 gehet.</placeName></ab>
                             <ab type="flowering_time">Fl. Auguſto.</ab>
                             <ab type="additional_information">Altitudo Spithamaea et vltra. Folia non
@@ -1598,7 +1598,7 @@
                                 capſulis obtuſiuſculis inflatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in udis nemoroſis an
                                 der <geogName type="river" key="wd:Q884667">Nuthe</geogName>, bald wenn man
-                                zur <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>
+                                zur <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName>
                                 kommt, et alibi.</placeName></ab>
                             <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                             <ab type="additional_information">Spica maſcula ſuperne plerumque floribus
@@ -1939,7 +1939,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Kurzrankiges weidenblättriges Mnium.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in humidis ſyluaticis
                                 zwiſchen der
-                                <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> und
+                                <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> und
                                 <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>.
                               </placeName></ab>
                             <ab type="flowering_time">Fl. Aprili.</ab>
@@ -2181,7 +2181,7 @@
                             <ab type="morphology">fruticuloſus ſolidus, tectus foliolis cruſtaceis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in collibus
                                 ſteriliſſimis vmbroſis am Wege zwiſchen der
-                                <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> und
+                                <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> und
                                 <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>.
                               </placeName></ab>
                             <ab type="flowering_time">Fl. hieme.</ab>
@@ -2647,8 +2647,9 @@
                             <ab type="morphology">globoſo-campanulata; margine crenato. Linn. Peziza ſordide
                                 alba, acetabulo variabili.</ab>
                             <ab type="reference">Hall. Enum. p. 19. n. 5.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. ad marginem arenoſum foſſae 
-                                am Felde neben dem Anger, in areis horti im <placeName type="locality?" ana="not_ident.">Paradiſe</placeName>.</placeName></ab>
+                            <ab type="location"><placeName type="habitat_description">H. ad marginem arenoſum foſſae am Felde neben dem 
+                                <placeName type="locality?" ana="not_ident.">Anger</placeName>, in areis horti im 
+                                <placeName type="locality?" ana="not_ident.">Paradiſe</placeName>.</placeName></ab>
                             <ab type="flowering_time">Vere et Auctumno.</ab>
                             <ab type="additional_information">Magnitudo a dimidio piſi ad dimidium nucis
                                 iuglandis regiae. Color extus albidus, intus fuſcus, ſordidus. Figura
@@ -2793,7 +2794,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Hirſchtrüffel.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad radices quereuum
                                 gegen die
-                                <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> hin
+                                <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> hin
                                 et alibi.</placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Creſcit ſupra terram, ad dimidium terra aut
@@ -2814,7 +2815,7 @@
                             <ab type="location"><placeName type="habitat_description">H. in aſſeribus
                                 putreſcentibus am erſten Garten an der
                                 <geogName type="river" key="wd:Q1644"> Elbe</geogName>; auch am Garten wenn
-                                man auf den Anger gehet linker Hand.</placeName></ab>
+                                man auf den <placeName type="locality?" ana="not_ident.">Anger</placeName> gehet linker Hand.</placeName></ab>
                             <ab type="flowering_time">Octobri, Nouembri.</ab>
                             <ab type="additional_information">Magnitudo capitis aciculae. Cutis exterior
                                 griſea, ſed corpuſculum ipſum luteum. Limbus fungi aperti apparebat dentibus
@@ -2943,10 +2944,10 @@
                             <ab type="morphology">ſeta alba, capitulo pyriformi aut ſubgloboſo miniato.</ab>
                             <ab type="reference">Mattuſchka Enum. ſtirp. Sileſ. p. 347. Mucor Trichia
                                 capitulis miniatis. Oed. Fl. Dan. tab. 467. fig. I. et forte etiam fig. 2.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. in ſalicibus putridis
-                                am Anger von
-                                <placeName type="locality" key="wd:Q102004668">Colphus</placeName> her, gegen
-                                die <placeName type="locality?" ana="not_ident.">Baracken</placeName> zu.
+                            <ab type="location"><placeName type="habitat_description">H. in ſalicibus putridis am 
+                                <placeName type="locality?" ana="not_ident.">Anger</placeName> von
+                                <placeName type="locality" key="wd:Q102004668">Colphus</placeName> her, gegen die 
+                                <placeName type="locality?" ana="not_ident.">Baracken</placeName> zu.
                                 Perſiſtens.</placeName></ab>
                             <ab type="additional_information">Magnitudo capituli multo minor, quam ſeminis
                                 ſinapeos. Gregatim et arcte iuxta ſe poſitae plantulae elegantem ſyluulam
@@ -3126,7 +3127,7 @@
                     <ref>Ad pag. 51,</ref></ab>
                     <ab type="name_reference">Aſperula aruenſis</ab>
                     <ab type="location">; legatur: habitat ad marginem agrorum an der
-                        kleinen <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName> hinunter gegen den Anger zu; rarius.</ab>
+                        kleinen <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName> hinunter gegen den <placeName type="locality?" ana="not_ident.">Anger</placeName> zu; rarius.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.017">
                     <ref>Ad pag. 52.</ref></ab>
@@ -3149,7 +3150,7 @@
                 <ab type="emendation" xml:id="sup.add.020">
                     <ref>Ad pag. 66.</ref></ab>
                     <ab type="name_reference">Ribes nigrum</ab>
-                    <ab type="location">habitat etiam in humidis über die <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> hin rechter Hand.</ab>
+                    <ab type="location">habitat etiam in humidis über die <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> hin rechter Hand.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.021">
                     <ref>Ad pag. 67.</ref></ab>
@@ -3180,7 +3181,7 @@
                 <ab type="emendation" xml:id="sup.add.025">
                     <ref>Ad pag. 79.</ref></ab>
                     <ab type="name_reference">Cicuta viroſa</ab>
-                    <ab type="location">creſcit frequens in vliginoſis, über der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> hin
+                    <ab type="location">creſcit frequens in vliginoſis, über der <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> hin
                         rechter Hand; etiam in turfoſis paluſtribus an der <geogName type="river" key="wd:Q1644">Elbe</geogName> hinauf gegen <placeName type="settlement" key="wd:Q130270700">Steckby</placeName>
                         zu.</ab>
                     
@@ -3285,7 +3286,7 @@
                     <ref>Ad pag. 135.</ref></ab>
                     <ab type="name_reference">Aiuga pyramidalis</ab>
                     <ab type="location">habitat quoque ad marginem ſyluae nahe bey <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>, wenn
-                        man von der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> kommt.</ab>
+                        man von der <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> kommt.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.041.2">
                     <ref>Ad pag. 135.</ref></ab>
@@ -3357,7 +3358,7 @@
                 <ab type="emendation" xml:id="sup.add.051">
                     <ref>Ad pag. 157.</ref></ab>
                     <ab type="name_reference">Geranium paluſtre</ab>
-                    <ab type="location">habitat quoque frequens in pratis jenseits der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
+                    <ab type="location">habitat quoque frequens in pratis jenseits der <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.052">
                     <ref>Ad pag. 158.</ref></ab>
@@ -3376,7 +3377,7 @@
                     <ref>Ad pag. 161.</ref></ab>
                     <ab type="name_reference">Fumaria bulboſa (intermedia) Linn. Spec. Plant. p. 983.</ab>
                     <ab type="morphology">radice non caua minor.</ab>
-                    <ab type="location">Habitat in decliultate monticulorum, zwiſchen der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> nnd
+                    <ab type="location">Habitat in decliultate monticulorum, zwiſchen der <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> nnd
                         <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>, nahe gegen <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> hin.</ab>
                     <ab type="flowering_time">Fl. Martio, Aprili.</ab>
                 
@@ -3520,7 +3521,7 @@
                     <ref>Ad pag. 207.</ref></ab>
                     <ab type="name_reference">Carex leporina.</ab>
                     <ab type="location">Locus corrigatur et legatur: H. in vdis nemoroſis an der
-                        <geogName type="river" key="wd:Q884667">Nuthe</geogName>, bald wenn man zur <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName> kommt, auch in arenoſis ſubhumidis am
+                        <geogName type="river" key="wd:Q884667">Nuthe</geogName>, bald wenn man zur <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> kommt, auch in arenoſis ſubhumidis am
                         Wege nach <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</ab>
                     <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                     <ab type="morphology">Culmus laeuis, ſuperne nudus,
@@ -3576,13 +3577,13 @@
                 <ab type="emendation" xml:id="sup.add.084">
                     <ref>Ad pag. 234.</ref></ab>
                     <ab type="name_reference">Mnium polytrichoides</ab>
-                    <ab type="location">creſcit etiam in aridis auf dem Anger gegen
+                    <ab type="location">creſcit etiam in aridis auf dem <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen
                         <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.085">
                     <ref>Ad pag. 235.</ref></ab>
                     <ab type="name_reference">Bryum pyriforme</ab>
-                    <ab type="location">creſcit frequens in pratis humidis hinter der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
+                    <ab type="location">creſcit frequens in pratis humidis hinter der <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.086">
                     <ref>Ad pag. 235.</ref></ab>
@@ -3592,7 +3593,7 @@
                 <ab type="emendation" xml:id="sup.add.087">
                     <ref>Ad pag. 240.</ref></ab>
                     <ab type="name_reference">Hypnum dendroides</ab>
-                    <ab type="location">prouenit frequens in ſubhumidis auf dem Anger gegen
+                    <ab type="location">prouenit frequens in ſubhumidis auf dem <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen
                         <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName> am Damme hin.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.088">
@@ -3605,13 +3606,13 @@
                     <ref>Ad pag. 245.</ref></ab>
                     <ab type="name_reference">Iungermannia pinguis</ab>
                     <ab type="location">creſcit etiam in turfoſis et vdis alnetorum diſſeits
-                        und jenſeits der <placeName type="settlement" key="wd:Q139280289">Poleymühle</placeName>.</ab>
+                        und jenſeits der <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                     <ab type="morphology">Pedunculus ſaepe praelongus ad duas vncias.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.090">
                     <ref>Ad pag. 252.</ref></ab>
                     <ab type="name_reference">Lichen ſubulatus</ab>
-                    <ab type="location">habitat etiam in ſiccis ſteriliſſimis auf dem Anger gegen
+                    <ab type="location">habitat etiam in ſiccis ſteriliſſimis auf dem <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen
                         <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.091.1">
@@ -3624,7 +3625,7 @@
                     <ref>Ad pag. eandem</ref></ab>
                     <ab type="name_reference">Vlua inteſtinalis</ab>
                     <ab type="additional_information">natat frequens in ſuperficie aquarum, in ſtagnis am 
-                        Graben unten am Anger, wo die Fiſchlöcher sind. Eſt ſubſtantia gelatinoſa, 
+                        Graben unten am <placeName type="locality?" ana="not_ident.">Anger</placeName>, wo die <placeName type="locality?" ana="not_ident.">Fiſchlöcher</placeName> sind. Eſt ſubſtantia gelatinoſa, 
                         colore viridi vel fuſco, longitudine digiti et vltra. Sibi permiſſa conuoluitur 
                         in ſe, in modum tubuli. Euoluta, eſt membrana vnciam lata et vltra, admodum lubrica, 
                         vt vix digitis teneri queat. Cum Conferua bulloſa olim permutauimus.</ab>
@@ -3633,7 +3634,9 @@
                     <ref>Ad pag. eandem.</ref></ab>
                     <ab type="name_reference">Vlua granulata</ab>
                     <ab type="location">creſcit copioſiſſime poſt defluuium aquarum, in terra
-                        limoſa, praecipue verno tempore, bey der <placeName type="locality?" ana="not_ident.">Sandbank</placeName> über dem <placeName type="locality?" ana="not_ident.">Elbwerder</placeName>.</ab>
+                        limoſa, praecipue verno tempore, bey der 
+                        <placeName type="locality?" ana="not_ident.">Sandbank</placeName> über dem 
+                        <placeName type="locality?" ana="not_ident.">Elbwerder</placeName>.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.093.1">
                     <ref>Ad pag. 256.</ref></ab>
@@ -3715,7 +3718,8 @@
                 <ab type="emendation" xml:id="sup.add.101">
                     <ref>Ad pag. eandem.</ref></ab>
                     <ab type="name_reference">Peziza ſcutellata</ab>
-                    <ab type="location">creſcit etiam in ſteriliſſimis auf dem Anger gegen
+                    <ab type="location">creſcit etiam in ſteriliſſimis auf dem 
+                        <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen
                         <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>.</ab>
                     <ab type="flowering_time">Nouembri.</ab>
                     <ab type="additional_information">Varietas huius minor, quae eſt Eluela orbicularis,
