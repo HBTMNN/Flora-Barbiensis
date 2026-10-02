@@ -645,7 +645,7 @@
                             </head>
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">Habitat in
-                                    foſſis</placeName> hinter <placeName type="settlement"
+                                    foſſis</placeName> hinter <placeName type="locality"
                                     key="wd:Q102004825">Monplaiſir</placeName>.</ab>
                             <ab type="flowering_time">Floret Maio.</ab>
                         </div>
@@ -796,7 +796,7 @@
                                     <ab type="location"> H. ad <geogName type="river" key="wd:Q1678">Salam</geogName> in der 
                                         <placeName type="locality" key="wd:Q141624178">Hinterluke</placeName>; ad 
                                         <geogName type="river" key="wd:Q1644">Albim</geogName> hinter
-                                        <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>.</ab>
+                                        <placeName type="locality" key="wd:Q102004825">Monplaiſir</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                                     <ab type="additional_information">Spicae laxiores.</ab>
                                 </div>
@@ -1098,7 +1098,7 @@
                                             ſterilibus</placeName>
                                         <placeName type="habitat_description" xml:lang="ger">am
                                             Damme hinter</placeName>
-                                        <placeName type="settlement" key="wd:Q102004825"
+                                        <placeName type="locality" key="wd:Q102004825"
                                             >Monplaiſir</placeName>; bey <placeName
                                             type="settlement" key="wd:Q130243991"
                                             >Tochheim</placeName>.</ab>
@@ -1260,7 +1260,7 @@
                                         margines agrorum bey der kleinen</placeName>
                                     <placeName type="locality" key="wd:Q102004789"
                                         >Weidenallee</placeName>; hinter <placeName
-                                        type="settlement" key="wd:Q102004825">Monplaiſir</placeName>
+                                        type="locality" key="wd:Q102004825">Monplaiſir</placeName>
                                     <placeName type="habitat_description" xml:lang="ger">am
                                         Damme</placeName>, frequens.</ab>
                                 <ab type="flowering_time">Fl. Iunio.</ab>
@@ -2181,7 +2181,7 @@
                                     Ackerriedgras.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        pratis</placeName> hinter <placeName type="settlement"
+                                        pratis</placeName> hinter <placeName type="locality"
                                         key="wd:Q102004825">Monplaiſir</placeName>; im <placeName
                                         type="locality" key="wd:Q138135858">Gnez</placeName>; im
                                         <placeName type="locality" key="wd:Q138012027 ">Zeizer
@@ -2222,7 +2222,7 @@
                                 <ab type="vernacular_name" xml:lang="ger">Grauſchmielen.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        ſterilibus</placeName> gegen <placeName type="settlement"
+                                        ſterilibus</placeName> gegen <placeName type="locality"
                                         key="wd:Q102004825">Monplaiſir</placeName>; <placeName
                                         type="habitat_description" xml:lang="lat">in editis arenoſis
                                         trans</placeName>
@@ -2467,7 +2467,7 @@
                                         aridis</placeName>
                                     <placeName type="habitat_description" xml:lang="ger">am Damme
                                         gegen</placeName>
-                                    <placeName type="settlement" key="wd:Q102004825"
+                                    <placeName type="locality" key="wd:Q102004825"
                                         >Monplaiſir</placeName>.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                                 <ab type="additional_information">Culmi baſi tuberoſa. Egregium
@@ -2489,7 +2489,7 @@
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="ger">H. auf dem
                                         <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen</placeName>
-                                    <placeName type="settlement" key="wd:Q102004825"
+                                    <placeName type="locality" key="wd:Q102004825"
                                         >Monplaiſir</placeName> copioſe.</ab>
                                 <ab type="flowering_time">Fl. Iunio.</ab>
                                 <ab type="additional_information">Antherae purpureae. Variat
@@ -2742,7 +2742,7 @@
                                         ana="not_ident.">Paradiſe</placeName> und im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>;
                                         <placeName type="habitat_description" xml:lang="ger">auch im
                                         trockenen Sande hinter</placeName>
-                                    <placeName type="settlement" key="wd:Q102004825"
+                                    <placeName type="locality" key="wd:Q102004825"
                                         >Monplaiſir</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Maio.</ab>
                                 <ab type="additional_information">Panicula ſecunda nutans, maturo
@@ -3474,7 +3474,7 @@
                                 <ab type="vernacular_name" xml:lang="ger">Flöhkraut.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        arenoſis</placeName> hinter <placeName type="settlement"
+                                        arenoſis</placeName> hinter <placeName type="locality"
                                         key="wd:Q102004825">Monplaiſir</placeName> copioſe.</ab>
                                 <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital"
@@ -4340,7 +4340,7 @@
                                     <placeName type="habitat_description" xml:lang="ger">H. am
                                             <placeName type="locality?" ana="not_ident."
                                             >Elbdamme</placeName>; ſonderlich hinter</placeName>
-                                    <placeName type="settlement" key="wd:Q102004825"
+                                    <placeName type="locality" key="wd:Q102004825"
                                         >Monplaiſir</placeName>
                                     <placeName type="habitat_description" xml:lang="lat">in
                                         arenoſis</placeName>, copioſiſſime.</ab>
@@ -4376,7 +4376,7 @@
                                         key="wd:Q1644">Elbe</geogName>
                                     <placeName type="habitat_description" xml:lang="ger">unter dem
                                         Wirthshauſe; hinter</placeName>
-                                    <placeName type="settlement" key="wd:Q102004825"
+                                    <placeName type="locality" key="wd:Q102004825"
                                         >Monplaiſir</placeName>
                                     <placeName type="habitat_description" xml:lang="ger">beym alten
                                         Dammbruche</placeName>; copioſe.</ab>
@@ -4633,7 +4633,7 @@
                                     corollis calyce breuioribus. Spec. Pl. App. p. 1668.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        arenoſis</placeName> hinter <placeName type="settlement"
+                                        arenoſis</placeName> hinter <placeName type="locality"
                                         key="wd:Q102004825">Monplaiſir</placeName>
                                     <placeName type="habitat_description" xml:lang="ger">am Damme,
                                         gegen den</placeName>
@@ -5007,7 +5007,7 @@
                                         vbique</placeName>; <placeName type="habitat_description"
                                         xml:lang="ger">ß. auf dem <placeName type="locality?" ana="not_ident.">Anger</placeName> bey den Feldern
                                         gegen</placeName>
-                                    <placeName type="settlement" key="wd:Q102004825"
+                                    <placeName type="locality" key="wd:Q102004825"
                                         >Monplaiſir</placeName>, et alibi, copioſe.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital"
@@ -5281,7 +5281,7 @@
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="ger">H. auf der
                                         Burg hinter</placeName>
-                                    <placeName type="settlement" key="wd:Q102004825"
+                                    <placeName type="locality" key="wd:Q102004825"
                                         >Monplaiſir</placeName>, et alibi <placeName
                                         type="habitat_description" xml:lang="lat">in
                                         dumetis</placeName>.</ab>
@@ -5702,7 +5702,7 @@
                                     <placeName type="habitat_description" xml:lang="lat">H. in
                                         arenoſis</placeName> an der <geogName type="river"
                                         key="wd:Q1644">Elbe</geogName> hinter <placeName
-                                        type="settlement" key="wd:Q102004825"
+                                        type="locality" key="wd:Q102004825"
                                     >Monplaiſir</placeName>.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                             </div>
@@ -5752,7 +5752,7 @@
                                     confertis ſtrictiſſimis cauli approximatis longiſſimis.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
-                                        ſepes</placeName> bey <placeName type="settlement"
+                                        ſepes</placeName> bey <placeName type="locality"
                                         key="wd:Q102004825">Monplaiſir</placeName>, et alibi,
                                     paſſim.</ab>
                                 <ab type="flowering_time">Fl. Auguſto.</ab>
@@ -5772,7 +5772,7 @@
                                         type="habitat_description" xml:lang="lat">in ſtagnis
                                         exſiccatis</placeName> an der <geogName type="river"
                                         key="wd:Q1644">Elbe</geogName> hinter <placeName
-                                        type="settlement" key="wd:Q102004825">Monplaiſir</placeName>
+                                        type="locality" key="wd:Q102004825">Monplaiſir</placeName>
                                     copioſiſſime.</ab>
                                 <ab type="flowering_time">Fl. Auguſto.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital"
@@ -5965,7 +5965,7 @@
                                         arenoſis</placeName>
                                     <placeName type="habitat_description" xml:lang="ger">auf dem
                                         <placeName type="locality?" ana="not_ident.">Anger</placeName>; hinter</placeName>
-                                    <placeName type="settlement" key="wd:Q102004825"
+                                    <placeName type="locality" key="wd:Q102004825"
                                         >Monplaiſir</placeName>, et alibi, frequens.</ab>
                                 <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital"
@@ -6448,7 +6448,7 @@
                                             >Pömelte</placeName>; auch in der <placeName
                                             type="locality" key="wd:Q102004789"
                                             >Weidenallee</placeName> gegen <placeName
-                                            type="settlement" key="wd:Q102004825"
+                                            type="locality" key="wd:Q102004825"
                                             >Monplaiſir</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                                     <ab type="additional_information">Inuolucrum 3-phyllum, breue.
@@ -7268,7 +7268,7 @@
                                         arena</placeName> an der <geogName type="river"
                                         key="wd:Q1644">Elbe</geogName> gegen das <placeName
                                         type="locality?" ana="not_ident.">Fährhaus</placeName>;
-                                    hinter <placeName type="settlement" key="wd:Q102004825"
+                                    hinter <placeName type="locality" key="wd:Q102004825"
                                         >Monplaiſir</placeName> copioſe.</ab>
                                 <ab type="flowering_time">Fl. tota aeſtate.</ab>
                             </div>
@@ -7444,7 +7444,7 @@
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. in
                                     aridis</placeName> auf dem <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen <placeName
-                                    type="settlement" key="wd:Q102004825">Monplaiſir</placeName>, et
+                                    type="locality" key="wd:Q102004825">Monplaiſir</placeName>, et
                                 alibi, copioſiſſime.</ab>
                             <ab type="flowering_time">Fl. tota aeſtate.</ab>
                             <ab type="additional_information">In hortis arenoſis ſata, ornat eos
@@ -8314,7 +8314,7 @@
                                 <ab type="vernacular_name" xml:lang="ger">Waſſerampfer.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        paludibus</placeName> hinter <placeName type="settlement"
+                                        paludibus</placeName> hinter <placeName type="locality"
                                         key="wd:Q102004825">Monplaiſir</placeName>; an der <geogName
                                         type="river" key="wd:Q884667">Nuthe</geogName> gegen
                                         <placeName type="settlement" key="wd:Q138293501"
@@ -8480,7 +8480,7 @@
                             <ab type="morphology">floribus heptandris.</ab>
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. ad plateas
-                                    vrbis</placeName>; bey <placeName type="settlement"
+                                    vrbis</placeName>; bey <placeName type="locality"
                                     key="wd:Q102004825">Monplaiſir</placeName>, et alibi.</ab>
                             <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                             <ab type="additional_information">Offic. <hi rend="capital"
@@ -8638,7 +8638,7 @@
                                 Spaniſche Rapunzeln.</ab>
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. in
-                                    arenoſis</placeName> hinter <placeName type="settlement"
+                                    arenoſis</placeName> hinter <placeName type="locality"
                                     key="wd:Q102004825">Monplaiſir</placeName>; auf dem Werder den<placeName
                                     type="locality?" ana="not_ident.">
                                     Schifmühlen</placeName> gegen über, et alibi, frequens.</ab>
@@ -10321,7 +10321,7 @@
                                 <placeName type="habitat_description" xml:lang="lat">H. in
                                     gramineis</placeName> am <placeName type="locality?"
                                     ana="not_ident.">Elbdamme</placeName> hinter <placeName
-                                    type="settlement" key="wd:Q102004825">Monplaiſir</placeName>;
+                                    type="locality" key="wd:Q102004825">Monplaiſir</placeName>;
                                 hinter <placeName type="settlement" key="wd:Q136918327">Werkleiz</placeName>; gegen die <placeName type="locality?"
                                     ana="not_ident.">Fähre</placeName>; et alibi.</ab>
                             <ab type="flowering_time">Fl. Iulio et ſeqq.</ab>
@@ -10478,7 +10478,7 @@
                                 <ab type="vernacular_name" xml:lang="ger">Wolfsmilch;
                                     Teufelsmilch.</ab>
                                 <ab type="location"> H. auf dem <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen <placeName
-                                        type="settlement" key="wd:Q102004825"
+                                        type="locality" key="wd:Q102004825"
                                     >Monplaiſir</placeName>; <placeName type="habitat_description"
                                         xml:lang="lat">in arenoſis trans</placeName>
                                     <geogName type="river" key="wd:Q1644">Albim</geogName>,
@@ -10951,7 +10951,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Heckroſen; wilde Roſen;
                                 Feldroſen.</ab>
                             <ab type="location"> H. im <placeName type="locality?" ana="not_ident."
-                                    >treugen Buſche</placeName> hinter <placeName type="settlement"
+                                    >treugen Buſche</placeName> hinter <placeName type="locality"
                                     key="wd:Q102004825">Monplaiſir</placeName>.</ab>
                             <ab type="flowering_time">Fl. Iunio.</ab>
                         </div>
@@ -11080,7 +11080,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Kratzbeeren.</ab>
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. ad agros et
-                                    in agris</placeName> hinter <placeName type="settlement"
+                                    in agris</placeName> hinter <placeName type="locality"
                                     key="wd:Q102004825">Monplaiſir</placeName>; et alibi,
                                 frequens.</ab>
                             <ab type="additional_information">Caulis inter ſtrigoſitatem adſperſus
@@ -11252,7 +11252,7 @@
                                 <fw>ICOSANDRIA. POLYGYNIA. Potentilla. 123</fw>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        ſterilibus</placeName> gegen <placeName type="settlement"
+                                        ſterilibus</placeName> gegen <placeName type="locality"
                                         key="wd:Q102004825">Monplaiſir</placeName>; auch über der
                                         <geogName type="river" key="wd:Q1644">Elbe</geogName>
                                     <placeName type="habitat_description" xml:lang="lat">in
@@ -11788,7 +11788,7 @@
                             <ab type="morphology">foliis ſexpartitis, flor. cernuis.</ab>
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. in
-                                    gramineis</placeName> hinter <placeName type="settlement"
+                                    gramineis</placeName> hinter <placeName type="locality"
                                     key="wd:Q102004825">Monplaiſir</placeName> gegen die <geogName
                                     type="river" key="wd:Q1644">Elbe</geogName>.</ab>
                             <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
@@ -11823,7 +11823,7 @@
                                 <placeName type="habitat_description" xml:lang="lat">H. ad
                                     dumeta</placeName> in der <placeName type="locality"
                                     key="wd:Q138291720">Gurgel</placeName>; hinter <placeName
-                                    type="settlement" key="wd:Q102004825">Monplaiſir</placeName>, et
+                                    type="locality" key="wd:Q102004825">Monplaiſir</placeName>, et
                                 alibi.</ab>
                             <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                             <ab type="additional_information">Offic. <hi rend="capital"
@@ -12460,7 +12460,7 @@
                                     <placeName type="habitat_description" xml:lang="ger">H. am
                                         Graben beym</placeName>
                                     <placeName type="locality" key="wd:Q138135858">Gnez</placeName>;
-                                    bey <placeName type="settlement" key="wd:Q136918327">Werkleiz</placeName>; hinter <placeName type="settlement"
+                                    bey <placeName type="settlement" key="wd:Q136918327">Werkleiz</placeName>; hinter <placeName type="locality"
                                         key="wd:Q102004825">Monplaiſir</placeName> an der <geogName
                                         type="river" key="wd:Q1644">Elbe</geogName>.</ab>
                                 <ab type="flowering_time">Fl. Iulio.</ab>
@@ -12825,7 +12825,7 @@
                                     <placeName type="habitat_description" xml:lang="lat">H. in
                                         agris</placeName> an der <placeName type="locality?"
                                         ana="not_ident.">Hähniſchen Wieſe</placeName> bey <placeName
-                                        type="settlement" key="wd:Q102004825"
+                                        type="locality" key="wd:Q102004825"
                                     >Monplaiſir</placeName>, et alibi, paſſim.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                                 <ab type="additional_information">Labii lacinia intermedia non
@@ -13216,7 +13216,7 @@
                                 <fw>142 DIDYNAMIA. ANGIOSPERMIA. Euphraſia.</fw>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in agris
-                                        et ad dumeta</placeName> hinter <placeName type="settlement"
+                                        et ad dumeta</placeName> hinter <placeName type="locality"
                                         key="wd:Q102004825">Monplaiſir</placeName>, rarius.</ab>
                                 <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                             </div>
@@ -13581,7 +13581,7 @@
                                     <placeName type="habitat_description" xml:lang="lat">H. in agris
                                         poſt meſſem</placeName> an der <placeName type="locality"
                                         key="wd:Q102004789">Lindenallee</placeName>; bey <placeName
-                                        type="settlement" key="wd:Q102004825"
+                                        type="locality" key="wd:Q102004825"
                                     >Monplaiſir</placeName>, et alibi, copioſe.</ab>
                                 <ab type="flowering_time">Fl. aeſtate et auctumno.</ab>
                                 <ab type="additional_information">Vulneraria eſt. Succus ſalutaris
@@ -13871,7 +13871,7 @@
                                     Schildbeſenkraut.</ab>
                                 <ab type="location"> H. am <placeName type="locality?"
                                         ana="not_ident.">Elbdamme</placeName> hinter <placeName
-                                        type="settlement" key="wd:Q102004825"
+                                        type="locality" key="wd:Q102004825"
                                     >Monplaiſir</placeName>, et alibi, paſſim.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                                 <ab type="additional_information">Petala alba.</ab>
@@ -14600,7 +14600,7 @@
                                     paſſim.</ab>
                                 <ab type="flowering_time">Fl. Maio.</ab>
                                 <ab type="additional_information">Seritur in agris bey <placeName
-                                        type="settlement" key="wd:Q102004825">Monplaiſir</placeName>
+                                        type="locality" key="wd:Q102004825">Monplaiſir</placeName>
                                     in vſus culinares et ad medicinam equorum.</ab>
                             </div>
                             <div type="plant-species" xml:id="s.0544" ana="sinapis.nigra"
@@ -15038,7 +15038,7 @@
                             <ab type="morphology">caule erecto, fol. multipartitis
                                 ſcabriuſculis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Siegmarswurz.</ab>
-                            <ab type="location"> H. hinter <placeName type="settlement"
+                            <ab type="location"> H. hinter <placeName type="locality"
                                     key="wd:Q102004825">Monplaiſir</placeName> am <placeName
                                     type="locality?" ana="not_ident.">Elbdamme</placeName>, et
                                 alibi, paſſim.</ab>
@@ -15072,7 +15072,7 @@
                                 <placeName type="habitat_description" xml:lang="ger">H. am Teiche
                                     hinter den</placeName>
                                 <placeName type="locality?" ana="not_ident.">Baraken</placeName>;
-                                hinter <placeName type="settlement" key="wd:Q102004825"
+                                hinter <placeName type="locality" key="wd:Q102004825"
                                     >Monplaiſir</placeName>
                                 <placeName type="habitat_description" xml:lang="lat">ad foſſas, et
                                     alibi, copioſe</placeName>.</ab>
@@ -15406,7 +15406,7 @@
                                     ſemiſagittatis integerrimis, caule ſimplici.</ab>
                                 <ab type="location"> H. im <placeName type="locality?"
                                         ana="not_ident.">treugen Buſche</placeName> hinter
-                                        <placeName type="settlement" key="wd:Q102004825"
+                                        <placeName type="locality" key="wd:Q102004825"
                                         >Monplaiſir</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Maio, Iunio.</ab>
                                 <ab type="additional_information">Radix ob dulcem ſaporem a Scotis
@@ -16232,7 +16232,7 @@
                                         ana="not_ident.">Pröbsſümpfen</placeName>; <placeName
                                         type="habitat_description" xml:lang="lat">in ſterilibus
                                         glareoſis</placeName> auf dem <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen <placeName
-                                        type="settlement" key="wd:Q102004825"
+                                        type="locality" key="wd:Q102004825"
                                     >Monplaiſir</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Maio et ſeqq.</ab>
                             </div>
@@ -16815,7 +16815,7 @@
                                     laeuibus, inferioribus dentatis.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        arenoſis</placeName> hinter <placeName type="settlement"
+                                        arenoſis</placeName> hinter <placeName type="locality"
                                         key="wd:Q102004825">Monplaiſir</placeName>, et alibi,
                                     frequens.</ab>
                                 <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
@@ -17012,7 +17012,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
                                             aridis ſiccis</placeName> auf dem <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen <placeName
-                                            type="settlement" key="wd:Q102004825"
+                                            type="locality" key="wd:Q102004825"
                                             >Monplaiſir</placeName>, et alibi, copioſe.</ab>
                                     <ab type="flowering_time">Fl. Maio et ſeqq.</ab>
                                     <ab type="additional_information">Offic. <hi rend="capital"
@@ -17820,7 +17820,7 @@
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
                                             aridis ſterilibus</placeName> gegen <placeName
-                                            type="settlement" key="wd:Q102004825"
+                                            type="locality" key="wd:Q102004825"
                                             >Monplaiſir</placeName> rarius; bey <placeName
                                             type="settlement" key="wd:Q130243991"
                                             >Tochheim</placeName>, et alibi trans <geogName
@@ -18399,7 +18399,7 @@
                                         perianthii.</ab>
                                     <ab type="location"> H. auf dem <placeName type="locality" key="wd:Q27780047">Schloßhofe</placeName>; <placeName
                                             type="habitat_description" xml:lang="lat"> in
-                                            arenoſis</placeName> hinter <placeName type="settlement"
+                                            arenoſis</placeName> hinter <placeName type="locality"
                                             key="wd:Q102004825">Monplaiſir</placeName>, et alibi,
                                         frequens.</ab>
                                     <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
@@ -18480,7 +18480,7 @@
                                         acute ſerratis ſubtus ſubuilloſis, caule ſtricto.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. ad ſtagna</placeName> hinter 
-                                        <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>; ad 
+                                        <placeName type="locality" key="wd:Q102004825">Monplaiſir</placeName>; ad 
                                         <geogName type="river" key="wd:Q1678">Salam</geogName> in der
                                         <placeName type="locality" key="wd:Q141624178">Hinterluke</placeName>, frequens.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
@@ -19019,7 +19019,7 @@
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. in ſiccis
                                     ſterilibus</placeName> auf dem <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen <placeName
-                                    type="settlement" key="wd:Q102004825">Monplaiſir</placeName>,
+                                    type="locality" key="wd:Q102004825">Monplaiſir</placeName>,
                                 frequens.</ab>
                             <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
                             <ab type="additional_information">Foliis tenuibus, floribus ſparſis
@@ -19808,7 +19808,7 @@
                                     triquetro.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. in
-                                        arenoſis</placeName> hinter <placeName type="settlement"
+                                        arenoſis</placeName> hinter <placeName type="locality"
                                         key="wd:Q102004825">Monplaiſir</placeName>, et alibi trans
                                         <geogName type="river" key="wd:Q1644">Albim</geogName>,
                                     copioſe.</ab>
@@ -21447,7 +21447,7 @@
                                     key="wd:Q138135858">Gnez</placeName>; <placeName
                                     type="habitat_description" xml:lang="ger">am Damme
                                     hinter</placeName>
-                                <placeName type="settlement" key="wd:Q102004825"
+                                <placeName type="locality" key="wd:Q102004825"
                                     >Monplaiſir</placeName>, et alibi, copioſe.</ab>
                             <ab type="flowering_time">Fl. aeſtate.</ab>
                             <ab type="additional_information">Rami patentes, infimi procumbentes;
@@ -21633,7 +21633,7 @@
                                 <ab type="vernacular_name" xml:lang="ger">Schachtelhalm.</ab>
                                 <ab type="location">
                                     <placeName type="habitat_description" xml:lang="lat">H. ad
-                                        ſtagna</placeName> hinter <placeName type="settlement"
+                                        ſtagna</placeName> hinter <placeName type="locality"
                                         key="wd:Q102004825">Monplaiſir</placeName>, et alibi.</ab>
                                 <ab type="flowering_time">Fl. aeſtate.</ab>
                                 <ab type="additional_information">Caulis viridis, ſcaber, radens.
@@ -22500,7 +22500,7 @@
                                         campis humidis</placeName> gegen den <placeName
                                         type="locality" key="wd:Q138135858">Gnez</placeName>; am
                                         <placeName type="locality?" ana="not_ident."
-                                        >Elbdamme</placeName> hinter <placeName type="settlement"
+                                        >Elbdamme</placeName> hinter <placeName type="locality"
                                         key="wd:Q102004825">Monplaiſir</placeName>; et alibi,
                                     paſſim.</ab>
                                 <ab type="flowering_time">Fl. hieme et primo vere.</ab>
@@ -24384,7 +24384,7 @@
                                             β. L. rangiferinus ſyluaticus in ſterilibus</placeName>
                                         <placeName type="habitat_description" xml:lang="ger">auf dem
                                             <placeName type="locality?" ana="not_ident.">Anger</placeName> zwiſchen dem Damme und</placeName>
-                                        <placeName type="settlement" key="wd:Q102004825"
+                                        <placeName type="locality" key="wd:Q102004825"
                                             >Monplaiſir</placeName>, et alibi trans <geogName
                                             type="river" key="wd:Q1644">Albim</geogName>,
                                         copioſe.</ab>
@@ -25614,7 +25614,7 @@
                             <ab type="vernacular_name" xml:lang="ger">Morcheln.</ab>
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="lat">H. ad dumeta</placeName> hinter 
-                                <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>; auch in der
+                                <placeName type="locality" key="wd:Q102004825">Monplaiſir</placeName>; auch in der
                                 <placeName type="locality" key="wd:Q141624289">Vorderluke</placeName>; rarius.</ab>
                             <ab type="additional_information">Aprili, Maio. Hic ad cibos et iuſcula
                                 expetitur; hinc etiam ſiccatus ad ſeruatur et diuenditur.</ab>
@@ -25797,7 +25797,7 @@
                             <ab type="location">
                                 <placeName type="habitat_description" xml:lang="ger">H. auf dem
                                 <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen</placeName>
-                                <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>, et alibi, copioſe.</ab>
+                                <placeName type="locality" key="wd:Q102004825">Monplaiſir</placeName>, et alibi, copioſe.</ab>
                             <ab type="additional_information">Aeſtate et auctumno. Offic. <hi
                                     rend="capital">BOVISTA</hi> ſeu <hi rend="capital">CREPITVS
                                     LVPI</hi>. Antiqui Chirurgi Germani tamquam ſacra anchora eo vſi
