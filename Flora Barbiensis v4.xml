@@ -793,12 +793,10 @@
                                     </head>
                                     <ab type="morphology">ſpicis terminalibus, foliis ternis
                                         inaequaliter ſerratis.</ab>
-                                    <ab type="location"> H. ad <geogName type="river" key="wd:Q1678"
-                                            >Salam</geogName> in der <placeName type="locality?"
-                                            ana="not_ident.">Hinterluke</placeName>; ad <geogName
-                                            type="river" key="wd:Q1644">Albim</geogName> hinter
-                                            <placeName type="settlement" key="wd:Q102004825"
-                                            >Monplaiſir</placeName>.</ab>
+                                    <ab type="location"> H. ad <geogName type="river" key="wd:Q1678">Salam</geogName> in der 
+                                        <placeName type="locality" key="wd:Q141624178">Hinterluke</placeName>; ad 
+                                        <geogName type="river" key="wd:Q1644">Albim</geogName> hinter
+                                        <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                                     <ab type="additional_information">Spicae laxiores.</ab>
                                 </div>
@@ -10790,9 +10788,8 @@
                                 ſolitariis ſeſſilibus.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Gemeine Miſpeln.</ab>
                             <ab type="location">
-                                <placeName type="habitat_description" xml:lang="lat">H. in
-                                    nemoribus</placeName> in der <placeName type="locality?"
-                                        ana="not_ident.">Vorderluke</placeName> gegen <placeName type="settlement" key="wd:Q102004858">Saalhorn</placeName>; auch gegen
+                                <placeName type="habitat_description" xml:lang="lat">H. in nemoribus</placeName> in der 
+                                <placeName type="locality" key="wd:Q141624289">Vorderluke</placeName> gegen <placeName type="settlement" key="wd:Q102004858">Saalhorn</placeName>; auch gegen
                                 dem <placeName type="locality?" ana="not_ident."
                                     >Schloſſe</placeName>
                                 <placeName type="habitat_description" xml:lang="ger">über im Buſche
@@ -14613,12 +14610,9 @@
                                     <name xml:lang="lat" key="wd:Q21877455">S. (nigra)</name>
                                 </head>
                                 <ab type="morphology">ſiliquis glabris racemo adpreſſis.</ab>
-                                <ab type="location"> H. ad <geogName type="river" key="wd:Q1678"
-                                        >Salam</geogName>
-                                    <placeName type="habitat_description" xml:lang="ger">auf den
-                                        Dämmen bey der</placeName>
-                                    <placeName type="locality?" ana="not_ident."
-                                        >Hinterluke</placeName>, et alibi, copioſe.</ab>
+                                <ab type="location"> H. ad <geogName type="river" key="wd:Q1678">Salam</geogName>
+                                    <placeName type="habitat_description" xml:lang="ger">auf den Dämmen bey der</placeName>
+                                    <placeName type="locality" key="wd:Q141624178">Hinterluke</placeName>, et alibi, copioſe.</ab>
                                 <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital"
                                         >SINAPEOS</hi> Semina. Ad calefaciendum, extenuandum
@@ -17525,9 +17519,8 @@
                                 <ab type="additional_information">Pro luteo colore ad pannos
                                     rudiores tingendos colligitur et vſurpatur. Varietas foliis
                                     omnibus ſerratis, ſed inciſura carentibus C. B. Pin. p. 235. n.
-                                    1. creſcit ad <geogName type="river" key="wd:Q1678"
-                                        >Salam</geogName> in der <placeName type="locality?"
-                                        ana="not_ident.">Hinterluke</placeName>. Folia ciliata.</ab>
+                                    1. creſcit ad <geogName type="river" key="wd:Q1678">Salam</geogName> in der 
+                                    <placeName type="locality" key="wd:Q141624178">Hinterluke</placeName>. Folia ciliata.</ab>
                             </div>
                             <fw>659.</fw>
                             <pb n="185"/>
@@ -18486,12 +18479,10 @@
                                     <ab type="morphology">corollis radiantibus, fol. enſiformibus
                                         acute ſerratis ſubtus ſubuilloſis, caule ſtricto.</ab>
                                     <ab type="location">
-                                        <placeName type="habitat_description" xml:lang="lat">H. ad
-                                            ſtagna</placeName> hinter <placeName type="settlement"
-                                            key="wd:Q102004825">Monplaiſir</placeName>; ad <geogName
-                                            type="river" key="wd:Q1678">Salam</geogName> in der
-                                            <placeName type="locality?" ana="not_ident."
-                                            >Hinterluke</placeName>, frequens.</ab>
+                                        <placeName type="habitat_description" xml:lang="lat">H. ad ſtagna</placeName> hinter 
+                                        <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>; ad 
+                                        <geogName type="river" key="wd:Q1678">Salam</geogName> in der
+                                        <placeName type="locality" key="wd:Q141624178">Hinterluke</placeName>, frequens.</ab>
                                     <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                                     <ab type="additional_information">Planta procera ad ſexpedalem
                                         altitudinem adſcendens.</ab>
@@ -25622,11 +25613,9 @@
                             <ab type="morphology">pileo ouato celluloſo, ſtipite nudo rugoſo.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Morcheln.</ab>
                             <ab type="location">
-                                <placeName type="habitat_description" xml:lang="lat">H. ad
-                                    dumeta</placeName> hinter <placeName type="settlement"
-                                    key="wd:Q102004825">Monplaiſir</placeName>; auch in der
-                                    <placeName type="locality?" ana="not_ident."
-                                    >Vorderluke</placeName>; rarius.</ab>
+                                <placeName type="habitat_description" xml:lang="lat">H. ad dumeta</placeName> hinter 
+                                <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>; auch in der
+                                <placeName type="locality" key="wd:Q141624289">Vorderluke</placeName>; rarius.</ab>
                             <ab type="additional_information">Aprili, Maio. Hic ad cibos et iuſcula
                                 expetitur; hinc etiam ſiccatus ad ſeruatur et diuenditur.</ab>
                         </div>

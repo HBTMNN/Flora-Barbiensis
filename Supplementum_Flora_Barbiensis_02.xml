@@ -992,7 +992,7 @@
                             <ab type="morphology">ſiliculis biarticulatis monoſpermis, foliis extrorſum
                                 ſinuatis denticulatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in editis wenn man vom 
-                                <placeName type="locality?" ana="not_ident.">neuen Krug</placeName> rechter Hand gegen
+                                <placeName type="settlement" key="wd:Q141623997">neuen Krug</placeName> rechter Hand gegen
                                 <placeName type="settlement" key="wd:Q992421">Bromby</placeName> zu gehet.
                               </placeName></ab>
                             <ab type="additional_information">Siliculae articulus inferior abortit, ſuperior
@@ -1621,7 +1621,8 @@
                                 <name xml:lang="lat" key="wd:Q158912">SALIX (pentandra)</name>
                             </head>
                             <ab type="morphology">foliis ſerratis glabris, floribus pentandris</ab>
-                            <ab type="location"><placeName type="habitat_description">H. in ſaliceto in der Hinterlucke.</placeName>
+                            <ab type="location"><placeName type="habitat_description">H. in ſaliceto in der 
+                                <placeName type="locality" key="wd:Q141624178">Hinterlucke</placeName>.</placeName>
                                 </ab>
                             <ab type="flowering_time">Fl. Aprili, Maio.</ab>
                             <ab type="additional_information">Reliquarum ſpecierum vltima. Hactenus tamen
@@ -1735,10 +1736,10 @@
                             <ab type="morphology">caule herbaceo, foliis deltoidibus ſinuato-dentatis
                                 vndulatis alternis. Atriplex maritima noſtra procerior. Pluk.alm. 60.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſalicetis an der
-                                <geogName type="river" key="wd:Q1678">Saale</geogName> in der Hinterlucken; in
-                                ſyluatiticis humidis an der
-                                <geogName type="river" key="wd:Q1644">Elbe</geogName> Montplaiſir gegen über,
-                                et alibi paſſim.</placeName></ab>
+                                <geogName type="river" key="wd:Q1678">Saale</geogName> in der 
+                                <placeName type="locality" key="wd:Q141624178">Hinterlucken</placeName>; in ſyluatiticis humidis an der
+                                <geogName type="river" key="wd:Q1644">Elbe</geogName> 
+                                <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName> gegen über, et alibi paſſim.</placeName></ab>
                             <ab type="flowering_time">Fl. Iulio.</ab>
                             <ab type="additional_information">Altitudo humana et vltra. Folia ſubtus cinerea,
                                 ſaepius quatuor vncias longa, terminata apice cuſpide duarum unciarum
@@ -2541,7 +2542,7 @@
                             <ab type="location"><placeName type="habitat_description">H. ad radices arborum
                                 putreſcentium hinter
                                 <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName> am
-                                Burgfelde, et alibi.</placeName></ab>
+                                <placeName type="locality" key="wd:Q141624113">Burgfelde</placeName>, et alibi.</placeName></ab>
                             <ab type="flowering_time">Auctumno.</ab>
                             <ab type="additional_information">Stipes et pileus ſuperne vernice coloris
                                 rufo-fuſci ſeu corallini obductus, glaber, et quaſi cuticula laxa circumdatus.
@@ -2916,7 +2917,8 @@
                                 cinereo.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Grauer Holzſchimmel.</ab>
                             <ab type="reference">Eft Hall. Enum. p. 9. T. I. f. 2.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. in corticibus ſalicum in der Hinterlucke et alibi infrequens. Perſiſtens.</placeName>
+                            <ab type="location"><placeName type="habitat_description">H. in corticibus ſalicum in der 
+                                <placeName type="locality" key="wd:Q141624178">Hinterlucke</placeName> et alibi infrequens. Perſiſtens.</placeName>
                                 </ab>
                             <ab type="additional_information">Globuli cinerei vel albidi. Stipites in noſtris
                                 fere concolores. Cruſta capituli rumpens oſtendit interne colorem nigrum.
@@ -2931,8 +2933,8 @@
                                 capitulo globoſo. Lichen (capitatus) cruſtaceus viridis, foliis furfuraceis,
                                 ſtipite filiformi, capitulo głoboſo.</ab>
                             <ab type="reference">Schreb. Spicil. Lipſ. p. 134.</ab>
-                            <ab type="location"><placeName type="habitat_description">H. in rimis corticis
-                                quercuum annoſarum in der <placeName type="locality">Vorderlucke</placeName>
+                            <ab type="location"><placeName type="habitat_description">H. in rimis corticis quercuum annoſarum in der 
+                                <placeName type="locality" key="wd:Q141624289">Vorderlucke</placeName>
                                 gegen <placeName type="settlement" key="wd:Q102004858">Saalhorn</placeName>.
                                 Perſiſtens.</placeName></ab>
                         </div>
@@ -3331,8 +3333,10 @@
                 <ab type="emendation" xml:id="sup.add.048">
                     <ref>Ad pag. 153.</ref></ab>
                     <ab type="name_reference">Braſſica campeſtris</ab>
-                <ab type="location">habitat in agris von <placeName type="settlement" ana="non_ident.">Mühlingen</placeName> die Berge hinauf; in der
-                        <placeName type="locality">Vorderlucke</placeName> gegen <placeName type="settlement" key="wd:Q102004858">Saalhorn</placeName> et alibi.</ab>
+                    <ab type="location">habitat in agris von 
+                        <placeName type="settlement" ana="non_ident.">Mühlingen</placeName> die Berge hinauf; in der
+                        <placeName type="locality" key="wd:Q141624289">Vorderlucke</placeName> gegen 
+                        <placeName type="settlement" key="wd:Q102004858">Saalhorn</placeName> et alibi.</ab>
                     <ab type="additional_information">Colitur in hortis noſtris, et ſub
                         nomine Schnittkohl ad olera vſurpatur.</ab>
                 
@@ -3401,7 +3405,7 @@
                     <ref>Ad pag. 170.</ref></ab>
                     <ab type="name_reference">Hedyſarum Onobrychis</ab>
                     <ab type="location">creſcit etiam in collibus aridis vom 
-                        <placeName type="locality?" ana="not_ident.">neuen Kruge</placeName> nach
+                        <placeName type="settlement" key="wd:Q141623997">neuen Kruge</placeName> nach
                         <placeName type="settlement" key="wd:Q992421">Bromby</placeName> zu.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.059">
@@ -3499,7 +3503,8 @@
                 <ab type="emendation" xml:id="sup.add.073.1">
                     <ref>Ad pag. 200.</ref></ab>
                     <ab type="name_reference">Viola hirta</ab>
-                    <ab type="location">creſcit frequens auf der großen Wieſe gegen die Hinterlucke zu
+                    <ab type="location">creſcit frequens auf der großen Wieſe gegen die 
+                        <placeName type="locality" key="wd:Q141624178">Hinterlucke</placeName> zu
                         et alibi.</ab>
                 
                 <ab type="emendation" xml:id="sup.add.073.2">
