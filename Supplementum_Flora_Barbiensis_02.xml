@@ -813,7 +813,7 @@
                             ">
                             <head>
                                 <num>1048.</num>
-                                <name xml:lang="lat" key="wd:???">T. (europaeus)</name>
+                                <name xml:lang="lat" key="wd:?">T. (europaeus)</name>
                             </head>
                             <ab type="morphology">corollis conniuentibus, nectariis longitudine ſtaminum.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in pratis, auf den
@@ -903,7 +903,7 @@
                         <div type="plant-species" xml:id="sup.s.1052" ana="orobanche.laeuis" n="OROBANCHE laeuis">
                             <head>
                                 <num>1052.</num>
-                                <name xml:lang="lat" key="wd:???">OROBANCHE (laeuis)</name>
+                                <name xml:lang="lat" key="wd:?">OROBANCHE (laeuis)</name>
                             </head>
                             <ab type="morphology">caule ſimpliciſſimo laeui, ſtaminibus exſertis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſaliceto ad
@@ -1465,7 +1465,7 @@
                         <div type="plant-species" xml:id="sup.s.1077" ana="serapias.longifolia" n="SERAPIAS longifolia">
                             <head>
                                 <num>1077.</num>
-                                <name xml:lang="lat" key="wd:???">SERAPIAS (longifolia)</name>
+                                <name xml:lang="lat" key="wd:?">SERAPIAS (longifolia)</name>
                             </head>
                             <ab type="morphology">bulbis fibroſis, foliis enſiformibus ſeſſilibus, floribus
                                 pendulis.</ab>
@@ -1898,7 +1898,7 @@
                         <div type="plant-species" xml:id="sup.s.1099" ana="mnium.fontanum" n="MNIUM fontanum">
                             <head>
                                 <num>1099.</num>
-                                <name xml:lang="lat" key="wd:???">M. (fontanum)</name>
+                                <name xml:lang="lat" key="wd:?">M. (fontanum)</name>
                             </head>
                             <ab type="morphology">caule ſimplici geniculis inflexo.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Schlankes ſpeichenförmig getheiltes
@@ -1980,7 +1980,7 @@
                         <div type="plant-species" xml:id="sup.s.1104" ana="bryum.paludoſum" n="BRYUM paludoſum">
                             <head>
                                 <num>1104.</num>
-                                <name xml:lang="lat" key="wd:???">B. (paludoſum)</name>
+                                <name xml:lang="lat" key="wd:?">B. (paludoſum)</name>
                             </head>
                             <ab type="morphology">acaule, foliis ſetaceis, antheris obtuſiſſimis patulis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad foueas humidas im
@@ -2058,7 +2058,7 @@
                         <div type="plant-species" xml:id="sup.s.1109" ana="hypnum.polyanthes" n="HYPNUM polyanthes">
                             <head>
                                 <num>1109.</num>
-                                <name xml:lang="lat" key="wd:???">H. (polyanthes)</name>
+                                <name xml:lang="lat" key="wd:?">H. (polyanthes)</name>
                             </head>
                             <ab type="morphology">ſurculis ramoſiſſimis, ramis rectis teretibus multifloris,
                                 capſulis erectis. Schr. Spic. Lipſ. pag. 97. Mattuſchka Enumerat. ſtirp. ſil.
@@ -2081,7 +2081,7 @@
                         <div type="plant-species" xml:id="sup.s.1110" ana="lichen.roſeus" n="LICHEN roſeus">
                             <head>
                                 <num>1110.</num>
-                                <name xml:lang="lat" key="wd:???">LICHEN (roſeus)</name>
+                                <name xml:lang="lat" key="wd:?">LICHEN (roſeus)</name>
                             </head>
                             <ab type="morphology">puluerulentus conglomeratus roſeus. Schreb. Spic. Lipſ. p.
                                 140.</ab>
@@ -2134,7 +2134,7 @@
                         <div type="plant-species" xml:id="sup.s.1114" ana="lichen.pullus" n="LICHEN pullus">
                             <head>
                                 <num>1114.</num>
-                                <name xml:lang="lat" key="wd:???">L. (pullus)</name>
+                                <name xml:lang="lat" key="wd:?">L. (pullus)</name>
                             </head>
                             <ab type="morphology">imbricatus, foliolis lobatis oliuaceis, ſcutellis
                                 integerrimis. Schreb. Spic. Lipſ. pag. 131.</ab>
@@ -2192,7 +2192,7 @@
                         <div type="plant-species" xml:id="sup.s.1118" ana="lichen.castaneusnobis" n="LICHEN castaneus nobis">
                             <head>
                                 <num>1118.</num>
-                                <name xml:lang="lat" key="wd:???">L. (caſtaneus nobis)</name>
+                                <name xml:lang="lat" key="wd:?">L. (caſtaneus nobis)</name>
                             </head>
                             <ab type="morphology">fruticuloſus ſolidus laeuis compreſſus ramoſus: ramis
                                 breuibus ſubtricuſpidatis. Lichen terreſtris anguſtior ramoſiſſimus fuſcus.
@@ -2273,7 +2273,7 @@
                         <div type="plant-species" xml:id="sup.s.1123" ana="byssus.coriacea" n="BYSSUS coriacea">
                             <head>
                                 <num>1123.</num>
-                                <name xml:lang="lat" key="wd:???">B. (coriacea)</name>
+                                <name xml:lang="lat" key="wd:?">B. (coriacea)</name>
                             </head>
                             <ab type="morphology">perennis denſiſſima albicans. Schreb. Spic. Lipſ. p. 144.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in quercubus annoſis
@@ -2287,7 +2287,7 @@
                         <div type="plant-species" xml:id="sup.s.1124" ana="byssus.aeruginosa" n="BYSSUS aeruginosa">
                             <head>
                                 <num>1124.</num>
-                                <name xml:lang="lat" key="wd:???">B. (aeruginoſa)</name>
+                                <name xml:lang="lat" key="wd:?">B. (aeruginoſa)</name>
                             </head>
                             <ab type="morphology">cruſta viridiſſima.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Grüſpan-Byſſus.</ab>
@@ -2301,7 +2301,7 @@
                         <div type="plant-species" xml:id="sup.s.1125" ana="byssus.crocea" n="BYSSUS crocea">
                             <head>
                                 <num>1125.</num>
-                                <name xml:lang="lat" key="wd:???">B. (crocea)</name>
+                                <name xml:lang="lat" key="wd:?">B. (crocea)</name>
                             </head>
                             <ab type="morphology">pulverulenta crocea. Schreb. Spic. Lipſ. p. 139. ſub
                                 Lichene.</ab>
@@ -2344,7 +2344,7 @@
                         <div type="plant-species" xml:id="sup.s.1127" ana="agaricus.caerulescensschaeſſeri" n="AGARICUS caerulescens Schaeſſeri">
                             <head>
                                 <num>1127.</num>
-                                <name xml:lang="lat" key="wd:???">A. (caeruleſcens Schaeſſeri)</name>
+                                <name xml:lang="lat" key="wd:?">A. (caeruleſcens Schaeſſeri)</name>
                             </head>
                             <ab type="morphology">ſtipitatus carnoſus, pileo conuexo, centro ſaepe depreſſo
                                 fuſceſcente, margine caeruleſcente; lamellis caeruleſcentibus, petiolo tereti
@@ -2362,7 +2362,7 @@
                         <div type="plant-species" xml:id="sup.s.1128" ana="agaricus.rufusnobis" n="AGARICUS rufus nobis">
                             <head>
                                 <num>1128.</num>
-                                <name xml:lang="lat" key="wd:???">A. (rufus nobis)</name>
+                                <name xml:lang="lat" key="wd:?">A. (rufus nobis)</name>
                             </head>
                             <ab type="morphology">ſtipitatus, pileo conuexo viſcido ſpadiceo; lamellis laxis
                                 pallidioribus; ſtipite fiſtuloſo fuſco. Agaricus pileolo hemisphaerico
@@ -2534,7 +2534,7 @@
                         <div type="plant-species" xml:id="sup.s.1137" ana="boletus.flabelliformis" n="BOLETUS flabelliformis">
                             <head>
                                 <num>1137.</num>
-                                <name xml:lang="lat" key="wd:???">B. (flabelliformis)</name>
+                                <name xml:lang="lat" key="wd:?">B. (flabelliformis)</name>
                             </head>
                             <ab type="morphology">ſtipitatus coriaceus, poris tenuiſſimis, ſtipite laterali.</ab>
                             <ab type="reference">Leyſer Hall. p. 219. Gled. Fung. p. 80. d. Boletus lucidus.
@@ -2612,7 +2612,7 @@
                         <div type="plant-species" xml:id="sup.s.1141" ana="heluella.subcutanea" n="HELUELLA Jubcutanea">
                             <head>
                                 <num>1141.</num>
-                                <name xml:lang="lat" key="wd:???">H. (ſubcutanea)</name>
+                                <name xml:lang="lat" key="wd:?">H. (ſubcutanea)</name>
                             </head>
                             <ab type="morphology">fibroſo-reticulata, nigro-fuſca; fibris rigidis et
                                 compreſſis. Gled. Fung. p. 53.</ab>
@@ -2626,7 +2626,7 @@
                         <div type="plant-species" xml:id="sup.s.1142" ana="heluella.ceratofperma" n="HELUELLA ceratofperma">
                             <head>
                                 <num>1142.</num>
-                                <name xml:lang="lat" key="wd:???">H. (ceratoſperma)</name>
+                                <name xml:lang="lat" key="wd:?">H. (ceratoſperma)</name>
                             </head>
                             <ab type="morphology">ſcutellata ouata, ſubcutanea. Schreb. Spicil. Lipſ. p. 112.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in cortice populi
@@ -2769,7 +2769,7 @@
                         <div type="plant-species" xml:id="sup.s.1150" ana="clavaria.intybacea" n="CLAVARIA intybacea">
                             <head>
                                 <num>1150.</num>
-                                <name xml:lang="lat" key="wd:???">C. (intybacea)</name>
+                                <name xml:lang="lat" key="wd:?">C. (intybacea)</name>
                             </head>
                             <ab type="morphology">ramoſa, apicibus latis criſpatis.</ab>
                             <ab type="reference">Reyger Gedan. p. 180. Gled. Fung. Boletus XI. p. 75?</ab>
@@ -2863,7 +2863,7 @@
                         <div type="plant-species" xml:id="sup.s.1155" ana="clavaria.cancellatum" n="CLAVARIA cancellatum">
                             <head>
                                 <num>1155.</num>
-                                <name xml:lang="lat" key="wd:???">L. (cancellatum)</name>
+                                <name xml:lang="lat" key="wd:?">L. (cancellatum)</name>
                             </head>
                             <ab type="morphology">paraſiticum, apice puſtula lateribus fiſſa.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in pagina auerſa foliorum pyri et pruni frequens.</placeName>
@@ -2875,7 +2875,7 @@
                         <div type="plant-species" xml:id="sup.s.1156" ana="clavaria.truncatum" n="CLAVARIA truncatum">
                             <head>
                                 <num>1156.</num>
-                                <name xml:lang="lat" key="wd:???">L. (truncatum)</name>
+                                <name xml:lang="lat" key="wd:?">L. (truncatum)</name>
                             </head>
                             <ab type="morphology">paraſiticum ſubrotundum truncatum.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in truncis ſalicum
