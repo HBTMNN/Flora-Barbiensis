@@ -849,7 +849,7 @@
                                     </head>
                                     <ab type="morphology">ſpicis lateralibus pedunculatis, fol.
                                         oppoſitis, caule procumbente.</ab>
-                                    <ab type="vernacular" xml:lang="ger">Officineller
+                                    <ab type="vernacular_name" xml:lang="ger">Officineller
                                         Ehrenpreiß.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
@@ -896,7 +896,7 @@
                                     </head>
                                     <ab type="morphology">racemis lateralibus, fol. ouatis planis,
                                         caule repente.</ab>
-                                    <ab type="vernacular" xml:lang="ger">Bachbungen.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Bachbungen.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
                                             foſſis</placeName> bey <placeName type="settlement"
@@ -961,7 +961,7 @@
                                     <ab type="morphology">racemis lateralibus longiſſimis, fol.
                                         ouatis rugoſis dentatis obtuſiuſculis, caulibus
                                         procumbentibus.</ab>
-                                    <ab type="vernacular" xml:lang="ger">Erdbathengel.</ab>
+                                    <ab type="vernacular_name" xml:lang="ger">Erdbathengel.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="ger">H. im
                                             Buſche gegen</placeName>
@@ -1000,7 +1000,7 @@
                                     </head>
                                     <ab type="morphology">racemis lateralibus, fol. ouatis rugoſis
                                         dentatis ſeſſilibus, caule bifariam piloſo.</ab>
-                                    <ab type="vernacular" xml:lang="ger">Gamanderlein;
+                                    <ab type="vernacular_name" xml:lang="ger">Gamanderlein;
                                         Bathengel.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
@@ -1021,7 +1021,7 @@
                                     </head>
                                     <ab type="morphology">flor. ſolitariis, fol. cordatis inciſis
                                         pedunculo breuioribus.</ab>
-                                    <ab type="vernacular" xml:lang="ger">Hünerdarm mit
+                                    <ab type="vernacular_name" xml:lang="ger">Hünerdarm mit
                                         Gamanderleinblättern.</ab>
                                     <ab type="location">
                                         <placeName type="habitat_description" xml:lang="lat">H. in
@@ -24451,7 +24451,7 @@
                                         Faden-Lichen.</ab>
                                     <ab type="location"> H. extra term. Fl. Barb. in <placeName
                                             type="locality?" ana="not_ident.">Brands
-                                            Heide.</placeName>
+                                            Heide</placeName>.
                                     </ab>
                                     <ab type="additional_information">Perſiſtens. Cauliculi ad
                                         ſemipedalem longitudinem et vltra protenſi alte dependent ex
