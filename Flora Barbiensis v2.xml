@@ -21722,13 +21722,12 @@
                                     ſtipite paleaceo.</ab>
                                 <ab type="vernacular_name" xml:lang="ger">Farnkraut.</ab>
                                 <ab type="location">
-                                    <placeName type="habitat_description" xml:lang="lat">H. ad
-                                        muros</placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName> bey der Prinzeß;
-                                        <placeName type="habitat_description" xml:lang="lat">in
-                                        ſyluaticis trans</placeName>
+                                    <placeName type="habitat_description" xml:lang="lat">H. ad muros
+                                    </placeName> im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName> bey der 
+                                    <placeName type="locality" key="wd:Q141734233">Prinzeß</placeName>;
+                                    <placeName type="habitat_description" xml:lang="lat">in ſyluaticis trans</placeName>
                                     <geogName type="river" key="wd:Q1644">Albim</geogName> bey
-                                        <placeName type="settlement" key="wd:Q27479030"
-                                        >Friederikenberg</placeName>, et alibi, frequens.</ab>
+                                    <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>, et alibi, frequens.</ab>
                                 <ab type="additional_information">Offic. <hi rend="capital"
                                         >FILICIS</hi> Radix, Herba. In cataplaſmate herba cocta
                                     vlceribus vetuſtis vtiliſſime imponitur. Radix in

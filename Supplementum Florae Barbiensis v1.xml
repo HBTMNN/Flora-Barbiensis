@@ -2354,7 +2354,7 @@
                             <ab type="reference">Mattuſchka Enumerat. Stirp. Sileſ. pag. 330.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad pinos im
                                 <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName> gegen
-                                die Prinzeß zu.</placeName></ab>
+                                die <placeName type="locality" key="wd:Q141734233">Prinzeß</placeName> zu.</placeName></ab>
                             <ab type="flowering_time">Octobri.</ab>
                             <ab type="additional_information">Forte varietas A. violacei? Mattuſchka. Secundum
                                 Reichardum Syſt. Plant. Vol. IV. p. 602. omnino huius varietas eſt.</ab>
