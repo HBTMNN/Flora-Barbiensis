@@ -2197,17 +2197,16 @@
                             <div type="species" xml:id="s.0066" corresp="https://dr.jacq.org/DR023527">
                                 <head>
                                     <num>66.</num>
-                                    <name type="plant-species" xml:lang="lat" n="Melica caerulea" key="wd:Q87634102">M. (caerulea)</name>
+                                    <name type="plant-species" xml:lang="lat" n="Melica caerulea" key="wd:Q87634102"
+                                        >M. (caerulea)</name>
                                 </head>
                                 <ab type="morphology">panicula coarctata, floribus cylindricis.
                                     Mant. 2. p. 325. Aira caerulea. Sp. Pl. p. 95.</ab>
                                 <ab type="location">
-                                    <placeName type="habitat_description" xml:lang="ger">H. im
-                                        Buſche über der</placeName>
+                                    <placeName type="habitat_description" xml:lang="ger">H. im Buſche über der</placeName>
                                     <geogName type="river" key="wd:Q1644">Elbe</geogName>; im
-                                        <placeName type="locality" key="wd:Q32018582"
-                                        >Friedrichsholze</placeName> bey <placeName
-                                        type="settlement" key="wd:Q155981">Zerbſt</placeName>.</ab>
+                                    <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey 
+                                    <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</ab>
                                 <ab type="flowering_time">Fl. Auguſto.</ab>
                                 <ab type="additional_information">Ob pedicellum apice capitatum
                                     inter floſculos exſurgentem ad Melicas relata. Pabulum a
