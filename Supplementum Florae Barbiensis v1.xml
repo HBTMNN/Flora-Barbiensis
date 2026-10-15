@@ -183,7 +183,8 @@
                             <ab type="morphology">paniculae ramulis patentibus muticis, culmo repente,
                                 calycibus aequalibus.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in pratis an der
-                                <geogName type="river" key="wd:Q1644">Elbe</geogName> gegen <placeName type="settlement" key="wd:Q16020">Schönebeck</placeName>.
+                                <geogName type="river" key="wd:Q1644">Elbe</geogName> gegen 
+                                <placeName type="settlement" key="wd:Q16020">Schönebeck</placeName>.
                               </placeName></ab>
                             <ab type="flowering_time">Fl. Iunio, Iulio.</ab>
                         </div>
