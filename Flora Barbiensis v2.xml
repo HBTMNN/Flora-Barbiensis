@@ -22173,7 +22173,7 @@
                                 <div type="species" xml:id="s.0872">
                                     <head>
                                         <num>872.</num>
-                                        <name type="plant-species" xml:lang="lat" n="Hpnum illecebrum" key="?">H. (illecebrum)</name>
+                                        <name type="plant-species" xml:lang="lat" n="Hpnum illecebrum" key="wd:?">H. (illecebrum)</name>
                                     </head>
                                     <ab type="morphology">ſurculis ramisque vagis teretibus
                                         erectiuſculis obtuſis.</ab>
@@ -24380,7 +24380,7 @@
                             <div type="species" xml:id="s.0974">
                                 <head>
                                     <num>974.</num>
-                                    <name type="plant-species" xml:lang="lat" n="Agaricus infundibulum" key="?">A. (Infundibulum)</name>
+                                    <name type="plant-species" xml:lang="lat" n="Agaricus infundibulum" key="wd:?">A. (Infundibulum)</name>
                                 </head>
                                 <ab type="morphology">ſtipitatus, pileo concauo infundibuliformi e
                                     nigricante fuſco. <name type="reference" key="wd:Q12175194">
@@ -24933,7 +24933,7 @@
                         <div type="species" xml:id="s.1002">
                             <head>
                                 <num>1002.</num>
-                                <name type="plant-species" xml:lang="lat" n="Lycoperdon variolosum" key="?">L. (varioloſum)</name>
+                                <name type="plant-species" xml:lang="lat" n="Lycoperdon variolosum" key="wd:?">L. (varioloſum)</name>
                             </head>
                             <ab type="morphology">paraſiticum ſeſſile ſubrotundum, cortice exteriore
                                 fuluo deciduo, farina atra compacta. Syſt. Nat. T. 3. p. m. 234.
@@ -25384,7 +25384,7 @@
                             <div type="species" xml:id="s.014.cult">
                                 <head>
                                     <num>14.</num>
-                                    <name type="plant-species" xml:lang="lat" n="Triticum hybernum" key="?">T. (hibernum)</name>
+                                    <name type="plant-species" xml:lang="lat" n="Triticum hybernum" key="wd:?">T. (hibernum)</name>
                                 </head>
                                 <ab type="morphology">calycibus quadrifloris ventricoſis laeuibus
                                     imbricatis ſubmuticis.</ab>
