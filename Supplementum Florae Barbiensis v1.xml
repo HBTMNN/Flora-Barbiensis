@@ -48,7 +48,7 @@
                         <div type="species" xml:id="sup.s.1016">
                             <head>
                                 <num>1016.</num>
-                                <name type="plant-species" xml:lang="lat" n="Salicornia virginica" key="wd:Q5770072">SALICORNIA (virginica)</name>
+                                <name type="plant-species" xml:lang="lat" n="Salicornia virginica" key="wd:Q5770072" nymRef="name:Salicornia europaea key:Q27943">SALICORNIA (virginica)</name>
                             </head>
                             <ab type="morphology">herbacea erecta, ramis ſimpliciſſimis. Lin. Syſt. veg. p.
                                 51. n. 3.</ab>
@@ -83,7 +83,7 @@
                         <div type="species" xml:id="sup.s.1017">
                             <head>
                                 <num>1017.</num>
-                                <name type="plant-species" xml:lang="lat" n="Utricularia vulgaris" key="wd:Q157384">V. (vulgaris)</name>
+                                <name type="plant-species" xml:lang="lat" n="Utricularia vulgaris" key="wd:Q157384" nymRef="name:Utricularia vulgaris agg.">V. (vulgaris)</name>
                             </head>
                             <ab type="morphology">nectario conico, ſcapo paucifloro.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in foſſa über der
@@ -128,7 +128,7 @@
                         <div type="species" xml:id="sup.s.1019">
                             <head>
                                 <num>1019.</num>
-                                <name type="plant-species" xml:lang="lat" n="Phalaris oryzoides" key="wd:Q21876181">PHALARIS (oryzoides)</name>
+                                <name type="plant-species" xml:lang="lat" n="Phalaris oryzoides" key="wd:Q21876181" nymRef="name:Leersia oryzoides key:Q163086">PHALARIS (oryzoides)</name>
                             </head>
                             <ab type="morphology">panicula effuſa, glumarum carinis ciliatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. ad foſſas in pratis
@@ -204,11 +204,10 @@
                         
                     <div type="genus" subtype="continued" xml:id="sup.g.007" n="AIRA">
                         <head><name xml:lang="lat"><hi rend="capital">AIRA</hi>.</name></head>
-                        <div type="species" xml:id="sup.s.1022" corresp="https://dr.jacq.org/DR023519
-                            ">
+                        <div type="species" xml:id="sup.s.1022" corresp="https://dr.jacq.org/DR023519">
                             <head>
                                 <num>1022.</num>
-                                <name type="plant-species" xml:lang="lat" n="Aira aquatica" key="wd:Q21870116">AIRA (aquatica)</name>
+                                <name type="plant-species" xml:lang="lat" n="Aira aquatica" key="wd:Q21870116" nymRef="name:Catabrosa aquatica key:Q1495805">AIRA (aquatica)</name>
                             </head>
                             <ab type="morphology">panicula patente, floribus muticis laeuibus calyce
                                 longioribus, foliis planis.</ab>
@@ -229,8 +228,7 @@
                                 flexuoſi, et nonnumquam culmus ipſe inter paniculam. Folia plana latiuſcula.
                                 Tota planta ſpithamaea.</ab>
                         </div>
-                        <div type="species" xml:id="sup.s.1023" corresp="https://dr.jacq.org/DR023523
-                            ">
+                        <div type="species" xml:id="sup.s.1023" corresp="https://dr.jacq.org/DR023523">
                             <head>
                                 <num>1023.</num>
                                 <name type="plant-species" xml:lang="lat" n="Aira cariophyllea" key="wd:Q159058">A. (cariophyllea)</name>
@@ -251,7 +249,7 @@
                         <div type="species" xml:id="sup.s.1024">
                             <head>
                                 <num>1024.</num>
-                                <name type="plant-species" xml:lang="lat" n="Festuca myuros" key="wd:Q21163286">FESTUCA (myuros)</name>
+                                <name type="plant-species" xml:lang="lat" n="Festuca myuros" key="wd:Q21163286" nymRef="name:Vulpia myuros key:Q1456751">FESTUCA (myuros)</name>
                             </head>
                             <ab type="morphology">panicula ſpicata, calycibus minutiſſimis muticis, floribus
                                 ſcabris, ariſtis longis.</ab>
@@ -267,7 +265,7 @@
                         <div type="species" xml:id="sup.s.1025">
                             <head>
                                 <num>1025.</num>
-                                <name type="plant-species" xml:lang="lat" n="Festuca decumbens" key="wd:Q21874256">F. (decumbens)</name>
+                                <name type="plant-species" xml:lang="lat" n="Festuca decumbens" key="wd:Q21874256" nymRef="name:Danthonia decumbens key:Q1258229">F. (decumbens)</name>
                             </head>
                             <ab type="morphology">panicula erecta, ſpiculis ſubouatis muticis, calyce
                                 floſculis maiore, culmo decumbente.</ab>
@@ -304,7 +302,7 @@
                         <div type="species" xml:id="sup.s.1027">
                             <head>
                                 <num>1027.</num>
-                                <name type="plant-species" xml:lang="lat" n="Cynosurus durus" key="wd:Q21873375">CYNOSURUS (durus)</name>
+                                <name type="plant-species" xml:lang="lat" n="Cynosurus durus" key="wd:Q21873375" nymRef="name:Sclerochloa dura key:Q7434155">CYNOSURUS (durus)</name>
                             </head>
                             <ab type="morphology">ſpiculis ſecundis alternis ſeſſilibus rigidis obtuſis
                                 adpreſſis.</ab>
@@ -380,7 +378,7 @@
                         <div type="species" xml:id="sup.s.1030">
                             <head>
                                 <num>1030.</num>
-                                <name type="plant-species" xml:lang="lat" n="Anchusa angustifolia" key="wd:Q21870190">ANCHUSA (anguſtifolia)</name>
+                                <name type="plant-species" xml:lang="lat" n="Anchusa angustifolia" key="wd:Q21870190" nymRef="name:Anchusa officinalis key:Q157577">ANCHUSA (anguſtifolia)</name>
                             </head>
                             <ab type="morphology">racemis ſubnudis-coniugatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in marginibus agrorum, et ipſis agris noualibus be[y] 
@@ -393,11 +391,10 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.014" n="THESIUM">
                         <head><name xml:lang="lat"><hi rend="capital">THESIUM</hi>.</name></head>
-                        <div type="species" xml:id="sup.s.1031" corresp="https://dr.jacq.org/DR025004
-                            ">
+                        <div type="species" xml:id="sup.s.1031" corresp="https://dr.jacq.org/DR025004">
                             <head>
                                 <num>1031.</num>
-                                <name type="plant-species" xml:lang="lat" n="Thesium linophyllum" key="wd:Q127377208">THESIUM (Linophyllum)</name>
+                                <name type="plant-species" xml:lang="lat" n="Thesium linophyllum" key="wd:Q127377208" nymRef="name:Thesium linophyllon key:Q1940715">THESIUM (Linophyllum)</name>
                             </head>
                             <ab type="morphology">panicula foliacea, foliis linearibus.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Leinblatt.</ab>
@@ -419,8 +416,7 @@
                             <name type="vernacular_name" xml:lang="ger">Sinngrün.</name>
                         </head>
                         <ab>Contorta. Folliculi 2, erecti. Semina nuda.</ab>
-                        <div type="species" xml:id="sup.s.1032" corresp="https://dr.jacq.org/DR025002
-                            ">
+                        <div type="species" xml:id="sup.s.1032" corresp="https://dr.jacq.org/DR025002">
                             <head>
                                 <num>1032.</num>
                                 <name type="plant-species" xml:lang="lat" n="Vinca minor" key="wd:Q161777">V. (minor)</name>
@@ -443,7 +439,7 @@
                         <div type="species" xml:id="sup.s.1033">
                             <head>
                                 <num>1033.</num>
-                                <name type="plant-species" xml:lang="lat" n="Gentiana amarella" key="wd:Q14558076">GENTIANA (Amarella)</name>
+                                <name type="plant-species" xml:lang="lat" n="Gentiana amarella" key="wd:Q14558076" nymRef="name:Gentianella spec.">GENTIANA (Amarella)</name>
                             </head>
                             <ab type="morphology">corollis quinquefidis hypocrateriformibus fauce barbatis.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Herbſtenzian.</ab>
@@ -457,11 +453,10 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.017" n="CHENOPODIUM">
                         <head><name xml:lang="lat"><hi rend="capital">CHENOPODIUM</hi>.</name></head>
-                        <div type="species" xml:id="sup.s.1034" corresp="https://dr.jacq.org/DR024972
-                            ">
+                        <div type="species" xml:id="sup.s.1034" corresp="https://dr.jacq.org/DR024972">
                             <head>
                                 <num>1034.</num>
-                                <name type="plant-species" xml:lang="lat" n="Chenopodium ambrosioides" key="wd:Q15251066">CHENOPODIUM (ambroſioides)</name>
+                                <name type="plant-species" xml:lang="lat" n="Chenopodium ambrosioides" key="wd:Q15251066" nymRef="name:Dysphania ambrosioides key:Q640032">CHENOPODIUM (ambroſioides)</name>
                             </head>
                             <ab type="morphology">foliis lanceolatis, racemis foliatis ſimplicibus.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Merikaniſcher Thee.</ab>
@@ -480,7 +475,7 @@
                         <div type="species" xml:id="sup.s.0217" ana="correction">
                             <head>
                                 <num>217.</num>
-                                <name type="plant-species" xml:lang="lat" n="Caucalis daucoides" key="wd:Q15477543">CAUCALIS (daucoides)</name>
+                                <name type="plant-species" xml:lang="lat" n="Caucalis daucoides" key="wd:Q15477543" nymRef="name:Caucalis platycarpos key:Q458238">CAUCALIS (daucoides)</name>
                             </head>
                             <ab type="morphology">vmbellis trifidis aphyllis: umbellulis triſpermis
                                 triphyllis.</ab>
@@ -496,11 +491,10 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.019" n="ATHAMANTA">
                         <head><name xml:lang="lat"><hi rend="capital">ATHAMANTA</hi>.</name></head>
-                        <div type="species" xml:id="sup.s.1035" corresp="https://dr.jacq.org/DR021775
-                            ">
+                        <div type="species" xml:id="sup.s.1035" corresp="https://dr.jacq.org/DR021775">
                             <head>
                                 <num>1035.</num>
-                                <name type="plant-species" xml:lang="lat" n="Athamanta ceruaria" key="wd:Q95919883">ATHAMANTA (Ceruaria)</name>
+                                <name type="plant-species" xml:lang="lat" n="Athamanta ceruaria" key="wd:Q95919883" nymRef="name:Cervaria rivini key:Q50969277">ATHAMANTA (Ceruaria)</name>
                             </head>
                             <ab type="morphology">foliolis pinnatis decuſſatis inciſo-angulatis, ſeminibus
                                 nudis.</ab>
@@ -532,11 +526,10 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.021" n="SIUM">
                         <head><name xml:lang="lat"><hi rend="capital">SIUM</hi>.</name></head>
-                        <div type="species" xml:id="sup.s.1037" corresp="https://dr.jacq.org/DR024445
-                            ">
+                        <div type="species" xml:id="sup.s.1037" corresp="https://dr.jacq.org/DR024445">
                             <head>
                                 <num>1037.</num>
-                                <name type="plant-species" xml:lang="lat" n="Sium angustifolium" key="wd:Q17467361">SIUM (anguſtifolium)</name>
+                                <name type="plant-species" xml:lang="lat" n="Sium angustifolium" key="wd:Q17467361" nymRef="name:Berula erecta key:Q195416">SIUM (anguſtifolium)</name>
                             </head>
                             <ab type="morphology">foliis pinnatis, umbellis axillaribus pedunculatis,
                                 inuolucro vniuerſali pinnatifido. Syſt. Plant. ed. Reichard. pag. 693. Spec.
@@ -635,7 +628,7 @@
                         <div type="species" xml:id="sup.s.1042">
                             <head>
                                 <num>1042.</num>
-                                <name type="plant-species" xml:lang="lat" n="Polygonum bistorta" key="wd:Q12954907">POLYGONUM (Biſtorta)</name>
+                                <name type="plant-species" xml:lang="lat" n="Polygonum bistorta" key="wd:Q12954907" nymRef="name:Bistorta officinalis key:Q112917">POLYGONUM (Biſtorta)</name>
                             </head>
                             <ab type="morphology">caule ſimpliciſſimo monoſtachyo, foliis ouatis in petiolum
                                 decurrentibus.</ab>
@@ -664,7 +657,7 @@
                         <div type="species" xml:id="sup.s.1043">
                             <head>
                                 <num>1043.</num>
-                                <name type="plant-species" xml:lang="lat" n="Dianthus plumarius" key="wd:Q159590">DIANTHUS (plumarius)</name>
+                                <name type="plant-species" xml:lang="lat" n="Dianthus plumarius" key="wd:Q159590" nymRef="name:Dianthus spec.">DIANTHUS (plumarius)</name>
                             </head>
                             <ab type="morphology">floribus ſolitariis, ſquamis calycinis ſubouatis
                                 breuiſſimis, corollis multifidis fauce pubeſcentibus.</ab>
@@ -675,8 +668,7 @@
                             <ab type="additional_information">Colitur frequens in hortis et a noſtris etiam
                                 Pfingſtnelken adpellatur.</ab>
                         </div>
-                        <div type="species" xml:id="sup.s.1044" corresp="https://dr.jacq.org/DR024821
-                            ">
+                        <div type="species" xml:id="sup.s.1044" corresp="https://dr.jacq.org/DR024821">
                             <head>
                                 <num>1044.</num>
                                 <name type="plant-species" xml:lang="lat" n="Dianthus superbus" key="wd:Q161878">D. (ſuperbus)</name>
@@ -812,8 +804,7 @@
                                 <ab>Calyx o Petala circiter 14. Capſ. plurimae, ouatae,
                                     monoſpermae.</ab></div>
                         
-                        <div type="species" xml:id="sup.s.1048" corresp="https://dr.jacq.org/DR024229
-                            ">
+                        <div type="species" xml:id="sup.s.1048" corresp="https://dr.jacq.org/DR024229">
                             <head>
                                 <num>1048.</num>
                                 <name type="plant-species" xml:lang="lat" n="Trollius europaeus" key="wd:?">T. (europaeus)</name>
@@ -830,8 +821,7 @@
                         <note type="reference_to_main_flora">Ad pag. 132, poſt n. 453.</note>
                             
                             
-                        <div type="species" xml:id="sup.s.1049" corresp="https://dr.jacq.org/DR024185
-                            ">
+                        <div type="species" xml:id="sup.s.1049" corresp="https://dr.jacq.org/DR024185">
                                 <head>
                                     <num>1049.</num>
                                     <name type="plant-species" xml:lang="lat" n="Adonis vernalis" key="wd:Q147648">A. (vernalis)</name>
@@ -877,8 +867,7 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.031" n="LAMIUM">
                         <head><name xml:lang="lat"><hi rend="capital">LAMIUM</hi>.</name></head>
-                        <div type="species" xml:id="sup.s.1051" corresp="https://dr.jacq.org/DR024728
-                            ">
+                        <div type="species" xml:id="sup.s.1051" corresp="https://dr.jacq.org/DR024728">
                             <head>
                                 <num>1051.</num>
                                 <name type="plant-species" xml:lang="lat" n="Lamium maculatum" key="wd:Q164035">LAMIUM (maculatum)</name>
@@ -906,7 +895,7 @@
                         <div type="species" xml:id="sup.s.1052">
                             <head>
                                 <num>1052.</num>
-                                <name type="plant-species" xml:lang="lat" n="Orobanche laeuis" key="wd:?">OROBANCHE (laeuis)</name>
+                                <name type="plant-species" xml:lang="lat" n="Orobanche laeuis" key="wd:?" nymRef="name:Orobanche spec., name:Phelipanche spec.">OROBANCHE (laeuis)</name>
                             </head>
                             <ab type="morphology">caule ſimpliciſſimo laeui, ſtaminibus exſertis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſaliceto ad
@@ -942,7 +931,7 @@
                         <div type="species" xml:id="sup.s.1053" corresp="https://dr.jacq.org/DR025019">
                             <head>
                                 <num>1053.</num>
-                                <name type="plant-species" xml:lang="lat" n="Antirrhinum arvense" key="wd:Q21870267">ANTIRRHINUM (aruenſe)</name>
+                                <name type="plant-species" xml:lang="lat" n="Antirrhinum arvense" key="wd:Q21870267" nymRef="name:Linaria arvensis key:Q3543960">ANTIRRHINUM (aruenſe)</name>
                             </head>
                             <ab type="morphology">foliis ſublinearibus: inferioribus quaternis, calycibus
                                 piloſo-viſcidis, floribus ſpicatis, caule erecto.</ab>
@@ -986,11 +975,10 @@
                     <note type="reference_to_main_flora">Ad pag. 147, poſt n. 512.</note>
                     <div type="genus" subtype="continued" xml:id="sup.g.036" n="MYAGRUM">
                         <head><name xml:lang="lat"><hi rend="capital">MYAGRUM</hi>.</name></head>
-                        <div type="species" xml:id="sup.s.1055" corresp="https://dr.jacq.org/DR024287
-                            ">
+                        <div type="species" xml:id="sup.s.1055" corresp="https://dr.jacq.org/DR024287">
                             <head>
                                 <num>1055.</num>
-                                <name type="plant-species" xml:lang="lat" n="Myagrum perenne" key="wd:Q21977531">MYAGRUM (perenne)</name>
+                                <name type="plant-species" xml:lang="lat" n="Myagrum perenne" key="wd:Q21977531" nymRef="name:Rapistrum perenne key:Q10496671">MYAGRUM (perenne)</name>
                             </head>
                             <ab type="morphology">ſiliculis biarticulatis monoſpermis, foliis extrorſum
                                 ſinuatis denticulatis.</ab>
@@ -1042,7 +1030,7 @@
                         <div type="species" xml:id="sup.s.1057">
                             <head>
                                 <num>1057.</num>
-                                <name type="plant-species" xml:lang="lat" n="Arabis thaliana" key="wd:Q21870722">A. (thaliana)</name>
+                                <name type="plant-species" xml:lang="lat" n="Arabis thaliana" key="wd:Q21870722" nymRef="name:Arabidopsis thaliana key:Q158695">A. (thaliana)</name>
                             </head>
                             <ab type="morphology">foliis petiolatis lanceolatis integerrimis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in agris an der
@@ -1056,7 +1044,7 @@
                         <div type="species" xml:id="sup.s.1058">
                             <head>
                                 <num>1058.</num>
-                                <name type="plant-species" xml:lang="lat" n="Arabis halleri" key="wd:Q10926355">A. (Halleri)</name>
+                                <name type="plant-species" xml:lang="lat" n="Arabis halleri" key="wd:Q10926355" nymRef="name:Arabidopsis halleri key:Q1571618">A. (Halleri)</name>
                             </head>
                             <ab type="morphology">foliis caulinis ſublyratis, rameis lanceolatis inciſis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis
@@ -1076,7 +1064,7 @@
                         <div type="species" xml:id="sup.s.1059">
                             <head>
                                 <num>1059.</num>
-                                <name type="plant-species" xml:lang="lat" n="Brassica orientalis" key="wd:Q21872055">BRASSICA (orientalis)</name>
+                                <name type="plant-species" xml:lang="lat" n="Brassica orientalis" key="wd:Q21872055" nymRef="name:Bunias orientalis key:Q2030568">BRASSICA (orientalis)</name>
                             </head>
                             <ab type="morphology">foliis cordatis amplexicaulibus glabris; radicalibus ſcabris
                                 integerrimis, ſiliquis tetragonis.</ab>
@@ -1108,8 +1096,7 @@
                                 ſemper praeſentibus inſtructa. Foliola vix dentata. Siliquae dimidio minores
                                 erectae in pedicellis horizontalibus.</ab>
                         </div>
-                        <div type="species" xml:id="sup.s.1061" corresp="https://dr.jacq.org/DR024533
-                            ">
+                        <div type="species" xml:id="sup.s.1061" corresp="https://dr.jacq.org/DR024533">
                             <head>
                                 <num>1061.</num>
                                 <name type="plant-species" xml:lang="lat" n="Cardamine hirsuta" key="wd:Q157926">C. (hirſuta)</name>
@@ -1126,11 +1113,10 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.041" n="SISYMBRIUM">
                         <head><name xml:lang="lat"><hi rend="capital">SISYMBRIUM</hi>.</name></head>
-                        <div type="species" xml:id="sup.s.1062" corresp="https://dr.jacq.org/DR024301
-                            ">
+                        <div type="species" xml:id="sup.s.1062" corresp="https://dr.jacq.org/DR024301">
                             <head>
                                 <num>1062.</num>
-                                <name type="plant-species" xml:lang="lat" n="Sisymbrium loefelii" key="wd:Q159769">SISYMBRIUM (Loeſelii)</name>
+                                <name type="plant-species" xml:lang="lat" n="Sisymbrium loefelii" key="wd:Q159769" nymRef="name:Arabidopsis arenosa key:Q159787">SISYMBRIUM (Loeſelii)</name>
                             </head>
                             <ab type="morphology">foliis runcinatis acutis hirtis; caule hiſpido.</ab>
                             <ab type="location"><placeName type="habitat_description">H. in ſyluaticis bey
@@ -1151,8 +1137,7 @@
                     <note type="reference_to_main_flora">Ad pag. 165, poſt n. 581.</note>
                     <div type="genus" subtype="continued" xml:id="sup.g.042" n="LATHYRUS">
                         <head><name xml:lang="lat"><hi rend="capital">LATHYRUS</hi>.</name></head>
-                        <div type="species" xml:id="sup.s.1063" corresp="https://dr.jacq.org/DR022255
-                            ">
+                        <div type="species" xml:id="sup.s.1063" corresp="https://dr.jacq.org/DR022255">
                             <head>
                                 <num>1063.</num>
                                 <name type="plant-species" xml:lang="lat" n="Lathyrus aphaca" key="wd:Q158592">LATHYRUS (Aphaca)</name>
@@ -1197,7 +1182,7 @@
                         <div type="species" xml:id="sup.s.1065">
                     <head>
                         <num>1065.</num>
-                        <name type="plant-species" xml:lang="lat" n="Hypochoeris maculata" key="wd:Q127326859">НУРОСНOERIS (maculata)</name>
+                        <name type="plant-species" xml:lang="lat" n="Hypochoeris maculata" key="wd:Q127326859" nymRef="name:Hypochaeris maculata key:Q587353">НУРОСНOERIS (maculata)</name>
                     </head>
                             <ab type="morphology">caule ſubnudo: ramo ſolitario, foliis ouato-oblongis,
                                 integris dentatis.</ab>
@@ -1250,7 +1235,7 @@
                         <div type="species" xml:id="sup.s.1068">
                             <head>
                                 <num>1068.</num>
-                                <name type="plant-species" xml:lang="lat" n="Hieracium cymosum" key="wd:Q5753003">HIERACIUM (cymoſum)</name>
+                                <name type="plant-species" xml:lang="lat" n="Hieracium cymosum" key="wd:Q5753003" nymRef="name:Pilosella spec.">HIERACIUM (cymoſum)</name>
                             </head>
                             <ab type="morphology">foliis lanceolatis integris piloſis, ſcapo ſubnudo baſi
                                 piloſo, floribus ſubumbellatis.</ab>
@@ -1269,7 +1254,7 @@
                         <div type="species" xml:id="sup.s.1069">
                             <head>
                                 <num>1069.</num>
-                                <name type="plant-species" xml:lang="lat" n="Hierachium paludosum" key="wd:Q21874520">H. (paludoſum)</name>
+                                <name type="plant-species" xml:lang="lat" n="Hierachium paludosum" key="wd:Q21874520" nymRef="name:Crepis paludosa key:Q1484110">H. (paludoſum)</name>
                             </head>
                             <ab type="morphology">caule paniculato, foliis amplexicaulibus dentatis glabris,
                                 calycibus hiſpidis.</ab>
@@ -1287,7 +1272,7 @@
                         <div type="species" xml:id="sup.s.1070">
                             <head>
                                 <num>1070.</num>
-                                <name type="plant-species" xml:lang="lat" n="Carduus tuberosus" key="wd:Q21872187">CARDUUS (tuberoſus)</name>
+                                <name type="plant-species" xml:lang="lat" n="Carduus tuberosus" key="wd:Q21872187" nymRef="name:Cirsium tuberosum key:Q1777398">CARDUUS (tuberoſus)</name>
                             </head>
                             <ab type="morphology">foliis ſubdecurrentibus petiolatis ſubpinnatifidis ſpinofis,
                                 caule inermi, floribus ſolitariis.</ab>
@@ -1307,7 +1292,7 @@
                         <div type="species" xml:id="sup.s.1071">
                             <head>
                                 <num>1071.</num>
-                                <name type="plant-species" xml:lang="lat" n="Gnaphalium luteo-album" key="wd:Q8964445">GNAPHALIUM (luteo-album)</name>
+                                <name type="plant-species" xml:lang="lat" n="Gnaphalium luteo-album" key="wd:Q8964445" nymRef="name:Laphangium luteoalbum key:Q50846756">GNAPHALIUM (luteo-album)</name>
                             </head>
                             <ab type="morphology">herbaceum, foliis ſemiamplexicaulibus enſiformibus repandis
                                 obtuſis vtrimque pubeſcentibus, floribus conglomeratis.</ab>
@@ -1351,7 +1336,7 @@
                         <div type="species" xml:id="sup.s.1073">
                             <head>
                                 <num>1073.</num>
-                                <name type="plant-species" xml:lang="lat" n="Aster salicifolius" key="wd:Q120732390">ASTER (ſalicifolius)</name>
+                                <name type="plant-species" xml:lang="lat" n="Aster salicifolius" key="wd:Q120732390" nymRef="name:Symphyotrichum × salignum key:Q15555387">ASTER (ſalicifolius)</name>
                             </head>
                             <ab type="morphology">foliis lanceolatis ſerratis margine ſcabris: rameis
                                 ſublinearibus integerrimis, pedunculis alternis ſubnudis.</ab>
@@ -1425,11 +1410,10 @@
                             <name type="vernacular_name" xml:lang="ger">Bocksgeilen; Stendel.</name>
                         </head>
                         <ab>Nectarium ſcrotiforme ſeu inflato-didymum, pone florem.</ab>
-                        <div type="species" xml:id="sup.s.1075" corresp="https://dr.jacq.org/DR024720
-                            ">
+                        <div type="species" xml:id="sup.s.1075" corresp="https://dr.jacq.org/DR024720">
                             <head>
                                 <num>1075.</num>
-                                <name type="plant-species" xml:lang="lat" n="Satyrium albidum" key="wd:Q21877297">S. (albidum)</name>
+                                <name type="plant-species" xml:lang="lat" n="Satyrium albidum" key="wd:Q21877297" nymRef="name:?">S. (albidum)</name>
                             </head>
                             <ab type="morphology">bulbis faſciculatis, foliis lanceolatis, nectarii labio
                                 trifido acuto: lacinia intermedia obtuſa.</ab>
@@ -1449,7 +1433,7 @@
                         <div type="species" xml:id="sup.s.1076">
                             <head>
                                 <num>1076.</num>
-                                <name type="plant-species" xml:lang="lat" n="Ophrys spiralis" key="wd:Q21977676">OPHRYS (ſpiralis)</name>
+                                <name type="plant-species" xml:lang="lat" n="Ophrys spiralis" key="wd:Q21977676" nymRef="name:Spiranthes spiralis key:Q159283">OPHRYS (ſpiralis)</name>
                             </head>
                             <ab type="morphology">bulbis aggregatis oblongis, caule ſubfolioſo, floribus
                                 ſpirali-ſecundis, nectarii labio indiuiſo crenulato.</ab>
@@ -1468,7 +1452,7 @@
                         <div type="species" xml:id="sup.s.1077">
                             <head>
                                 <num>1077.</num>
-                                <name type="plant-species" xml:lang="lat" n="Serapias longifolia" key="wd:?">SERAPIAS (longifolia)</name>
+                                <name type="plant-species" xml:lang="lat" n="Serapias longifolia" key="wd:?" nymRef="name:Cephalanthera longifolia key:Q157427">SERAPIAS (longifolia)</name>
                             </head>
                             <ab type="morphology">bulbis fibroſis, foliis enſiformibus ſeſſilibus, floribus
                                 pendulis.</ab>
@@ -1495,11 +1479,10 @@
                         </head>
                         <ab>Spatha monophylla, cucullata; Spadix ſupra nudus, inferne femineus,
                             medio ſtamineus.</ab>
-                        <div type="species" xml:id="sup.s.1078" corresp="https://dr.jacq.org/DR023424
-                            ">
+                        <div type="species" xml:id="sup.s.1078" corresp="https://dr.jacq.org/DR023424">
                             <head>
                                 <num>1078.</num>
-                                <name type="plant-species" xml:lang="lat" n="Arum maculatum" key="wd:Q836366">A. (maculatum)</name>
+                                <name type="plant-species" xml:lang="lat" n="Arum maculatum" key="wd:Q836366" nymRef="name:Arum maculatum key:Q836366">A. (maculatum)</name>
                             </head>
                             <ab type="morphology">acaule, foliis haſtatis integerrimis, ſpadice clauato.</ab>
                             <ab type="vernacular_name" xml:lang="ger">Zehrwurz; Magenwurz.</ab>
@@ -1561,8 +1544,7 @@
                                 latioribus, ſpicis extrorfum curuatis diuergentibus, et altitudine maiori ac
                                 tempore florendi. Conf. Schreb. Spicil. p. 63.</ab>
                         </div>
-                        <div type="species" xml:id="sup.s.1081" corresp="https://dr.jacq.org/DR024906
-                            ">
+                        <div type="species" xml:id="sup.s.1081" corresp="https://dr.jacq.org/DR024906">
                             <head>
                                 <num>1081.</num>
                                 <name type="plant-species" xml:lang="lat" n="Carex praecox" key="wd:Q160043">C. (praecox)</name>
@@ -1591,8 +1573,7 @@
                             <ab type="additional_information">Folia pubeſcentia. Spicae femineae fere binae,
                                 vix pendulae. Culmus folioſus.</ab>
                         </div>
-                        <div type="species" xml:id="sup.s.1083" corresp="https://dr.jacq.org/DR024911
-                            ">
+                        <div type="species" xml:id="sup.s.1083" corresp="https://dr.jacq.org/DR024911">
                             <head>
                                 <num>1083.</num>
                                 <name type="plant-species" xml:lang="lat" n="Carex panicea" key="wd:Q126235">C. (panicea)</name>
@@ -1638,7 +1619,7 @@
                         <div type="species" xml:id="sup.s.1085">
                             <head>
                                 <num>1085.</num>
-                                <name type="plant-species" xml:lang="lat" n="Salix helix" key="wd:Q17562315">S. (Helix)</name>
+                                <name type="plant-species" xml:lang="lat" n="Salix helix" key="wd:Q17562315" nymRef="name:Salix × rubra key:Q10788145">S. (Helix)</name>
                             </head>
                             <ab type="morphology">foliis ſerratis glabris lanceolato-linearibus: ſuperioribus
                                 oppoſitis obliquis.</ab>
@@ -1673,7 +1654,7 @@
                         <div type="species" xml:id="sup.s.1087">
                             <head>
                                 <num>1087.</num>
-                                <name type="plant-species" xml:lang="lat" n="Salix rosmarinifolia" key="wd:Q2668309">S. (roſmarinifolia)</name>
+                                <name type="plant-species" xml:lang="lat" n="Salix rosmarinifolia" key="wd:Q2668309" nymRef="name:Salix repens key:Q28141">S. (roſmarinifolia)</name>
                             </head>
                             <ab type="morphology">foliis integerrimis lanceolato-linearibus ſtrictis
                                 ſeſſilibus, ſubtus tomentoſis.</ab>
@@ -1710,7 +1691,7 @@
                         <div type="species" xml:id="sup.s.1089">
                             <head>
                                 <num>1089.</num>
-                                <name type="plant-species" xml:lang="lat" n="Holcus odoratus" key="wd:Q21874529">H. (odoratus)</name>
+                                <name type="plant-species" xml:lang="lat" n="Holcus odoratus" key="wd:Q21874529" nymRef="name:Hierochloe odorata key:Q161162">H. (odoratus)</name>
                             </head>
                             <ab type="morphology">glumis trifloris muticis acuminatis; floſculo hermaphrodito
                                 diandro.</ab>
@@ -1734,7 +1715,7 @@
                         <div type="species" xml:id="sup.s.1090">
                             <head>
                                 <num>1090.</num>
-                                <name type="plant-species" xml:lang="lat" n="Atriplex tatarica" key="wd:Q1642174">ATRIPLEX (tatarica)</name>
+                                <name type="plant-species" xml:lang="lat" n="Atriplex tatarica" key="wd:Q1642174" nymRef="name:Atriplex sagittata key:Q160239">ATRIPLEX (tatarica)</name>
                             </head>
                             <ab type="morphology">caule herbaceo, foliis deltoidibus ſinuato-dentatis
                                 vndulatis alternis. Atriplex maritima noſtra procerior. Pluk.alm. 60.</ab>
@@ -1791,8 +1772,7 @@
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.062" n="POLYPODIUM">
                         <head><name xml:lang="lat"><hi rend="capital">POLYPODIUM</hi>.</name></head>
-                        <div type="species" xml:id="sup.s.1093" corresp="https://dr.jacq.org/DR044629
-                            ">
+                        <div type="species" xml:id="sup.s.1093" corresp="https://dr.jacq.org/DR044629">
                             <head>
                                 <num>1093.</num>
                                 <name type="plant-species" xml:lang="lat" n="Polypodium vulgare" key="wd:Q743883">POLYPODIUM (vulgare)</name>
@@ -1809,11 +1789,10 @@
                             <ab type="additional_information">Offic. POLYPODII Radix. Eſt eccoprotica, dulcis;
                                 diutius cocta amara euadit. Linn.</ab>
                         </div>
-                        <div type="species" xml:id="sup.s.1094" corresp="https://dr.jacq.org/DR044636
-                            ">
+                        <div type="species" xml:id="sup.s.1094" corresp="https://dr.jacq.org/DR044636">
                             <head>
                                 <num>1094.</num>
-                                <name type="plant-species" xml:lang="lat" n="Polypodium cristatum" key="wd:Q21877093">P. (criſtatum)</name>
+                                <name type="plant-species" xml:lang="lat" n="Polypodium cristatum" key="wd:Q21877093" nymRef="name:Dryopteris cristata key:Q1637866, name:Dryopteris carthusiana key:Q523210">P. (criſtatum)</name>
                             </head>
                             <ab type="morphology">frondibus ſubbipinnatis; foliolis ouato-oblongis: pinnis
                                 obtuſiuſculis; apice acuto ſerratis. Polypodium (Filix femina criſtata)
@@ -1829,11 +1808,10 @@
                                 ſubtripinnatae. Pinnae infimae fere ſteriles, ſuboppoſitae. Laciniae
                                 pinnularum falcatae.</ab>
                         </div>
-                        <div type="species" xml:id="sup.s.1095" corresp="https://dr.jacq.org/DR044631
-                            ">
+                        <div type="species" xml:id="sup.s.1095" corresp="https://dr.jacq.org/DR044631">
                             <head>
                                 <num>1095.</num>
-                                <name type="plant-species" xml:lang="lat" n="Polypodium dryopteris" key="wd:Q21877095">P. (Dryopteris)</name>
+                                <name type="plant-species" xml:lang="lat" n="Polypodium dryopteris" key="wd:Q21877095" nymRef="name:Gymnocarpium dryopteris key:Q1301661">P. (Dryopteris)</name>
                             </head>
                             <ab type="morphology">frondibus ſupradecompoſitis: foliolis ternis bipinnatis.</ab>
                             <ab type="location"><placeName type="habitat_description">H. extra terminos Fl. Barb. H. in ſylua hinter 
@@ -1842,14 +1820,12 @@
                             <ab type="flowering_time">Fl. Iulio.</ab>
                         </div>
                         <div type="ordo">
-                            <head>MUSCI.</head
-                            >
+                            <head>MUSCI.</head>
                         <note type="reference_to_main_flora">Ad pag. 231, poſt n. 828.</note></div>
                     </div>
                     <div type="genus" subtype="continued" xml:id="sup.g.063" n="LYCOPODIUM">
                         <head><name xml:lang="lat"><hi rend="capital">LYCOPODIUM</hi>.</name></head>
-                        <div type="species" xml:id="sup.s.1096" corresp="https://dr.jacq.org/DR044620
-                            ">
+                        <div type="species" xml:id="sup.s.1096" corresp="https://dr.jacq.org/DR044620">
                             <head>
                                 <num>1096.</num>
                                 <name type="plant-species" xml:lang="lat" n="Lycopodium annotinum" key="wd:Q1138172">LYCOPODIUM (annotinum)</name>
@@ -1867,7 +1843,7 @@
                         <div type="species" xml:id="sup.s.1097">
                             <head>
                                 <num>1097.</num>
-                                <name type="plant-species" xml:lang="lat" n="Lycopodium selaginoides" key="wd:Q21976255">L. (Selaginoides)</name>
+                                <name type="plant-species" xml:lang="lat" n="Lycopodium selaginoides" key="wd:Q21976255" nymRef="name:Lycopodiella inundata? key:Q899476">L. (Selaginoides)</name>
                             </head>
                             <ab type="morphology">foliis ſparſis ciliatis lanceolatis, ſpicis ſolitariis
                                 terminalibus folioſis.</ab>
@@ -3194,8 +3170,7 @@
                     <ref>Ad pag. 82.</ref></ab>
                     <ab type="name_reference">Parnaſſia paluſtris</ab>
                     <ab type="location">creſcit etiam in paſcuis humidis zwiſchen
-                        <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName> und <placeName
-                            type="settlement" ana="non_ident.">Badez</placeName>.</ab>
+                        <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName> und <placeName type="settlement" ana="non_ident.">Badez</placeName>.</ab>
                     
                 <ab type="emendation" xml:id="sup.add.027">
                     <ref>Ad pag. 86.</ref></ab>
