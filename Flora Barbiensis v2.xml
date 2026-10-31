@@ -28565,6 +28565,70 @@
                 
                 <div type="additum" subtype="new">
                     <head>
+                        <ref>Ad pag. 34. poſt n. 42.</ref>
+                    </head>
+                    <div type="species" xml:id="s.1008">
+                        <head>
+                            <num>1008.</num>
+                            <name type="plant-species" xml:lang="lat"
+                                n="Scirpus setaceus"
+                                key="wd:Q15245442"
+                                nymRef="name:Isolepis setacea key:wd:Q160264">
+                                <hi rend="capital">SCIRPVS</hi> (ſetaceus)
+                            </name>
+                        </head>
+                        <ab type="morphology">culmo nudo ſetaceo, ſpica terminali ſeſſili. Mant. 2.
+                            p. 321.</ab>
+                        <ab type="location">
+                            <placeName type="habitat_description" xml:lang="lat">H. in humidis
+                                arenoſis ad alneta</placeName> unterhalb <placeName
+                                    type="settlement" key="wd:Q688662">Gödniz</placeName>.</ab>
+                        <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
+                        <ab type="additional_information">Culmi nudi ſetacei, copioſi, longitudine
+                            digiti et vltra. Spiculae in noſtris plerumque duae, etiam tres,
+                            terminales; mucrone tamen ad duas lineas vltra ſpiculas protenſo.</ab>
+                    </div>
+                </div>
+                
+                <div type="additum" subtype="new">
+                    <head>
+                        <ref>Ad pag. 78. poſt n. 241.</ref>
+                    </head>
+                    <div type="species" xml:id="s.1009"
+                        corresp="https://dr.jacq.org/DR024466, https://dr.jacq.org/DR024468">
+                        <head>
+                            <num>1009.</num>
+                            <name type="plant-species" xml:lang="lat"
+                                n="Seseli saxifragum"
+                                key="wd:Q17466798">
+                                <hi rend="capital">SESELI</hi> (ſaxifragum)
+                            </name>
+                        </head>
+                        <ab type="morphology">caule filiformi diuaricato, foliis duplicato-ternatis
+                            linearibus, vmbellis ſubſexfidis. Pimpinella tenuifolia Riuini.</ab>
+                        <ab type="location">
+                            <placeName type="habitat_description" xml:lang="lat">H. in ſyluaticis
+                                trans</placeName>
+                            <geogName type="river" key="wd:Q1644">Albim</geogName> hinter <placeName
+                                type="settlement" key="wd:Q138203224 ">Grünberg</placeName> und im
+                            <placeName type="locality?" ana="not_ident.">Belziger
+                                Buſche</placeName>.</ab>
+                        <ab type="flowering_time">Fl. Iulio, Auguſto.</ab>
+                        <ab type="additional_information">Caulis tri- aut quadripedalis, erectus,
+                            filiformis, teres, craſſitie pennae coruinae, ſubramoſus, ramis
+                            ſuperioribus caule altioribus. Folia bipinnata, foliolis pinnatifidis,
+                            laciniis ſimplicibus aut binatis ternatisque. Petioli ſtriati,
+                            vaginantes, teretes, ſupra membranacei, emarginati. Vmbella vniuerſalis
+                            terminalis conuexa, ſubrotunda, vmbellulas gerens triginta ad
+                            quadraginta; vmbellulae floſculis ad viginti. Inuolucrum vniuerſale
+                            ſetaceum, foliolis ſaepe ad duodecim, nonnumquam nullum ; inuolucellis
+                            etiam ſetaceis, numeroſis. Flores albi. Si varietas eſt S. annui, vt
+                            creditur; ſaltim eſt admodum notabilis.</ab>
+                    </div>
+                </div>
+                
+                <div type="additum" subtype="new">
+                    <head>
                         <ref>Ad pag. 97. poſt n. 310.</ref>
                     </head>
                     <div type="species" xml:id="s.1010">
@@ -28751,13 +28815,13 @@
                     <head>
                         <ref>Ad pag. 82.</ref>
                     </head>
-                    <ab type="location">Parnaſſia paluſtris creſcit frequens
+                    <ab type="name_reference">Parnaſſia paluſtris</ab>
+                    <ab type="location">creſcit frequens
                         <placeName type="habitat_description" xml:lang="lat">in pratis humidis</placeName>
                         zwiſchen
                         <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>
                         und
-                        <placeName type="settlement" ana="non_ident.">Badez</placeName>.
-                    </ab>
+                        <placeName type="settlement" ana="non_ident.">Badez</placeName>.</ab>
                 </div>
                 
                 <fw>V 3 Ad</fw>
@@ -28768,49 +28832,48 @@
                     <head>
                         <ref>Ad pag. 152.</ref>
                     </head>
-                    <ab type="location">Eryſimum hteracifolium habitat etiam in
-                        <placeName type="habitat_description" xml:lang="lat">nemoroſis arenoſis
-                            trans</placeName>
+                    <ab type="name_reference">Eryſimum hieracifolium</ab>
+                    <ab type="location">habitat etiam in
+                        <placeName type="habitat_description" xml:lang="lat">nemoroſis arenoſis trans</placeName>
                         <geogName type="river" key="wd:Q1644">Albim</geogName>
                         <placeName type="habitat_description" xml:lang="ger">bald dem Fährhauſe
-                            gegen über</placeName>.
-                    </ab>
+                            gegen über</placeName>.</ab>               
                 </div>
                 
                 <div type="additum" subtype="reference">
                     <head>
                         <ref>Ad pag. 165.</ref>
                     </head>
-                    <ab type="location">Lathyrus paluſtris occurrit quoque
+                    <ab type="name_reference">Lathyrus paluſtris</ab>
+                    <ab type="location">occurrit quoque
                         <placeName type="habitat_description" xml:lang="lat">ad dumeta</placeName>
                         über der
                         <geogName type="river" key="wd:Q884667">Nuthe</geogName>
                         <placeName type="habitat_description" xml:lang="ger">linker Hand ehe man
                             nach</placeName>
-                        <placeName type="settlement" key="wd:Q138293501">Flöz</placeName> kommt.
-                    </ab>
+                        <placeName type="settlement" key="wd:Q138293501">Flöz</placeName> kommt.</ab>                    
                 </div>
                 
                 <div type="additum" subtype="reference">
                     <head>
                         <ref>Ad pag. 183.</ref>
                     </head>
-                    <ab type="location">Carduus cyanoides creſcit etiam frequens
+                    <ab type="name_reference">Carduus cyanoides</ab>
+                    <ab type="location">creſcit etiam frequens
                         <placeName type="habitat_description" xml:lang="lat">in aridis
                             arenoſis</placeName> unterhalb
-                        <placeName type="settlement" key="wd:Q688662">Gödniz</placeName>.
-                    </ab>
+                        <placeName type="settlement" key="wd:Q688662">Gödniz</placeName>.</ab>
                 </div>
                 
                 <div type="additum" subtype="reference">
                     <head>
                         <ref>Ad pag. 205.</ref>
                     </head>
-                    <ab type="location">Calla paluſtris habitat etiam
+                    <ab type="name_reference">Calla paluſtris</ab>
+                    <ab type="location">habitat etiam
                         <placeName type="habitat_description" xml:lang="lat">ad alneta
                             paludoſa</placeName> unterhalb
-                        <placeName type="settlement" key="wd:Q688662">Gödniz</placeName>.
-                    </ab>
+                        <placeName type="settlement" key="wd:Q688662">Gödniz</placeName>.</ab>
                 </div>
                 
                 <div type="err">
