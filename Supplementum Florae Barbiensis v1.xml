@@ -3014,193 +3014,259 @@
                     </div>
                 </div>
             </div>
+            
             <div type="addenda_et_emendanda">
                 <head>ADDENDA ET EMENDANDA.</head>
-                <ab type="emendation" xml:id="sup.add.001">
-                    <ref>Ad pag. 25.</ref></ab>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 25.</ref>
+                    </head>
                     <ab type="name_reference">VERONICAE maritimae et longifoliae</ab> 
                     <ab type="morphology">characteres ſpecifici vacillant: folia
                         enim terna aut oppoſita variant, nec ſerraturae aut aequales aut inaequales
                         conſtantes videntur. V. maritima igitur praecipue foliis anguſtioribus eſt
                         diſtinguenda.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.002">
-                    <ref>Ad pag. 27.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 27.</ref>
+                    </head>
                     <ab type="name_reference">Veronica Teucrium</ab>
                     <ab type="location">loco indicato, im Buſche gegen <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>, per decem
                         circiter annos fruſtra quaefita, tandem 1780 inuenta eſt in editis gramineis
                         zwiſchen <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> und <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>, rechter Hand bey den Birken, ehe man
                         in den Buſch kommt; bey Liezke herum; auch häufig bey <placeName type="settlement" key="wd:Q688254">Jüterglück</placeName> auf
                         Reinen.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.003">
-                    <ref>Ad pag. 29.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 29.</ref>
+                    </head>
                     <ab type="name_reference">Saluia ſylueſtris</ab>
                     <ab type="location">habitat copioſe in montoſis apricis hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.004">
-                    <ref>Ad pag. 32.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 32.</ref>
+                    </head>
                     <ab type="name_reference">Iris ſibirica</ab>
                     <ab type="location">creſcit etiam ad <geogName type="river" key="wd:Q1644">Albim</geogName> hinter <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName> am Damme beym alten
                         Elbbruche.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.005">
-                    <ref>Ad pag. 33.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 33.</ref>
+                    </head>
                     <ab type="name_reference">Scirpus caeſpitosus</ab>
                     <ab type="additional_information_correction">exulabit e Fl. Barb. niſi alio loco in poſterum
                         inueniatur. Qui enim loco indicato creſcit, Scirpus paluſtris eſt, cuius
                         ſpicae ſaepe breuiſſimae me induxerunt, vt pro caeſpitoſo haberem.</ab>
-                    
-                <ab type="emendation" xml:id="sup.add.006">
-                    <ref>Ad pag. 34.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 34.</ref>
+                    </head>
                     <ab type="name_reference">Scirpus Holoſchoenus</ab>
                     <ab type="location">creſcit etiam frequens in arenoſis am Wege
-                        von <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName> nach <placeName type="settlement" key="wd:Q705030">Prezien</placeName>.</ab> 
-                
-                <ab type="emendation" xml:id="sup.add.007">
-                    <ref>Ad pag. eandem.</ref></ab>
+                        von <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName> nach <placeName type="settlement" key="wd:Q705030">Prezien</placeName>.</ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Nardus ſtricta</ab>
                     <ab type="location">non habitat loco indicato; ſed extra terminos Fl. Barb. in
                         pratis duris um Glien.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.008">
-                    <ref>Ad pag. 36.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 36.</ref>
+                    </head>
                     <ab type="additional_information">Gramen dactylon eſculentum Bauhini, a priori (addatur: varietate) tantum
                         cultura differt.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.009">
-                    <ref>Ad pag. 37.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 37.</ref>
+                    </head>
                     <ab type="name_reference">Stipa pennata</ab>
                 <ab type="location">habitat etiam in aridis zwiſchen <placeName type="settlement" key="wd:Q705030">Prezien</placeName> und <placeName type="settlement" key="wd:Q32036528">Gommern</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.010">
-                    <ref>Ad pag. 38.</ref></ab>
-                    <ab type="additional_information_correction">Stipae junceae loco ſubſtituenda
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 38.</ref>
+                    </head>
+                    <ab type="name_reference">Stipae junceae</ab>
+                    <ab type="additional_information_correction">loco ſubſtituenda
                         eſt Stipa capillata, quae locis dictis creſcit. Stipa iuncea ergo non eſt ciuis noſtrae Florae.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.011">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Aira flexuoſa</ab>
                     <ab type="location">habitat frequens in paſcuis zwiſchen <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> und <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.012">
-                    <ref>Ad pag. 44.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 44.</ref>
+                    </head>
                 <ab type="additional_information">Deſcriptio Auenae pubeſcenti ſubnexa, pertinet ad </ab><ab type="name_reference">Auenam flaueſcentem.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.013">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Arundo Calamagroſtis</ab>
                     <ab type="location">habitat etiam ad <geogName type="river" key="wd:Q1644">Albim</geogName> über <placeName type="settlement" key="wd:Q699151">Breitenhagen</placeName> nach 
                         <placeName type="settlement" key="wd:Q417336">Aken</placeName> zu.</ab>
-                    
-                <ab type="emendation" xml:id="sup.add.014">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Arundo arenaria</ab>
                     <ab type="location">creſcit etiam in ſylua aceroſa am Wege nach <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> linker
                         Hand.</ab>
-                    
-                <ab type="emendation" xml:id="sup.add.015">
-                    <ref>Ad pag. 51.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 51.</ref>
+                    </head>
                     <ab type="name_reference">Galium boreale</ab>
                     <ab type="location">habitat etiam im <placeName type="locality" key="wd:Q138011875">Kuhwerder</placeName>, et alibi.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.016">
-                    <ref>Ad pag. 51,</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 51,</ref>
+                    </head>
                     <ab type="name_reference">Aſperula aruenſis</ab>
                     <ab type="location">; legatur: habitat ad marginem agrorum an der
                         kleinen <placeName type="locality" key="wd:Q102004789">Weidenallee</placeName> hinunter gegen den <placeName type="locality?" ana="not_ident.">Anger</placeName> zu; rarius.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.017">
-                    <ref>Ad pag. 52.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 52.</ref>
+                    </head>
                     <ab type="name_reference">Aſperula tinctoria</ab>
                     <ab type="location">habitat quoque in montoſis apricis hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName>.</ab>
                     <ab type="morphology">Foliorum numerus variat. Figura ſeminum magis oblonga, quam globoſa. Caulis
                         a ſemipedali ad ſeſquipedalem altitudinem adſcendit in noſtris.</ab>
-                    
-                <ab type="emendation" xml:id="sup.add.018">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Sherardia aruenſis</ab>
                     <ab type="location">habitat in campis frequens.</ab>
-                    
-                <ab type="emendation" xml:id="sup.add.019">
-                    <ref>Ad pag. 61.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 61.</ref>
+                    </head>
                     <ab type="name_reference">Verbaſcum nigrum</ab>
                     <ab type="location">habitat quoque trans <geogName type="river" key="wd:Q1644">Albim</geogName>, dem 
                         <placeName type="locality" key="wd:Q27780047">Schloße</placeName> gegen über.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.020">
-                    <ref>Ad pag. 66.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 66.</ref>
+                    </head>
                     <ab type="name_reference">Ribes nigrum</ab>
                     <ab type="location">habitat etiam in humidis über die <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> hin rechter Hand.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.021">
-                    <ref>Ad pag. 67.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 67.</ref>
+                    </head>
                     <ab type="name_reference">Theſium alpinum</ab>
                     <ab type="location">habitat frequens in collibus apricis um Glien; auch in
                         montoſis apricis hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName> und <placeName type="settlement" key="wd:Q92609888">Froſe</placeName> hin.</ab>
                     <ab type="additional_information_correction">Loco hic indicato naſcitur
                         Theſium Linophyllum, quod vide ſupra n. 1032.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.022">
-                    <ref>Ad pag. 68.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 68.</ref>
+                    </head>
                 <ab type="name_reference">Gentiana Pneumonanthes</ab>
                 <ab type="location">varietas latifolia habitat in pratis et aggeribus
                         trans <geogName type="river" key="wd:Q1678">Salam</geogName> gegen <placeName type="settlement" key="wd:Q702102">Lederiz</placeName> hin.</ab>
                 <ab type="morphology">Habitus idem; ſed folia, praeſertim inferiora, ouato-lanceolata.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.023">
-                    <ref>Ad pag. 73.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 73.</ref>
+                    </head>
                     <ab type="name_reference">Caucalis leptophylla.</ab>
                     <ab type="additional_information_correction">Eſt potius Cauc. daucoides. Vide ſupra.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.024">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Tordylium maximum</ab>
                     <ab type="location">habitat quoque ad dumetum bey der <placeName type="locality?" ana="not_ident.">Böſener Mark</placeName> rechter
                         Hand ins Feld hinein.</ab>
-                    
-                <ab type="emendation" xml:id="sup.add.025">
-                    <ref>Ad pag. 79.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 79.</ref>
+                    </head>
                     <ab type="name_reference">Cicuta viroſa</ab>
                     <ab type="location">creſcit frequens in vliginoſis, über der <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> hin
                         rechter Hand; etiam in turfoſis paluſtribus an der <geogName type="river" key="wd:Q1644">Elbe</geogName> hinauf gegen <placeName type="settlement" key="wd:Q130270700">Steckby</placeName>
                         zu.</ab>
-                    
-                <ab type="emendation" xml:id="sup.add.026">
-                    <ref>Ad pag. 82.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 82.</ref>
+                    </head>
                     <ab type="name_reference">Parnaſſia paluſtris</ab>
                     <ab type="location">creſcit etiam in paſcuis humidis zwiſchen
                         <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName> und <placeName type="settlement" ana="non_ident.">Badez</placeName>.</ab>
-                    
-                <ab type="emendation" xml:id="sup.add.027">
-                    <ref>Ad pag. 86.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 86.</ref>
+                    </head>
                     <ab type="name_reference">Allium vineale</ab>
                     <ab type="location">habitat frequens inter ſegetes am Wege nach <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> bald
                         hinter <placeName type="settlement" key="wd:Q688288">Walternienburg</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.028">
-                    <ref>Ad pag. 87.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 87.</ref>
+                    </head>
                     <ab type="name_reference">Conuallaria multiflora</ab>
                     <ab type="location">creſcit etiam im <placeName type="locality" key="wd:Q138012027">Zeizer Buſche</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.029">
-                    <ref>Ad pag. 101.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 101.</ref>
+                    </head>
                     <ab type="name_reference">Monotropa Hippopitys</ab>
                     <ab type="location">habitat quoque im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey Zerbft.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.030">
-                    <ref>Ad pag. 103.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 103.</ref>
+                    </head>
                     <ab type="name_reference">Saxifraga tridactylites</ab>
                     <ab type="location">habitat frequens auf Erdwänden bey <placeName type="settlement" key="wd:Q138293501">Flöz</placeName>, et alibi.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.031">
-                    <ref>Ad pag. 105.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 105.</ref>
+                    </head>
                     <ab type="name_reference">Arenaria rubra</ab>
                     <ab type="location">marina habitat frequens ad ſalinas bey <placeName type="settlement" key="wd:Q798763">Salze</placeName>, bey den
                         Salzwerken.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.032">
-                    <ref>Ad pag. 106.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 106.</ref>
+                    </head>
                     <ab type="name_reference">Cucubalus Behen. Var. β. Lychnis maritima repens Linn. It. gotl. 197.</ab>
                     <ab type="location">initio Iunii 1783, nec poſtea reperta eſt bey <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName>.</ab>
                     <ab type="morphology">Caulis ſubuiſcidus. Folia glabra, recurua, acuta. Flores paullo minores,
@@ -3208,20 +3274,26 @@
                         alba. Petala apice bifida, tum infra apicem dilatata, vtrinque dente ſeu
                         angulo; poſtea verſus baſin anguſtantur. Faux nuda. Staminum tantum
                         rudimenta. Styli tres longi, apice curui.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.033">
-                    <ref>Ad pag. 106.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 106.</ref>
+                    </head>
                     <ab type="name_reference">Silene noctiflora.</ab>
                     <ab type="additional_information">Plantam hanc omnino ſuaueolentem eſſe, his annis ſaepe
                         expertus ſum.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.034">
-                    <ref>Ad pag. 107.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 107.</ref>
+                    </head>
                     <ab type="name_reference">Silene Armeria</ab>
                     <ab type="location">habitat im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.035">
-                    <ref>Ad pag. 109.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 109.</ref>
+                    </head>
                     <ab type="name_reference">Ceraſtium vulgatum et Ceraſtium viſcoſum.</ab>
                     <ab type="location">De his notetur: Ceraſtium
                         viſcoſum habitat copioſe in campis arenoſis inter ſegetes, bey <placeName type="settlement" key="wd:Q688662">Gödnitz</placeName> et
@@ -3231,85 +3303,113 @@
                         lanceolata, minusque ouata. Sed hoc aliter ſe habere, monet Curtiſii Flora
                         Londinenſis, vbi adnotatur, folia Cer. viſcoſi eſſe minus lanceolata
                         magisque ouata, quam in Ceraſtio vulgato.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.036">
-                    <ref>Ad pag. 111.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 111.</ref>
+                    </head>
                     <ab type="name_reference">Oxalis Acetoſella</ab>
                     <ab type="location">creſcit etiam ad radices arborum in dumetis humidis bey
                         Stenz.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.037">
-                    <ref>Ad pag. 114.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 114.</ref>
+                    </head>
                     <ab type="name_reference">Euphorbia dulcis</ab>
                     <ab type="location">creſcit frequens in ſylvaticis auf 
                         <placeName type="settlement" key="wd:Q617613">Ranies</placeName>, bald 
                         <placeName type="settlement" key="wd:Q689529">Gelinde</placeName>
                         gegen über.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.038">
-                    <ref>Ad pag. 116.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 116.</ref>
+                    </head>
                     <ab type="name_reference">Prunus auium</ab>
                     <ab type="location">habitat quoque um <placeName type="settlement" key="wd:Q623510">Wieſenburg</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.039">
-                    <ref>Ad pag. 131.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 131.</ref>
+                    </head>
                     <ab type="name_reference">Ranunculus lanuginoſus</ab>
                     <ab type="additional_information_correction">eliminandus eſt: eſt enim R. illyricus. Vide ſupra.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.040">
-                    <ref>Ad pag. 132.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 132.</ref>
+                    </head>
                     <ab type="name_reference">Adonis aeſtiualis.</ab>
                     <ab type="location">Huius varietas flore eleganter phoeniceo creſcit in
                         agris linker Hand am <placeName type="locality?" ana="not_ident.">Weinberg</placeName>e hin.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.041.1">
-                    <ref>Ad pag. 135.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 135.</ref>
+                    </head>
                     <ab type="name_reference">Aiuga pyramidalis</ab>
                     <ab type="location">habitat quoque ad marginem ſyluae nahe bey <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>, wenn
                         man von der <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> kommt.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.041.2">
-                    <ref>Ad pag. 135.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 135.</ref>
+                    </head>
                     <ab type="name_reference">Aiuga geneuenſis</ab>
                     <ab type="location">frequens creſcit flore carneo in paſcuis um Glien.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.042">
-                    <ref>Ad pag. 141.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 141.</ref>
+                    </head>
                     <ab type="name_reference">Origanum vulgare</ab>
                     <ab type="location">habitat quoque in dumetis im <placeName type="settlement" key="wd:Q702102">Lederiz</placeName>er Buſch an der <geogName type="river" key="wd:Q1644">Elbe</geogName>,
                         <placeName type="settlement" key="wd:Q130270700">Steckby</placeName> gegen über.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.043">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Orobanche maior</ab>
                     <ab type="location">habitat etiam ad dumeta auf der großen Wieſe gegen Welbke;
                         auch am Wege von <placeName type="settlement" key="wd:Q1746255">Kleinroſenburg</placeName> nach <placeName type="settlement" key="wd:Q699151">Breitenhagen</placeName> zu.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.044">
-                    <ref>Ad pag. 143.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 143.</ref>
+                    </head>
                     <ab type="name_reference">Melampyrum ſyluaticum</ab>
                     <ab type="location">creſcit etiam im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.045">
-                    <ref>Ad pag. 144.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 144.</ref>
+                    </head>
                     <ab type="name_reference">Scrophularia aquatica</ab>
                     <ab type="location">habitat frequens ad foſſas über <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName> hinaus an
                         der Straße.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.046">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Digitalis lutea</ab>
                     <ab type="additional_information_correction">eſt potius D. ambigua,</ab>
                     <ab type="location">frequens im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.047">
-                    <ref>Ad pag. 150.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 150.</ref>
+                    </head>
                     <ab type="name_reference">Thlaſpi perfoliatum</ab>
                     <ab type="location">habitat etiam ad aggeres bey den Wieſen vor <placeName type="settlement" key="wd:Q688254">Jüterglück</placeName>,
                         gegen die <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>er Straße.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.048">
-                    <ref>Ad pag. 153.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 153.</ref>
+                    </head>
                     <ab type="name_reference">Braſſica campeſtris</ab>
                     <ab type="location">habitat in agris von 
                         <placeName type="settlement" ana="non_ident.">Mühlingen</placeName> die Berge hinauf; in der
@@ -3317,9 +3417,11 @@
                         <placeName type="settlement" key="wd:Q102004858">Saalhorn</placeName> et alibi.</ab>
                     <ab type="additional_information">Colitur in hortis noſtris, et ſub
                         nomine Schnittkohl ad olera vſurpatur.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.049">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Braſſica Erucaſtrum</ab>
                     <ab type="location">, vel planta ea, quam hoc nomine indicauimus, habitat ad
                         murum an der <geogName type="river" key="wd:Q1644">Elbe</geogName> auſſerhalb des <placeName type="locality" key="wd:Q27780047">Schloßgartens</placeName>.</ab>
@@ -3330,178 +3432,236 @@
                         ſcabri. Sili quae teretes, glabrae.</ab>
                     <ab type="additional_information_correction">Eſt potius Raphanus Raphaniſtrum, ergo
                         Braſ. Erucaſtrum delenda erit.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.050">
-                    <ref>Ad pag. 156.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 156.</ref>
+                    </head>
                     <ab type="name_reference">Siſymbrium arenoſum.</ab>
                     <ab type="location">Locus corrigatur et legatur: H. in arena auf der
                         <placeName type="locality?" ana="not_ident.">Sandbank</placeName> hinter dem <placeName type="locality?" ana="not_ident.">Elbwerder</placeName>, rarius.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.051">
-                    <ref>Ad pag. 157.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 157.</ref>
+                    </head>
                     <ab type="name_reference">Geranium paluſtre</ab>
                     <ab type="location">habitat quoque frequens in pratis jenseits der <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.052">
-                    <ref>Ad pag. 158.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 158.</ref>
+                    </head>
                     <ab type="name_reference">Geranium columbinum</ab>
                     <ab type="location">habitat etiam in ſyluaticis am Wege von <placeName type="settlement" key="wd:Q1245637">Dornburg</placeName> nach
                         <placeName type="settlement" key="wd:Q705030">Prezien</placeName>. Semel quoque inuentum am Wege in der <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>; auch hinter
                         <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName> beym Dammbruche.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.053">
-                    <ref>Ad pag. 159.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 159.</ref>
+                    </head>
                     <ab type="name_reference">Lauatera thuringiaca</ab>
                     <ab type="location">prouenit quoque in aggere am Wege von <placeName type="locality" key="wd:Q102004668">Colphus</placeName> nach
                         Mukrena zu.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.054">
-                    <ref>Ad pag. 161.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 161.</ref>
+                    </head>
                     <ab type="name_reference">Fumaria bulboſa (intermedia) Linn. Spec. Plant. p. 983.</ab>
                     <ab type="morphology">radice non caua minor.</ab>
                     <ab type="location">Habitat in decliultate monticulorum, zwiſchen der <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> nnd
                         <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName>, nahe gegen <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> hin.</ab>
                     <ab type="flowering_time">Fl. Martio, Aprili.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.055">
-                    <ref>Ad pag. 165.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 165.</ref>
+                    </head>
                     <ab type="name_reference">Lathyrus ſyluaticus</ab>
                     <ab type="location">creſcit etiam in arenoſis hinter <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.056">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Lathyrus paluſtris</ab>
                     <ab type="location">habitat frequens in paluſtribus hinter <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName> beym
                         Anfang der Hähniſchen See.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.057">
-                    <ref>Ad pag. 166.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 166.</ref>
+                    </head>
                     <ab type="name_reference">Aſtragalus Cicer</ab>
                     <ab type="location">habitat quoque in montoſis apricis hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName> und <placeName type="settlement" key="wd:Q92609888">Froſe</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.058">
-                    <ref>Ad pag. 170.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 170.</ref>
+                    </head>
                     <ab type="name_reference">Hedyſarum Onobrychis</ab>
                     <ab type="location">creſcit etiam in collibus aridis vom 
                         <placeName type="settlement" key="wd:Q141623997">neuen Kruge</placeName> nach
                         <placeName type="settlement" key="wd:Q992421">Bromby</placeName> zu.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.059">
-                    <ref>Ad pag. 174.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 174.</ref>
+                    </head>
                     <ab type="name_reference">Hypericum montanum</ab>
                     <ab type="location">habitat etiam im <placeName type="locality" key="wd:Q32018582">Friedrichsholze</placeName> bey <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.060">
-                    <ref>Ad pag. 178.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 178.</ref>
+                    </head>
                     <ab type="name_reference">Scorzonera humilis</ab>
                     <ab type="location">creſcit quoque in editis gramineis zwiſchen <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> und
                         <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>, rechter Hand bey den Birken, ehe man in den Buſch
                         kommt.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.061">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Scorzonera laciniata</ab>
                     <ab type="location">habitat etiam in montoſis apricis gramineis hinter
                         <placeName type="settlement" key="wd:Q798763">Salze</placeName> und <placeName type="settlement" key="wd:Q92609888">Froſe</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.062">
-                    <ref>Ad pag. 180.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 180.</ref>
+                    </head>
                     <ab type="name_reference">Lactuca ſaligna</ab>
                     <ab type="location">creſcit frequens ad margines agrorum, wenn man über die
                         Schafbrücke nach <placeName type="locality" key="wd:Q102004668">Colphus</placeName> gehet, auch wenn man von den 
                         <placeName type="locality?" ana="not_ident.">Windmühlen</placeName> nach
                         <placeName type="settlement" key="wd:Q138206407">Cyprena</placeName> gehet, et alibi.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.063">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Hieracium dubium</ab>
                     <ab type="location">creſcit in paſcuis zwiſchen <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> und 
                         <placeName type="settlement" key="wd:Q27479030">Friederikenberg</placeName>
                         linker Hand, et alibi.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.064">
-                    <ref>Ad pag. 187.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 187.</ref>
+                    </head>
                     <ab type="name_reference">Gnaphalium arenarium</ab>
                     <ab type="location">habitat frequens in arenoſis hinter <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.065">
-                    <ref>Ad pag. 188.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 188.</ref>
+                    </head>
                     <ab type="name_reference">Matricaria Parthenium</ab>
                     <ab type="location">prouenit ad ſepes in <placeName type="settlement" key="wd:Q688266">Weſpen</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.066">
-                    <ref>Ad pag. 190.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 190.</ref>
+                    </head>
                     <ab type="name_reference">Chryſanthemum corymboſum</ab>
                     <ab type="location">habitat frequens in montoſis apricis hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName> und <placeName type="settlement" key="wd:Q92609888">Froſe</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.067">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Chryſanthemum ſegetum</ab>
                     <ab type="location">inuentum quoque auf der <placeName type="locality?" ana="not_ident.">Sandbank</placeName> an der <geogName type="river" key="wd:Q1644">Elbe</geogName>, über
                         dem <placeName type="locality?" ana="not_ident.">Elbwerder</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.068">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Arnica montana</ab>
                     <ab type="location">creſcit frequens über <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> hin, zwiſchen Luſe und
                         Mühlsdorf, linker Hand auf den Heidewieſen;</ab>
                     <ab type="additional_information">referente conſule Thoma Serueſtano.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.069">
-                    <ref>Ad pag. 192.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 192.</ref>
+                    </head>
                     <ab type="name_reference">Solidago Virgaurea</ab>
                     <ab type="location">habitat etiam in montoſis apricis hinter <placeName type="settlement" key="wd:Q798763">Salze</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.070.1">
-                    <ref>Ad pag. 194.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 194.</ref>
+                    </head>
                     <ab type="name_reference">Tuſſilago alba</ab>
                     <ab type="location">habitat etiam in ſalicetis arenoſis an der <geogName type="river" key="wd:Q1644">Elbe</geogName> hinter
                         <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName> im <placeName type="locality?" ana="not_ident.">Treugen Buſche</placeName>, copioſe.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.071.2">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Aſter Tripolium</ab>
                     <ab type="location">habitat in foſſis et ad ſalinas bey <placeName type="settlement" key="wd:Q798763">Salze</placeName> an den Gradierwerken hin.</ab>
                     <ab type="flowering_time">Fl. Auguſto.</ab>
                     <ab type="additional_information_correction">Deleatur itaque locus natalis n. 699. Deſcriptionem vide p. 309.
                         ſub n. 1014.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.071">
-                    <ref>Ad pag. 197.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 197.</ref>
+                    </head>
                     <ab type="name_reference">Centaurea ſolſtitialis</ab>
                     <ab type="location">, poſtquam diu viſa non erat, denuo inuenta eſt in
                         agro poſt meſſem in Böſen am Wege rechter Hand.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.072">
-                    <ref>Ad pag. 199.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 199.</ref>
+                    </head>
                     <ab type="name_reference">Echinops ſphaerocephalus</ab>
                 <ab type="location">creſcit etiam ad dumeta in campis zwiſchen <placeName type="settlement" key="wd:Q102004912">Zeiz</placeName>
                         und <placeName type="settlement" key="wd:Q688266">Weſpen</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.073.1">
-                    <ref>Ad pag. 200.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 200.</ref>
+                    </head>
                     <ab type="name_reference">Viola hirta</ab>
                     <ab type="location">creſcit frequens auf der großen Wieſe gegen die 
                         <placeName type="locality" key="wd:Q141624178">Hinterlucke</placeName> zu
                         et alibi.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.073.2">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Viola montana</ab>
                     <ab type="location">habitat etiam im <placeName type="locality" key="wd:Q138011875">Kuhwerder</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.074">
-                    <ref>Ad pag. 202. 203</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 202. 203</ref>
+                    </head>
                     <ab type="name_reference">Orchis coriophora, p. 202. item Orchis vſtulata p. 203.</ab>
                     <ab type="location">creſcunt etiam in pratis humidis von <placeName type="settlement" key="wd:Q688254">Jüterglück</placeName> gegen die <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName>er Straße herunter.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.075">
-                    <ref>Ad pag. 206.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 206.</ref>
+                    </head>
                     <ab type="name_reference">Chara vulgaris</ab>
                     <ab type="location">habitat etiam in foſſis von <placeName type="locality" key="wd:Q102004668">Colphus</placeName> nach <placeName type="settlement" key="wd:Q138206407">Cyprena</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.076">
-                    <ref>Ad pag. 207.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 207.</ref>
+                    </head>
                     <ab type="name_reference">Carex leporina.</ab>
                     <ab type="location">Locus corrigatur et legatur: H. in vdis nemoroſis an der
                         <geogName type="river" key="wd:Q884667">Nuthe</geogName>, bald wenn man zur <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName> kommt, auch in arenoſis ſubhumidis am
@@ -3511,176 +3671,228 @@
                         triqueter, pedalis et ſeſquipedalis. Folia carinata, in mucronem terminata,
                         retrorſum ſcabra. Spica lanceolata, vncialis, compoſita ex ſpiculis 3 ad 8,
                         ſeſſilibus, approximatis, ſpadiceis.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.077">
-                    <ref>Ad pag. 208.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 208.</ref>
+                    </head>
                     <ab type="name_reference">Carex montana</ab>
                     <ab type="location">creſcit etiam ad dumeta beym <placeName type="locality" key="wd:Q138012027">Zeizer Buſche</placeName> auf der Seite
                         gegen <placeName type="settlement" key="wd:Q688045">Gnadau</placeName> hin.</ab>
                     <ab type="flowering_time">Iunio.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.078">
-                    <ref>Ad pag. 213.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 213.</ref>
+                    </head>
                     <ab type="name_reference">Myriophyllum verticillatum</ab>
                     <ab type="location">habitat frequens in ſtagnis hinter dem <placeName type="locality" key="wd:Q138011875">Kuhwerder</placeName>
                         gegen den Elbdamm zu.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.079">
-                    <ref>Ad pag. 214.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 214.</ref>
+                    </head>
                     <ab type="name_reference">Poterium Sanguiſorba</ab>
                 <ab type="location">frequens creſcit ad margines agrorum am 
                     <placeName type="locality?" ana="not_ident.">Mühlinger Berge</placeName>, auf der Seite gegen 
                     <placeName type="settlement" key="wd:Q707261">Kleinmühlingen</placeName> zu.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.080">
-                    <ref>Ad pag. 222.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 222.</ref>
+                    </head>
                     <ab type="name_reference">Hydrocharis Morſus ranae</ab>
                     <ab type="location">habitat etiam in den <placeName type="locality?" ana="not_ident.">Pröbsſümpfen</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.081">
-                    <ref>Ad pag. 228.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 228.</ref>
+                    </head>
                     <ab type="name_reference">Equiſetum hiemale</ab>
                 <ab type="location">habitat in alnetis an der <geogName type="river" key="wd:Q884667">Nuthe</geogName> am Ende der Allee, dem
                     <placeName type="locality?" ana="not_ident.">Schloſſe</placeName> gegen über.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.082">
-                    <ref>Ad pag. 230.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 230.</ref>
+                    </head>
                     <ab type="name_reference">Aſplenium Ruta muraria</ab>
                     <ab type="location">creſcit etiam ad muros im Garten beym Amtshofe, auch
                         auſſerhalb des <placeName type="locality" key="wd:Q27780047">Schloßgartens</placeName> an der Mauer gegen den Elbcanal zu.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.083">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Pteris aquilina</ab>
                     <ab type="location">habitat ad dumeta über <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> an der <geogName type="river" key="wd:Q1644">Elbe</geogName> hinauf gegen
                         <placeName type="settlement" key="wd:Q130270700">Steckby</placeName> hin.</ab>
                     <ab type="morphology">Creſcebat hoc loco ad altitudinem ſexpedalem, paribus ramorum
                         ternis et quaternis.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.084">
-                    <ref>Ad pag. 234.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 234.</ref>
+                    </head>
                     <ab type="name_reference">Mnium polytrichoides</ab>
                     <ab type="location">creſcit etiam in aridis auf dem <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen
                         <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.085">
-                    <ref>Ad pag. 235.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 235.</ref>
+                    </head>
                     <ab type="name_reference">Bryum pyriforme</ab>
                     <ab type="location">creſcit frequens in pratis humidis hinter der <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.086">
-                    <ref>Ad pag. 235.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 235.</ref>
+                    </head>
                     <ab type="name_reference">Bryum extinctorium</ab>
                     <ab type="location">habitat etiam in editis arenofis hinter <placeName type="settlement" key="wd:Q707261">Kleinmühlingen</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.087">
-                    <ref>Ad pag. 240.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 240.</ref>
+                    </head>
                     <ab type="name_reference">Hypnum dendroides</ab>
                     <ab type="location">prouenit frequens in ſubhumidis auf dem <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen
                         <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName> am Damme hin.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.088">
-                    <ref>Ad pag. 243.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 243.</ref>
+                    </head>
                     <ab type="name_reference">Iungermannia aſplenioides</ab>
                     <ab type="location">creſcit etiam in ſylua, locis vdis trans <geogName type="river" key="wd:Q1644">Albim</geogName>
                         linker Hand, wo man nach <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> gehet.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.089">
-                    <ref>Ad pag. 245.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 245.</ref>
+                    </head>
                     <ab type="name_reference">Iungermannia pinguis</ab>
                     <ab type="location">creſcit etiam in turfoſis et vdis alnetorum diſſeits
                         und jenſeits der <placeName type="locality" key="wd:Q139280289">Poleymühle</placeName>.</ab>
                     <ab type="morphology">Pedunculus ſaepe praelongus ad duas vncias.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.090">
-                    <ref>Ad pag. 252.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 252.</ref>
+                    </head>
                     <ab type="name_reference">Lichen ſubulatus</ab>
                     <ab type="location">habitat etiam in ſiccis ſteriliſſimis auf dem <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen
                         <placeName type="settlement" key="wd:Q102004825">Monplaiſir</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.091.1">
-                    <ref>Ad pag. 255.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 255.</ref>
+                    </head>
                     <ab type="name_reference">Tremella iuniperina</ab>
                     <ab type="location">prouenit etiam in terra ſubſabuloſa trans <geogName type="river" key="wd:Q1644">Albim</geogName> in
                         ſylua, wo man nach <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> gehet.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.091.2">
-                    <ref>Ad pag. eandem</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem</ref>
+                    </head>
                     <ab type="name_reference">Vlua inteſtinalis</ab>
                     <ab type="additional_information">natat frequens in ſuperficie aquarum, in ſtagnis am 
                         Graben unten am <placeName type="locality?" ana="not_ident.">Anger</placeName>, wo die <placeName type="locality?" ana="not_ident.">Fiſchlöcher</placeName> sind. Eſt ſubſtantia gelatinoſa, 
                         colore viridi vel fuſco, longitudine digiti et vltra. Sibi permiſſa conuoluitur 
                         in ſe, in modum tubuli. Euoluta, eſt membrana vnciam lata et vltra, admodum lubrica, 
                         vt vix digitis teneri queat. Cum Conferua bulloſa olim permutauimus.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.092">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Vlua granulata</ab>
                     <ab type="location">creſcit copioſiſſime poſt defluuium aquarum, in terra
                         limoſa, praecipue verno tempore, bey der 
                         <placeName type="locality?" ana="not_ident.">Sandbank</placeName> über dem 
                         <placeName type="locality?" ana="not_ident.">Elbwerder</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.093.1">
-                    <ref>Ad pag. 256.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 256.</ref>
+                    </head>
                     <ab type="name_reference">Conferua reticulata</ab>
                     <ab type="location">habitat etiam ad <geogName type="river" key="wd:Q1644">Albim</geogName> jenſeits des <placeName type="locality?" ana="not_ident.">Elbwerder</placeName>s, poſt
                         defluuium aquarum in limo.</ab>
                     <ab type="flowering_time">Auctumno.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.093.2">
-                    <ref>Ad pag. 257.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 257.</ref>
+                    </head>
                     <ab type="name_reference">Agaricus quinquepartitus</ab>
                     <ab type="location">creſcit quoque am Damme bey der <placeName type="locality" key="wd:Q138291720">Gurgel</placeName>.</ab>
                     <ab type="flowering_time">Octobri.</ab>
                     <ab type="morphology">In lobos vt plurimum quinque, diverſae magnitudinis, diuiditur. Color pilei albidus,
                         lamellarum etiam; ſed non albidior.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.094.1">
-                    <ref>Ad pag. 258.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 258.</ref>
+                    </head>
                     <ab type="name_reference">Agaricus cinnamomeus</ab>
                     <ab type="location">creſcit frequens ad radices tiliarum, in der
                         <placeName type="locality" key="wd:Q102004789">Lindenallee</placeName>.</ab>
                     <ab type="morphology">Eſt fungus ſatis craſſus, pileo ad 6 vncias lato, ſtipitis
                         diametro vnciali; color ſordide luteus, vt cinnamomi; pileus, praecipue
                         verſus marginem, ſquamoſus; lamellae luteo-fuſcae; volua nulla.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.094.2">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Agaricus clypeatus</ab>
                     <ab type="additional_information_correction"> eſt A. procerus Reich. Frankf. p. 156. Gled.
                         Fung. p 144. XX.</ab>
                     <ab type="location">et habitat quoque im <placeName type="locality" key="wd:Q138012027">Zeizer Buſche</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.095">
-                    <ref>Ad pag. 260.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 260.</ref>
+                    </head>
                     <ab type="name_reference">Agaricus alneus</ab>
                     <ab type="location">habitat etiam in truncis arborum caeſarum, im
                         <placeName type="locality?" ana="not_ident.">Elbwerder</placeName>.</ab>
                     <ab type="flowering_time">Nouembri.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.096">
-                    <ref>Ad pag. 261.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 261.</ref>
+                    </head>
                     <ab type="name_reference">Boletus viſcidus</ab>
                     <ab type="location">habitat quoque ad arborum truncos in ſylua trans <geogName type="river" key="wd:Q1644">Albim</geogName>, wo
                         man nach <placeName type="settlement" key="wd:Q130243991">Tochheim</placeName> gehet; ad ſalices in der <placeName type="locality" key="wd:Q138291720">Gurgel</placeName>.</ab>
                     <ab type="flowering_time">Octobri.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.097">
-                    <ref>Ad pag. 263.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 263.</ref>
+                    </head>
                     <ab type="name_reference">Phallus eſculentus</ab>
                     <ab type="location">habitat frequens im <placeName type="locality?" ana="not_ident.">Treugen Buſche</placeName> gegen die <geogName type="river" key="wd:Q1644">Elbe</geogName>; auch
                         ſelten im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.098">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Pezizae lentiferae varietas maior</ab>
                     <ab type="morphology">, nigra, laeuis, labro reuerſo,</ab>
                     <ab type="location">creſcit inter muſcos im <placeName type="locality" key="wd:Q138135858">Gnez</placeName> et alibi.</ab>
                     <ab type="flowering_time">Nouembri.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.099">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Peziza puntata</ab>
                     <ab type="location">habitat etiam in ſtercore bouino auf der großen Wieſe;</ab>
                     <ab type="additional_information">inuenta Octobri, ſed exſiccata.</ab>
@@ -3689,17 +3901,21 @@
                     <ab type="flowering_time">Aprili.</ab>
                     <ab type="morphology">Diameter fungi a linea dimidia ad duas et tres lineas.
                         Superficies niuea, punctis ſubnigris.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.100">
-                    <ref>Ad pag. 263.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 263.</ref>
+                    </head>
                     <ab type="name_reference">Peziza cyathoides</ab>
                     <ab type="location">creſcit in ramis emortuis deiectis, im <placeName type="locality?" ana="not_ident.">Elbwerder</placeName>.</ab>
                     <ab type="flowering_time">Nouembri.</ab>
                     <ab type="morphology">Magnitudo huius exemplaris erat ſeminis cannabini, et minor; color
                         flauus; figura crucibuli, modo trigona, modo tetragona.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.101">
-                    <ref>Ad pag. eandem.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem.</ref>
+                    </head>
                     <ab type="name_reference">Peziza ſcutellata</ab>
                     <ab type="location">creſcit etiam in ſteriliſſimis auf dem 
                         <placeName type="locality?" ana="not_ident.">Anger</placeName> gegen
@@ -3712,26 +3928,32 @@
                         auch auf dem Kleefeld beym <placeName type="locality" key="wd:Q138135858">Gnez</placeName>,</ab>
                     <ab type="flowering_time">Vere et Auctumno.</ab>
                     <ab type="morphology">Magnitudo ſeminis miliacei. Diſcus convexo-planus. Pilos non obſeruaui.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.102">
-                    <ref>Ad pag. 264.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 264.</ref>
+                    </head>
                     <ab type="name_reference">Clauaria Muſcoides</ab>
                     <ab type="location">creſcit etiam inter muſcos bey den <placeName type="locality" key="wd:Q27780047">Pyramiden</placeName> auſſen im
                         <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>.</ab>
                     <ab type="flowering_time">Octobri.</ab>
                     <ab type="morphology">Fruticulus duarum vnciarum, pallide luteus, valde
                         ramoſus; odore fungoſo grato, vt edulis videatur.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.103">
-                    <ref>Ad pag. 265.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 265.</ref>
+                    </head>
                     <ab type="name_reference">Mucor Embolus</ab>
                     <ab type="location">creſcit in ſalicibus putridis im <placeName type="locality?" ana="not_ident.">Elbwerder</placeName>.</ab>
                     <ab type="morphology">Altitudo ſemuncialis. Seta ſeu neruus niger, cui vtrimque adhaeret cuticula
                         tenuiſſima lineari-lanceolata, venis intertexta; ita vt nudo oculo ſtipites
                         vt totidem pennulae adpareant. Color in ſtatu ſicco nigro-fuſcus.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.104">
-                    <ref>Ad pag. 296.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 296.</ref>
+                    </head>
                     <ab type="name_reference">Mucor ſepticus</ab>
                     <ab type="location">creſcit etiam ad truncos putreſcentes, in ſylua hinter
                         <placeName type="settlement" key="wd:Q155981">Zerbſt</placeName> gegen 
@@ -3739,21 +3961,27 @@
                         <placeName type="locality" key="wd:Q138012027">Zeizer Buſche</placeName>, und im 
                         <placeName type="locality" key="wd:Q138135858">Gnez</placeName>.</ab>
                     <ab type="flowering_time">Iulio.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.105">
-                    <ref>Ad pag. 268.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 268.</ref>
+                    </head>
                     <ab type="name_reference">Crocus ſatiuus.</ab>
                     <ab type="additional_information">Adhuc tantum Crocum verum coluimus, quem multi Botanici
                         tamquam ſpecie a Croco officinali diuerſum conſiderant.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.106">
-                    <ref>Ad pag. 283.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 283.</ref>
+                    </head>
                     <ab type="name_reference">Papauer ſomniferum</ab>
                     <ab type="additional_information">in Supplemento tanquam plantam indigenam denuo
                         recenſuimus.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.107">
-                    <ref>Ad pag. 284.</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 284.</ref>
+                    </head>
                     <ab type="name_reference">Delphinium grandiflorum</ab>
                     <ab type="additional_information">colitur quidem in hortis, ſed quod hoc loco
                         indigitare voluimus, eſt aliud, ſfcilicet: DELPHINIUM (Aiacis)</ab>
@@ -3768,20 +3996,26 @@
                         qui Hyacintho deſtinatus proprie erat, et a quo flos nomen (Hyacinthus)
                         adeptus eſt. Eſt autem Delphinio Aiacis hoc AIA re vera inſcriptum, et
                         leguntur tres hae litterae mediocriter pictae in cauitate nectarii.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.108">
-                    <ref>Ad pag. 295, n. 115</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 295, n. 115</ref>
+                    </head>
                     <ab type="name_reference">Tragopogon porrifolium,</ab>
                 <ab type="location">creſcit ſponte in gramineis im <placeName type="locality" key="wd:Q27780047">Schloßgarten</placeName>
                         auſſen bey den <placeName type="locality" key="wd:Q27780047">Pyramiden</placeName>.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.109">
-                    <ref>Ad pag. 309, n. 1014</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. 309, n. 1014</ref>
+                    </head>
                     <ab type="name_reference">After acris</ab>
                     <ab type="additional_information_correction">deleatur: ab A. Tripolio enim non differt.</ab>
-                
-                <ab type="emendation" xml:id="sup.add.110">
-                    <ref>Ad pag. eandem, n. 1015</ref></ab>
+                </div>
+                <div type="additum" subtype="reference">
+                    <head>
+                        <ref>Ad pag. eandem, n. 1015</ref>
+                    </head>
                     <ab type="name_reference">Riccia criſtallina</ab>
                     <ab type="location">habitat etiam ad <geogName type="river" key="wd:Q1644">Albim</geogName> in terra limoſa beym
                         <placeName type="locality?" ana="not_ident.">Elbwerder</placeName> an der 
@@ -3790,8 +4024,9 @@
                         <placeName type="locality?" ana="not_ident.">Burgwalde</placeName>, wenn die 
                         <geogName type="river" key="wd:Q1678">Saale</geogName>
                         den fetten Schlamm zurück läßt.</ab>
-                
-            </div>
+                </div>
+</div>
+            
             <div type="indexGenerum">
                 <head>INDEX GENERUM SUPPLEMENTI</head>
                 <list>
